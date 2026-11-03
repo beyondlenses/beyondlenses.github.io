@@ -1,0 +1,693 @@
+{
+  "slug": "vancouver",
+  "title": "Vancouver",
+  "subtitle": "Rainy streets, North Shore water and a day above the snow line at Whistler.",
+  "country": "Canada",
+  "location": "Vancouver · Whistler, British Columbia",
+  "category": "Harbour, forest and snow",
+  "order": 15,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2024-02-21",
+  "endDate": "2024-02-26",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/vancouver/2024-02-22-vancouver-harbour/seaplane-and-the-north-shore.webp",
+    "alt": "A seaplane taxiing across Vancouver Harbour below cargo ships, the North Shore waterfront and cloud-wrapped mountains.",
+    "caption": "A seaplane taxiing across Vancouver Harbour below cargo ships, the North Shore waterfront and cloud-wrapped mountains.",
+    "width": 2400,
+    "height": 1600,
+    "capturedOn": "2024-02-22",
+    "location": "Vancouver Harbour"
+  },
+  "chapters": [
+    {
+      "title": "Rain along the waterfront",
+      "date": "2024-02-21",
+      "location": "Waterfront and Gastown, Vancouver",
+      "paragraphs": [
+        "Low clouds hang over the harbour. After dark, wet streets reflect the lamps and shop windows around Gastown."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/clouds-over-the-harbour.webp",
+          "alt": "Low blue-grey clouds above the harbour and distant city lights.",
+          "caption": "Low blue-grey clouds above the harbour and distant city lights.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Vancouver Harbour",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/headlights-on-a-wet-street.webp",
+          "alt": "Headlights and street lamps reflected on a wet downtown road.",
+          "caption": "Headlights and street lamps reflected on a wet downtown road.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Waterfront and Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/bus-under-the-wires.webp",
+          "alt": "A city bus passing beneath overhead wires in the blue evening light.",
+          "caption": "A city bus passing beneath overhead wires in the blue evening light.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Waterfront and Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/gastown-after-rain.webp",
+          "alt": "Lit trees and old building façades along a wet Gastown street.",
+          "caption": "Lit trees and old building façades along a wet Gastown street.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Waterfront and Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/steam-clock-in-the-street.webp",
+          "alt": "Steam rising from the Gastown Steam Clock among old street façades.",
+          "caption": "Steam rising from the Gastown Steam Clock among old street façades.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/the-steam-clock.webp",
+          "alt": "The Gastown Steam Clock and its glowing white lamps after dark.",
+          "caption": "The Gastown Steam Clock and its glowing white lamps after dark.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/lights-above-the-road.webp",
+          "alt": "Strings of lights above a wet road near the waterfront.",
+          "caption": "Strings of lights above a wet road near the waterfront.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-21",
+          "location": "Waterfront and Gastown, Vancouver"
+        }
+      ]
+    },
+    {
+      "title": "Light across the harbour",
+      "date": "2024-02-22",
+      "location": "Vancouver Harbour",
+      "paragraphs": [
+        "Seaplanes cross the water below the North Shore mountains. Cargo ships, waterfront buildings and a goose on a roof fill the quieter views."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-harbour/goose-above-the-water.webp",
+          "alt": "A Canada goose standing on a roof edge against blue water.",
+          "caption": "A Canada goose standing on a roof edge against blue water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-22",
+          "location": "Vancouver Harbour"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-harbour/ships-below-the-north-shore.webp",
+          "alt": "Cargo ships and North Shore buildings beneath mountains and sunlit clouds.",
+          "caption": "Cargo ships and North Shore buildings beneath mountains and sunlit clouds.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-22",
+          "location": "Vancouver Harbour",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-harbour/warm-light-on-the-waterfront.webp",
+          "alt": "Warm light on waterfront apartments below a dark mountain and cloud.",
+          "caption": "Warm light on waterfront apartments below a dark mountain and cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-22",
+          "location": "Vancouver Harbour"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-harbour/seaplane-and-cranes.webp",
+          "alt": "A small seaplane facing the camera with harbour cranes and mountains beyond.",
+          "caption": "A small seaplane facing the camera with harbour cranes and mountains beyond.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-22",
+          "location": "Vancouver Harbour"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-harbour/pink-cloud-over-the-hills.webp",
+          "alt": "A pink cloud above wooded hills and the industrial waterfront.",
+          "caption": "A pink cloud above wooded hills and the industrial waterfront.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-22",
+          "location": "Vancouver Harbour"
+        }
+      ]
+    },
+    {
+      "title": "Under the forest canopy",
+      "date": "2024-02-23",
+      "location": "Forest trails, Vancouver area",
+      "paragraphs": [
+        "Tall trunks rise above fern-covered ground. The path passes roots, a green pool and occasional openings towards the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/trunks-above-the-ferns.webp",
+          "alt": "Tall straight tree trunks rising from a fern-covered forest slope.",
+          "caption": "Tall straight tree trunks rising from a fern-covered forest slope.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/fern-lined-path.webp",
+          "alt": "A walker on a narrow forest path beneath tall trunks and green undergrowth.",
+          "caption": "A walker on a narrow forest path beneath tall trunks and green undergrowth.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/looking-into-the-canopy.webp",
+          "alt": "Green branches and tall trunks opening towards the pale sky.",
+          "caption": "Green branches and tall trunks opening towards the pale sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/walking-below-the-trunks.webp",
+          "alt": "A walker beneath tall forest trees and tangled roots.",
+          "caption": "A walker beneath tall forest trees and tangled roots.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/light-between-the-trees.webp",
+          "alt": "A forest path between large trunks catching patches of daylight.",
+          "caption": "A forest path between large trunks catching patches of daylight.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/city-beyond-the-canopy.webp",
+          "alt": "A hazy city and coast beyond the forest canopy and an overhanging branch.",
+          "caption": "A hazy city and coast beyond the forest canopy and an overhanging branch.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/clearing-between-the-hills.webp",
+          "alt": "A power-line clearing between wooded hills beneath a cloudy sky.",
+          "caption": "A power-line clearing between wooded hills beneath a cloudy sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/green-pool-below-the-ferns.webp",
+          "alt": "A vivid green pool below ferns and the forest floor.",
+          "caption": "A vivid green pool below ferns and the forest floor.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-23",
+          "location": "Forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-23-forest-trails/quiet-tree-lined-road.webp",
+          "alt": "A quiet residential road bordered by tall trees.",
+          "caption": "A quiet residential road bordered by tall trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-23",
+          "location": "Vancouver area"
+        }
+      ]
+    },
+    {
+      "title": "A lake among the trees",
+      "date": "2024-02-25",
+      "location": "Lake and forest trails, Vancouver area",
+      "paragraphs": [
+        "The trail follows the water through dense evergreens. Fallen timber, a wooden bridge and bare trunks interrupt the reflections."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-25-lake-and-forest/trail-beside-the-lake.webp",
+          "alt": "A trail beside a lake seen between straight forest trunks.",
+          "caption": "A trail beside a lake seen between straight forest trunks.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Lake and forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-lake-and-forest/fallen-timber-on-the-water.webp",
+          "alt": "A large fallen trunk floating near an evergreen-lined shore.",
+          "caption": "A large fallen trunk floating near an evergreen-lined shore.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Lake and forest trails, Vancouver area",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-lake-and-forest/wooden-bridge-in-the-forest.webp",
+          "alt": "A wooden footbridge crossing through dense green forest.",
+          "caption": "A wooden footbridge crossing through dense green forest.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Lake and forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-lake-and-forest/weathered-stump.webp",
+          "alt": "A tall weathered tree stump beside the forest trail.",
+          "caption": "A tall weathered tree stump beside the forest trail.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2024-02-25",
+          "location": "Lake and forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-lake-and-forest/bare-trunks-in-the-lake.webp",
+          "alt": "Bare dead tree trunks standing in still lake water.",
+          "caption": "Bare dead tree trunks standing in still lake water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Lake and forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-lake-and-forest/resting-at-the-water.webp",
+          "alt": "A person resting on a fallen log at the lake's edge.",
+          "caption": "A person resting on a fallen log at the lake's edge.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Lake and forest trails, Vancouver area"
+        }
+      ]
+    },
+    {
+      "title": "Along a misty inlet",
+      "date": "2024-02-25",
+      "location": "Inlet walks, Vancouver area",
+      "paragraphs": [
+        "Cloud clings to the wooded slopes above the water. Boats, shoreline houses and a small beach appear between the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-25-inlet-walks/marina-below-the-clouds.webp",
+          "alt": "Moored boats below dark mountains and low cloud, seen from a waterside park.",
+          "caption": "Moored boats below dark mountains and low cloud, seen from a waterside park.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Inlet walks, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-inlet-walks/houses-across-the-inlet.webp",
+          "alt": "Shoreline houses across an inlet framed by evergreen branches.",
+          "caption": "Shoreline houses across an inlet framed by evergreen branches.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Inlet walks, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-inlet-walks/mist-on-the-mountainside.webp",
+          "alt": "Mist caught on a wooded mountainside above the inlet.",
+          "caption": "Mist caught on a wooded mountainside above the inlet.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Inlet walks, Vancouver area",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-inlet-walks/water-between-the-trees.webp",
+          "alt": "A broad inlet framed by tall trees at a viewpoint.",
+          "caption": "A broad inlet framed by tall trees at a viewpoint.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Inlet walks, Vancouver area",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-inlet-walks/beach-and-marina.webp",
+          "alt": "A log and grass beside a small beach, with boats and mountains beyond.",
+          "caption": "A log and grass beside a small beach, with boats and mountains beyond.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Inlet walks, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-inlet-walks/house-and-the-dog-bus.webp",
+          "alt": "A Tudor-style house and a dog-decorated bus beside a picket fence.",
+          "caption": "A Tudor-style house and a dog-decorated bus beside a picket fence.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Vancouver area"
+        }
+      ]
+    },
+    {
+      "title": "Brick streets and painted lanes",
+      "date": "2024-02-25",
+      "location": "Downtown Vancouver",
+      "paragraphs": [
+        "Old shopfronts and brick buildings sit below newer towers. Narrow service alleys lead to a bookshop and a brightly painted lane."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/old-shopfronts.webp",
+          "alt": "Old pale façades and shopfronts below bare street trees.",
+          "caption": "Old pale façades and shopfronts below bare street trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/brick-service-alley.webp",
+          "alt": "A narrow brick service alley with graffiti and bins.",
+          "caption": "A narrow brick service alley with graffiti and bins.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/stone-monument-in-the-plaza.webp",
+          "alt": "A stone column monument in a downtown plaza.",
+          "caption": "A stone column monument in a downtown plaza.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/red-brick-corner.webp",
+          "alt": "Red-brick corner buildings beneath bare trees.",
+          "caption": "Red-brick corner buildings beneath bare trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/street-and-the-crane.webp",
+          "alt": "A downtown street beneath overhead wires, with a crane in the distance.",
+          "caption": "A downtown street beneath overhead wires, with a crane in the distance.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/macleods-books.webp",
+          "alt": "Pedestrians outside the MacLeod's Books shopfront.",
+          "caption": "Pedestrians outside the MacLeod's Books shopfront.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/pink-and-yellow-lane.webp",
+          "alt": "A narrow lane painted bright pink and yellow.",
+          "caption": "A narrow lane painted bright pink and yellow.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-downtown-vancouver/old-brick-and-glass.webp",
+          "alt": "Historic brick buildings and glass towers along a street at dusk.",
+          "caption": "Historic brick buildings and glass towers along a street at dusk.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-25",
+          "location": "Downtown Vancouver",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Snow and cloud at Whistler",
+      "date": "2024-02-26",
+      "location": "Whistler Blackcomb",
+      "paragraphs": [
+        "Skiers move between the lifts and lodge in low cloud. Clearer openings reveal forested valleys, snowy ridges and gondolas above the slopes."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/lifts-in-the-cloud.webp",
+          "alt": "A snowy lift slope and mountain buildings disappearing into cloud.",
+          "caption": "A snowy lift slope and mountain buildings disappearing into cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/snowboarder-on-the-slope.webp",
+          "alt": "A snowboarder crossing a broad white slope.",
+          "caption": "A snowboarder crossing a broad white slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/outside-the-lodge.webp",
+          "alt": "Skiers and snowboarders gathered outside a mountain lodge.",
+          "caption": "Skiers and snowboarders gathered outside a mountain lodge.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/skiers-below-the-chairlift.webp",
+          "alt": "Skiers moving below a chairlift on a snowy slope.",
+          "caption": "Skiers moving below a chairlift on a snowy slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/mountain-trail-signs.webp",
+          "alt": "Mountain signs pointing towards Pony Trail, Paleface, the T-bars and Peak Express.",
+          "caption": "Mountain signs pointing towards Pony Trail, Paleface, the T-bars and Peak Express.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/valley-in-the-cloud.webp",
+          "alt": "A snowy valley fading into thick cloud.",
+          "caption": "A snowy valley fading into thick cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/roundhouse-and-the-gondola.webp",
+          "alt": "Skiers outside Roundhouse Lodge beside the blue PEAK 2 PEAK terminal.",
+          "caption": "Skiers outside Roundhouse Lodge beside the blue PEAK 2 PEAK terminal.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Roundhouse Lodge, Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/snow-on-the-ridge.webp",
+          "alt": "Snow-covered rocks and trees along a mountain ridge.",
+          "caption": "Snow-covered rocks and trees along a mountain ridge.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/trees-in-the-snow.webp",
+          "alt": "Dark evergreen trees below a snowy valley in low cloud.",
+          "caption": "Dark evergreen trees below a snowy valley in low cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/at-the-viewing-terrace.webp",
+          "alt": "A visitor beside the glass of a mountain viewing terrace in the snow.",
+          "caption": "A visitor beside the glass of a mountain viewing terrace in the snow.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/a-smile-in-the-snow.webp",
+          "alt": "A smiling visitor wearing glasses in falling snow.",
+          "caption": "A smiling visitor wearing glasses in falling snow.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/light-over-the-forested-valley.webp",
+          "alt": "Light breaking through cloud above a deep forested mountain valley.",
+          "caption": "Light breaking through cloud above a deep forested mountain valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/gondola-above-the-slope.webp",
+          "alt": "Gondola cars above a snowy mountain slope.",
+          "caption": "Gondola cars above a snowy mountain slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/sunlight-on-the-mountainside.webp",
+          "alt": "A patch of sunlight across a mountainside streaked with snow.",
+          "caption": "A patch of sunlight across a mountainside streaked with snow.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/cables-across-the-valley.webp",
+          "alt": "Gondola cables crossing a snowy ridge and a forested valley.",
+          "caption": "Gondola cables crossing a snowy ridge and a forested valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/olympic-rings-in-the-snow.webp",
+          "alt": "Three visitors beside Olympic rings with snowy mountains behind.",
+          "caption": "Three visitors beside Olympic rings with snowy mountains behind.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/tables-at-the-slope.webp",
+          "alt": "Outdoor tables and umbrellas beside the village ski slope.",
+          "caption": "Outdoor tables and umbrellas beside the village ski slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Village"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/red-jacket-on-the-slope.webp",
+          "alt": "A skier in a red jacket below lifts and a forested slope.",
+          "caption": "A skier in a red jacket below lifts and a forested slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        }
+      ]
+    },
+    {
+      "title": "Back towards the coast",
+      "date": "2024-02-26",
+      "location": "Whistler–Vancouver route",
+      "paragraphs": [
+        "The return journey ends with low sunlight on the water and orange cloud above the coastal mountains."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-26-return-to-the-coast/sunlight-on-the-inlet.webp",
+          "alt": "Low sunlight reflected on a broad inlet between mountains and foreground trees.",
+          "caption": "Low sunlight reflected on a broad inlet between mountains and foreground trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler–Vancouver route",
+          "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-return-to-the-coast/orange-cloud-above-the-trees.webp",
+          "alt": "An orange cloud above bare trees and a tall building.",
+          "caption": "An orange cloud above bare trees and a tall building.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler–Vancouver route"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-return-to-the-coast/last-light-on-the-water.webp",
+          "alt": "An orange horizon above open water and distant mountains, with boats in the foreground.",
+          "caption": "An orange horizon above open water and distant mountains, with boats in the foreground.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler–Vancouver route",
+          "wide": true
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Vancouver",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "labelPosition": [
+      160,
+      300
+    ]
+  }
+}

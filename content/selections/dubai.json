@@ -1,0 +1,3164 @@
+{
+  "trip": "dubai",
+  "sourceDirectoryHint": "../dumps/dubai",
+  "sourceCollection": "dubai",
+  "reviewedImageCount": 389,
+  "fullImageReviewCount": 389,
+  "decodedImageCount": 389,
+  "corruptImageCount": 0,
+  "shortlistedImageCount": 153,
+  "selectedImageCount": 94,
+  "omittedImageCount": 295,
+  "videoFileCount": 6,
+  "rawFileCount": 0,
+  "reviewScope": "All 389 JPEGs inventoried with full-decode attempts and chronological review in 5 contact sheets; 389 decoded successfully. Shortlisted candidates reviewed again at up to 492 pixels, with the cover at 1600 pixels. Corrupt images are explicitly excluded.",
+  "dateSource": "Camera-local EXIF DateTimeOriginal and OffsetTimeOriginal. All selected city-walk photos record +04:00 on 28 December 2023; pre-arrival India/flight photographs and next-day outbound frames are omitted.",
+  "captureDateSources": {
+    "EXIF DateTimeOriginal": 95
+  },
+  "locationNotes": [
+    "Visible landmarks, readable signs and capture order establish places; Dubai GPS supports its neighbourhoods. Exact original GPS is not copied into the manifest or published derivatives.",
+    "Vancouver originals lack usable GPS. Unidentified forest trails, lake and inlet use broader Vancouver-area labels; the signed Whistler mountain scenes are labelled Whistler Blackcomb.",
+    "Camera-local EXIF DateTimeOriginal and OffsetTimeOriginal. All selected city-walk photos record +04:00 on 28 December 2023; pre-arrival India/flight photographs and next-day outbound frames are omitted.",
+    "No itinerary or completed source archive for this collection was present. Existing extracted originals were reviewed without extraction or renaming.",
+    "Originals, videos, private travel records and review sheets remain outside the website and R2. Only selected metadata-free WebP derivatives are exported."
+  ],
+  "sourceArchiveValidation": null,
+  "locationReferences": [
+    "https://www.visitdubai.com/explore-dubai/dubai-neighbourhoods/downtown-dubai",
+    "https://www.visitdubai.com/places-to-visit/museum-of-the-future",
+    "https://www.visitdubai.com/en/places-to-visit/jumeirah-mosque",
+    "https://www.visitdubai.com/en/places-to-visit/dubai-old-town/al-fahidi-historical-neighbourhood",
+    "https://www.visitdubai.com/articles/old-meets-new-at-al-seef-district",
+    "https://www.visitdubai.com/en/-/media/Images/pdf/2023/dubai-historic-district-map/dubai-historic-district-map-en.pdf"
+  ],
+  "criteria": [
+    "Choose distinct clear landscapes, architecture, interiors, wildlife, market details and candid daily life; compare bursts and avoid padding limited locations.",
+    "Group chronologically by actual local capture date and supported location; use broader labels where the exact site is uncertain.",
+    "Keep each cover once in its album and daily count, without repeating it in the gallery.",
+    "Preserve original framing and colour, correct EXIF orientation, omit EXIF/XMP, and export quality-84 WebP at 2000 pixels or 2400 for the cover.",
+    "Local people, crowds and some personal photographs are allowed. peoplePhotoSources is a conservative list for later review without identifying or matching faces."
+  ],
+  "dailyCounts": {
+    "2023-12-28": 94
+  },
+  "chapterCounts": [
+    {
+      "date": "2023-12-28",
+      "location": "Dubai Metro and Dubai Mall",
+      "galleryCount": 9
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Downtown Dubai",
+      "galleryCount": 13
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Jumeirah, Dubai",
+      "galleryCount": 7
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Jumeirah coast, Dubai",
+      "galleryCount": 7
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Jumeirah Mosque, Dubai",
+      "galleryCount": 3
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Bur Dubai",
+      "galleryCount": 7
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "galleryCount": 13
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Al Seef, Dubai",
+      "galleryCount": 9
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Al Seef, Dubai",
+      "galleryCount": 12
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Dubai Creek",
+      "galleryCount": 7
+    },
+    {
+      "date": "2023-12-28",
+      "location": "Deira and Dubai International Airport",
+      "galleryCount": 6
+    }
+  ],
+  "omissionReasons": [
+    "Repeated scenes and near-identical bursts, weaker framing, blurred or badly exposed frames, and most posed portraits.",
+    "Routine transport logistics, long flight sequences and private travel documents.",
+    "Videos are outside the selected still-photo essay. Corrupt JPEGs are preserved but never exported."
+  ],
+  "omittedPhotos": [
+    {
+      "source": "PXL_20231228_033652495.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_033709630.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_034710404.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_034712831.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_060041424.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_090636379.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_093748910.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_093751857.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_093752946.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082510167.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082513749.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082541564.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082548289.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082712200.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082716768.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082736417.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082743287.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082746457.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082749524.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082753334.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082918847.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082921862.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_082925223.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083030475.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083034748.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083038060.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083043692.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083051541.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083142379.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083146820.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083154209.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083157695.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083201490.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083249850.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083254125.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083445334.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083452555.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083519159.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083521021.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083526860.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083701585.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083709745.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_083823036.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084015202.MP.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084020164.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084103881.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084108222.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084115508.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084238037.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084242714.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084343689.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084420501.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084430724.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084437710.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084525826.MP.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084603421.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084606072.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084610259.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084612346.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084613889.MP.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084616672.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084619712.MP.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084625147.MP.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084629632.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084633004.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084640537.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084641945.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084644906.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084646964.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084649412.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_084717147.MP.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_101910844.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_102113529.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_102116109.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_104012955.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104059996.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104104500.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104256176.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104301969.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104344147.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104409987.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_104509645.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105255386.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105352975.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105359831.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105421034.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105552487.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105602261.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105705155.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105826565.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_105833736.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110323342.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110441729.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110449032.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110458349.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110500870.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110543502.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110550484.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110716350.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110718947.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110746969.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110906892.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_110911313.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111232798.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111239815.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111243336.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111530368.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111540135.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111552495.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_111914807.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_112149200.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_112151797.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113048400.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113050981.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113123128.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113128794.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113201360.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113226387.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113230275.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_113917444.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_114840292.jpg",
+      "reason": "Near-duplicate full-height view of the Burj Khalifa; the clearer earlier view is selected."
+    },
+    {
+      "source": "PXL_20231228_115913791.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_120335113.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_120336780.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_120338100.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_120350903.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_120511198.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_120511733.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_122936449.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_124025268.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_124039196.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_124311135.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_124314276.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125344800.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125347164.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125535592.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125538328.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125546073.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125549056.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125631994.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_125833297.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130040137.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130056253.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130208277.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130420621.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130441004.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130611323.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130706577.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130710503.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130745243.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130853304.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130856271.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130900416.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130904066.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130908917.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_130915491.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_131052642.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_131054600.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_131511774.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_131514040.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_131517925.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132257150.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132406964.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132428539.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132550786.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132554127.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132751280.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132909154.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_132941546.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133221257.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133312554.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133435335.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133523332.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133549576.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133637660.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133643215.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133654199.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133655984.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133657225.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133658949.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133954573.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_133958505.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_134004256.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_134010531.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_134016714.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_134230757.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_134233692.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_134244997.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_142027073.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_142101195.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_142154529.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_142438724.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_142809079.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143021683.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143033449.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143058464.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143127925.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143301302.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143309817.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143323326.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143349161.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143505156.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143506424.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143509958.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143631982.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143633986.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143908336.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_143915518.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144319251.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144321108.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144540241.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144550349.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144642651.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144656732.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144728559.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144818716.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144820216.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_144955364.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145036170.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145042721.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145052046.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145255765.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145500006.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145618731.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145756005.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145803758.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145812598.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_145820450.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_150554823.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_150843146.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_150940050.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_150945223.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151036964.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151041495.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151112660.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151134800.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151247469.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151249035.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151309301.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151313260.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151536411.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151640587.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151647830.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151750809.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151819607.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151858416.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_151943526.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152020280.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152029172.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152115600.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152131426.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152142216.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152156878.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152220388.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152236293.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152403403.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152452467.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152731277.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152738394.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152814574.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_152847087.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_153006679.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_153014012.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_153019211.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_153043426.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_154054053.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155246393.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155836867.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155840415.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155857955.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155910449.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155913666.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_155919984.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160100201.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160250556.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160254691.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160257812.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160354353.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160404094.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160425459.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_160556492.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_161535500.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_163946898.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_164005256.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_164007175.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_164808935.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_165152354.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_165155505.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_175039869.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "PXL_20231228_175244111.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_181024762.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_211211389.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_215444561.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_215451973.NIGHT.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    },
+    {
+      "source": "PXL_20231228_215457755.NIGHT.jpg",
+      "reason": "Airport or flight sequence outside the selected Dubai city walk, repeated transport views, or private boarding/travel documentation; omitted after visual review."
+    }
+  ],
+  "excludedPhotos": [],
+  "photos": [
+    {
+      "source": "PXL_20231228_113045873.jpg",
+      "sourceSha256": "8a53f5949a527a5596568b36725eb1083c606fbb76bfb381bad3501c4fb1a47f",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/souk-al-bahar-and-burj-lake.webp",
+      "role": "cover",
+      "maxEdge": 2400,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:30:45",
+      "capturedAtLocal": "2023-12-28T15:30:45",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Burj Lake, Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Representative cover checked at 1600 pixels; used once and excluded from the gallery."
+    },
+    {
+      "source": "PXL_20231228_102322300.MP.jpg",
+      "sourceSha256": "d7ac2b5f743a08f21f81467b124712d5f023092e15b1809b2e5bd03dec5abc88",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/museum-from-the-train.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T14:23:22",
+      "capturedAtLocal": "2023-12-28T14:23:22",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Metro",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_103639560.jpg",
+      "sourceSha256": "d353a20e9cc28c7dd99bc26c8d4fb4c9bb0baf057d968f58e386815e6c91c7bc",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/glazed-moving-walkway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T14:36:39",
+      "capturedAtLocal": "2023-12-28T14:36:39",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Metro and Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_104252442.jpg",
+      "sourceSha256": "6b816ecc96105985461c54912a076385beac14d79f9242ecdd1dbb69081862db",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/glass-roof-atrium.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T14:42:52",
+      "capturedAtLocal": "2023-12-28T14:42:52",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_104615707.jpg",
+      "sourceSha256": "78c56b14685342b2802c42b88ec7cae47d932111d7115ddeb81dfd10f15e6db3",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/escalators-below-the-roof.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T14:46:15",
+      "capturedAtLocal": "2023-12-28T14:46:15",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_105356725.jpg",
+      "sourceSha256": "8e0898817f9ecaa1c27b26094f09865c61d9d23972e9d874060d89bc4b715369",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/hanging-gold-decorations.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T14:53:56",
+      "capturedAtLocal": "2023-12-28T14:53:56",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_105650449.jpg",
+      "sourceSha256": "6d81cbdc138be7b3ba4709478efd7817ab8ea9ede86a5a783d01a5b25cc14528",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/screen-and-chandelier.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T14:56:50",
+      "capturedAtLocal": "2023-12-28T14:56:50",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_110041511.jpg",
+      "sourceSha256": "84422856d4da35d86832feffe3cf315b9acd3f6448ab7416bad96f73e9c7e7f9",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/red-christmas-display.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:00:41",
+      "capturedAtLocal": "2023-12-28T15:00:41",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_110231325.jpg",
+      "sourceSha256": "162076a609eda1db31970755572cc1839671be7cd5db73c2651d36c637bf90b7",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/blue-and-gold-arcades.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:02:31",
+      "capturedAtLocal": "2023-12-28T15:02:31",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_110317564.MP.jpg",
+      "sourceSha256": "edec8db7eddf0aae92746abe3f6bd123b5006cdfeb282865510c9039ab5bb1c2",
+      "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/sweet-shop-and-gold-ceiling.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:03:17",
+      "capturedAtLocal": "2023-12-28T15:03:17",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Mall",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_110742678.jpg",
+      "sourceSha256": "5069e9dd9740e19fa3a936265ccb41a6ecf99590262d69dcce8c63f2b6a6629b",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/burj-khalifa-against-blue.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:07:42",
+      "capturedAtLocal": "2023-12-28T15:07:42",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_111009367.jpg",
+      "sourceSha256": "0c2c0c67d58ebcd92042ee012cdd7671f23eaa75732d9533f82bfc962e1f8969",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/souk-al-bahar-entrance.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:10:09",
+      "capturedAtLocal": "2023-12-28T15:10:09",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Souk Al Bahar, Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_111033668.jpg",
+      "sourceSha256": "9f4536b68693acc7e4471b7f44b971b3a29ed524f3aaa0c227e77bdf6323ce84",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/sand-coloured-gateways.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:10:33",
+      "capturedAtLocal": "2023-12-28T15:10:33",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Burj Lake, Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_111526858.jpg",
+      "sourceSha256": "b5f6d2da4d7d7fed91ecf88032a1ecf25cd564072bc132899523582e82b7dd05",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/turquoise-water-and-towers.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:15:26",
+      "capturedAtLocal": "2023-12-28T15:15:26",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Burj Lake, Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_111652486.jpg",
+      "sourceSha256": "51a760f4446a9fbdd1206714046aa4ff23f50e1c55de87bc031964b5ba3b0e6e",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/steps-to-the-souk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:16:52",
+      "capturedAtLocal": "2023-12-28T15:16:52",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Souk Al Bahar, Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_111901928.jpg",
+      "sourceSha256": "94d4d5425ce6c2925a40fb161239176b02624c8db66857e98da4266f153e9f90",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/quiet-courtyard-pool.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:19:01",
+      "capturedAtLocal": "2023-12-28T15:19:01",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_111937139.jpg",
+      "sourceSha256": "119ac4d966622b65139a8604e37558c16ad4b5bd2ee6311ef8f23ade8f33336b",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/burj-through-the-arcade.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:19:37",
+      "capturedAtLocal": "2023-12-28T15:19:37",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_112448835.jpg",
+      "sourceSha256": "29eb26e70409bda9edf6e68ee6ee607a096b0aff43a1d279dc2ecedf37437b68",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/curved-mall-facade.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:24:48",
+      "capturedAtLocal": "2023-12-28T15:24:48",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_113100839.jpg",
+      "sourceSha256": "b741a725aad135a8e713e22bb2b4dcb1bb292c31d61a7b871da62f1cd15805d7",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/rings-above-the-walkway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:31:00",
+      "capturedAtLocal": "2023-12-28T15:31:00",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_114214386.jpg",
+      "sourceSha256": "36b16c914ee1ba58477300c70d1ab996136501ff8abf459089f6346f660c02f6",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/trees-in-the-plaza.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:42:14",
+      "capturedAtLocal": "2023-12-28T15:42:14",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_115219147.jpg",
+      "sourceSha256": "df3c74d0f5c9318d97ee3469d053615a44c2412daed953a2543a8cd4af2a9b84",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/projecting-balconies.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:52:19",
+      "capturedAtLocal": "2023-12-28T15:52:19",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_115254498.jpg",
+      "sourceSha256": "01e9d34c5d607bbcb1aee22aac9a9de86249c9b5a41b52d7318f06a2e40f0b40",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/bronze-insect-sculptures.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T15:52:54",
+      "capturedAtLocal": "2023-12-28T15:52:54",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_120350153.jpg",
+      "sourceSha256": "5fa07eabdda96691d01b41f0aa9ea6c17adc50d310f86b9b4955f585c80ccd7c",
+      "src": "/photos/dubai/2023-12-28-downtown-dubai/road-below-the-walkway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T16:03:50",
+      "capturedAtLocal": "2023-12-28T16:03:50",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Downtown Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_124023212.jpg",
+      "sourceSha256": "45f33c7fbafd5eb99e1a46a6495a1165a28bc04ae40000c6f1dce330639169b0",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/red-bunting-over-the-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T16:40:23",
+      "capturedAtLocal": "2023-12-28T16:40:23",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_125541065.jpg",
+      "sourceSha256": "d69c8b2356a776f260b744c55a355d2c739e66c1c40538e414513bb0ad02d5b0",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/bougainvillea-by-the-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T16:55:41",
+      "capturedAtLocal": "2023-12-28T16:55:41",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_125829472.MP.jpg",
+      "sourceSha256": "57168da46ebb1bc41c81c99706fcf8e5b457bab4d6c4d2d98a78b4801f6b6ac1",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/white-walls-and-a-quiet-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T16:58:29",
+      "capturedAtLocal": "2023-12-28T16:58:29",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_130054868.jpg",
+      "sourceSha256": "09bdf4b7d23ac8d437afcaeb4dc262d2e73031cbad5bea5968a1e870c6258db3",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/cat-on-the-pavement.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:00:54",
+      "capturedAtLocal": "2023-12-28T17:00:54",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_130203963.MP.jpg",
+      "sourceSha256": "597b01b0849b13ad73ad59d08563c0e8a5872fc312f25d216bc17bfe9915212d",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/warm-light-on-the-shops.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:02:03",
+      "capturedAtLocal": "2023-12-28T17:02:03",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_130439504.MP.jpg",
+      "sourceSha256": "f4d5ba3c0bc1b81b2ba0723838779993e3b41b5413be0288cf245f0f0b8ddd7f",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/whitewashed-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:04:39",
+      "capturedAtLocal": "2023-12-28T17:04:39",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_130609083.jpg",
+      "sourceSha256": "ca0ea6d918cef39dbadcf0a20865aff6b135dc79ec5323ef4320f2bd909174be",
+      "src": "/photos/dubai/2023-12-28-jumeirah-streets/canopy-and-palm-shadows.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:06:09",
+      "capturedAtLocal": "2023-12-28T17:06:09",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_130913153.jpg",
+      "sourceSha256": "290438d08adb271547981395d0318d8a065c5d186096b39248663fda6413be5d",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/visitors-on-the-sand.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:09:13",
+      "capturedAtLocal": "2023-12-28T17:09:13",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_131844835.jpg",
+      "sourceSha256": "92fe58c29771de71d0a2cff891d77cc17a3373f395365162dfb87533fc7c92ff",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/water-and-the-breakwater.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:18:44",
+      "capturedAtLocal": "2023-12-28T17:18:44",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_132405080.jpg",
+      "sourceSha256": "d3778aaddc49c00d7a68668bbfd5532994de6d12e0f192cd5d7b72528e33ccd9",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/palm-at-sunset.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:24:05",
+      "capturedAtLocal": "2023-12-28T17:24:05",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_132411965.jpg",
+      "sourceSha256": "59582808e22fd20a4cd4c8a1a7acaed425c7d74b1200a8add68ee11dd052c441",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/wooden-beach-huts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:24:11",
+      "capturedAtLocal": "2023-12-28T17:24:11",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_132427475.jpg",
+      "sourceSha256": "8a7dfae8a288b4c4c77fd4d84fce8c57aef58586203a026bf5c93f1700d92042",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/curving-coastal-walk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:24:27",
+      "capturedAtLocal": "2023-12-28T17:24:27",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_132549421.jpg",
+      "sourceSha256": "c791262321635552d72cfd515054a0d083ba3061ba6a6d4d59c5bd96d0e696e1",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/palms-in-the-evening-light.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:25:49",
+      "capturedAtLocal": "2023-12-28T17:25:49",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_132921645.jpg",
+      "sourceSha256": "6a3cbd893d08bbb5b959080717ba826ef3471308422784f1767228533a318911",
+      "src": "/photos/dubai/2023-12-28-jumeirah-coast/curved-white-facades.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:29:21",
+      "capturedAtLocal": "2023-12-28T17:29:21",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah coast, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_133926539.jpg",
+      "sourceSha256": "d1633f2727de0f4f9ab78ae116199fcb5daee62a0eaaaf88660cb8618cec1283",
+      "src": "/photos/dubai/2023-12-28-jumeirah-mosque/dome-and-portico.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:39:26",
+      "capturedAtLocal": "2023-12-28T17:39:26",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah Mosque, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_133949947.jpg",
+      "sourceSha256": "f9255e8b6d936c53dfd103479649679836a65f3cf00d7df21e56cdd3fdfa351b",
+      "src": "/photos/dubai/2023-12-28-jumeirah-mosque/mosque-at-dusk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:39:49",
+      "capturedAtLocal": "2023-12-28T17:39:49",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah Mosque, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_134243750.jpg",
+      "sourceSha256": "81661c7a62d0de05cf4309e1f323e489be6e114eebee0e77530ad9001ca68b4f",
+      "src": "/photos/dubai/2023-12-28-jumeirah-mosque/mosque-between-the-palms.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T17:42:43",
+      "capturedAtLocal": "2023-12-28T17:42:43",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Jumeirah Mosque, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_142207376.jpg",
+      "sourceSha256": "94c816fa420d915ecaac89c45e1a68dc122a6ee828630144b1455fa3c5dc0e8d",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/busy-retail-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:22:07",
+      "capturedAtLocal": "2023-12-28T18:22:07",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_142631304.NIGHT.jpg",
+      "sourceSha256": "57e57b0be73ee422dcde301b6de16ebb9a0709a49fb8547556b1f86326865868",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/purple-lit-shopping-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:26:31",
+      "capturedAtLocal": "2023-12-28T18:26:31",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_142805456.jpg",
+      "sourceSha256": "2282497a0382608c6e9624f3a2c848fa06a4db53f1abd0ea048a7d6e833b53a4",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/evening-shopping-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:28:05",
+      "capturedAtLocal": "2023-12-28T18:28:05",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_143235399.jpg",
+      "sourceSha256": "53df3d61e3c62d16f4a43a5763ec2c35c77ec082b1c3e68a49edb6caabd654a4",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/colourful-snack-counter.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:32:35",
+      "capturedAtLocal": "2023-12-28T18:32:35",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_143320177.NIGHT.jpg",
+      "sourceSha256": "06563627fe3c6b3d0ea2d6e547e3b1486b14e17ac21396932dff0a0086ed47be",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/small-night-cafe.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:33:20",
+      "capturedAtLocal": "2023-12-28T18:33:20",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_143507677.MP.jpg",
+      "sourceSha256": "d03800369a0142761d5322aeabd82c0f369a5df75f764d0b9e3a40ce468c231e",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/crowded-shopfronts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:35:07",
+      "capturedAtLocal": "2023-12-28T18:35:07",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_143912018.NIGHT.jpg",
+      "sourceSha256": "61308b44c825557923dde03504aed1012b8a05f7554ccdad1d55a28eecfd4a7e",
+      "src": "/photos/dubai/2023-12-28-bur-dubai/signs-above-the-traffic.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:39:12",
+      "capturedAtLocal": "2023-12-28T18:39:12",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Bur Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144323747.NIGHT.jpg",
+      "sourceSha256": "e766735a6023c30ab6ed300c0f67437287a459fb800e5b23d2028c13d91c739d",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/wind-tower-and-string-lights.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:43:23",
+      "capturedAtLocal": "2023-12-28T18:43:23",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144400297.NIGHT.jpg",
+      "sourceSha256": "099a576b2d6349ee390260092aeaa25c2c7517d7fabb126ac5bc613bd6fab9a2",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/entrance-below-the-tree.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:44:00",
+      "capturedAtLocal": "2023-12-28T18:44:00",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144424299.NIGHT.jpg",
+      "sourceSha256": "ba882c75716199f695f5a4c16bc2d5268f3752daeada92dc2ddb4df7887f1a34",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/pale-facade-after-dark.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:44:24",
+      "capturedAtLocal": "2023-12-28T18:44:24",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144547902.NIGHT.jpg",
+      "sourceSha256": "c749529024fd1bfceb496847c11b019839b36d668cf276aece63369114179b7a",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/lights-over-a-narrow-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:45:47",
+      "capturedAtLocal": "2023-12-28T18:45:47",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144655308.MP.jpg",
+      "sourceSha256": "3992383ee7aeaeb5c9630d29bc7e29dc7787ada8ba6801d62e3398494caa3014",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/mural-of-a-shared-meal.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:46:55",
+      "capturedAtLocal": "2023-12-28T18:46:55",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144859963.NIGHT.jpg",
+      "sourceSha256": "19274146c66ba304532ded3651a8a90cb6b1159680bad25b680d6b6b14283a71",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/closed-wooden-door.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:48:59",
+      "capturedAtLocal": "2023-12-28T18:48:59",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_144909491.NIGHT.jpg",
+      "sourceSha256": "88c4e02d1e7bb8954dffa258f1b20aeb96dcec7481398fca0de112474f1516b6",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/branch-shadows-on-the-wall.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:49:09",
+      "capturedAtLocal": "2023-12-28T18:49:09",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_145000154.NIGHT.jpg",
+      "sourceSha256": "5095b29e795cc8e4f90de8fe555625c82e49a962822d70204a8c8ae3144910d0",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/brightly-painted-benches.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:50:00",
+      "capturedAtLocal": "2023-12-28T18:50:00",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_145023238.NIGHT.jpg",
+      "sourceSha256": "bafdca121ee9ae6f6c4dbc4ac15958d1dc91d2d9c5ace846195c9b35babc5089",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/lane-and-painted-walls.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:50:23",
+      "capturedAtLocal": "2023-12-28T18:50:23",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_145210828.NIGHT.jpg",
+      "sourceSha256": "292b5dacc9667b91f2bb3512c39f816aa87f26589e5caf873904d64edf81e727",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/wind-tower-above-the-courtyard.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:52:10",
+      "capturedAtLocal": "2023-12-28T18:52:10",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_145700402.NIGHT.jpg",
+      "sourceSha256": "90fda49ae9035ab173fe8878b417e67ca0014622344090393fd82ec40b2d7b2e",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/boat-frame-in-the-courtyard.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T18:57:00",
+      "capturedAtLocal": "2023-12-28T18:57:00",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_150545010.NIGHT.jpg",
+      "sourceSha256": "cdc390c6ba69b79a916a44857040ac4428ce21aecf67c2c0dcad33ccbd61265d",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/cooking-display-and-striped-tent.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:05:45",
+      "capturedAtLocal": "2023-12-28T19:05:45",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_150610550.NIGHT.jpg",
+      "sourceSha256": "93c0f9a497af48136ec83cdb5a0b364440f9d2ee2cccae32f59d2f91294fa866",
+      "src": "/photos/dubai/2023-12-28-al-fahidi/plants-below-the-window.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:06:10",
+      "capturedAtLocal": "2023-12-28T19:06:10",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151003367.NIGHT.jpg",
+      "sourceSha256": "8566657a34884679a060ca32532d229ac2433764537a8533f5ba035af8e0afab",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/covered-market-passage.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:10:03",
+      "capturedAtLocal": "2023-12-28T19:10:03",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151053282.NIGHT.jpg",
+      "sourceSha256": "e45002cb2020a877a525b9b1f6881c9274abb7e69574aea726f787f183f810a1",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/lit-stairway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:10:53",
+      "capturedAtLocal": "2023-12-28T19:10:53",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151141871.NIGHT.jpg",
+      "sourceSha256": "69d22a0f9f38d27edd7fffe0c8fadd9b2767a0cd326f7c08347ae46c293b2248",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/ceramics-in-the-passage.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:11:41",
+      "capturedAtLocal": "2023-12-28T19:11:41",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151225243.jpg",
+      "sourceSha256": "d8285131c647410a11a5d4dab76da200cd07d6b85087090313a86ea28110cf80",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/courtyard-under-fabric.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:12:25",
+      "capturedAtLocal": "2023-12-28T19:12:25",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151323983.NIGHT.jpg",
+      "sourceSha256": "afba9628865cf9426aa0e728ddaf915d9a9f70f21c6bbb73445f0cc06bfd6df3",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/palms-and-plaster-walls.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:13:23",
+      "capturedAtLocal": "2023-12-28T19:13:23",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151400880.jpg",
+      "sourceSha256": "e8ffc7f6a3a128bb552e5dd0248b8f1541a857235785a05dcd11161e4e9ca1e6",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/red-door-under-the-arch.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:14:00",
+      "capturedAtLocal": "2023-12-28T19:14:00",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151532042.NIGHT.jpg",
+      "sourceSha256": "8869f7423aaa00df574d982b81af7ccbea294600db1fce7fc71392518c73f82f",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/passage-to-the-market.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:15:32",
+      "capturedAtLocal": "2023-12-28T19:15:32",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151628622.NIGHT.jpg",
+      "sourceSha256": "630f94dc7a3c27c0e9bb62c91dc5baae2a64f92698e17ff457dd0638093909e1",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/creek-between-the-buildings.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:16:28",
+      "capturedAtLocal": "2023-12-28T19:16:28",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_151841301.jpg",
+      "sourceSha256": "88bdc05ea974d7d1ac3c32ff906f56d97e220f3957c9d32bc19317642852e586",
+      "src": "/photos/dubai/2023-12-28-al-seef-lanes/ornamental-window-panels.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:18:41",
+      "capturedAtLocal": "2023-12-28T19:18:41",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152015346.NIGHT.jpg",
+      "sourceSha256": "8e22818ffd1d8d7a804b393f6da6f63976883c565747b3274970781d2f03c61b",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/market-under-string-lights.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:20:15",
+      "capturedAtLocal": "2023-12-28T19:20:15",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152139539.NIGHT.jpg",
+      "sourceSha256": "292de2c4c563f297657e4789daf1948a2510e77a78a4e0432d7d2b60d4d02843",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/cat-by-the-antique-shop.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:21:39",
+      "capturedAtLocal": "2023-12-28T19:21:39",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152149571.NIGHT.jpg",
+      "sourceSha256": "6ff962c68d5efba3e6d915d84c4068cf71bf3388cffe37e62b748e72d1c0d1d8",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/pots-and-old-scales.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:21:49",
+      "capturedAtLocal": "2023-12-28T19:21:49",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152206501.NIGHT.jpg",
+      "sourceSha256": "ca64e340f9bb92bbecc071e7dab953e9201c371272222ed5956c31f40e616161",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/framed-pictures.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:22:06",
+      "capturedAtLocal": "2023-12-28T19:22:06",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152217133.NIGHT.jpg",
+      "sourceSha256": "0fe18caa2227087345397a13c838d682bcd3d593bd0dc5ebca8950b57b1a82cd",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/shopkeepers-in-the-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:22:17",
+      "capturedAtLocal": "2023-12-28T19:22:17",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152226548.NIGHT.jpg",
+      "sourceSha256": "d3d4a3ef6bdb487cc5514b297969d4a5e549b00e80f43c787701611373df2335",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/brass-coffee-pots.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:22:26",
+      "capturedAtLocal": "2023-12-28T19:22:26",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152422613.NIGHT.jpg",
+      "sourceSha256": "f0ebd53815a5fe3ce3faf38d2e5fbe752107420b87398aeba4eb35eaa564c46e",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/painted-plates.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:24:22",
+      "capturedAtLocal": "2023-12-28T19:24:22",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152710674.NIGHT.jpg",
+      "sourceSha256": "8ef3a7586ef7fd90b7c4f6748e7a963058754fca6bc43bc5a1f6348cb4a8e521",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/barrels-of-spices.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:27:10",
+      "capturedAtLocal": "2023-12-28T19:27:10",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_152843120.jpg",
+      "sourceSha256": "ba14e4780a11e21c4297e8d06187c602686bf71c297e144daa8d13086ee64cca",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/coffee-under-the-red-canopy.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:28:43",
+      "capturedAtLocal": "2023-12-28T19:28:43",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_154050505.MP.jpg",
+      "sourceSha256": "570e6c9861cbc6a640b75e9a4bea762151d3b878843e5a2cf1503ebb768ffbd6",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/coffee-on-the-table.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:40:50",
+      "capturedAtLocal": "2023-12-28T19:40:50",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_155240239.jpg",
+      "sourceSha256": "1f19a8d0cfae2ed25a5eb00d88261c504b7029f9d15eebc717bc96ce9366afef",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/robes-outside-the-shop.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:52:40",
+      "capturedAtLocal": "2023-12-28T19:52:40",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_155353538.NIGHT.jpg",
+      "sourceSha256": "a23738fac6200e706a1278423b1c75040239cfcd3d8ae0c9ee4233614ef78745",
+      "src": "/photos/dubai/2023-12-28-al-seef-market/wooden-steps-in-the-market.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:53:53",
+      "capturedAtLocal": "2023-12-28T19:53:53",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Al Seef, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_155906900.jpg",
+      "sourceSha256": "d03d2663fa0d67dd729e3aeaa8e8d5defb0e7b42db22a2d84d77f23bb95fb347",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/city-lights-across-the-creek.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T19:59:06",
+      "capturedAtLocal": "2023-12-28T19:59:06",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_160056497.MP.jpg",
+      "sourceSha256": "9bf46004aa8e8758d1c7cf75160ad18430496b0855e32c54bea6a0763d9b5769",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/abra-at-the-jetty.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:00:56",
+      "capturedAtLocal": "2023-12-28T20:00:56",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_160246755.NIGHT.jpg",
+      "sourceSha256": "d9dfcaaa584961593d938c7b6a61f5a57929d46e89339c84c07ac74003f95fb4",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/wake-beside-the-bow.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:02:46",
+      "capturedAtLocal": "2023-12-28T20:02:46",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_160350384.NIGHT.jpg",
+      "sourceSha256": "d1afd98d04fe3cc60f3f8a060fff7b226ca6b747dda410da499b6c6bdc4617a7",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/passenger-abra-after-dark.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:03:50",
+      "capturedAtLocal": "2023-12-28T20:03:50",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_160422542.NIGHT.jpg",
+      "sourceSha256": "98853529d6f3edebbaa92b436609c2d60f8012409844655f60f6e71bcc9c8939",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/boats-and-mooring-posts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:04:22",
+      "capturedAtLocal": "2023-12-28T20:04:22",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_160535883.NIGHT.jpg",
+      "sourceSha256": "ce27d1bdd264f8509bfd2f432c3b27028aeb0478900e39f796c08a6581779d06",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/waterside-food-stalls.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:05:35",
+      "capturedAtLocal": "2023-12-28T20:05:35",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_160550969.NIGHT.jpg",
+      "sourceSha256": "439447b56d8db62f75c65e6fad1a43cfb7f5dab117a91ebd9b296a711b99e48c",
+      "src": "/photos/dubai/2023-12-28-dubai-creek/gangway-to-the-boats.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:05:50",
+      "capturedAtLocal": "2023-12-28T20:05:50",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai Creek",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_163953336.NIGHT.jpg",
+      "sourceSha256": "d3991505994baf547460414bab29980362be70ed260bc9854b530e7ee2d823f2",
+      "src": "/photos/dubai/2023-12-28-deira-and-airport/bus-stop-at-night.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:39:53",
+      "capturedAtLocal": "2023-12-28T20:39:53",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Deira, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_164805678.NIGHT.jpg",
+      "sourceSha256": "a431a6c115d7abb9e8fa79d874bad6239220c884f040f7080e4cf033df0a8087",
+      "src": "/photos/dubai/2023-12-28-deira-and-airport/busy-corner-shops.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:48:05",
+      "capturedAtLocal": "2023-12-28T20:48:05",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Deira, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_165113648.NIGHT.jpg",
+      "sourceSha256": "34f36cb4a1b289b1208c2a3cb7270b31c1b614559416806ea603909133c3ecb1",
+      "src": "/photos/dubai/2023-12-28-deira-and-airport/turkish-restaurant.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:51:13",
+      "capturedAtLocal": "2023-12-28T20:51:13",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Deira, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_165201120.NIGHT.jpg",
+      "sourceSha256": "6348c68c5b9c49c91ad405fad42dcfbc7530cb6414d2869503f478a11caf7366",
+      "src": "/photos/dubai/2023-12-28-deira-and-airport/pink-lit-building.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:52:01",
+      "capturedAtLocal": "2023-12-28T20:52:01",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Deira, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_165323668.NIGHT.jpg",
+      "sourceSha256": "8a4b20ea63815fc376d5bbb224e847fad21c5928acc4246b79390bf50ad202e1",
+      "src": "/photos/dubai/2023-12-28-deira-and-airport/commercial-facade-after-dark.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T20:53:23",
+      "capturedAtLocal": "2023-12-28T20:53:23",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Deira, Dubai",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    },
+    {
+      "source": "PXL_20231228_175240375.MP.jpg",
+      "sourceSha256": "906e4b449070ef7498590125fd7ec1b7f4589a583b8b925c897ce149df1a0809",
+      "src": "/photos/dubai/2023-12-28-deira-and-airport/airport-glass-lifts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-12-28",
+      "capturedAtCamera": "2023-12-28T21:52:40",
+      "capturedAtLocal": "2023-12-28T21:52:40",
+      "timeZone": "Asia/Dubai",
+      "utcOffset": "+04:00",
+      "sourceExifUtcOffset": "+04:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; the +04:00 local capture time is retained.",
+      "location": "Dubai International Airport",
+      "locationBasis": "Original GPS, visible landmarks, signs and capture order; exact original coordinates are not published.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted."
+    }
+  ],
+  "peoplePhotoSources": [
+    "PXL_20231228_102322300.MP.jpg",
+    "PXL_20231228_103639560.jpg",
+    "PXL_20231228_104252442.jpg",
+    "PXL_20231228_104615707.jpg",
+    "PXL_20231228_105356725.jpg",
+    "PXL_20231228_105650449.jpg",
+    "PXL_20231228_110041511.jpg",
+    "PXL_20231228_110231325.jpg",
+    "PXL_20231228_110317564.MP.jpg",
+    "PXL_20231228_110742678.jpg",
+    "PXL_20231228_111009367.jpg",
+    "PXL_20231228_111033668.jpg",
+    "PXL_20231228_111526858.jpg",
+    "PXL_20231228_111652486.jpg",
+    "PXL_20231228_111901928.jpg",
+    "PXL_20231228_111937139.jpg",
+    "PXL_20231228_112448835.jpg",
+    "PXL_20231228_113045873.jpg",
+    "PXL_20231228_113100839.jpg",
+    "PXL_20231228_114214386.jpg",
+    "PXL_20231228_115219147.jpg",
+    "PXL_20231228_115254498.jpg",
+    "PXL_20231228_120350153.jpg",
+    "PXL_20231228_124023212.jpg",
+    "PXL_20231228_125541065.jpg",
+    "PXL_20231228_125829472.MP.jpg",
+    "PXL_20231228_130203963.MP.jpg",
+    "PXL_20231228_130439504.MP.jpg",
+    "PXL_20231228_130609083.jpg",
+    "PXL_20231228_130913153.jpg",
+    "PXL_20231228_131844835.jpg",
+    "PXL_20231228_132405080.jpg",
+    "PXL_20231228_132411965.jpg",
+    "PXL_20231228_132427475.jpg",
+    "PXL_20231228_132549421.jpg",
+    "PXL_20231228_133926539.jpg",
+    "PXL_20231228_133949947.jpg",
+    "PXL_20231228_134243750.jpg",
+    "PXL_20231228_142207376.jpg",
+    "PXL_20231228_142631304.NIGHT.jpg",
+    "PXL_20231228_142805456.jpg",
+    "PXL_20231228_143235399.jpg",
+    "PXL_20231228_143320177.NIGHT.jpg",
+    "PXL_20231228_143507677.MP.jpg",
+    "PXL_20231228_143912018.NIGHT.jpg",
+    "PXL_20231228_144323747.NIGHT.jpg",
+    "PXL_20231228_144400297.NIGHT.jpg",
+    "PXL_20231228_144424299.NIGHT.jpg",
+    "PXL_20231228_144547902.NIGHT.jpg",
+    "PXL_20231228_144655308.MP.jpg",
+    "PXL_20231228_145000154.NIGHT.jpg",
+    "PXL_20231228_145023238.NIGHT.jpg",
+    "PXL_20231228_145210828.NIGHT.jpg",
+    "PXL_20231228_145700402.NIGHT.jpg",
+    "PXL_20231228_150545010.NIGHT.jpg",
+    "PXL_20231228_151003367.NIGHT.jpg",
+    "PXL_20231228_151053282.NIGHT.jpg",
+    "PXL_20231228_151141871.NIGHT.jpg",
+    "PXL_20231228_151225243.jpg",
+    "PXL_20231228_151323983.NIGHT.jpg",
+    "PXL_20231228_151532042.NIGHT.jpg",
+    "PXL_20231228_152015346.NIGHT.jpg",
+    "PXL_20231228_152139539.NIGHT.jpg",
+    "PXL_20231228_152149571.NIGHT.jpg",
+    "PXL_20231228_152206501.NIGHT.jpg",
+    "PXL_20231228_152217133.NIGHT.jpg",
+    "PXL_20231228_152226548.NIGHT.jpg",
+    "PXL_20231228_152422613.NIGHT.jpg",
+    "PXL_20231228_152843120.jpg",
+    "PXL_20231228_154050505.MP.jpg",
+    "PXL_20231228_155353538.NIGHT.jpg",
+    "PXL_20231228_155906900.jpg",
+    "PXL_20231228_160056497.MP.jpg",
+    "PXL_20231228_160246755.NIGHT.jpg",
+    "PXL_20231228_160350384.NIGHT.jpg",
+    "PXL_20231228_160422542.NIGHT.jpg",
+    "PXL_20231228_160535883.NIGHT.jpg",
+    "PXL_20231228_160550969.NIGHT.jpg",
+    "PXL_20231228_163953336.NIGHT.jpg",
+    "PXL_20231228_164805678.NIGHT.jpg",
+    "PXL_20231228_165113648.NIGHT.jpg",
+    "PXL_20231228_165201120.NIGHT.jpg",
+    "PXL_20231228_165323668.NIGHT.jpg",
+    "PXL_20231228_175240375.MP.jpg"
+  ]
+}

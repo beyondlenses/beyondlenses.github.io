@@ -1,0 +1,2628 @@
+{
+  "trip": "vancouver",
+  "sourceDirectoryHint": "../dumps/Vancouver",
+  "sourceCollection": "Vancouver",
+  "reviewedImageCount": 338,
+  "fullImageReviewCount": 337,
+  "decodedImageCount": 337,
+  "corruptImageCount": 1,
+  "shortlistedImageCount": 135,
+  "selectedImageCount": 63,
+  "omittedImageCount": 275,
+  "videoFileCount": 97,
+  "rawFileCount": 0,
+  "reviewScope": "All 338 JPEGs inventoried with full-decode attempts and chronological review in 5 contact sheets; 337 decoded successfully. Shortlisted candidates reviewed again at up to 492 pixels, with the cover at 1600 pixels. Corrupt images are explicitly excluded.",
+  "dateSource": "Nikon DateTimeOriginal was recorded in India time, explicitly confirmed by the owner. Convert Asia/Kolkata (+05:30) to America/Vancouver (−08:00 in February 2024), subtracting 13 hours 30 minutes. Camera timestamps remain recorded separately; corrected Vancouver dates are 21–26 February 2024.",
+  "captureDateSources": {
+    "EXIF DateTimeOriginal converted from owner-confirmed India time": 63
+  },
+  "locationNotes": [
+    "Visible landmarks, readable signs and capture order establish places; Dubai GPS supports its neighbourhoods. Exact original GPS is not copied into the manifest or published derivatives.",
+    "Vancouver originals lack usable GPS. Unidentified forest trails, lake and inlet use broader Vancouver-area labels; the signed Whistler mountain scenes are labelled Whistler Blackcomb.",
+    "Nikon DateTimeOriginal was recorded in India time, explicitly confirmed by the owner. Convert Asia/Kolkata (+05:30) to America/Vancouver (−08:00 in February 2024), subtracting 13 hours 30 minutes. Camera timestamps remain recorded separately; corrected Vancouver dates are 21–26 February 2024.",
+    "No itinerary or completed source archive for this collection was present. Existing extracted originals were reviewed without extraction or renaming.",
+    "Originals, videos, private travel records and review sheets remain outside the website and R2. Only selected metadata-free WebP derivatives are exported."
+  ],
+  "sourceArchiveValidation": null,
+  "locationReferences": [
+    "https://www.destinationvancouver.com/things-to-do/listings/steamclock",
+    "https://www.whistlerblackcomb.com/explore-the-resort/the-village/dining/roundhouse-lodge.aspx",
+    "https://www.whistlerblackcomb.com/travel-guide/iconic-whistler-photo-locations.aspx"
+  ],
+  "criteria": [
+    "Choose distinct clear landscapes, architecture, interiors, wildlife, market details and candid daily life; compare bursts and avoid padding limited locations.",
+    "Group chronologically by actual local capture date and supported location; use broader labels where the exact site is uncertain.",
+    "Keep each cover once in its album and daily count, without repeating it in the gallery.",
+    "Preserve original framing and colour, correct EXIF orientation, omit EXIF/XMP, and export quality-84 WebP at 2000 pixels or 2400 for the cover.",
+    "Local people, crowds and some personal photographs are allowed. peoplePhotoSources is a conservative list for later review without identifying or matching faces."
+  ],
+  "dailyCounts": {
+    "2024-02-21": 7,
+    "2024-02-22": 6,
+    "2024-02-23": 9,
+    "2024-02-25": 20,
+    "2024-02-26": 21
+  },
+  "chapterCounts": [
+    {
+      "date": "2024-02-21",
+      "location": "Waterfront and Gastown, Vancouver",
+      "galleryCount": 7
+    },
+    {
+      "date": "2024-02-22",
+      "location": "Vancouver Harbour",
+      "galleryCount": 5
+    },
+    {
+      "date": "2024-02-23",
+      "location": "Forest trails, Vancouver area",
+      "galleryCount": 9
+    },
+    {
+      "date": "2024-02-25",
+      "location": "Lake and forest trails, Vancouver area",
+      "galleryCount": 6
+    },
+    {
+      "date": "2024-02-25",
+      "location": "Inlet walks, Vancouver area",
+      "galleryCount": 6
+    },
+    {
+      "date": "2024-02-25",
+      "location": "Downtown Vancouver",
+      "galleryCount": 8
+    },
+    {
+      "date": "2024-02-26",
+      "location": "Whistler Blackcomb",
+      "galleryCount": 18
+    },
+    {
+      "date": "2024-02-26",
+      "location": "Whistler–Vancouver route",
+      "galleryCount": 3
+    }
+  ],
+  "omissionReasons": [
+    "Repeated scenes and near-identical bursts, weaker framing, blurred or badly exposed frames, and most posed portraits.",
+    "Routine transport logistics, long flight sequences and private travel documents.",
+    "Videos are outside the selected still-photo essay. Corrupt JPEGs are preserved but never exported."
+  ],
+  "omittedPhotos": [
+    {
+      "source": "DSC_0579.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0581.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0582.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0588.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0590.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0591.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0592.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0593.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0594.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0595.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0596.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0597.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0598.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0600.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0601.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0602.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0603.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0604.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0605.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0606.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0607.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0608.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0609.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0611.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0612.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0613.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0614.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0615.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0616.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0618.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0619.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0620.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0621.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0623.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0624.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0626.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0627.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0628.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0629.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0630.JPG",
+      "reason": "Corrupt JPEG: full Pillow decode failed with broken data stream when reading image file. Original preserved; not exported."
+    },
+    {
+      "source": "DSC_0632.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0633.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0634.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0635.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0636.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0637.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0639.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0647.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0648.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0649.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0650.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0652.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0653.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0655.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0656.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0657.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0658.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0659.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0660.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0661.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0662.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0663.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0664.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0665.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0666.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0668.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0669.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0670.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0672.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0673.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0674.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0677.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0679.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0680.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0681.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0682.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0683.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0684.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0685.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0686.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0687.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0688.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0689.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0691.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0692.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0693.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0695.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0696.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0698.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0699.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0700.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0704.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0705.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0707.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0708.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0709.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0710.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0711.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0712.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0713.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0714.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0715.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0716.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0717.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0718.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0719.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0720.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0721.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0722.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0723.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0724.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0725.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0726.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0727.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0729.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0730.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0731.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0733.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0734.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0735.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0737.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0738.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0739.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0740.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0742.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0743.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0744.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0745.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0746.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0748.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0749.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0750.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0751.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0752.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0753.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0754.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0756.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0757.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0758.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0759.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0760.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0761.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0762.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0763.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0764.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0765.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0767.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0769.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0770.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0988.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0989.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0990.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0993.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_0999.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1000.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1002.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1003.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1004.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1017.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1018.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1019.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1020.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1021.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1022.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1023.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1024.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1028.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1034.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1038.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1043.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1044.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1045.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1046.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1054.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1055.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1057.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1058.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1059.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1060.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1062.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1063.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1064.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1065.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1067.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1068.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1069.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1070.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1071.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1073.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1074.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1075.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1076.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1077.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1078.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1079.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1081.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1082.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1083.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1084.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1085.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1087.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1088.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1089.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1092.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1093.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1094.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1095.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1098.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1103.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1104.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1105.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1113.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1116.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1117.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1118.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1122.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1124.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1125.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1127.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1129.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1130.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1132.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1136.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1137.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1138.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1139.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1140.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1142.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1152.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1153.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1155.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1156.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1157.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1159.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1161.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1164.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1165.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1170.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1171.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1175.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1176.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1179.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1185.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1189.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1190.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1194.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1195.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1196.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1197.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1199.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1200.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1201.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1202.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1203.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1204.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1205.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1206.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1212.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1213.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1214.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1215.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1217.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1218.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1219.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1220.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1221.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1223.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1224.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1225.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1230.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1235.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1236.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1237.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1240.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    },
+    {
+      "source": "DSC_1241.JPG",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine transport record."
+    }
+  ],
+  "excludedPhotos": [
+    {
+      "source": "DSC_0630.JPG",
+      "reason": "Full JPEG decode failed: broken data stream when reading image file; original preserved."
+    }
+  ],
+  "photos": [
+    {
+      "source": "DSC_0671.JPG",
+      "sourceSha256": "388e114299452c939b115ea11a38862618a6021376f1cfe6436005ba6bb826a4",
+      "src": "/photos/vancouver/2024-02-22-vancouver-harbour/seaplane-and-the-north-shore.webp",
+      "role": "cover",
+      "maxEdge": 2400,
+      "quality": 84,
+      "capturedOn": "2024-02-22",
+      "capturedAtCamera": "2024-02-23T06:25:58",
+      "capturedAtLocal": "2024-02-22T16:55:58",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Representative cover checked at 1600 pixels; used once and excluded from the gallery.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0580.JPG",
+      "sourceSha256": "37c4c579e81282881f55da2556b73d443d0bfbb57519f02034d4b35b6464dad3",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/clouds-over-the-harbour.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T07:22:26",
+      "capturedAtLocal": "2024-02-21T17:52:26",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0599.JPG",
+      "sourceSha256": "f84ca347b16ff48dd3a68a5f64dd22ef26e65bbf5c38a21896c8b2e5ec2cd30c",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/headlights-on-a-wet-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T10:15:32",
+      "capturedAtLocal": "2024-02-21T20:45:32",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Waterfront and Gastown, Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0610.JPG",
+      "sourceSha256": "6ffbb2f05a87d7657c940a4c19e24cd59a20dc7077cbc21fd5f7ceb666d3cadb",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/bus-under-the-wires.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T10:30:37",
+      "capturedAtLocal": "2024-02-21T21:00:37",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Waterfront and Gastown, Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0617.JPG",
+      "sourceSha256": "9ffe56a12cbafe970318589754db84fe9e6b5c5bed66f2897819e8e800f4e29f",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/gastown-after-rain.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T10:37:11",
+      "capturedAtLocal": "2024-02-21T21:07:11",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Waterfront and Gastown, Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0622.JPG",
+      "sourceSha256": "4e7bd15b7ab90776df951e78857e15b1da236eeb918942d85fe4bd5923745ce5",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/steam-clock-in-the-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T10:39:21",
+      "capturedAtLocal": "2024-02-21T21:09:21",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Gastown, Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0631.JPG",
+      "sourceSha256": "464939ba50456ab8fe1d4008ad25c334e90984be23267097ad7e4d174cdae36f",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/the-steam-clock.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T10:42:46",
+      "capturedAtLocal": "2024-02-21T21:12:46",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Gastown, Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0644.JPG",
+      "sourceSha256": "bf2cb0a6536ba3300048f4b6b69467e5edeff8cad23a9fc6098d3b77ead2873e",
+      "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/lights-above-the-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-21",
+      "capturedAtCamera": "2024-02-22T10:49:11",
+      "capturedAtLocal": "2024-02-21T21:19:11",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Waterfront and Gastown, Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0676.JPG",
+      "sourceSha256": "95a2f9f3faf3b8621f8f784413cd1ef43ab8d6255eb9c0b168485ffd2c827eff",
+      "src": "/photos/vancouver/2024-02-22-vancouver-harbour/goose-above-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-22",
+      "capturedAtCamera": "2024-02-23T06:45:04",
+      "capturedAtLocal": "2024-02-22T17:15:04",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0678.JPG",
+      "sourceSha256": "099be2d8e23aa8a1353346dd2e1905fc2e053492844f5fa406ac67a359198e70",
+      "src": "/photos/vancouver/2024-02-22-vancouver-harbour/ships-below-the-north-shore.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-22",
+      "capturedAtCamera": "2024-02-23T06:45:26",
+      "capturedAtLocal": "2024-02-22T17:15:26",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0690.JPG",
+      "sourceSha256": "0039939e1726d4984966ac590f2eae1196326d4095224be5bb167f601651844d",
+      "src": "/photos/vancouver/2024-02-22-vancouver-harbour/warm-light-on-the-waterfront.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-22",
+      "capturedAtCamera": "2024-02-23T06:51:40",
+      "capturedAtLocal": "2024-02-22T17:21:40",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0694.JPG",
+      "sourceSha256": "01012d0d5464e42eb1165f129eae98b7425cafeac871bcf908377028a820a739",
+      "src": "/photos/vancouver/2024-02-22-vancouver-harbour/seaplane-and-cranes.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-22",
+      "capturedAtCamera": "2024-02-23T06:53:19",
+      "capturedAtLocal": "2024-02-22T17:23:19",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0697.JPG",
+      "sourceSha256": "dfcaa00c2e53276108e13de9975ac7c6fa9a13f0733bfe0dd14635f044dd5224",
+      "src": "/photos/vancouver/2024-02-22-vancouver-harbour/pink-cloud-over-the-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-22",
+      "capturedAtCamera": "2024-02-23T06:54:04",
+      "capturedAtLocal": "2024-02-22T17:24:04",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver Harbour",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0728.JPG",
+      "sourceSha256": "302154675abdfd892537f44a5c51fbb0f00eab8102d3fcbb1684e14cd22651e4",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/trunks-above-the-ferns.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T02:15:41",
+      "capturedAtLocal": "2024-02-23T12:45:41",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0732.JPG",
+      "sourceSha256": "b29c15720aaff3cc6add8f9e5fc09bd30b356bfc5d6dedfcf2e3358c3f569482",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/fern-lined-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T02:24:16",
+      "capturedAtLocal": "2024-02-23T12:54:16",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0736.JPG",
+      "sourceSha256": "e77c6885a7a1563f73d5acdc8345c5f715cae108b14769947cc03e59f298a01c",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/looking-into-the-canopy.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T02:56:03",
+      "capturedAtLocal": "2024-02-23T13:26:03",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0741.JPG",
+      "sourceSha256": "726aec2c71a7dbc5d4b94bfd9199c2714e0a29335f34de9f82afd4fa2be74c2e",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/walking-below-the-trunks.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T03:24:13",
+      "capturedAtLocal": "2024-02-23T13:54:13",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0747.JPG",
+      "sourceSha256": "1475fe15f0b3f017fa1fbde8b365224b44b96175fc339a0325df00a06baa649a",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/light-between-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T03:33:37",
+      "capturedAtLocal": "2024-02-23T14:03:37",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0755.JPG",
+      "sourceSha256": "92ccb13ca7a14c19f32a2e87259782fe50a7ac918be7b79bc6a762175a4bcc85",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/city-beyond-the-canopy.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T03:36:06",
+      "capturedAtLocal": "2024-02-23T14:06:06",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0766.JPG",
+      "sourceSha256": "3c2173e42b2265fb7c1076b8e6fc7920bc748196d4f43ce2fd4225bee28824d6",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/clearing-between-the-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T03:56:01",
+      "capturedAtLocal": "2024-02-23T14:26:01",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0768.JPG",
+      "sourceSha256": "e82057420eccd2f4c0c9417081c44312af320c0f15515204b21190e03473350d",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/green-pool-below-the-ferns.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T04:01:05",
+      "capturedAtLocal": "2024-02-23T14:31:05",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0771.JPG",
+      "sourceSha256": "3dc652e4d674fc5a475a0cbd9bf283c8e91c669db98a007d4ffc2b99d0e15b3a",
+      "src": "/photos/vancouver/2024-02-23-forest-trails/quiet-tree-lined-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-23",
+      "capturedAtCamera": "2024-02-24T04:08:20",
+      "capturedAtLocal": "2024-02-23T14:38:20",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0987.JPG",
+      "sourceSha256": "34df01fcb7bf5582968a455f0c1dc4d39abc5831728a4a184056ff9ae5403bcb",
+      "src": "/photos/vancouver/2024-02-25-lake-and-forest/trail-beside-the-lake.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T00:02:08",
+      "capturedAtLocal": "2024-02-25T10:32:08",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Lake and forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0992.JPG",
+      "sourceSha256": "90725d92fc782d6a5663fb030c1b490ac86e62ce4c02ea245b2fb77065848c9a",
+      "src": "/photos/vancouver/2024-02-25-lake-and-forest/fallen-timber-on-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T00:08:45",
+      "capturedAtLocal": "2024-02-25T10:38:45",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Lake and forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0995.JPG",
+      "sourceSha256": "489b737d152dc3a2818d292331d50bd31d6556d6866f88e2210e7be9ade579ce",
+      "src": "/photos/vancouver/2024-02-25-lake-and-forest/wooden-bridge-in-the-forest.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T00:14:27",
+      "capturedAtLocal": "2024-02-25T10:44:27",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Lake and forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_0996.JPG",
+      "sourceSha256": "d88446ce16fd8093011d7e111c9ad425f84d6fa367e36cc1959ff240ba1714b2",
+      "src": "/photos/vancouver/2024-02-25-lake-and-forest/weathered-stump.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T00:17:08",
+      "capturedAtLocal": "2024-02-25T10:47:08",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Lake and forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1007.JPG",
+      "sourceSha256": "bff2c4262ed1376108af364890769e46d3fe9fae255497d02a742977261ff547",
+      "src": "/photos/vancouver/2024-02-25-lake-and-forest/bare-trunks-in-the-lake.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T01:04:26",
+      "capturedAtLocal": "2024-02-25T11:34:26",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Lake and forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1016.JPG",
+      "sourceSha256": "8157c48607fcb7b4b131c3d42d2e93190588c9cb4ed1b5f2edeeeb42a76e867f",
+      "src": "/photos/vancouver/2024-02-25-lake-and-forest/resting-at-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T01:36:02",
+      "capturedAtLocal": "2024-02-25T12:06:02",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Lake and forest trails, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1066.JPG",
+      "sourceSha256": "f0b2ecabaabc1bbd2c3ee365fdcf6b2be272702939be7c5bbfa98b2165d56566",
+      "src": "/photos/vancouver/2024-02-25-inlet-walks/marina-below-the-clouds.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T02:59:04",
+      "capturedAtLocal": "2024-02-25T13:29:04",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Inlet walks, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1080.JPG",
+      "sourceSha256": "eef93ae2684ba6edddbf62b6debb191edde050dbea8b72721dd95de0c1f19ca8",
+      "src": "/photos/vancouver/2024-02-25-inlet-walks/houses-across-the-inlet.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T03:24:38",
+      "capturedAtLocal": "2024-02-25T13:54:38",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Inlet walks, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1086.JPG",
+      "sourceSha256": "d05fda7e2ec3bb7a7b0c0e6bd5cfa0c6ce03af6eee0dba18009e8fa28617c3cd",
+      "src": "/photos/vancouver/2024-02-25-inlet-walks/mist-on-the-mountainside.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T03:28:43",
+      "capturedAtLocal": "2024-02-25T13:58:43",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Inlet walks, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1097.JPG",
+      "sourceSha256": "ca5160aa399f3e00f9f380f4f2b0dc14d7cf93553a53284f907f4bc92bdbf66c",
+      "src": "/photos/vancouver/2024-02-25-inlet-walks/water-between-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T03:44:25",
+      "capturedAtLocal": "2024-02-25T14:14:25",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Inlet walks, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1099.JPG",
+      "sourceSha256": "290a164382c1a047c6700d162d99f7a4c6336614a94ba41da4e28ee1a862819f",
+      "src": "/photos/vancouver/2024-02-25-inlet-walks/beach-and-marina.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T04:04:04",
+      "capturedAtLocal": "2024-02-25T14:34:04",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Inlet walks, Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1110.JPG",
+      "sourceSha256": "18b22abad05ae7096c51453340e0dbeec4d1ee8f14e273058f89f915fa2b0ef7",
+      "src": "/photos/vancouver/2024-02-25-inlet-walks/house-and-the-dog-bus.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T04:12:23",
+      "capturedAtLocal": "2024-02-25T14:42:23",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Vancouver area",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1114.JPG",
+      "sourceSha256": "fc039da900e0964ae84ac8f3fab70e170aec74bc3e0342bc2c8a1878edbc8f1a",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/old-shopfronts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T05:53:05",
+      "capturedAtLocal": "2024-02-25T16:23:05",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1115.JPG",
+      "sourceSha256": "e34f93dc6d0c2a89ed964a75cd76103450cae701bd7c136517a2755c8ad3e841",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/brick-service-alley.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T05:53:15",
+      "capturedAtLocal": "2024-02-25T16:23:15",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1121.JPG",
+      "sourceSha256": "0b6ae4a88792c77db067e706b6cc57f79e4a2f497d243c8dd1883aeb0ee1868f",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/stone-monument-in-the-plaza.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T06:58:38",
+      "capturedAtLocal": "2024-02-25T17:28:38",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1123.JPG",
+      "sourceSha256": "82c3aa8530698a607b0e2f7575c4ef2a681088aa04b16f09452710f4c8156dbf",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/red-brick-corner.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T07:01:18",
+      "capturedAtLocal": "2024-02-25T17:31:18",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1128.JPG",
+      "sourceSha256": "554d31c604de847af226c3dc77a82d3c8f03602f03b2fe51a9568986c8c77a60",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/street-and-the-crane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T07:03:55",
+      "capturedAtLocal": "2024-02-25T17:33:55",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1131.JPG",
+      "sourceSha256": "d781e6913be8d605fa4ec81d422f02ab8b036ddff1fbda3a8645724f3eb49d5c",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/macleods-books.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T07:07:46",
+      "capturedAtLocal": "2024-02-25T17:37:46",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1135.JPG",
+      "sourceSha256": "6ef7420dc22f6ca3b99e497e76f5e15e0c7ac99945d76e947a0db841936ac268",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/pink-and-yellow-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T07:11:49",
+      "capturedAtLocal": "2024-02-25T17:41:49",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1141.JPG",
+      "sourceSha256": "b53df10fa69458fb0a48c24bcd04da8b24c22bf2eb2b5f4adb46e13d261045fa",
+      "src": "/photos/vancouver/2024-02-25-downtown-vancouver/old-brick-and-glass.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-25",
+      "capturedAtCamera": "2024-02-26T07:21:10",
+      "capturedAtLocal": "2024-02-25T17:51:10",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Downtown Vancouver",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1149.JPG",
+      "sourceSha256": "e346aeb94b7b787cb627e72bbb3516c5e4a6403b441489e18b313c0b081ea882",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/lifts-in-the-cloud.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:32:28",
+      "capturedAtLocal": "2024-02-26T12:02:28",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1150.JPG",
+      "sourceSha256": "53ec50f66940f67de907cd7478b93e72c151a77c78dc113c337ec5b688d9c08a",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/snowboarder-on-the-slope.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:35:08",
+      "capturedAtLocal": "2024-02-26T12:05:08",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1151.JPG",
+      "sourceSha256": "4e9a657d3a96df67bb6ed2389f4d506bace8ca126997c4ac440fb3048e3d7ffb",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/outside-the-lodge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:35:38",
+      "capturedAtLocal": "2024-02-26T12:05:38",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1154.JPG",
+      "sourceSha256": "cfc9454fbab44bda1425e29bda8d731831ae6ae296bf64f7ba1356dc3e03e816",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/skiers-below-the-chairlift.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:38:09",
+      "capturedAtLocal": "2024-02-26T12:08:09",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1158.JPG",
+      "sourceSha256": "fba5175768583d6848202411b7571ec50e67d0c50d33379c23a9c7f089359fe7",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/mountain-trail-signs.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:41:28",
+      "capturedAtLocal": "2024-02-26T12:11:28",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1160.JPG",
+      "sourceSha256": "9b0ab4806d3d36ed4b166498c518ecc6eeea82693817b2c8dba2f7a11f11e4a3",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/valley-in-the-cloud.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:43:36",
+      "capturedAtLocal": "2024-02-26T12:13:36",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1162.JPG",
+      "sourceSha256": "5efd4fe5b0701444d81f5aed5857dd50730e0e6d6ffdccbb73da453bf8de5c92",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/roundhouse-and-the-gondola.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:44:15",
+      "capturedAtLocal": "2024-02-26T12:14:15",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Roundhouse Lodge, Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1163.JPG",
+      "sourceSha256": "522b001433959c36434726280299d9047350057101cababe20586e374ac4843b",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/snow-on-the-ridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T01:46:06",
+      "capturedAtLocal": "2024-02-26T12:16:06",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1169.JPG",
+      "sourceSha256": "df128ff1dd434ecbbce5550a72ef01f6ef8de58452afdc4b046a58e7902a3864",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/trees-in-the-snow.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T02:00:26",
+      "capturedAtLocal": "2024-02-26T12:30:26",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1173.JPG",
+      "sourceSha256": "7964a6df60ab5de08e08ac873e2a73414d5b79a868bc465d3e0e3a01ce2c365b",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/at-the-viewing-terrace.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T02:01:51",
+      "capturedAtLocal": "2024-02-26T12:31:51",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1177.JPG",
+      "sourceSha256": "7631b947d22b951e8d973245cae7ed6253db59dbcf6128d75b4082af92578858",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/a-smile-in-the-snow.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T02:15:59",
+      "capturedAtLocal": "2024-02-26T12:45:59",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1183.JPG",
+      "sourceSha256": "4b0006e78f894227c08fbadbe375d1130d4c41182b9157c289c9709742bd31e7",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/light-over-the-forested-valley.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T02:40:49",
+      "capturedAtLocal": "2024-02-26T13:10:49",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1186.JPG",
+      "sourceSha256": "f82d43a49781b3df7783d09d4cfeec05a95c87a905beb3176a84bcbd2e4e666d",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/gondola-above-the-slope.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T03:10:00",
+      "capturedAtLocal": "2024-02-26T13:40:00",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1192.JPG",
+      "sourceSha256": "da4cf7789543d6a118481705fba057533ad74bb440c3e402e4cc71155cefb9d9",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/sunlight-on-the-mountainside.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T03:17:48",
+      "capturedAtLocal": "2024-02-26T13:47:48",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1193.JPG",
+      "sourceSha256": "c8446fc997c27f663e746322e256349d3aac757d4ec49865e434d40fbbb58250",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/cables-across-the-valley.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T03:19:52",
+      "capturedAtLocal": "2024-02-26T13:49:52",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1198.JPG",
+      "sourceSha256": "b199029920e9d3bbdc8673c064e3ac84e6a3f29b4fbad3503fd35896e73d9635",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/olympic-rings-in-the-snow.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T03:30:50",
+      "capturedAtLocal": "2024-02-26T14:00:50",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1209.JPG",
+      "sourceSha256": "4c2e4daaf28b8227282bd4d38826dc05b964724c2fc459c9e590524324a426a3",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/tables-at-the-slope.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T04:00:26",
+      "capturedAtLocal": "2024-02-26T14:30:26",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Village",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1216.JPG",
+      "sourceSha256": "6b75a20c367b5ddb9c5da0baa8062bb0ce9dad3f6082eb52066f2e01bbae1062",
+      "src": "/photos/vancouver/2024-02-26-whistler-blackcomb/red-jacket-on-the-slope.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T04:03:31",
+      "capturedAtLocal": "2024-02-26T14:33:31",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler Blackcomb",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1227.JPG",
+      "sourceSha256": "b56cf34aa25fd42f924753481e970bfde34c6f53040bd80a325fecc2e35c1ac6",
+      "src": "/photos/vancouver/2024-02-26-return-to-the-coast/sunlight-on-the-inlet.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T06:39:54",
+      "capturedAtLocal": "2024-02-26T17:09:54",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler–Vancouver route",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1234.JPG",
+      "sourceSha256": "9116dcd3993f3f63205826f365ab73178afac4492a2809197861bba2e8620f2d",
+      "src": "/photos/vancouver/2024-02-26-return-to-the-coast/orange-cloud-above-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T07:13:36",
+      "capturedAtLocal": "2024-02-26T17:43:36",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler–Vancouver route",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    },
+    {
+      "source": "DSC_1239.JPG",
+      "sourceSha256": "606e6f6b5df54974d50244298ab508cfbacc579bb01702ab2f19a924b892e7d3",
+      "src": "/photos/vancouver/2024-02-26-return-to-the-coast/last-light-on-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2024-02-26",
+      "capturedAtCamera": "2024-02-27T07:14:59",
+      "capturedAtLocal": "2024-02-26T17:44:59",
+      "timeZone": "America/Vancouver",
+      "utcOffset": "-08:00",
+      "sourceExifUtcOffset": null,
+      "captureDateSource": "EXIF DateTimeOriginal converted from owner-confirmed India time",
+      "utcOffsetBasis": "Owner confirmed the Nikon remained on India time; converted Asia/Kolkata to America/Vancouver (PST).",
+      "location": "Whistler–Vancouver route",
+      "locationBasis": "Visible landmarks, signs and capture order; broad Vancouver-area labels where the precise trail, lake or inlet is uncertain. Originals have no usable GPS.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "cameraTimeZone": "Asia/Kolkata",
+      "cameraUtcOffset": "+05:30",
+      "cameraTimeZoneBasis": "Owner explicitly confirmed the Nikon camera was set to India time."
+    }
+  ],
+  "peoplePhotoSources": [
+    "DSC_0599.JPG",
+    "DSC_0610.JPG",
+    "DSC_0617.JPG",
+    "DSC_0622.JPG",
+    "DSC_0631.JPG",
+    "DSC_0644.JPG",
+    "DSC_0728.JPG",
+    "DSC_0732.JPG",
+    "DSC_0741.JPG",
+    "DSC_0747.JPG",
+    "DSC_1016.JPG",
+    "DSC_1066.JPG",
+    "DSC_1099.JPG",
+    "DSC_1114.JPG",
+    "DSC_1115.JPG",
+    "DSC_1121.JPG",
+    "DSC_1123.JPG",
+    "DSC_1128.JPG",
+    "DSC_1131.JPG",
+    "DSC_1135.JPG",
+    "DSC_1141.JPG",
+    "DSC_1149.JPG",
+    "DSC_1150.JPG",
+    "DSC_1151.JPG",
+    "DSC_1154.JPG",
+    "DSC_1158.JPG",
+    "DSC_1160.JPG",
+    "DSC_1162.JPG",
+    "DSC_1163.JPG",
+    "DSC_1169.JPG",
+    "DSC_1173.JPG",
+    "DSC_1177.JPG",
+    "DSC_1186.JPG",
+    "DSC_1198.JPG",
+    "DSC_1209.JPG",
+    "DSC_1216.JPG",
+    "DSC_1234.JPG"
+  ]
+}

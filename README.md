@@ -37,7 +37,7 @@ The Atlanta, California and Vietnam collections add **340 original photographs**
 | California | 97 | 8 April–7 May 2023 | Berkeley, Sibley, San Francisco, Sausalito and Bolinas |
 | Vietnam | 146 | 27 May–1 June 2023 | Mỹ Sơn, Hội An, Huế, Ninh Bình, Sa Pa and Hà Nội |
 
-The Canada collections contain **304 original photographs**:
+The Canada collections contain **367 original photographs**:
 
 | Album | Photographs | Dates |
 | --- | ---: | --- |
@@ -47,6 +47,11 @@ The Canada collections contain **304 original photographs**:
 | Moosonee and the Polar Bear Express | 38 | 25–26 December 2024 |
 | Niagara Falls in winter | 21 | 16–17 February 2025 |
 | The quiet of Gros Morne | 80 | 24–27 May 2024 |
+| Vancouver | 63 | 21–26 February 2024 |
+
+**Dubai** adds **94 original photographs** from **28 December 2023**, covering
+Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek. The site contains
+**21 albums across 14 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -100,7 +105,8 @@ the same flow. The country menu stays available for switching; **World map**
 and **Escape** return to the overview and restore keyboard focus.
 
 Countries and album counts come from the current trip content. Canada’s view
-frames its eastern destinations, and Malaysia’s view frames the peninsula.
+frames Vancouver and its eastern destinations; Malaysia’s view frames the
+peninsula.
 Mobile layouts provide large country links and stacked album cards. Hovering or
 focusing an album highlights its map marker and cover card together. Reduced
 motion preferences disable the transition. Without JavaScript, country links
@@ -362,8 +368,9 @@ albums. No archives were extracted, and originals remain untouched.
 
 Toronto follows selected days through summer, autumn, winter and spring. The
 folder provides only three photographs from Montreal; these form a short album
-with a separate cover. No Vancouver photographs were established, so that album
-was skipped. Orillia, Arrowhead and Algonquin are grouped into one autumn trip;
+with a separate cover. That source contained no established Vancouver photographs;
+the separate Vancouver collection is documented below. Orillia, Arrowhead and
+Algonquin are grouped into one autumn trip;
 Niagara Falls and the journey to Moosonee have their own albums.
 
 Phone dates use camera-local EXIF times and recorded offsets. The Gros Morne
@@ -521,8 +528,8 @@ mobile layouts; the sandbox also blocks the local preview server socket.
 
 ## Atlanta, California and Vietnam selections
 
-The three albums contain **340 photographs** in 58 dated sections. The site now
-has **19 albums across 13 countries**. Atlanta and California appear within
+The three albums contain **340 photographs** in 58 dated sections. These additions
+brought the site to **19 albums across 13 countries**. Atlanta and California appear within
 United States; Vietnam has its own country view. Both countries have local
 atlas outlines and zoom frames.
 
@@ -574,6 +581,70 @@ socket. **Run the upload and check commands above with network access before
 pushing.** Interactive browser review is also pending because the sandbox
 blocks Chrome; use `npm run dev` to review desktop/mobile galleries and the
 photo viewer after uploading.
+
+## Vancouver and Dubai selections
+
+The two albums add **157 photographs** in 19 dated sections:
+
+| Album | Photographs | Sections | Dates |
+| --- | ---: | ---: | --- |
+| Vancouver | 63 | 8 | 21–26 February 2024 |
+| Dubai | 94 | 11 | 28 December 2023 |
+
+All **338 Vancouver JPEGs** and **389 Dubai JPEGs** were inventoried with full
+decode attempts and reviewed in ten chronological contact sheets. Larger
+reviews compared 135 Vancouver and 153 Dubai candidates; both covers were
+checked at 1600 pixels and appear once. Vancouver's `DSC_0630.JPG` fails full
+JPEG decoding and is explicitly excluded. The other 726 JPEGs decode
+successfully. The 97 Vancouver MOVs and six Dubai MP4s remain outside the
+still-photo albums. No completed source archive or itinerary was present.
+
+The owner confirmed that Vancouver's Nikon remained set to India time.
+Converting **Asia/Kolkata (+05:30) to America/Vancouver (−08:00)** subtracts
+13 hours 30 minutes and moves these photographs to the preceding local day.
+The manifests retain the original camera timestamp alongside the corrected
+local timestamp, timezone and evidence. Dubai's selected photographs retain
+their recorded +04:00 local times. Pre-arrival and outbound flight sequences,
+private travel records, repeated views and weaker frames are omitted.
+
+Vancouver's harbour, Gastown and Whistler landmarks support specific labels;
+unidentified forest trails, lake and inlet use broader Vancouver-area labels.
+Dubai GPS, visible landmarks and capture order support its neighbourhoods.
+Canada's atlas view now includes its western and eastern albums, with adjusted
+labels. The UAE has a country outline, zoom view and Dubai marker.
+
+Only selected WebP derivatives are exported, preserving framing and colour,
+correcting orientation, and stripping EXIF/XMP. Originals remain intact.
+Manifests record hashes, complete omissions, people scenes and daily counts.
+The local exports remain ignored by Git.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/vancouver.json --source ../dumps/Vancouver
+python3 scripts/export-photos.py --selection content/selections/dubai.json --source ../dumps/dubai
+npm run photos:plan -- vancouver dubai
+npm run photos:upload -- vancouver dubai
+npm run photos:check -- vancouver dubai
+npm test
+npm run build
+```
+
+Validation checked all 157 original hashes, corrected local dates and offsets,
+decoded WebP files, dimensions, framing, colour profiles, stripped EXIF/XMP,
+unique sources, single cover use, corrupt-file exclusion, complete omissions
+and manifest counts. The upload plan contains exactly 157 selected files,
+totalling **48.3 MiB**. Site tests pass and the build produces 24 pages and
+21 stories in an isolated copy of the committed site plus these album changes.
+Separate homepage and Ontario-album edits were in progress during validation.
+Representative exports opened include both covers,
+`fern-lined-path.webp`, `light-over-the-forested-valley.webp`,
+`mosque-at-dusk.webp` and `brass-coffee-pots.webp`. World, Canada and UAE map
+artwork was rendered and visually checked.
+
+The R2 upload transferred no files because the sandbox blocked its DNS socket.
+**Run the upload and check commands above with network access before pushing.**
+Interactive desktop/mobile gallery and photo-viewer review remains pending;
+the sandbox blocks the local preview server and Chrome sockets. Use
+`npm run dev` in an environment that permits them after uploading.
 
 ## Publish at beyondlenses.github.io
 

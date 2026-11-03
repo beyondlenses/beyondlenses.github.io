@@ -13,9 +13,9 @@ export function projectLocation(longitude, latitude) {
   return [600 + longitude * radians * horizontal * 200, 290 - angle * vertical * 200];
 }
 
-// Bounds frame the country or, for Canada, the eastern region of its albums.
+// Bounds frame each country's album locations.
 export const atlasCountries = {
-  Canada: { id: 'canada', label: 'Canada', code: 'CAN', longitude: -104, latitude: 57, labelPosition: [292, 78], bounds: [-91, 39, -47, 58] },
+  Canada: { id: 'canada', label: 'Canada', code: 'CAN', longitude: -104, latitude: 57, labelPosition: [292, 78], bounds: [-130, 39, -47, 60] },
   Japan: { id: 'japan', label: 'Japan', code: 'JPN', longitude: 138, latitude: 37, labelPosition: [1050, 208], bounds: [128, 29, 147, 46] },
   Turkey: { id: 'turkey', label: 'Turkey', code: 'TUR', longitude: 35, latitude: 39, labelPosition: [704, 225], bounds: [25, 35, 46, 43] },
   India: { id: 'india', label: 'India', code: 'IND', longitude: 79, latitude: 23, labelPosition: [832, 263], bounds: [67, 5, 99, 37] },
@@ -28,6 +28,7 @@ export const atlasCountries = {
   Finland: { id: 'finland', label: 'Finland', code: 'FIN', longitude: 25.7, latitude: 64.8, labelPosition: [720, 55], bounds: [19, 59, 32, 70.5] },
   'United States': { id: 'united-states', label: 'United States', code: 'USA', longitude: -98, latitude: 38, labelPosition: [265, 190], bounds: [-126, 24, -66, 50] },
   Vietnam: { id: 'vietnam', label: 'Vietnam', code: 'VNM', longitude: 107, latitude: 16, labelPosition: [960, 265], bounds: [102, 8, 110, 24] },
+  'United Arab Emirates': { id: 'united-arab-emirates', label: 'UAE', code: 'ARE', longitude: 54.3, latitude: 24.3, labelPosition: [720, 300], bounds: [51, 22, 57, 27] },
 };
 
 export function fitAtlasBounds([west, south, east, north]) {

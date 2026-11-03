@@ -1,0 +1,1004 @@
+{
+  "slug": "dubai",
+  "title": "Dubai",
+  "subtitle": "Mall atriums and the Burj Lake waterfront, sunset in Jumeirah and market lanes beside the creek.",
+  "country": "United Arab Emirates",
+  "location": "Dubai",
+  "category": "City, coast and creek",
+  "order": 16,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2023-12-28",
+  "endDate": "2023-12-28",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/dubai/2023-12-28-downtown-dubai/souk-al-bahar-and-burj-lake.webp",
+    "alt": "Souk Al Bahar and tall modern towers across turquoise Burj Lake, with a floating walkway in the foreground.",
+    "caption": "Souk Al Bahar and tall modern towers across turquoise Burj Lake, with a floating walkway in the foreground.",
+    "width": 2400,
+    "height": 1350,
+    "capturedOn": "2023-12-28",
+    "location": "Burj Lake, Downtown Dubai"
+  },
+  "chapters": [
+    {
+      "title": "Through the mall",
+      "date": "2023-12-28",
+      "location": "Dubai Metro and Dubai Mall",
+      "paragraphs": [
+        "A view from the train gives way to glazed walkways, escalators and tall atriums. Shopfronts and hanging decorations fill the mall interiors."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/museum-from-the-train.webp",
+          "alt": "The calligraphy-covered oval of the Museum of the Future seen from a passing train.",
+          "caption": "The calligraphy-covered oval of the Museum of the Future seen from a passing train.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Metro"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/glazed-moving-walkway.webp",
+          "alt": "Visitors on a moving walkway inside a glazed pedestrian passage.",
+          "caption": "Visitors on a moving walkway inside a glazed pedestrian passage.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Metro and Dubai Mall"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/glass-roof-atrium.webp",
+          "alt": "A broad mall atrium beneath a high glass roof.",
+          "caption": "A broad mall atrium beneath a high glass roof.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/escalators-below-the-roof.webp",
+          "alt": "Escalators beneath a steel and glass roof.",
+          "caption": "Escalators beneath a steel and glass roof.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/hanging-gold-decorations.webp",
+          "alt": "Gold decorations hanging in a circular mall atrium.",
+          "caption": "Gold decorations hanging in a circular mall atrium.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/screen-and-chandelier.webp",
+          "alt": "A circular digital screen above a chandelier and mall visitors.",
+          "caption": "A circular digital screen above a chandelier and mall visitors.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/red-christmas-display.webp",
+          "alt": "A tall red Christmas display inside a mall atrium.",
+          "caption": "A tall red Christmas display inside a mall atrium.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/blue-and-gold-arcades.webp",
+          "alt": "Blue and gold shopfront arches above passing shoppers.",
+          "caption": "Blue and gold shopfront arches above passing shoppers.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-metro-and-dubai-mall/sweet-shop-and-gold-ceiling.webp",
+          "alt": "A sweet-shop display below a curved gold ceiling.",
+          "caption": "A sweet-shop display below a curved gold ceiling.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Mall"
+        }
+      ]
+    },
+    {
+      "title": "Around Burj Lake",
+      "date": "2023-12-28",
+      "location": "Downtown Dubai",
+      "paragraphs": [
+        "The Burj Khalifa rises above the turquoise lake. Sand-coloured arcades, quiet courtyards and modern towers surround the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/burj-khalifa-against-blue.webp",
+          "alt": "The full height of the Burj Khalifa against a clear blue sky.",
+          "caption": "The full height of the Burj Khalifa against a clear blue sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/souk-al-bahar-entrance.webp",
+          "alt": "Visitors beneath the tall entrance arch of Souk Al Bahar.",
+          "caption": "Visitors beneath the tall entrance arch of Souk Al Bahar.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Souk Al Bahar, Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/sand-coloured-gateways.webp",
+          "alt": "Two sand-coloured gateways at the bridge over Burj Lake.",
+          "caption": "Two sand-coloured gateways at the bridge over Burj Lake.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Burj Lake, Downtown Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/turquoise-water-and-towers.webp",
+          "alt": "Turquoise Burj Lake below mall buildings and modern towers.",
+          "caption": "Turquoise Burj Lake below mall buildings and modern towers.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Burj Lake, Downtown Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/steps-to-the-souk.webp",
+          "alt": "Steps rising towards the sand-coloured façade of Souk Al Bahar.",
+          "caption": "Steps rising towards the sand-coloured façade of Souk Al Bahar.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Souk Al Bahar, Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/quiet-courtyard-pool.webp",
+          "alt": "A quiet courtyard pool between palms and sand-coloured buildings.",
+          "caption": "A quiet courtyard pool between palms and sand-coloured buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/burj-through-the-arcade.webp",
+          "alt": "An arcade framing a view towards the Burj Khalifa.",
+          "caption": "An arcade framing a view towards the Burj Khalifa.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/curved-mall-facade.webp",
+          "alt": "A curved gold-coloured mall façade above waterside cafés.",
+          "caption": "A curved gold-coloured mall façade above waterside cafés.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/rings-above-the-walkway.webp",
+          "alt": "Steel hoops shading a walkway beneath the Burj Khalifa.",
+          "caption": "Steel hoops shading a walkway beneath the Burj Khalifa.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/trees-in-the-plaza.webp",
+          "alt": "Trees and a fountain in a quiet modern plaza.",
+          "caption": "Trees and a fountain in a quiet modern plaza.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/projecting-balconies.webp",
+          "alt": "A curved modern tower with rows of projecting balconies.",
+          "caption": "A curved modern tower with rows of projecting balconies.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/bronze-insect-sculptures.webp",
+          "alt": "Bronze insect-like sculptures between palms and glass towers.",
+          "caption": "Bronze insect-like sculptures between palms and glass towers.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-downtown-dubai/road-below-the-walkway.webp",
+          "alt": "A broad road and modern towers seen from a glazed walkway.",
+          "caption": "A broad road and modern towers seen from a glazed walkway.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Downtown Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Quiet streets in Jumeirah",
+      "date": "2023-12-28",
+      "location": "Jumeirah, Dubai",
+      "paragraphs": [
+        "The walk continues past white walls and low shopfronts. Bougainvillea, a passing cat and long shadows mark the quieter streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/red-bunting-over-the-road.webp",
+          "alt": "Red fabric bunting above a road seen from a vehicle.",
+          "caption": "Red fabric bunting above a road seen from a vehicle.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/bougainvillea-by-the-path.webp",
+          "alt": "Bougainvillea beside a quiet brick path and villa walls.",
+          "caption": "Bougainvillea beside a quiet brick path and villa walls.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/white-walls-and-a-quiet-road.webp",
+          "alt": "White walls along a quiet neighbourhood street.",
+          "caption": "White walls along a quiet neighbourhood street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/cat-on-the-pavement.webp",
+          "alt": "A cat crossing the pavement beside a low wall.",
+          "caption": "A cat crossing the pavement beside a low wall.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/warm-light-on-the-shops.webp",
+          "alt": "Late-afternoon light on a low shopping façade across a neighbourhood road.",
+          "caption": "Late-afternoon light on a low shopping façade across a neighbourhood road.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/whitewashed-lane.webp",
+          "alt": "A narrow lane between whitewashed walls.",
+          "caption": "A narrow lane between whitewashed walls.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-streets/canopy-and-palm-shadows.webp",
+          "alt": "A canopied coastal promenade with wooden blocks and palm shadows.",
+          "caption": "A canopied coastal promenade with wooden blocks and palm shadows.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah, Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Sunset at the coast",
+      "date": "2023-12-28",
+      "location": "Jumeirah coast, Dubai",
+      "paragraphs": [
+        "Visitors gather on the sand as the sun drops towards the water. Palms and beach huts catch the last warm light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/visitors-on-the-sand.webp",
+          "alt": "Visitors spread across a broad beach in the evening light.",
+          "caption": "Visitors spread across a broad beach in the evening light.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/water-and-the-breakwater.webp",
+          "alt": "Calm beach water beside a rocky breakwater.",
+          "caption": "Calm beach water beside a rocky breakwater.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/palm-at-sunset.webp",
+          "alt": "A lone palm beside the beach as the sun sets over the water.",
+          "caption": "A lone palm beside the beach as the sun sets over the water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/wooden-beach-huts.webp",
+          "alt": "Two small wooden huts beside the beach.",
+          "caption": "Two small wooden huts beside the beach.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/curving-coastal-walk.webp",
+          "alt": "A curving coastal walk and wooden posts above the sunset water.",
+          "caption": "A curving coastal walk and wooden posts above the sunset water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/palms-in-the-evening-light.webp",
+          "alt": "Grass and palms catching warm evening light.",
+          "caption": "Grass and palms catching warm evening light.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-coast/curved-white-facades.webp",
+          "alt": "Curved white façades beside a quiet paved forecourt.",
+          "caption": "Curved white façades beside a quiet paved forecourt.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah coast, Dubai"
+        }
+      ]
+    },
+    {
+      "title": "The mosque at dusk",
+      "date": "2023-12-28",
+      "location": "Jumeirah Mosque, Dubai",
+      "paragraphs": [
+        "The mosque glows as daylight fades. Palms frame the dome, portico and slender minarets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-mosque/dome-and-portico.webp",
+          "alt": "The illuminated dome and side portico of Jumeirah Mosque.",
+          "caption": "The illuminated dome and side portico of Jumeirah Mosque.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah Mosque, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-mosque/mosque-at-dusk.webp",
+          "alt": "The front arches and twin minarets of Jumeirah Mosque at dusk.",
+          "caption": "The front arches and twin minarets of Jumeirah Mosque at dusk.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah Mosque, Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-jumeirah-mosque/mosque-between-the-palms.webp",
+          "alt": "Palms framing the warmly lit mosque after sunset.",
+          "caption": "Palms framing the warmly lit mosque after sunset.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Jumeirah Mosque, Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Shopfronts after dark",
+      "date": "2023-12-28",
+      "location": "Bur Dubai",
+      "paragraphs": [
+        "Busy retail streets lead past colourful façades, small cafés and brightly lit snack counters."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/busy-retail-street.webp",
+          "alt": "Bright shop signs above a busy retail street after dark.",
+          "caption": "Bright shop signs above a busy retail street after dark.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/purple-lit-shopping-lane.webp",
+          "alt": "A narrow shopping lane lit by purple shop signs.",
+          "caption": "A narrow shopping lane lit by purple shop signs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/evening-shopping-lane.webp",
+          "alt": "Shoppers walking along a paved lane between small shops.",
+          "caption": "Shoppers walking along a paved lane between small shops.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/colourful-snack-counter.webp",
+          "alt": "A brightly coloured snack counter packed with displays.",
+          "caption": "A brightly coloured snack counter packed with displays.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/small-night-cafe.webp",
+          "alt": "A small café shopfront glowing onto the pavement.",
+          "caption": "A small café shopfront glowing onto the pavement.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/crowded-shopfronts.webp",
+          "alt": "Colourful shopfronts and evening crowds along the street.",
+          "caption": "Colourful shopfronts and evening crowds along the street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-bur-dubai/signs-above-the-traffic.webp",
+          "alt": "Stacked restaurant signs above traffic and pedestrians.",
+          "caption": "Stacked restaurant signs above traffic and pedestrians.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Bur Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Courtyards and wind towers",
+      "date": "2023-12-28",
+      "location": "Al Fahidi Historical Neighbourhood, Dubai",
+      "paragraphs": [
+        "Narrow lanes connect quiet courtyards and wind-tower buildings. Murals, wooden doors and small displays line the walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/wind-tower-and-string-lights.webp",
+          "alt": "A wind tower above outdoor tables and strings of lights.",
+          "caption": "A wind tower above outdoor tables and strings of lights.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/entrance-below-the-tree.webp",
+          "alt": "A restaurant entrance beneath a spreading leafy tree.",
+          "caption": "A restaurant entrance beneath a spreading leafy tree.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/pale-facade-after-dark.webp",
+          "alt": "A pale building façade beneath the deep blue evening sky.",
+          "caption": "A pale building façade beneath the deep blue evening sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/lights-over-a-narrow-lane.webp",
+          "alt": "Strings of lights above a narrow plaster-walled lane.",
+          "caption": "Strings of lights above a narrow plaster-walled lane.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/mural-of-a-shared-meal.webp",
+          "alt": "A large mural of people sharing a meal beneath arched windows.",
+          "caption": "A large mural of people sharing a meal beneath arched windows.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/closed-wooden-door.webp",
+          "alt": "A closed wooden door set in a pale plaster wall.",
+          "caption": "A closed wooden door set in a pale plaster wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/branch-shadows-on-the-wall.webp",
+          "alt": "Tree branches casting shadows on a tall wall.",
+          "caption": "Tree branches casting shadows on a tall wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/brightly-painted-benches.webp",
+          "alt": "Pink, red and green benches beside a low wall.",
+          "caption": "Pink, red and green benches beside a low wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/lane-and-painted-walls.webp",
+          "alt": "A narrow lane with benches and a painted wall at the far end.",
+          "caption": "A narrow lane with benches and a painted wall at the far end.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/wind-tower-above-the-courtyard.webp",
+          "alt": "A wind tower and pale buildings beside a courtyard.",
+          "caption": "A wind tower and pale buildings beside a courtyard.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/boat-frame-in-the-courtyard.webp",
+          "alt": "A wooden boat framework displayed in a lit courtyard.",
+          "caption": "A wooden boat framework displayed in a lit courtyard.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/cooking-display-and-striped-tent.webp",
+          "alt": "A cooking pot and striped tent in a heritage display.",
+          "caption": "A cooking pot and striped tent in a heritage display.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-fahidi/plants-below-the-window.webp",
+          "alt": "Potted plants below a wooden window awning.",
+          "caption": "Potted plants below a wooden window awning.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Fahidi Historical Neighbourhood, Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Lanes beside the creek",
+      "date": "2023-12-28",
+      "location": "Al Seef, Dubai",
+      "paragraphs": [
+        "Warm lamps light the plaster walls and covered passages. Small shops open between quiet courtyards and glimpses of the creek."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/covered-market-passage.webp",
+          "alt": "A covered passage lined with small market shops.",
+          "caption": "A covered passage lined with small market shops.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/lit-stairway.webp",
+          "alt": "A narrow stairway lit by warm wall lamps.",
+          "caption": "A narrow stairway lit by warm wall lamps.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/ceramics-in-the-passage.webp",
+          "alt": "Colourful ceramics filling a small shop along a passage.",
+          "caption": "Colourful ceramics filling a small shop along a passage.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/courtyard-under-fabric.webp",
+          "alt": "An empty courtyard beneath stretched fabric shades.",
+          "caption": "An empty courtyard beneath stretched fabric shades.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/palms-and-plaster-walls.webp",
+          "alt": "Tall plaster-walled buildings and palms beside a quiet lane.",
+          "caption": "Tall plaster-walled buildings and palms beside a quiet lane.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/red-door-under-the-arch.webp",
+          "alt": "A red wooden door beneath an arch and warm wall lamps.",
+          "caption": "A red wooden door beneath an arch and warm wall lamps.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/passage-to-the-market.webp",
+          "alt": "A curved shaded passage opening towards a market.",
+          "caption": "A curved shaded passage opening towards a market.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/creek-between-the-buildings.webp",
+          "alt": "Night water on Dubai Creek seen between two buildings.",
+          "caption": "Night water on Dubai Creek seen between two buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-lanes/ornamental-window-panels.webp",
+          "alt": "Ornamental panels and windows on a textured façade.",
+          "caption": "Ornamental panels and windows on a textured façade.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Details in the market",
+      "date": "2023-12-28",
+      "location": "Al Seef, Dubai",
+      "paragraphs": [
+        "Market lanes fill with pottery, brass coffee pots and spice barrels. A coffee stall offers a pause among the shops."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/market-under-string-lights.webp",
+          "alt": "Visitors and stalls along a market lane under strings of lights.",
+          "caption": "Visitors and stalls along a market lane under strings of lights.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/cat-by-the-antique-shop.webp",
+          "alt": "A cat beside an antique shop crowded with pots and objects.",
+          "caption": "A cat beside an antique shop crowded with pots and objects.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/pots-and-old-scales.webp",
+          "alt": "Metal pots, bowls and old scales displayed outside a shop.",
+          "caption": "Metal pots, bowls and old scales displayed outside a shop.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/framed-pictures.webp",
+          "alt": "Framed paintings and portraits stacked outside a shop.",
+          "caption": "Framed paintings and portraits stacked outside a shop.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/shopkeepers-in-the-lane.webp",
+          "alt": "Shopkeepers and visitors among stalls in a narrow lane.",
+          "caption": "Shopkeepers and visitors among stalls in a narrow lane.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/brass-coffee-pots.webp",
+          "alt": "Brass coffee pots and lamps crowded onto a display.",
+          "caption": "Brass coffee pots and lamps crowded onto a display.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/painted-plates.webp",
+          "alt": "Colourful painted plates stacked in a shop display.",
+          "caption": "Colourful painted plates stacked in a shop display.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/barrels-of-spices.webp",
+          "alt": "Open barrels filled with colourful spices.",
+          "caption": "Open barrels filled with colourful spices.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/coffee-under-the-red-canopy.webp",
+          "alt": "A coffee vendor serving visitors beneath a red canopy.",
+          "caption": "A coffee vendor serving visitors beneath a red canopy.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/coffee-on-the-table.webp",
+          "alt": "A yellow paper coffee cup on a wooden table.",
+          "caption": "A yellow paper coffee cup on a wooden table.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/robes-outside-the-shop.webp",
+          "alt": "Mannequins displaying robes outside a clothing shop.",
+          "caption": "Mannequins displaying robes outside a clothing shop.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-al-seef-market/wooden-steps-in-the-market.webp",
+          "alt": "Rough wooden steps and a platform beside market buildings.",
+          "caption": "Rough wooden steps and a platform beside market buildings.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Al Seef, Dubai"
+        }
+      ]
+    },
+    {
+      "title": "Across the creek",
+      "date": "2023-12-28",
+      "location": "Dubai Creek",
+      "paragraphs": [
+        "City lights reflect around the wooden boats. An abra crossing leads towards the busy waterside on the opposite bank."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/city-lights-across-the-creek.webp",
+          "alt": "City lights reflected across the creek beyond wooden docks.",
+          "caption": "City lights reflected across the creek beyond wooden docks.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/abra-at-the-jetty.webp",
+          "alt": "A wooden abra waiting beside a jetty after dark.",
+          "caption": "A wooden abra waiting beside a jetty after dark.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/wake-beside-the-bow.webp",
+          "alt": "Foam beside the bow of a moving wooden boat.",
+          "caption": "Foam beside the bow of a moving wooden boat.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/passenger-abra-after-dark.webp",
+          "alt": "A passenger abra crossing dark water with city reflections behind.",
+          "caption": "A passenger abra crossing dark water with city reflections behind.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek",
+          "wide": true
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/boats-and-mooring-posts.webp",
+          "alt": "Wooden boats moored beside tall posts.",
+          "caption": "Wooden boats moored beside tall posts.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/waterside-food-stalls.webp",
+          "alt": "People gathered at brightly lit waterside food stalls.",
+          "caption": "People gathered at brightly lit waterside food stalls.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-dubai-creek/gangway-to-the-boats.webp",
+          "alt": "An illuminated metal gangway leading towards moored boats.",
+          "caption": "An illuminated metal gangway leading towards moored boats.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai Creek"
+        }
+      ]
+    },
+    {
+      "title": "The last city streets",
+      "date": "2023-12-28",
+      "location": "Deira and Dubai International Airport",
+      "paragraphs": [
+        "Busy corners and restaurant windows close the city walk. The final frame looks up through the airport atrium."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/dubai/2023-12-28-deira-and-airport/bus-stop-at-night.webp",
+          "alt": "Passengers beside a curved enclosed bus stop on a night-time street.",
+          "caption": "Passengers beside a curved enclosed bus stop on a night-time street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Deira, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-deira-and-airport/busy-corner-shops.webp",
+          "alt": "Busy corner shops beneath brightly lit signs.",
+          "caption": "Busy corner shops beneath brightly lit signs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Deira, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-deira-and-airport/turkish-restaurant.webp",
+          "alt": "Diners outside a Turkish restaurant below colourful food signs.",
+          "caption": "Diners outside a Turkish restaurant below colourful food signs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Deira, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-deira-and-airport/pink-lit-building.webp",
+          "alt": "A pink-lit building rising above the street.",
+          "caption": "A pink-lit building rising above the street.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-28",
+          "location": "Deira, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-deira-and-airport/commercial-facade-after-dark.webp",
+          "alt": "A pale commercial façade above a busy street.",
+          "caption": "A pale commercial façade above a busy street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Deira, Dubai"
+        },
+        {
+          "src": "/photos/dubai/2023-12-28-deira-and-airport/airport-glass-lifts.webp",
+          "alt": "Glass lifts inside a tall steel-framed airport atrium.",
+          "caption": "Glass lifts inside a tall steel-framed airport atrium.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-28",
+          "location": "Dubai International Airport",
+          "wide": true
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Dubai",
+    "latitude": 25.2,
+    "longitude": 55.27,
+    "labelPosition": [
+      900,
+      200
+    ]
+  }
+}
