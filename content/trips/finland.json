@@ -1,0 +1,413 @@
+{
+  "slug": "finland",
+  "photoStorage": "r2",
+  "title": "Finland",
+  "subtitle": "Green tram routes, the harbour and city centre, evening clouds over Töölönlahti, and a quiet shoreline walk through Arabianranta.",
+  "country": "Finland",
+  "location": "Helsinki",
+  "category": "Long summer evenings in Helsinki",
+  "order": 11,
+  "demo": false,
+  "startDate": "2026-07-28",
+  "endDate": "2026-07-30",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/finland/2026-07-29-toolonlahti/clouds-over-toolonlahti.webp",
+    "alt": "Evening clouds reflected across the calm water of Töölönlahti, with trees and distant city landmarks along the shore.",
+    "caption": "Evening clouds reflected across the calm water of Töölönlahti, with trees and distant city landmarks along the shore.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2026-07-29",
+    "location": "Töölönlahti, Helsinki"
+  },
+  "chapters": [
+    {
+      "title": "Green routes through the city",
+      "date": "2026-07-28",
+      "location": "Vallila · Kumpula, Helsinki",
+      "paragraphs": [
+        "The first walks follow leafy paths and grassy tram tracks. A small delivery robot passes the shopfronts, and the streets take on a deep blue sky near midnight."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/finland/2026-07-28-vallila-kumpula/the-leafy-path.webp",
+          "alt": "A narrow paved path disappearing beneath a dense green canopy.",
+          "caption": "A narrow paved path disappearing beneath a dense green canopy.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-28",
+          "location": "Vallila · Kumpula, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-28-vallila-kumpula/tracks-through-the-greenery.webp",
+          "alt": "Tram tracks and overhead wires running through green verges and trees.",
+          "caption": "Tram tracks and overhead wires running through green verges and trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-28",
+          "location": "Kumpula, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-28-vallila-kumpula/the-delivery-robot.webp",
+          "alt": "A small blue delivery robot on a pavement beside construction barriers.",
+          "caption": "A small blue delivery robot on a pavement beside construction barriers.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-28",
+          "location": "Vallila, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-28-vallila-kumpula/blue-hour-in-vallila.webp",
+          "alt": "Warm street lamps and pale apartment buildings beneath a deep blue late-evening sky.",
+          "caption": "Warm street lamps and pale apartment buildings beneath a deep blue late-evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-28",
+          "location": "Vallila, Helsinki",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "From the neighbourhood to Töölönlahti",
+      "date": "2026-07-29",
+      "location": "Vallila · Töölönlahti · central Helsinki",
+      "paragraphs": [
+        "Morning light reaches quiet streets and exposed rock before the route opens onto the bay. Geese gather beside the water; farther into the centre, the Parliament House and curved walls of Kiasma come into view."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/finland/2026-07-29-morning-helsinki/trees-along-the-neighbourhood-street.webp",
+          "alt": "Green trees and pale buildings along a quiet sunlit street.",
+          "caption": "Green trees and pale buildings along a quiet sunlit street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Vallila, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-morning-helsinki/rock-and-green-trees.webp",
+          "alt": "Broad exposed rock surrounded by green trees and small buildings.",
+          "caption": "Broad exposed rock surrounded by green trees and small buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Vallila, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-morning-helsinki/geese-beside-the-bay.webp",
+          "alt": "Geese resting on a sandy edge beside blue water and a tree-lined shore.",
+          "caption": "Geese resting on a sandy edge beside blue water and a tree-lined shore.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Töölönlahti, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-morning-helsinki/the-bayside-walk.webp",
+          "alt": "A wide path and low waterfront platforms beside the calm bay.",
+          "caption": "A wide path and low waterfront platforms beside the calm bay.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Töölönlahti, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-morning-helsinki/parliament-house.webp",
+          "alt": "The tall columns of Parliament House behind a large outdoor sculpture.",
+          "caption": "The tall columns of Parliament House behind a large outdoor sculpture.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Parliament House, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-morning-helsinki/curved-walls-of-kiasma.webp",
+          "alt": "The curved pale walls and dark glass end of Kiasma beneath a clear blue sky.",
+          "caption": "The curved pale walls and dark glass end of Kiasma beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Kiasma, Helsinki",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "The harbour and the city centre",
+      "date": "2026-07-29",
+      "location": "Market Square · Esplanadi · Kluuvi, Helsinki",
+      "paragraphs": [
+        "The afternoon takes in boats, orange market tents and the shaded paths of Esplanadi. Statues, trams and the station’s clock tower continue the walk through central Helsinki."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/a-sunlit-city-square.webp",
+          "alt": "Pedestrians crossing a sunlit paved square beside ornate pale façades.",
+          "caption": "Pedestrians crossing a sunlit paved square beside ornate pale façades.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Central Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/sculpture-and-outdoor-tables.webp",
+          "alt": "A polished circular sculpture, outdoor tables and pale city façades.",
+          "caption": "A polished circular sculpture, outdoor tables and pale city façades.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Esplanadi area, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/boats-in-the-harbour.webp",
+          "alt": "Visitors beside moored boats and harbour masts beneath scattered clouds.",
+          "caption": "Visitors beside moored boats and harbour masts beneath scattered clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "South Harbour, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/orange-market-tents.webp",
+          "alt": "Shoppers browsing beneath orange market canopies.",
+          "caption": "Shoppers browsing beneath orange market canopies.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Market Square, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/city-hall-by-the-market.webp",
+          "alt": "The pale blue City Hall façade beyond the street and bicycles.",
+          "caption": "The pale blue City Hall façade beyond the street and bicycles.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Market Square, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/an-afternoon-in-esplanadi.webp",
+          "alt": "People walking between shaded benches and trees beneath a bright summer sky.",
+          "caption": "People walking between shaded benches and trees beneath a bright summer sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-29",
+          "location": "Esplanadi, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/the-three-smiths.webp",
+          "alt": "Three bronze figures before a pale stone building with a green dome.",
+          "caption": "Three bronze figures before a pale stone building with a green dome.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-29",
+          "location": "Central Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/the-green-city-tram.webp",
+          "alt": "A green and yellow tram beside glass-fronted buildings and overhead wires.",
+          "caption": "A green and yellow tram beside glass-fronted buildings and overhead wires.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Kluuvi, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-central-helsinki/the-station-clock-tower.webp",
+          "alt": "The green-topped clock tower and arched entrance of Helsinki Central Station.",
+          "caption": "The green-topped clock tower and arched entrance of Helsinki Central Station.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Helsinki Central Station",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "An evening around the bay",
+      "date": "2026-07-29",
+      "location": "Töölönlahti · Alppila · Vallila, Helsinki",
+      "paragraphs": [
+        "Clouds catch the evening light above glass façades and quiet paths. The return walk passes a hare, the railway and the rising curves of a roller coaster before the sunset reaches the neighbourhood streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/finland/2026-07-29-toolonlahti/glass-and-evening-clouds.webp",
+          "alt": "Layered glass façades reflecting a sky of scattered evening clouds.",
+          "caption": "Layered glass façades reflecting a sky of scattered evening clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Central Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-29-toolonlahti/a-hare-on-the-path.webp",
+          "alt": "A hare crossing a quiet path beside planting and small trees.",
+          "caption": "A hare crossing a quiet path beside planting and small trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-29",
+          "location": "Töölönlahti, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-toolonlahti/the-train-beyond-the-railing.webp",
+          "alt": "A green and white train below overhead wires beside a graffiti-marked railing.",
+          "caption": "A green and white train below overhead wires beside a graffiti-marked railing.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Linnunlaulu area, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-toolonlahti/roller-coaster-among-the-trees.webp",
+          "alt": "The blue steel curves of a roller coaster rising beside tall trees.",
+          "caption": "The blue steel curves of a roller coaster rising beside tall trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-29",
+          "location": "Alppila, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-29-toolonlahti/sunset-over-the-neighbourhood.webp",
+          "alt": "A warm sunset sky above city streets, trees and brick buildings.",
+          "caption": "A warm sunset sky above city streets, trees and brick buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-29",
+          "location": "Vallila, Helsinki",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Trams and the quiet shore of Arabianranta",
+      "date": "2026-07-30",
+      "location": "Kumpula · Arabianranta, Helsinki",
+      "paragraphs": [
+        "A tram passes beneath the trees in the morning. The later walk follows pale evening light to the shore, where geese rest in the grass. Brick buildings, public art and leafy paths complete the route through Arabianranta."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/tram-beneath-the-trees.webp",
+          "alt": "A tram approaching along curving rails beneath tall green trees.",
+          "caption": "A tram approaching along curving rails beneath tall green trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Kumpula, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/tram-in-arabia.webp",
+          "alt": "A green and yellow tram in front of brick buildings beneath a pale evening sky.",
+          "caption": "A green and yellow tram in front of brick buildings beneath a pale evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/figures-by-the-evening-water.webp",
+          "alt": "Two figures beside a quiet shore beneath a pale pink evening sky.",
+          "caption": "Two figures beside a quiet shore beneath a pale pink evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta shoreline, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/sunset-above-the-meadow.webp",
+          "alt": "Orange evening clouds above a meadow and low city buildings.",
+          "caption": "Orange evening clouds above a meadow and low city buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/geese-in-the-grass.webp",
+          "alt": "Black and white geese resting among grass and small flowers.",
+          "caption": "Black and white geese resting among grass and small flowers.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta shoreline, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/hanging-sculptures-on-the-building.webp",
+          "alt": "Large hanging spherical sculptures beside a pale façade and brick wall.",
+          "caption": "Large hanging spherical sculptures beside a pale façade and brick wall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/the-painted-dog-at-arabia.webp",
+          "alt": "A colourful geometric dog painted below signs on the former Arabia factory building.",
+          "caption": "A colourful geometric dog painted below signs on the former Arabia factory building.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabia factory area, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/the-view-between-the-trees.webp",
+          "alt": "A glimpse of pale water framed by dense leafy trees.",
+          "caption": "A glimpse of pale water framed by dense leafy trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta, Helsinki"
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/angular-roofs-at-dusk.webp",
+          "alt": "An angular upper storey above a brick building with softly lit windows.",
+          "caption": "An angular upper storey above a brick building with softly lit windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta, Helsinki",
+          "wide": true
+        },
+        {
+          "src": "/photos/finland/2026-07-30-arabianranta/stone-figures-and-a-glowing-lamp.webp",
+          "alt": "Reclining stone lion sculptures beside a glowing round lamp and a glass entrance.",
+          "caption": "Reclining stone lion sculptures beside a glowing round lamp and a glass entrance.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-30",
+          "location": "Arabianranta, Helsinki",
+          "wide": true
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Helsinki",
+    "latitude": 60.17,
+    "longitude": 24.94,
+    "labelPosition": [
+      740,
+      495
+    ]
+  }
+}

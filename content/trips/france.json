@@ -1,0 +1,821 @@
+{
+  "slug": "france",
+  "photoStorage": "r2",
+  "title": "France",
+  "subtitle": "A railway arrival in Metz and a long day across Paris, from the Louvre and riverside palaces to the Eiffel Tower and the rain-lit streets of Montmartre.",
+  "country": "France",
+  "location": "Lorraine · Metz · Paris",
+  "category": "From Lorraine to the streets of Paris",
+  "order": 9,
+  "demo": false,
+  "startDate": "2024-04-26",
+  "endDate": "2024-04-27",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/france/2024-04-27-louvre-tuileries/louvre-pyramid.webp",
+    "alt": "Visitors crossing the courtyard before the Louvre’s glass pyramid beneath a bright, cloud-filled sky.",
+    "caption": "Visitors crossing the courtyard before the Louvre’s glass pyramid beneath a bright, cloud-filled sky.",
+    "width": 2400,
+    "height": 1350,
+    "capturedOn": "2024-04-27",
+    "location": "Louvre, Paris"
+  },
+  "chapters": [
+    {
+      "title": "Across Lorraine to Metz",
+      "date": "2024-04-26",
+      "location": "Lorraine · Metz",
+      "paragraphs": [
+        "Fields pass the train window before the stone towers and broad station square of Metz. The photographs pause among the surrounding streets and beneath the station’s vaulted ceiling."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/fields-from-the-train.webp",
+          "alt": "Green fields and a narrow farm road seen from the train beneath scattered clouds.",
+          "caption": "Green fields and a narrow farm road seen from the train beneath scattered clouds.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Lorraine, France",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/arrival-on-the-platform.webp",
+          "alt": "Travellers standing beside a train under the platform canopy.",
+          "caption": "Travellers standing beside a train under the platform canopy.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-26",
+          "location": "Metz-Ville station"
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/metz-station-square.webp",
+          "alt": "The long stone frontage and clock tower of Metz-Ville station across its broad square.",
+          "caption": "The long stone frontage and clock tower of Metz-Ville station across its broad square.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Metz-Ville station",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/stone-buildings-by-the-station.webp",
+          "alt": "Pedestrians crossing a paved square beside large stone buildings.",
+          "caption": "Pedestrians crossing a paved square beside large stone buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Station district, Metz"
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/tree-lined-boulevard.webp",
+          "alt": "A tree-lined boulevard beside stone buildings and parked cars.",
+          "caption": "A tree-lined boulevard beside stone buildings and parked cars.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Station district, Metz"
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/old-post-office.webp",
+          "alt": "The red-brown stone walls, slate roofs and square towers of the old post office.",
+          "caption": "The red-brown stone walls, slate roofs and square towers of the old post office.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Station district, Metz"
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/carved-station-stonework.webp",
+          "alt": "Carved figures and decorative stonework below the station tower.",
+          "caption": "Carved figures and decorative stonework below the station tower.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-26",
+          "location": "Metz-Ville station"
+        },
+        {
+          "src": "/photos/france/2024-04-26-lorraine-metz/vaulted-station-hall.webp",
+          "alt": "A warm yellow vaulted ceiling and tall windows above the station hall.",
+          "caption": "A warm yellow vaulted ceiling and tall windows above the station hall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Metz-Ville station",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "From the Louvre to the gardens",
+      "date": "2024-04-27",
+      "location": "Louvre · Tuileries · Place de la Concorde, Paris",
+      "paragraphs": [
+        "The day begins among the Louvre’s stone façades and covered arches. Green chairs, quiet paths, new leaves and carved figures continue the walk through the Tuileries towards the fountains of Concorde."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/statue-in-the-louvre-courtyard.webp",
+          "alt": "An equestrian statue before the Louvre’s carved stone façades.",
+          "caption": "An equestrian statue before the Louvre’s carved stone façades.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Louvre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/the-long-arcade.webp",
+          "alt": "An ornate vaulted arcade receding between pale stone columns.",
+          "caption": "An ornate vaulted arcade receding between pale stone columns.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Louvre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/arches-and-carved-facades.webp",
+          "alt": "Rows of arched windows and carved stone decoration around the Louvre courtyard.",
+          "caption": "Rows of arched windows and carved stone decoration around the Louvre courtyard.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Louvre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/bronze-sculpture-in-the-garden.webp",
+          "alt": "A dark bronze animal sculpture in a planted bed before a long palace façade.",
+          "caption": "A dark bronze animal sculpture in a planted bed before a long palace façade.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Tuileries Garden, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/green-chairs-by-the-pool.webp",
+          "alt": "Green chairs arranged beside a broad round garden pool.",
+          "caption": "Green chairs arranged beside a broad round garden pool.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Tuileries Garden, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/the-garden-avenue.webp",
+          "alt": "A broad sandy avenue between trees, benches and garden chairs.",
+          "caption": "A broad sandy avenue between trees, benches and garden chairs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Tuileries Garden, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/beneath-the-leafy-canopy.webp",
+          "alt": "A lamp and benches beneath a dense canopy of fresh green leaves.",
+          "caption": "A lamp and benches beneath a dense canopy of fresh green leaves.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Tuileries Garden, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/spring-flower-detail.webp",
+          "alt": "Pale blossoms among large green leaves on a garden tree.",
+          "caption": "Pale blossoms among large green leaves on a garden tree.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Tuileries Garden, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/stone-figures-in-the-garden.webp",
+          "alt": "Reclining stone figures and a lion beneath a cloudy sky.",
+          "caption": "Reclining stone figures and a lion beneath a cloudy sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Tuileries Garden, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/fountain-at-concorde.webp",
+          "alt": "Blue and gold fountain figures beneath tiered basins, with the obelisk beyond.",
+          "caption": "Blue and gold fountain figures beneath tiered basins, with the obelisk beyond.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Place de la Concorde, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-louvre-tuileries/the-obelisk-under-clouds.webp",
+          "alt": "The tall obelisk rising above the square beneath heavy clouds.",
+          "caption": "The tall obelisk rising above the square beneath heavy clouds.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Place de la Concorde, Paris"
+        }
+      ]
+    },
+    {
+      "title": "Palace façades and museum rooms",
+      "date": "2024-04-27",
+      "location": "Petit Palais · Grand Palais · Seine, Paris",
+      "paragraphs": [
+        "Small garden details lead to monumental façades. Inside the Petit Palais, paintings and a sweeping staircase give way to the river and the gilded figures above Pont Alexandre III."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/a-fountain-under-the-trees.webp",
+          "alt": "A small decorated fountain beneath leafy trees.",
+          "caption": "A small decorated fountain beneath leafy trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Champs-Élysées gardens, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/petit-palais-facade.webp",
+          "alt": "The long colonnaded façade and richly carved arched entrance of the Petit Palais.",
+          "caption": "The long colonnaded façade and richly carved arched entrance of the Petit Palais.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Petit Palais, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/grand-palais-columns.webp",
+          "alt": "Tall stone columns, roof sculptures and a curved glass roof at the Grand Palais.",
+          "caption": "Tall stone columns, roof sculptures and a curved glass roof at the Grand Palais.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Grand Palais, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/the-gilded-museum-gate.webp",
+          "alt": "The gilded gate of the Petit Palais framed by carved stone arches.",
+          "caption": "The gilded gate of the Petit Palais framed by carved stone arches.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Petit Palais, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/the-museum-gallery.webp",
+          "alt": "Visitors walking between paintings and sculpture beneath a long skylight.",
+          "caption": "Visitors walking between paintings and sculpture beneath a long skylight.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Petit Palais, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/red-gallery-walls.webp",
+          "alt": "A red gallery wall framing a doorway into the next room.",
+          "caption": "A red gallery wall framing a doorway into the next room.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Petit Palais, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/the-curving-staircase.webp",
+          "alt": "A sweeping white stone staircase with an ornate black iron railing.",
+          "caption": "A sweeping white stone staircase with an ornate black iron railing.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Petit Palais, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/gilded-figures-above-the-bridge.webp",
+          "alt": "Gilded figures on tall stone pillars at Pont Alexandre III.",
+          "caption": "Gilded figures on tall stone pillars at Pont Alexandre III.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Pont Alexandre III, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-petit-palais-seine/boats-on-the-seine.webp",
+          "alt": "Boats moored along both banks of the Seine beneath layered clouds.",
+          "caption": "Boats moored along both banks of the Seine beneath layered clouds.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Seine, Paris",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A pause and the courtyards of Invalides",
+      "date": "2024-04-27",
+      "location": "Rue Saint-Dominique · Les Invalides, Paris",
+      "paragraphs": [
+        "A narrow passage and a café breakfast mark a pause between walks. The route then enters the broad stone courtyards of Les Invalides and continues towards its gilded dome."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-invalides/a-quiet-paris-street.webp",
+          "alt": "Stone and brick façades with iron balconies above a narrow street.",
+          "caption": "Stone and brick façades with iron balconies above a narrow street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "7th arrondissement, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-invalides/a-covered-passage.webp",
+          "alt": "A dark covered entrance opening onto a narrow cobbled passage.",
+          "caption": "A dark covered entrance opening onto a narrow cobbled passage.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "7th arrondissement, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-invalides/breakfast-by-the-window.webp",
+          "alt": "Coffee and topped toast on a blue plate beside a café window.",
+          "caption": "Coffee and topped toast on a blue plate beside a café window.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "7th arrondissement, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-invalides/approaching-invalides.webp",
+          "alt": "Visitors walking towards the long façade of Les Invalides between clipped trees.",
+          "caption": "Visitors walking towards the long façade of Les Invalides between clipped trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Les Invalides, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-invalides/the-stone-entrance.webp",
+          "alt": "The carved arched entrance of Les Invalides beneath a French flag.",
+          "caption": "The carved arched entrance of Les Invalides beneath a French flag.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Les Invalides, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-invalides/the-courtyard-of-invalides.webp",
+          "alt": "A broad stone courtyard surrounded by two levels of arcades.",
+          "caption": "A broad stone courtyard surrounded by two levels of arcades.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Les Invalides, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-invalides/the-gilded-dome.webp",
+          "alt": "The gilded dome above a pale stone façade beneath a grey sky.",
+          "caption": "The gilded dome above a pale stone façade beneath a grey sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Les Invalides, Paris"
+        }
+      ]
+    },
+    {
+      "title": "Shops and flowers around Rue Cler",
+      "date": "2024-04-27",
+      "location": "Rue Cler · 7th arrondissement, Paris",
+      "paragraphs": [
+        "The next streets are lined with cafés, fruit stalls, books and flowers. A slower walk takes in the shopfronts and the people moving between them."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-rue-cler/cafes-on-the-corner.webp",
+          "alt": "Red café awnings, outdoor tables and scooters on a Paris street.",
+          "caption": "Red café awnings, outdoor tables and scooters on a Paris street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "7th arrondissement, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-rue-cler/books-and-postcards.webp",
+          "alt": "Postcards and books displayed outside a small stationery and book shop.",
+          "caption": "Postcards and books displayed outside a small stationery and book shop.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Rue Cler, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-rue-cler/fruit-under-the-green-awning.webp",
+          "alt": "Fruit and vegetables stacked beneath a green shop awning.",
+          "caption": "Fruit and vegetables stacked beneath a green shop awning.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Rue Cler, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-rue-cler/the-flower-shop.webp",
+          "alt": "Potted plants and cut flowers filling the pavement outside a flower shop.",
+          "caption": "Potted plants and cut flowers filling the pavement outside a flower shop.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Rue Cler, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-rue-cler/the-delicatessen-window.webp",
+          "alt": "Food displayed behind the glass of a delicatessen with a black awning.",
+          "caption": "Food displayed behind the glass of a delicatessen with a black awning.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Rue Cler, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-rue-cler/a-walk-through-rue-cler.webp",
+          "alt": "Pedestrians and café tables lining a narrow shopping street.",
+          "caption": "Pedestrians and café tables lining a narrow shopping street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Rue Cler, Paris"
+        }
+      ]
+    },
+    {
+      "title": "Above and below the Eiffel Tower",
+      "date": "2024-04-27",
+      "location": "Eiffel Tower, Paris",
+      "paragraphs": [
+        "At ground level, artists and visitors gather beneath the ironwork. Higher up, the gardens, river and dense city blocks spread out in different directions before the view turns back into the tower’s steel frame."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/the-eiffel-tower.webp",
+          "alt": "The Eiffel Tower rising above visitors and trees beneath a pale sky.",
+          "caption": "The Eiffel Tower rising above visitors and trees beneath a pale sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Eiffel Tower, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/looking-up-through-the-ironwork.webp",
+          "alt": "The tower’s curved iron legs and latticework seen from below.",
+          "caption": "The tower’s curved iron legs and latticework seen from below.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Eiffel Tower, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/artists-beneath-the-tower.webp",
+          "alt": "Artists and small portrait displays beside visitors near the tower.",
+          "caption": "Artists and small portrait displays beside visitors near the tower.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Eiffel Tower, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/champ-de-mars-panorama.webp",
+          "alt": "A broad panorama over the green lawns of the Champ de Mars and the city beyond.",
+          "caption": "A broad panorama over the green lawns of the Champ de Mars and the city beyond.",
+          "width": 2000,
+          "height": 1008,
+          "capturedOn": "2024-04-27",
+          "location": "Champ de Mars from the Eiffel Tower, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/trocadero-across-the-river.webp",
+          "alt": "The Seine, bridge and gardens leading towards the Palais de Chaillot.",
+          "caption": "The Seine, bridge and gardens leading towards the Palais de Chaillot.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Trocadéro from the Eiffel Tower, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/the-seine-through-the-city.webp",
+          "alt": "The Seine winding between dense city blocks and successive bridges.",
+          "caption": "The Seine winding between dense city blocks and successive bridges.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Paris from the Eiffel Tower",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/inside-the-tower-frame.webp",
+          "alt": "A steep view through diagonal iron beams towards the ground below.",
+          "caption": "A steep view through diagonal iron beams towards the ground below.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Eiffel Tower, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/the-plaza-below.webp",
+          "alt": "Visitors and small buildings seen far below through the tower’s arched ironwork.",
+          "caption": "Visitors and small buildings seen far below through the tower’s arched ironwork.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Eiffel Tower, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-eiffel-tower/layers-of-steel.webp",
+          "alt": "Dense layers of pale steel beams and columns inside the tower.",
+          "caption": "Dense layers of pale steel beams and columns inside the tower.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Eiffel Tower, Paris"
+        }
+      ]
+    },
+    {
+      "title": "Stonework around the Arc and Chaillot",
+      "date": "2024-04-27",
+      "location": "Arc de Triomphe · Chaillot, Paris",
+      "paragraphs": [
+        "The Arc de Triomphe fills the next views: carved reliefs, the deep vault and flowers at the tomb below. The walk continues past a museum façade and a planted square in Chaillot."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-arc-chaillot/arc-de-triomphe.webp",
+          "alt": "The full stone façade of the Arc de Triomphe beneath a cloudy sky.",
+          "caption": "The full stone façade of the Arc de Triomphe beneath a cloudy sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Arc de Triomphe, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-arc-chaillot/carved-relief-on-the-arc.webp",
+          "alt": "A large carved relief of figures on one side of the Arc.",
+          "caption": "A large carved relief of figures on one side of the Arc.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Arc de Triomphe, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-arc-chaillot/flowers-at-the-tomb.webp",
+          "alt": "Flower wreaths around the Tomb of the Unknown Soldier beneath the Arc.",
+          "caption": "Flower wreaths around the Tomb of the Unknown Soldier beneath the Arc.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Arc de Triomphe, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-arc-chaillot/beneath-the-vault.webp",
+          "alt": "The deeply patterned stone vault and inscriptions inside the Arc.",
+          "caption": "The deeply patterned stone vault and inscriptions inside the Arc.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Arc de Triomphe, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-arc-chaillot/palais-galliera.webp",
+          "alt": "A colonnaded museum façade above steps, sculpture and a formal garden.",
+          "caption": "A colonnaded museum façade above steps, sculpture and a formal garden.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Palais Galliera, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-arc-chaillot/a-statue-in-the-square.webp",
+          "alt": "A stone statue at the centre of a green square framed by apartment buildings.",
+          "caption": "A stone statue at the centre of a green square framed by apartment buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Chaillot, Paris"
+        }
+      ]
+    },
+    {
+      "title": "Rain and evening light in Montmartre",
+      "date": "2024-04-27",
+      "location": "Montmartre, Paris",
+      "paragraphs": [
+        "Sloping streets lead towards Sacré-Cœur, its mosaics and stained glass. Outside, painted walls, small shops and a carousel accompany the descent; the evening ends among reflections on the wet streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/france/2024-04-27-montmartre/a-montmartre-street.webp",
+          "alt": "A narrow street between pale buildings on the slopes of Montmartre.",
+          "caption": "A narrow street between pale buildings on the slopes of Montmartre.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/a-painted-face-on-the-wall.webp",
+          "alt": "A large painted face on an old wall above parked bicycles.",
+          "caption": "A large painted face on an old wall above parked bicycles.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/sacre-coeur-from-below.webp",
+          "alt": "The pale domes and carved entrance of Sacré-Cœur seen from below.",
+          "caption": "The pale domes and carved entrance of Sacré-Cœur seen from below.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Sacré-Cœur, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/colour-and-stained-glass.webp",
+          "alt": "Flags and coloured displays beneath tall stained-glass windows inside the basilica.",
+          "caption": "Flags and coloured displays beneath tall stained-glass windows inside the basilica.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Sacré-Cœur, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/inside-the-basilica.webp",
+          "alt": "A congregation beneath the high stone vaults and large apse mosaic.",
+          "caption": "A congregation beneath the high stone vaults and large apse mosaic.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Sacré-Cœur, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/stained-glass-detail.webp",
+          "alt": "Two tall stained-glass windows framed by pale stone columns.",
+          "caption": "Two tall stained-glass windows framed by pale stone columns.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Sacré-Cœur, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/the-wet-shopping-street.webp",
+          "alt": "Visitors and shop displays along a narrow wet cobbled street.",
+          "caption": "Visitors and shop displays along a narrow wet cobbled street.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/paintings-in-the-shop-window.webp",
+          "alt": "Paintings and small framed pictures filling a brightly lit art shop.",
+          "caption": "Paintings and small framed pictures filling a brightly lit art shop.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/nuts-at-the-market-stall.webp",
+          "alt": "A vendor behind large piles of nuts beneath a timber shop ceiling.",
+          "caption": "A vendor behind large piles of nuts beneath a timber shop ceiling.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/flowers-and-painted-walls.webp",
+          "alt": "Flowers, painted figures and red awnings on a busy restaurant corner.",
+          "caption": "Flowers, painted figures and red awnings on a busy restaurant corner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/a-painted-couple-and-red-umbrella.webp",
+          "alt": "Painted figures and a red umbrella above steps beside a street corner.",
+          "caption": "Painted figures and a red umbrella above steps beside a street corner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/locks-on-the-railing.webp",
+          "alt": "Brass padlocks crowded onto a metal railing.",
+          "caption": "Brass padlocks crowded onto a metal railing.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/painted-steps-below-sacre-coeur.webp",
+          "alt": "Visitors climbing brightly painted steps towards the white domes of Sacré-Cœur.",
+          "caption": "Visitors climbing brightly painted steps towards the white domes of Sacré-Cœur.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Sacré-Cœur, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/paris-from-the-terrace.webp",
+          "alt": "A broad view of Paris beyond the railings and visitors on the hilltop terrace.",
+          "caption": "A broad view of Paris beyond the railings and visitors on the hilltop terrace.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris",
+          "wide": true
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/steps-through-the-trees.webp",
+          "alt": "Visitors descending a narrow path beneath leafy trees.",
+          "caption": "Visitors descending a narrow path beneath leafy trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/the-carousel.webp",
+          "alt": "A decorated carousel below the stone steps of Montmartre.",
+          "caption": "A decorated carousel below the stone steps of Montmartre.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/the-theatre-facade.webp",
+          "alt": "An ornate pale theatre façade above a busy evening pavement.",
+          "caption": "An ornate pale theatre façade above a busy evening pavement.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/scarves-and-ribbons.webp",
+          "alt": "Bright scarves and long ribbons hanging outside a small shop.",
+          "caption": "Bright scarves and long ribbons hanging outside a small shop.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-27",
+          "location": "Montmartre, Paris"
+        },
+        {
+          "src": "/photos/france/2024-04-27-montmartre/reflections-after-dark.webp",
+          "alt": "Street lamps, traffic lights and a cyclist reflected on wet paving at night.",
+          "caption": "Street lamps, traffic lights and a cyclist reflected on wet paving at night.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-27",
+          "location": "Place de Clichy, Paris",
+          "wide": true
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Paris · Metz",
+    "latitude": 48.86,
+    "longitude": 2.34,
+    "labelPosition": [
+      790,
+      140
+    ]
+  }
+}

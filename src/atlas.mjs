@@ -22,6 +22,10 @@ export const atlasCountries = {
   Australia: { id: 'australia', label: 'Australia', code: 'AUS', longitude: 134, latitude: -25, labelPosition: [1010, 477], bounds: [110, -45, 155, -9] },
   'United Kingdom': { id: 'united-kingdom', label: 'Britain (UK)', code: 'GBR', longitude: -2.5, latitude: 54.5, labelPosition: [570, 65], bounds: [-11, 49, 3, 61] },
   Malaysia: { id: 'malaysia', label: 'Malaysia', code: 'MYS', longitude: 102, latitude: 4, labelPosition: [990, 315], bounds: [98, 0, 105, 8] },
+  Germany: { id: 'germany', label: 'Germany', code: 'DEU', longitude: 10.5, latitude: 51, labelPosition: [650, 140], bounds: [5.5, 47, 15.5, 55.5] },
+  France: { id: 'france', label: 'France', code: 'FRA', longitude: 2.5, latitude: 46.6, labelPosition: [465, 165], bounds: [-5.5, 41, 9.7, 51.5] },
+  Portugal: { id: 'portugal', label: 'Portugal', code: 'PRT', longitude: -8, latitude: 39.6, labelPosition: [455, 225], bounds: [-10, 36.5, -6, 42.5] },
+  Finland: { id: 'finland', label: 'Finland', code: 'FIN', longitude: 25.7, latitude: 64.8, labelPosition: [720, 55], bounds: [19, 59, 32, 70.5] },
 };
 
 export function fitAtlasBounds([west, south, east, north]) {

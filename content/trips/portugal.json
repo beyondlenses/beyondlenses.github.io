@@ -1,0 +1,715 @@
+{
+  "slug": "portugal",
+  "photoStorage": "r2",
+  "title": "Portugal",
+  "subtitle": "Everyday Lisbon, crowded squares and a walk through Baixa, Carmo and Alfama to the castle views, evening trams and the Tagus after dark.",
+  "country": "Portugal",
+  "location": "Lisbon",
+  "category": "Summer days in Lisbon",
+  "order": 10,
+  "demo": false,
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-27",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/portugal/2026-07-26-sao-jorge/lisbon-and-the-tagus.webp",
+    "alt": "Lisbon’s red roofs and pale façades above the Tagus, with the suspension bridge in the distance.",
+    "caption": "Lisbon’s red roofs and pale façades above the Tagus, with the suspension bridge in the distance.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2026-07-26",
+    "location": "São Jorge Castle viewpoint, Lisbon"
+  },
+  "chapters": [
+    {
+      "title": "First evening in Lisbon",
+      "date": "2026-07-17",
+      "location": "Campo Pequeno · Avenidas Novas, Lisbon",
+      "paragraphs": [
+        "The first evening photographs contrast the brick arches around Campo Pequeno with a geometric glass façade lit in red."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-17-avenidas-novas/campo-pequeno-after-dark.webp",
+          "alt": "Lit brick arches and busy outdoor tables around Campo Pequeno at night.",
+          "caption": "Lit brick arches and busy outdoor tables around Campo Pequeno at night.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-17",
+          "location": "Campo Pequeno, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-17-avenidas-novas/red-lit-glass-facade.webp",
+          "alt": "A large geometric glass façade glowing red above an evening street.",
+          "caption": "A large geometric glass façade glowing red above an evening street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-17",
+          "location": "Avenidas Novas, Lisbon",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "From a quiet park to a crowded square",
+      "date": "2026-07-19",
+      "location": "Lisbon",
+      "paragraphs": [
+        "An aircraft passes low above the trees before the day moves to a crowded outdoor screening near the river. Lit façades and a tiled metro passage close the evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-19-lisbon/aircraft-above-the-trees.webp",
+          "alt": "An aircraft passing above trees against a clear blue sky.",
+          "caption": "An aircraft passing above trees against a clear blue sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-19",
+          "location": "Northern Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-19-lisbon/the-outdoor-screening.webp",
+          "alt": "A crowd gathered before a large outdoor screen near an equestrian statue.",
+          "caption": "A crowd gathered before a large outdoor screen near an equestrian statue.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-19",
+          "location": "Praça do Comércio, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-19-lisbon/a-screen-above-the-crowd.webp",
+          "alt": "A red-lit screen above the gathered crowd at night.",
+          "caption": "A red-lit screen above the gathered crowd at night.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-19",
+          "location": "Praça do Comércio, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-19-lisbon/evening-around-the-square.webp",
+          "alt": "People leaving an outdoor event beside the illuminated buildings of the square.",
+          "caption": "People leaving an outdoor event beside the illuminated buildings of the square.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-19",
+          "location": "Praça do Comércio, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-19-lisbon/the-tiled-metro-passage.webp",
+          "alt": "A long empty metro passage with a blue and white tiled arched ceiling.",
+          "caption": "A long empty metro passage with a blue and white tiled arched ceiling.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-19",
+          "location": "Lisbon Metro"
+        }
+      ]
+    },
+    {
+      "title": "Glass and a table in the city",
+      "date": "2026-07-21",
+      "location": "Avenidas Novas, Lisbon",
+      "paragraphs": [
+        "A geometric building catches the clear afternoon light. Later, a meal of grilled food, potatoes and greens marks a pause indoors."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-21-avenidas-novas/the-geometric-city-building.webp",
+          "alt": "A pale geometric façade and dark glass corner above a busy road.",
+          "caption": "A pale geometric façade and dark glass corner above a busy road.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-21",
+          "location": "Avenidas Novas, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-21-avenidas-novas/dinner-and-potatoes.webp",
+          "alt": "Grilled food, small potatoes and greens on a round white plate.",
+          "caption": "Grilled food, small potatoes and greens on a round white plate.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-21",
+          "location": "Avenidas Novas, Lisbon"
+        }
+      ]
+    },
+    {
+      "title": "The park and the evening hall",
+      "date": "2026-07-22",
+      "location": "Campo Pequeno, Lisbon",
+      "paragraphs": [
+        "Trees shade the path near Campo Pequeno. Inside the circular venue later that evening, an audience sits beneath the roof and tiers of red seating."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-22-campo-pequeno/a-shaded-park-path.webp",
+          "alt": "A curving path beneath mature trees and beside a green lawn.",
+          "caption": "A curving path beneath mature trees and beside a green lawn.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-22",
+          "location": "Campo Pequeno, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-22-campo-pequeno/inside-the-circular-hall.webp",
+          "alt": "An audience beneath the broad roof and tiers of red seating inside Campo Pequeno.",
+          "caption": "An audience beneath the broad roof and tiers of red seating inside Campo Pequeno.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-22",
+          "location": "Campo Pequeno, Lisbon",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Colour along the everyday route",
+      "date": "2026-07-23",
+      "location": "Avenidas Novas, Lisbon",
+      "paragraphs": [
+        "A red city bus and a long painted mural add colour to the streets around the everyday route through northern Lisbon."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-23-avenidas-novas/red-bus-on-the-avenue.webp",
+          "alt": "A red double-decker bus approaching along a tree-lined city avenue.",
+          "caption": "A red double-decker bus approaching along a tree-lined city avenue.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-23",
+          "location": "Avenidas Novas, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-23-avenidas-novas/the-painted-street-wall.webp",
+          "alt": "A long colourful mural beside a street and low construction barriers.",
+          "caption": "A long colourful mural beside a street and low construction barriers.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-23",
+          "location": "Avenidas Novas, Lisbon"
+        }
+      ]
+    },
+    {
+      "title": "A pause for dinner",
+      "date": "2026-07-25",
+      "location": "Lisbon",
+      "paragraphs": [
+        "A restaurant table provides a quieter photograph between the city walks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-25-lisbon/dinner-in-lisbon.webp",
+          "alt": "A plated meal topped with sliced vegetables and a small tomato, beside rice and drinking glasses.",
+          "caption": "A plated meal topped with sliced vegetables and a small tomato, beside rice and drinking glasses.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-25",
+          "location": "Lisbon"
+        }
+      ]
+    },
+    {
+      "title": "Squares, steps and the streets of Baixa",
+      "date": "2026-07-26",
+      "location": "Baixa · Carmo · Rossio, Lisbon",
+      "paragraphs": [
+        "The long walk begins among tiled façades, small vehicles and busy squares. An iron lift rises between the streets, while steps and narrow lanes connect Carmo with the patterned paving and fountains of Rossio."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-northern-city-avenue.webp",
+          "alt": "Pale apartment façades and green trees along a broad sunlit avenue.",
+          "caption": "Pale apartment façades and green trees along a broad sunlit avenue.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Northern Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/praca-da-figueira.webp",
+          "alt": "Market tents and pale façades around a broad paved square.",
+          "caption": "Market tents and pale façades around a broad paved square.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Praça da Figueira, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/statue-in-praca-da-figueira.webp",
+          "alt": "An equestrian statue above market tents beneath a clear blue sky.",
+          "caption": "An equestrian statue above market tents beneath a clear blue sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Praça da Figueira, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/santa-justa-between-the-buildings.webp",
+          "alt": "The iron Santa Justa Lift framed by tall buildings along a narrow street.",
+          "caption": "The iron Santa Justa Lift framed by tall buildings along a narrow street.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Santa Justa Lift, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-small-yellow-bus.webp",
+          "alt": "A compact yellow city bus beside pale stone shopfronts.",
+          "caption": "A compact yellow city bus beside pale stone shopfronts.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Baixa, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/painted-figures-on-the-building.webp",
+          "alt": "Painted figures covering a tall street wall beside passing visitors.",
+          "caption": "Painted figures covering a tall street wall beside passing visitors.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Baixa, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-carmo-doorway.webp",
+          "alt": "A pointed stone doorway beneath a leafy tree and pale weathered walls.",
+          "caption": "A pointed stone doorway beneath a leafy tree and pale weathered walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Carmo, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/fountain-under-the-trees.webp",
+          "alt": "An ornate stone fountain framed by green trees in a small square.",
+          "caption": "An ornate stone fountain framed by green trees in a small square.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Largo do Carmo, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-vintage-style-tour-car.webp",
+          "alt": "A small red vintage-style tour vehicle parked beside a yellow building.",
+          "caption": "A small red vintage-style tour vehicle parked beside a yellow building.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Carmo, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-pink-corner-building.webp",
+          "alt": "A narrow pink corner building above a steep lane and passing pedestrians.",
+          "caption": "A narrow pink corner building above a steep lane and passing pedestrians.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Carmo, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/painted-steps-and-small-shops.webp",
+          "alt": "Broad stone steps between small shops and painted walls.",
+          "caption": "Broad stone steps between small shops and painted walls.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Carmo, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-view-down-the-steps.webp",
+          "alt": "A steep view down a narrow street towards the sunlit buildings beyond.",
+          "caption": "A steep view down a narrow street towards the sunlit buildings beyond.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Carmo · Rossio, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-column-in-rossio.webp",
+          "alt": "The tall column and statue in Rossio rising against a clear blue sky.",
+          "caption": "The tall column and statue in Rossio rising against a clear blue sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Rossio, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/ornate-metalwork-and-wavy-paving.webp",
+          "alt": "An ornate metal drinking fountain above patterned black and white paving.",
+          "caption": "An ornate metal drinking fountain above patterned black and white paving.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Rossio, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/fountain-and-pale-facades.webp",
+          "alt": "A fountain before yellow and white façades on the edge of Rossio.",
+          "caption": "A fountain before yellow and white façades on the edge of Rossio.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Rossio, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/arco-da-bandeira.webp",
+          "alt": "A decorated yellow and white archway with an ornate window and balcony.",
+          "caption": "A decorated yellow and white archway with an ornate window and balcony.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Arco da Bandeira, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/the-tram-in-the-narrow-street.webp",
+          "alt": "A yellow tram between tall sunlit buildings and overhead wires.",
+          "caption": "A yellow tram between tall sunlit buildings and overhead wires.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Baixa, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-carmo/lunch-in-baixa.webp",
+          "alt": "A sandwich, fries and a dark drink on a small café table.",
+          "caption": "A sandwich, fries and a dark drink on a small café table.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Baixa, Lisbon"
+        }
+      ]
+    },
+    {
+      "title": "Roofs, trees and the castle viewpoints",
+      "date": "2026-07-26",
+      "location": "São Jorge Castle · Alfama, Lisbon",
+      "paragraphs": [
+        "Painted faces and a carved gateway lead towards the castle grounds. The views open across the roofs to the Tagus; closer by are fountains, shaded arches and a peacock among the café chairs. The light softens towards sunset."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/painted-faces-on-the-wall.webp",
+          "alt": "Large colourful painted faces across a long wall beside a cobbled path.",
+          "caption": "Large colourful painted faces across a long wall beside a cobbled path.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Near São Jorge Castle, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/the-carved-castle-gateway.webp",
+          "alt": "A carved stone gateway framing a narrow opening through the castle entrance.",
+          "caption": "A carved stone gateway framing a narrow opening through the castle entrance.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/red-roofs-above-the-tagus.webp",
+          "alt": "Red tiled roofs and pale walls above the broad blue Tagus.",
+          "caption": "Red tiled roofs and pale walls above the broad blue Tagus.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle viewpoint, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/statue-beneath-the-pines.webp",
+          "alt": "A stone statue on a tall plinth beneath green pine trees.",
+          "caption": "A stone statue on a tall plinth beneath green pine trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/cannon-facing-the-river.webp",
+          "alt": "An old cannon facing the city roofs and Tagus beneath pine branches.",
+          "caption": "An old cannon facing the city roofs and Tagus beneath pine branches.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/arches-and-pine-trees.webp",
+          "alt": "A series of stone arches and steps beneath tall pine trees.",
+          "caption": "A series of stone arches and steps beneath tall pine trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/stone-fountain-in-the-wall.webp",
+          "alt": "A carved stone basin and arched surround set into an old wall.",
+          "caption": "A carved stone basin and arched surround set into an old wall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/peacock-among-the-chairs.webp",
+          "alt": "A blue, green and white peacock walking between café chairs.",
+          "caption": "A blue, green and white peacock walking between café chairs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/the-lion-head-fountain.webp",
+          "alt": "A small basin beneath a carved lion’s head on a dark stone wall.",
+          "caption": "A small basin beneath a carved lion’s head on a dark stone wall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/church-and-dome-above-the-roofs.webp",
+          "alt": "A pale twin-towered church and distant dome rising above the red roofs.",
+          "caption": "A pale twin-towered church and distant dome rising above the red roofs.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle viewpoint, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/the-city-in-evening-light.webp",
+          "alt": "Warm evening light across dense red roofs and pale city buildings.",
+          "caption": "Warm evening light across dense red roofs and pale city buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle viewpoint, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/evening-on-the-tagus.webp",
+          "alt": "Small sailboats on the Tagus beyond the city’s roofs and waterfront square.",
+          "caption": "Small sailboats on the Tagus beyond the city’s roofs and waterfront square.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle viewpoint, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-sao-jorge/sunset-above-the-rooftops.webp",
+          "alt": "The setting sun touching the skyline above a darkening sea of rooftops.",
+          "caption": "The setting sun touching the skyline above a darkening sea of rooftops.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "São Jorge Castle viewpoint, Lisbon",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Trams and the lanes of Alfama",
+      "date": "2026-07-26",
+      "location": "Alfama · Lisbon Cathedral",
+      "paragraphs": [
+        "The descent follows small façades and narrow streets towards the cathedral. A passing tram fills the lane, bougainvillea frames a terrace, and the cathedral’s rose window appears above the tracks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/colour-above-the-street.webp",
+          "alt": "A colourful sculpted frontage and dark windows above an old street wall.",
+          "caption": "A colourful sculpted frontage and dark windows above an old street wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Alfama, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/blue-doors-and-tiled-balconies.webp",
+          "alt": "Blue doors, pale yellow walls and patterned balconies on a narrow façade.",
+          "caption": "Blue doors, pale yellow walls and patterned balconies on a narrow façade.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Alfama, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/tram-in-the-lane.webp",
+          "alt": "A yellow and red tram passing close to pale buildings in a narrow lane.",
+          "caption": "A yellow and red tram passing close to pale buildings in a narrow lane.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Alfama, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/bougainvillea-at-the-viewpoint.webp",
+          "alt": "Purple bougainvillea above a tiled terrace and visitors beside the railing.",
+          "caption": "Purple bougainvillea above a tiled terrace and visitors beside the railing.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Alfama, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/a-small-white-church.webp",
+          "alt": "The pale façade and simple cross of a small church beside red buildings.",
+          "caption": "The pale façade and simple cross of a small church beside red buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Alfama, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/tracks-towards-the-cathedral.webp",
+          "alt": "Tram tracks and overhead wires leading between tall buildings towards the cathedral.",
+          "caption": "Tram tracks and overhead wires leading between tall buildings towards the cathedral.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Alfama, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/passengers-on-the-tram.webp",
+          "alt": "Passengers at the open windows of a yellow and red tram.",
+          "caption": "Passengers at the open windows of a yellow and red tram.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2026-07-26",
+          "location": "Lisbon Cathedral area",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/lisbon-cathedral.webp",
+          "alt": "The twin towers and rose window of Lisbon Cathedral above tram tracks.",
+          "caption": "The twin towers and rose window of Lisbon Cathedral above tram tracks.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Lisbon Cathedral"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-alfama-cathedral/cathedral-rose-window.webp",
+          "alt": "The carved stone surround and circular panes of the cathedral’s rose window.",
+          "caption": "The carved stone surround and circular panes of the cathedral’s rose window.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Lisbon Cathedral"
+        }
+      ]
+    },
+    {
+      "title": "From the lit streets to the river",
+      "date": "2026-07-26",
+      "location": "Baixa · Tagus waterfront, Lisbon",
+      "paragraphs": [
+        "Lamps reflect between the buildings as the sky darkens. After dinner, moonlight reaches across the Tagus and small sand sculptures fill the edge of the waterfront."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-tagus-night/lights-on-the-wet-street.webp",
+          "alt": "Street lights reflected on a narrow road crossed by tram tracks.",
+          "caption": "Street lights reflected on a narrow road crossed by tram tracks.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Baixa, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-tagus-night/the-illuminated-arch.webp",
+          "alt": "The Rua Augusta Arch illuminated above an open square at blue hour.",
+          "caption": "The Rua Augusta Arch illuminated above an open square at blue hour.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Praça do Comércio, Lisbon",
+          "wide": true
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-tagus-night/a-pan-at-the-dinner-table.webp",
+          "alt": "An orange-coloured dish served in a small metal pan on a restaurant table.",
+          "caption": "An orange-coloured dish served in a small metal pan on a restaurant table.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Baixa, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-tagus-night/moonlight-on-the-tagus.webp",
+          "alt": "Moonlight forming a pale reflection across the dark Tagus.",
+          "caption": "Moonlight forming a pale reflection across the dark Tagus.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-07-26",
+          "location": "Tagus waterfront, Lisbon"
+        },
+        {
+          "src": "/photos/portugal/2026-07-26-baixa-tagus-night/sand-sculptures-by-the-river.webp",
+          "alt": "Animal figures shaped from sand beside the dark water of the Tagus.",
+          "caption": "Animal figures shaped from sand beside the dark water of the Tagus.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-26",
+          "location": "Tagus waterfront, Lisbon",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "One last café table",
+      "date": "2026-07-27",
+      "location": "Lisbon",
+      "paragraphs": [
+        "The final photograph in Portugal is a café table with a toasted sandwich, a custard tart and orange juice."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/portugal/2026-07-27-lisbon/custard-tart-and-orange-juice.webp",
+          "alt": "A custard tart, toasted sandwich and orange juice on a café table.",
+          "caption": "A custard tart, toasted sandwich and orange juice on a café table.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-07-27",
+          "location": "Lisbon"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Lisbon",
+    "latitude": 38.72,
+    "longitude": -9.14,
+    "labelPosition": [
+      780,
+      420
+    ]
+  }
+}

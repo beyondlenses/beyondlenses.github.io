@@ -1,0 +1,2944 @@
+{
+  "trip": "portugal",
+  "sourceDirectoryHint": "../dumps/Europe_26",
+  "sourceCollection": "Europe_26",
+  "sharedSourceAlbums": [
+    "portugal",
+    "finland"
+  ],
+  "reviewedImageCount": 526,
+  "shortlistedImageCount": 68,
+  "selectedImageCount": 61,
+  "omittedImageCount": 465,
+  "usedInOtherAlbumsCount": 35,
+  "unusedCollectionImageCount": 430,
+  "videoFileCount": 16,
+  "reviewScope": "The complete shared source collection was reviewed once across its country albums. reviewedImageCount refers to that collection; omissions for this album include frames used in the other country album. Selected sources are exclusive across these four albums.",
+  "dateSource": "Camera-local EXIF timestamps with the original recorded UTC offset. Pixel filenames can use UTC and are not used as calendar dates. The owner confirmed Europe_26 as the source for Portugal and Finland; July 2026 dates are preserved.",
+  "captureDateSources": {
+    "EXIF DateTimeOriginal": 61
+  },
+  "locationNotes": [
+    "Countries and sites use original GPS, visual landmarks, readable signs and chronological context; exact GPS coordinates are not copied into the album or manifest.",
+    "Date and location labels follow the photographs, not a planned itinerary. No itinerary was present or used.",
+    "Transit photographs in India, the UAE and the air are outside these country albums. A few stale GPS fixes are superseded by visible landmarks and adjacent frames.",
+    "All 451 Europe 2024 and 526 Europe 2026 stills were reviewed in thirteen contact sheets. The 205 shortlisted candidates received a larger 500-pixel review; the four covers were also opened at 1500 pixels.",
+    "Originals, videos, source archives, private documents and review sheets stay outside the website and R2. Only selected metadata-free WebP derivatives are uploaded."
+  ],
+  "sourceArchiveValidation": null,
+  "locationReferences": [
+    "https://www.visitlisboa.com/pt-pt/locais/campo-pequeno",
+    "https://www.visitlisboa.com/pt-pt/locais/elevador-de-santa-justa",
+    "https://www.visitlisboa.com/en/places/castelo-de-sao-jorge",
+    "https://www.visitlisboa.com/pt-pt/locais/joalharia-ferreira-marques"
+  ],
+  "criteria": [
+    "Create one album per country, keeping cities, days and locations as chronological sections within that album.",
+    "Prefer clear, distinct scenery, architecture, interiors, food, wildlife and daily life; compare similar bursts and avoid padding short days.",
+    "Count each cover once in the album and its actual capture day; never repeat the cover in a gallery.",
+    "Preserve framing and colour, correct EXIF orientation and omit EXIF/XMP from published WebP copies, at quality 84 and at most 2000 pixels on the long edge or 2400 for covers.",
+    "Local people, crowds and incidental visitors are allowed. Selected people scenes are listed for review without identifying or matching faces."
+  ],
+  "dailyCounts": {
+    "2026-07-17": 2,
+    "2026-07-19": 5,
+    "2026-07-21": 2,
+    "2026-07-22": 2,
+    "2026-07-23": 2,
+    "2026-07-25": 1,
+    "2026-07-26": 46,
+    "2026-07-27": 1
+  },
+  "chapterCounts": [
+    {
+      "date": "2026-07-17",
+      "location": "Campo Pequeno · Avenidas Novas, Lisbon",
+      "galleryCount": 2
+    },
+    {
+      "date": "2026-07-19",
+      "location": "Lisbon",
+      "galleryCount": 5
+    },
+    {
+      "date": "2026-07-21",
+      "location": "Avenidas Novas, Lisbon",
+      "galleryCount": 2
+    },
+    {
+      "date": "2026-07-22",
+      "location": "Campo Pequeno, Lisbon",
+      "galleryCount": 2
+    },
+    {
+      "date": "2026-07-23",
+      "location": "Avenidas Novas, Lisbon",
+      "galleryCount": 2
+    },
+    {
+      "date": "2026-07-25",
+      "location": "Lisbon",
+      "galleryCount": 1
+    },
+    {
+      "date": "2026-07-26",
+      "location": "Baixa · Carmo · Rossio, Lisbon",
+      "galleryCount": 18
+    },
+    {
+      "date": "2026-07-26",
+      "location": "São Jorge Castle · Alfama, Lisbon",
+      "galleryCount": 13
+    },
+    {
+      "date": "2026-07-26",
+      "location": "Alfama · Lisbon Cathedral",
+      "galleryCount": 9
+    },
+    {
+      "date": "2026-07-26",
+      "location": "Baixa · Tagus waterfront, Lisbon",
+      "galleryCount": 5
+    },
+    {
+      "date": "2026-07-27",
+      "location": "Lisbon",
+      "galleryCount": 1
+    }
+  ],
+  "omissionReasons": [
+    "Frames used in the other country album are recorded explicitly and are not duplicated here.",
+    "Near-identical bursts, repeated viewpoints, blurred or obstructed frames, weak compositions and most posed portraits were omitted after visual comparison.",
+    "Conference presentation slides, certificates, schedules, receipts, hotel-room records, menus and routine travel logistics were omitted.",
+    "Videos and long flight-window sequences are outside these still-photo albums."
+  ],
+  "omittedPhotos": [
+    {
+      "source": "PXL_20260717_022735916.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_032001758.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_033916265.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_044001134.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_044002684.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_044024580.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_091610004.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_081946491.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_081951693.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082048173.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082106017.MP.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082454204.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082517722.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082518985.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082625701.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082650345.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082654336.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082657258.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082700507.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082710989.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_082714416.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_083344528.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_083357018.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_083407307.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_083410784.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_105730260.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_105732084.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_105855600.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_110220382.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_110225146.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_112616335.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_121715093.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_205949749.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_181652908.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_212049494.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_212050643.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182051121.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_212053622.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182100239.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182102709.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182104479.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182139277.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182149571.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182604515.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182607399.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182614168.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182625768.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182829607.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182832377.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_182835857.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183104713.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183411447.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183414764.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183426400.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183429004.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183453384.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183501597.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183504289.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183554328.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183658387.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260717_183705489.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260718_143656854.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_092623930.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_092626385.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_174643302.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_174643821.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175139585.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175140571.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175230541.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175231566.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175528929.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175529899.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175530309.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175531294.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175535722.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175801323.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175802960.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_175803840.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_180051127.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_193220079.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_200121427.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_205032508.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_214946937.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_214948050.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_220231757.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_220232995.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_220955305.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_220957281.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_221000676.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_221236421.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_221237713.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_221239943.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_221241878.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_221244011.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260719_230008058.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260720_131042679.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260720_131046274.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260721_173132680.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260721_173326031.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260721_194220751.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_082837009.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_083158883.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_084158424.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_084507477.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_085253640.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_085440577.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_102658514.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_171644451.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_172252401.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_203914081.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_203954694.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204233530.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204455336.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204457152.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204459387.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204501519.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204503886.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260722_204506025.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260723_151140978.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260723_151300638.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_093142677.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_093147346.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_093152829.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_125743507.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_130845998.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_132657329.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_181712715.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_184749520.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_184752152.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260724_184758111.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260725_062915243.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260725_134308584.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260725_154156249.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260725_180008150.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_075617680.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_081737000.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_082037121.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_085500515.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_165126726.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_165135727.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171053941.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171054696.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171113980.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171146898.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171447371.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171453044.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171533935.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171536416.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171539585.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171556081.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171557174.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171647756.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171728780.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171809516.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171813758.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171826599.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_171842023.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172418237.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172420090.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172422180.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172455496.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172457283.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172637745.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172641559.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172643436.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172646617.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172718425.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172727366.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172729710.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172757470.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172822972.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172831190.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172835145.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172842400.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172843679.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172915407.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172935296.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_172938326.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173015317.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173017485.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173022847.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173128130.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173132219.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173142749.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173154282.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173407601.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173437397.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173442274.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173449150.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173506255.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173508988.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173540876.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173614947.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173719092.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173720497.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173723334.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173725598.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173835917.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173840533.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_173926578.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_174530121.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_174530265.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_180840869.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181002874.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181229962.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181249836.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181323066.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181325084.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181329814.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181419938.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181533279.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181616977.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181642550.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181644170.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181646461.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181713856.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181715476.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181732045.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181921564.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_181958181.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182000543.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182057768.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182110242.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182234640.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182245973.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182623549.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182647221.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182650260.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182729186.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182731507.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182807411.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_182853874.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183057201.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183059540.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183102100.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183103438.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183106980.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183139466.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183147870.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183215208.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183225411.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183226184.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183420446.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183422709.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183424870.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183435208.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183601709.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183606005.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_183705960.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_184526973.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_184529366.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_184532149.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_184536392.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185236356.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185243144.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185820464.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185822514.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185823411.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185825148.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185827404.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185828895.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_185830535.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_190001991.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_190024221.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_190032763.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_190551975.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_192308424.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_192317547.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_192320063.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_192328735.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_192751401.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_192753204.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_194324859.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_194420443.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_194422402.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_194948362.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_195124857.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_195731577.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_195732919.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_195736610.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200003371.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200007268.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200647365.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200649259.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200656197.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200657659.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200700828.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200719230.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200724626.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200733790.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200735760.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200736814.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200737662.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200741409.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200743308.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200745601.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_200755797.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_201026093.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_202055611.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_202057557.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_220742958.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_220826135.NIGHT.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_224624504.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260726_224731888.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_093120217.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_110052600.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_121017897.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_135710280.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_152246183.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_161330730.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_161337108.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_161811219.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_161815384.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_161822760.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_161920400.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_173551601.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_173557945.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_180304433.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_180306521.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_180419177.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_180422184.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_184858055.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_184901744.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_191951660.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_191953655.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_191955471.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_192007311.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_192011414.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_192013794.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_193011846.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_193014123.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_193022993.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_200952413.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_201255528.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_201256571.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_201257756.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_201435190.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_201835182.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_201837072.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260727_214112123.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_053753547.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_053759915.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_053801234.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_053824410.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_053825857.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_053922191.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260728_053924865.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_054301876.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_054343915.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260728_054346151.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_054536718.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_054812471.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_055809334.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_142447472.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260728_172131988.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_172135288.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_205448129.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260728_205522481.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260728_205525125.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_062341882.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_062509578.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_063122880.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_063124240.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_063129392.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_065220252.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_065223989.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_065226317.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_065227930.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_065230583.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_065935246.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_065958697.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_065958829.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_112537490.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_112557609.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_112559988.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_124237717.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_124240805.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_124605662.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_124607222.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_125055796.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_125103378.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_125105913.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_125501319.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_125503165.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_130832545.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_131030700.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_131213623.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_131214457.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171111681.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171113184.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171117479.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171118505.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_171150055.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171155171.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171231863.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171339710.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171608010.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_171608788.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171626883.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171745047.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_171746807.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171921855.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_171927045.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_172228809.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_172230768.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_172234641.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_172237407.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_173156867.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_173721433.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_174051606.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_174127632.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_174129172.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_174236650.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_174241206.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_174318004.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_174617056.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_174618912.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_175705677.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260729_175707993.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_175715347.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260729_175717510.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_064109577.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_064111373.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_065902282.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_155348490.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_173859197.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_182321810.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_182329108.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_182336887.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183157640.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183600276.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183602422.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183658837.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183740920.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183923932.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183925951.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_183928063.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_184754165.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_184810222.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_184848059.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_184854595.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_184858843.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185003722.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_185131783.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185133837.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185138558.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185139199.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185140943.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185147544.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_185150273.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_185258354.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_190555478.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_190600780.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_190602062.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_191354032.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_191456632.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_191504393.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_191515293.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_191747394.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_191844405.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_192243808.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_192245441.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_193019992.jpg",
+      "reason": "Selected for the finland album."
+    },
+    {
+      "source": "PXL_20260730_193614712.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    },
+    {
+      "source": "PXL_20260730_194658748.jpg",
+      "reason": "Not selected for this country album: alternative burst, weaker or repeated scene, conference or travel record, or another country."
+    }
+  ],
+  "excludedPhotos": [],
+  "photos": [
+    {
+      "source": "PXL_20260726_183137084.jpg",
+      "sourceSha256": "1aa882e24a0c8ef4a6562884f2962418f6b597c9275b6a0b33a442a908c82905",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/lisbon-and-the-tagus.webp",
+      "role": "cover",
+      "maxEdge": 2400,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:31:37",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle viewpoint, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Strong representative cover selected after larger-frame inspection; not repeated in the gallery."
+    },
+    {
+      "source": "PXL_20260717_204243371.jpg",
+      "sourceSha256": "90aa72b73a24e7ccc8204162eabb2d2891bb13248696842847381fced4070486",
+      "src": "/photos/portugal/2026-07-17-avenidas-novas/campo-pequeno-after-dark.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-17",
+      "capturedAtLocal": "2026-07-17T21:42:43",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Campo Pequeno, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260717_212237625.jpg",
+      "sourceSha256": "7f86600188d12ace2939c9e6663ac1d75f4b6460afbd104c4a576dbe284d6751",
+      "src": "/photos/portugal/2026-07-17-avenidas-novas/red-lit-glass-facade.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-17",
+      "capturedAtLocal": "2026-07-17T22:22:37",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Avenidas Novas, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260719_180045419.jpg",
+      "sourceSha256": "e3fff56bb43e731924dd0e6ad19e983b658736cf7a081f3d6b5ed62378de06fc",
+      "src": "/photos/portugal/2026-07-19-lisbon/aircraft-above-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-19",
+      "capturedAtLocal": "2026-07-19T19:00:45",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Northern Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260719_193225522.jpg",
+      "sourceSha256": "049b18cead3a10700d2e1309c07cafa7ccc026fbff2a3dbb92311c6180380c06",
+      "src": "/photos/portugal/2026-07-19-lisbon/the-outdoor-screening.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-19",
+      "capturedAtLocal": "2026-07-19T20:32:25",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Praça do Comércio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260719_220229183.jpg",
+      "sourceSha256": "3851a77eafc4b4705d6f150a9004c56b9ad651558a34f4994ee90118feaaae57",
+      "src": "/photos/portugal/2026-07-19-lisbon/a-screen-above-the-crowd.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-19",
+      "capturedAtLocal": "2026-07-19T23:02:29",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Praça do Comércio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260719_221312422.jpg",
+      "sourceSha256": "df06e48bbd2d0d04ade984075e77b08db760a05fdaebbb5c795db934a6c60fbf",
+      "src": "/photos/portugal/2026-07-19-lisbon/evening-around-the-square.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-19",
+      "capturedAtLocal": "2026-07-19T23:13:12",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Praça do Comércio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260719_225205217.jpg",
+      "sourceSha256": "de436a4e54096a2c5246d694ce401f43de2c20437481a9733c160c8e0fefb916",
+      "src": "/photos/portugal/2026-07-19-lisbon/the-tiled-metro-passage.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-19",
+      "capturedAtLocal": "2026-07-19T23:52:05",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lisbon Metro",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260721_173131225.jpg",
+      "sourceSha256": "793c18af44a4ef9124f50318229b8b6714167b289e387e73d43bdf10df3b1b4a",
+      "src": "/photos/portugal/2026-07-21-avenidas-novas/the-geometric-city-building.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-21",
+      "capturedAtLocal": "2026-07-21T18:31:31",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Avenidas Novas, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260721_182900795.jpg",
+      "sourceSha256": "2adb5c3dceacf7aa79fa4930fac8ff386a785befd360d9b81a5cfd538123bf06",
+      "src": "/photos/portugal/2026-07-21-avenidas-novas/dinner-and-potatoes.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-21",
+      "capturedAtLocal": "2026-07-21T19:29:00",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Avenidas Novas, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260722_180924310.jpg",
+      "sourceSha256": "27580ff37b3771fbe363ffd382b53458cb9a35b00bcb136f3284024200b8d391",
+      "src": "/photos/portugal/2026-07-22-campo-pequeno/a-shaded-park-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-22",
+      "capturedAtLocal": "2026-07-22T19:09:24",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Campo Pequeno, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260722_205206618.jpg",
+      "sourceSha256": "751b69f126293202ff05dc1cf2768182de0ed27414a6518301b4d69c61db33e9",
+      "src": "/photos/portugal/2026-07-22-campo-pequeno/inside-the-circular-hall.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-22",
+      "capturedAtLocal": "2026-07-22T21:52:06",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Campo Pequeno, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260723_151140282.jpg",
+      "sourceSha256": "db4552a9b7705ec55adfe4422d513aa1356e422616dfe0f1d4886c67188c429d",
+      "src": "/photos/portugal/2026-07-23-avenidas-novas/red-bus-on-the-avenue.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-23",
+      "capturedAtLocal": "2026-07-23T16:11:40",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Avenidas Novas, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260723_185017395.jpg",
+      "sourceSha256": "5ccbdd67bd040fd25eb2f82c6a89705c997aab8efd9b7258256d7e12b4a6f06d",
+      "src": "/photos/portugal/2026-07-23-avenidas-novas/the-painted-street-wall.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-23",
+      "capturedAtLocal": "2026-07-23T19:50:17",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Avenidas Novas, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260725_185508692.jpg",
+      "sourceSha256": "a356fdf43a912d924015feacb4deec2854a26066bbbf655417e2ec9532322faf",
+      "src": "/photos/portugal/2026-07-25-lisbon/dinner-in-lisbon.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-25",
+      "capturedAtLocal": "2026-07-25T19:55:08",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_165130320.jpg",
+      "sourceSha256": "23a6c901d93baf63f2cda858bc4176b329f58b021ce10aeff71f99cadebe3d4f",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-northern-city-avenue.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T17:51:30",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Northern Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_171052666.jpg",
+      "sourceSha256": "d0f01a916e804a6aa24f8c3f4e8001c7af9aace2a77143323b2a547aa802f164",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/praca-da-figueira.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:10:52",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Praça da Figueira, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_171112742.jpg",
+      "sourceSha256": "0a341afd19ab5229445e631da7518d5cb88748538ca4579fa8f96f34c204fb56",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/statue-in-praca-da-figueira.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:11:12",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Praça da Figueira, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_171450407.jpg",
+      "sourceSha256": "2f7fc0ff53357f42c9d6e549c115c52ac7e7a58e5a00b664c6ad4ea58d28f241",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/santa-justa-between-the-buildings.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:14:50",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Santa Justa Lift, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_171553938.jpg",
+      "sourceSha256": "fe55609fd4a4eca65aa7dd053879d38ab9db87d5ceb2973aa12d4ab7730e3af8",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-small-yellow-bus.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:15:53",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Baixa, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_171758985.jpg",
+      "sourceSha256": "9768a74f737fa0ad38c027ec29118cd9b8e9320b2066956b4188103719f13424",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/painted-figures-on-the-building.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:17:58",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Baixa, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_172415329.jpg",
+      "sourceSha256": "d9b3e5d1fd357c3b76f98434c4c1c0c19a2e2a39df888fbb4a318430f04e20f5",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-carmo-doorway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:24:15",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Carmo, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_172635697.jpg",
+      "sourceSha256": "951d5a88ba523080ac5b2184e214fc9d054793419831e5c3a39d840a86ecc929",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/fountain-under-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:26:35",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Largo do Carmo, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_172840036.jpg",
+      "sourceSha256": "c1e913df1b455020aeed701750aba51d5efa3ec7b2974e5387fdd69bf98b0f65",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-vintage-style-tour-car.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:28:40",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Carmo, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_172927950.jpg",
+      "sourceSha256": "cc9dab2a7f65f790efbc8b04699deeb225c54b391d0a60f5086ce6c26f49be8e",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-pink-corner-building.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:29:27",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Carmo, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173102849.jpg",
+      "sourceSha256": "87c7b54f02911b393afa8f2d6fd616035f3a0ff80d85834e25c5c40cea42a607",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/painted-steps-and-small-shops.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:31:02",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Carmo, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173130336.jpg",
+      "sourceSha256": "ca65a1f4cfcb84b191ee4c095c01c45cf2fab523909e449cdfec97e81da79618",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-view-down-the-steps.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:31:30",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Carmo · Rossio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173342844.jpg",
+      "sourceSha256": "bb7dcf847ce6c8fc418fa4d2e9c471875ea62519aefa8cffa4a7b2ebf191aa15",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-column-in-rossio.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:33:42",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Rossio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173430624.jpg",
+      "sourceSha256": "6c9702aeba4854b517a5e518e3e587aea349b1fd342225ed27a7488408b59db3",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/ornate-metalwork-and-wavy-paving.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:34:30",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Rossio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173502996.jpg",
+      "sourceSha256": "123aff85ca3c1409010bcfe8d411a14db78c0ef1d11c4d93a69cda3567bec4b5",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/fountain-and-pale-facades.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:35:02",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Rossio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173617641.jpg",
+      "sourceSha256": "b67645e99c4838beccb80a9429728b472ec98a374b4009762dfecc03eb1cc9bd",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/arco-da-bandeira.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:36:17",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Arco da Bandeira, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_173837759.jpg",
+      "sourceSha256": "1694753bac32aaf3922c12cd4b30d184b1c8b1bb90c9a0da367ca3069b26cd43",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/the-tram-in-the-narrow-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:38:37",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Baixa, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_174854975.jpg",
+      "sourceSha256": "1ab3313ca032bbedb6fcbf2efdb7635203e4265d9591038870c693e50d134882",
+      "src": "/photos/portugal/2026-07-26-baixa-carmo/lunch-in-baixa.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T18:48:54",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Baixa, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_181648988.jpg",
+      "sourceSha256": "d4ef658bec9265a73a648f5e6d5b9a84ccf6931ea9de3f4c34dc9a2330311097",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/painted-faces-on-the-wall.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:16:48",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Near São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_182148518.jpg",
+      "sourceSha256": "bc1a2b84e984dbabfc7ad65191b17bb32263cdffc51754254be3665fc16a9405",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/the-carved-castle-gateway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:21:48",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_182620290.jpg",
+      "sourceSha256": "6d21b4ddeddaa0ccd5eaf10d58d46ee5c447f5f201e2b0b09edbc53015106abf",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/red-roofs-above-the-tagus.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:26:20",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle viewpoint, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_182804427.jpg",
+      "sourceSha256": "19cd2ef5140f2dc521877a099736bbf0cd50ad4dfff0d59297e7c853cf61a91d",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/statue-beneath-the-pines.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:28:04",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_182905949.jpg",
+      "sourceSha256": "bb1c54121b1eae0fcd8fb87b307de49cb082484f2e4103dfca901fac2c186218",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/cannon-facing-the-river.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:29:05",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_183248176.jpg",
+      "sourceSha256": "1a3526461a646c86012878e3719f6dbaf7c50f8eb5fc4f8ef2e841bf6be19891",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/arches-and-pine-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:32:48",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_183403810.jpg",
+      "sourceSha256": "dc6db04e06dc4ac92ce6ca43c85d87cbeb55d7e9a34c2431adc403f045d06a2f",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/stone-fountain-in-the-wall.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:34:03",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_183433200.jpg",
+      "sourceSha256": "4d0fd50564c7d412a5c4054fe60be5540a2e923c2e02483248cde502d7e11abf",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/peacock-among-the-chairs.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:34:33",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_184000388.jpg",
+      "sourceSha256": "96f0e04fec082e16cb4aa419e9be04fd0730d88ce539069c73afe027343bb0f7",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/the-lion-head-fountain.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:40:00",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_185238897.jpg",
+      "sourceSha256": "33a712bc38e4c3267e7ce79dba6bb02a0aa2a4d3e7b3fdac127401ba488d3d0d",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/church-and-dome-above-the-roofs.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T19:52:38",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle viewpoint, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_190555531.jpg",
+      "sourceSha256": "1cb561d87120f58a50ab9848466b67f34a28c5079a4aea9c3cbfbeaef4b4fc59",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/the-city-in-evening-light.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T20:05:55",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle viewpoint, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_192749474.jpg",
+      "sourceSha256": "66fc1879d314a38023c59cb01f3955714efa598efc685eee2516be9ba7367fbd",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/evening-on-the-tagus.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T20:27:49",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle viewpoint, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_194319563.jpg",
+      "sourceSha256": "b14344f214fc4b226e523725b6616a3ebcc114c1162121c0078e83b7fc1d4475",
+      "src": "/photos/portugal/2026-07-26-sao-jorge/sunset-above-the-rooftops.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T20:43:19",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "São Jorge Castle viewpoint, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_195032036.jpg",
+      "sourceSha256": "e1201167c459a12d21f2377aa7f74bec318e69b97236a81719b5fb86bc22b789",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/colour-above-the-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T20:50:32",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Alfama, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_195202492.jpg",
+      "sourceSha256": "e214b4b127cd7b0c430a58c33bebce82376438a486f8982e7eb07f07b1c155e6",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/blue-doors-and-tiled-balconies.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T20:52:02",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Alfama, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_195732149.jpg",
+      "sourceSha256": "efd887e27f2994a0fcf8d06b80b2e908943871dc1811854d60dcda00fec7c1c9",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/tram-in-the-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T20:57:32",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Alfama, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_200004750.jpg",
+      "sourceSha256": "452fdf1aa27ec1b78aafb2d3a9b96d5db7296e70194a613720c46686ae3f19da",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/bougainvillea-at-the-viewpoint.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:00:04",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Alfama, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_200030950.jpg",
+      "sourceSha256": "bef5cfff6d56f7f90e7552816eddeed618644159884f0a6c5fb694cf2cdd0a9f",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/a-small-white-church.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:00:30",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Alfama, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_200312338.jpg",
+      "sourceSha256": "79dce3e1de2674de542b164201933fd12f7e6f49434293ddea071e475cce5c3a",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/tracks-towards-the-cathedral.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:03:12",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Alfama, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_200647894.jpg",
+      "sourceSha256": "e39b7700d5827a97a66ed203e3d4aeab007dc9bf2afdb0e5b1e40b1b5e68b47a",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/passengers-on-the-tram.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:06:47",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lisbon Cathedral area",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_200746613.jpg",
+      "sourceSha256": "6df64da5f9b59986156086696aef65ec58a791f50d313aeb5a35392bc2173d07",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/lisbon-cathedral.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:07:46",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lisbon Cathedral",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_201028284.jpg",
+      "sourceSha256": "e8767a060db052df2c2773c9c7b2ac2e65f004d9f2addc0313bdab0165f95de1",
+      "src": "/photos/portugal/2026-07-26-alfama-cathedral/cathedral-rose-window.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:10:28",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lisbon Cathedral",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_201709022.jpg",
+      "sourceSha256": "0ccf38a6d4c0fa91f608bc47254f25172ea0a45add1b8d9a8778cc1a670f8d83",
+      "src": "/photos/portugal/2026-07-26-baixa-tagus-night/lights-on-the-wet-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:17:09",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Baixa, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_202109723.jpg",
+      "sourceSha256": "d5cd8f43922b742a5170cef89c96995c16245ef7822c01531a0e49b21d2b7535",
+      "src": "/photos/portugal/2026-07-26-baixa-tagus-night/the-illuminated-arch.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T21:21:09",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Praça do Comércio, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_210908451.jpg",
+      "sourceSha256": "2fac2f1906ef388e5ae8367a8529ac03ad7b00b859f85843ed2985aed7620ef0",
+      "src": "/photos/portugal/2026-07-26-baixa-tagus-night/a-pan-at-the-dinner-table.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T22:09:08",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Baixa, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_220753579.NIGHT.jpg",
+      "sourceSha256": "cea85b66c97c6c706d12b2083648c53526e92eb2b00a43a614190e6e9baa4f87",
+      "src": "/photos/portugal/2026-07-26-baixa-tagus-night/moonlight-on-the-tagus.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T23:07:53",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Tagus waterfront, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260726_224623406.jpg",
+      "sourceSha256": "06c591f599604e06a82b9ba87935a4e8d1cc1e2f87c873459a9fcd583a727ce7",
+      "src": "/photos/portugal/2026-07-26-baixa-tagus-night/sand-sculptures-by-the-river.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-26",
+      "capturedAtLocal": "2026-07-26T23:46:23",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Tagus waterfront, Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    },
+    {
+      "source": "PXL_20260727_121024573.jpg",
+      "sourceSha256": "d09fd4e00b975707c51704cfa567825aaa04380b361e9ecc21f710d99e16d9ba",
+      "src": "/photos/portugal/2026-07-27-lisbon/custard-tart-and-orange-juice.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2026-07-27",
+      "capturedAtLocal": "2026-07-27T13:10:24",
+      "utcOffset": "+01:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lisbon",
+      "locationBasis": "Original GPS, visible landmarks and signs, and chronological context from neighbouring frames; a broader place label is used where the exact site is uncertain.",
+      "selectionReason": "Distinct view selected after full-collection contact sheets and larger-frame comparison; weaker and repeated burst alternatives omitted."
+    }
+  ],
+  "peoplePhotoSources": [
+    "PXL_20260717_204243371.jpg",
+    "PXL_20260719_193225522.jpg",
+    "PXL_20260719_220229183.jpg",
+    "PXL_20260719_221312422.jpg",
+    "PXL_20260722_180924310.jpg",
+    "PXL_20260722_205206618.jpg",
+    "PXL_20260723_151140282.jpg",
+    "PXL_20260726_165130320.jpg",
+    "PXL_20260726_171052666.jpg",
+    "PXL_20260726_171112742.jpg",
+    "PXL_20260726_171450407.jpg",
+    "PXL_20260726_171553938.jpg",
+    "PXL_20260726_171758985.jpg",
+    "PXL_20260726_172415329.jpg",
+    "PXL_20260726_172635697.jpg",
+    "PXL_20260726_172840036.jpg",
+    "PXL_20260726_172927950.jpg",
+    "PXL_20260726_173102849.jpg",
+    "PXL_20260726_173130336.jpg",
+    "PXL_20260726_173342844.jpg",
+    "PXL_20260726_173430624.jpg",
+    "PXL_20260726_173502996.jpg",
+    "PXL_20260726_173617641.jpg",
+    "PXL_20260726_173837759.jpg",
+    "PXL_20260726_174854975.jpg",
+    "PXL_20260726_181648988.jpg",
+    "PXL_20260726_182148518.jpg",
+    "PXL_20260726_182620290.jpg",
+    "PXL_20260726_182804427.jpg",
+    "PXL_20260726_183248176.jpg",
+    "PXL_20260726_185238897.jpg",
+    "PXL_20260726_190555531.jpg",
+    "PXL_20260726_192749474.jpg",
+    "PXL_20260726_194319563.jpg",
+    "PXL_20260726_195032036.jpg",
+    "PXL_20260726_195202492.jpg",
+    "PXL_20260726_195732149.jpg",
+    "PXL_20260726_200004750.jpg",
+    "PXL_20260726_200030950.jpg",
+    "PXL_20260726_200312338.jpg",
+    "PXL_20260726_200647894.jpg",
+    "PXL_20260726_200746613.jpg",
+    "PXL_20260726_201028284.jpg",
+    "PXL_20260726_201709022.jpg",
+    "PXL_20260726_202109723.jpg",
+    "PXL_20260726_224623406.jpg",
+    "PXL_20260727_121024573.jpg"
+  ]
+}

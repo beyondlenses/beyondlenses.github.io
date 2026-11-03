@@ -20,6 +20,15 @@ Westerfolds Park, and the Great Ocean Road.
 **Malaysia** contains **113 original photographs** in ten dated sections from
 **12 October–25 November 2019**, covering Melaka, Kuala Lumpur and Batu Caves,
 George Town, Penang National Park, Penang Hill, and Langkawi.
+The Europe collections add **187 original photographs**, grouped by country:
+
+| Album | Photographs | Dates | Places |
+| --- | ---: | --- | --- |
+| Germany | 15 | 25–26 April 2024 | Dagstuhl and Saarbrücken |
+| France | 76 | 26–27 April 2024 | Lorraine, Metz and Paris |
+| Portugal | 61 | 17–27 July 2026 | Lisbon |
+| Finland | 35 | 28–30 July 2026 | Helsinki |
+
 The Canada collections contain **304 original photographs**:
 
 | Album | Photographs | Dates |
@@ -447,6 +456,61 @@ socket. Browser preview was also blocked when the local server could not bind
 its socket. Upload and verify with the commands above from an environment with
 network access before pushing the album content; use `npm run dev` there for
 desktop and mobile review.
+
+## Europe country albums and exports
+
+The Europe sources are grouped into **Germany, France, Portugal and Finland**,
+with cities and locations retained as dated sections within each country album.
+Germany has 15 photographs in two sections; France has 76 in eight sections;
+Portugal has 61 in eleven sections; Finland has 35 in five sections.
+The homepage now has 16 albums across 11 countries. The four new countries have
+atlas outlines and zoom frames; the existing coastlines and lake assets are
+unchanged.
+
+All **451 still images** from `../dumps/europe_24/` and **526 still images** from
+`../dumps/Europe_26/` were reviewed in thirteen contact sheets. A shortlist of
+205 frames received a larger review. The owner confirmed `Europe_26` as the
+Portugal/Finland source; its actual **July 2026** dates are preserved. Every
+selected photograph uses camera-local EXIF `DateTimeOriginal` and its recorded
+offset: +02:00 for Germany/France, +01:00 for Portugal, and +03:00 for Finland.
+
+`Europe II-1-001.zip` passed `unzip -t` for all 457 entries and its file listing
+matches the 451 JPEGs and six videos already extracted in `europe_24/`. No
+archive was renamed or extracted during this update. No source archive was
+available for the already extracted `Europe_26/` collection; its 16 videos are
+outside the still-photo albums. All originals remain intact.
+
+GPS, landmarks, signs and capture order establish the country and place labels.
+The train-window fields before Metz are in Lorraine, France. Conference slides,
+certificates, receipts, hotel records, long flight sequences, repeated bursts
+and weak or obstructed frames are omitted. The manifests explicitly distinguish
+frames used in another country album from unused frames in the shared source.
+No photograph is repeated across these four albums; covers appear once.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/germany.json --source ../dumps/europe_24
+python3 scripts/export-photos.py --selection content/selections/france.json --source ../dumps/europe_24
+python3 scripts/export-photos.py --selection content/selections/portugal.json --source ../dumps/Europe_26
+python3 scripts/export-photos.py --selection content/selections/finland.json --source ../dumps/Europe_26
+npm run photos:plan -- germany france portugal finland
+npm run photos:upload -- germany france portugal finland
+npm run photos:check -- germany france portugal finland
+npm test
+npm run build
+```
+
+Validation checked all 187 original hashes, capture dates and offsets, decoded
+WebP files, dimensions, preserved framing, stripped EXIF/XMP, unique sources,
+cover use, omissions, chronological sections and manifest counts. The upload
+plan contains exactly the 187 selected WebP files, totalling 76.4 MiB.
+The site tests pass and the build produces 19 pages and 16 stories.
+Representative exports opened include the four covers, plus
+`a-hare-on-the-path.webp` and `stone-figures-and-a-glowing-lamp.webp`.
+
+The R2 upload attempt transferred no files because the sandbox denied rclone’s
+DNS socket. Run the upload and check commands above from an environment with
+network access before pushing. Use `npm run dev` there to review desktop and
+mobile layouts; the sandbox also blocks the local preview server socket.
 
 ## Publish at beyondlenses.github.io
 

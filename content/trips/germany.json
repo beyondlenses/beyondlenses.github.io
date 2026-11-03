@@ -1,0 +1,186 @@
+{
+  "slug": "germany",
+  "photoStorage": "r2",
+  "title": "Germany",
+  "subtitle": "Spring gardens and castle ruins around Dagstuhl, followed by an afternoon among the streets and squares of Saarbrücken.",
+  "country": "Germany",
+  "location": "Dagstuhl · Saarbrücken",
+  "category": "Two spring days in Saarland",
+  "order": 8,
+  "demo": false,
+  "startDate": "2024-04-25",
+  "endDate": "2024-04-26",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/germany/2024-04-25-dagstuhl/schloss-dagstuhl.webp",
+    "alt": "Schloss Dagstuhl and its chapel above a formal garden beneath a cloud-filled evening sky.",
+    "caption": "Schloss Dagstuhl and its chapel above a formal garden beneath a cloud-filled evening sky.",
+    "width": 2400,
+    "height": 1350,
+    "capturedOn": "2024-04-25",
+    "location": "Schloss Dagstuhl, Saarland"
+  },
+  "chapters": [
+    {
+      "title": "An evening around Dagstuhl",
+      "date": "2024-04-25",
+      "location": "Dagstuhl, Saarland",
+      "paragraphs": [
+        "White walls and spring planting lead into the wooded slopes above Dagstuhl. Among the old castle walls, the last sunlight reaches the valley before the walk returns to the garden."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/arrival-at-dagstuhl.webp",
+          "alt": "A quiet paved lane between white buildings below a wooded hillside.",
+          "caption": "A quiet paved lane between white buildings below a wooded hillside.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Dagstuhl, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/chapel-below-the-trees.webp",
+          "alt": "The white chapel and dark roofs of Schloss Dagstuhl seen past brick buildings.",
+          "caption": "The white chapel and dark roofs of Schloss Dagstuhl seen past brick buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Schloss Dagstuhl, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/spring-in-the-valley.webp",
+          "alt": "Green lawns, flowering trees and wooded hills around Dagstuhl.",
+          "caption": "Green lawns, flowering trees and wooded hills around Dagstuhl.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Dagstuhl, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/road-through-the-spring-woods.webp",
+          "alt": "A narrow curving road beneath fresh green trees.",
+          "caption": "A narrow curving road beneath fresh green trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Dagstuhl, Saarland",
+          "wide": true
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/light-between-the-trunks.webp",
+          "alt": "Low evening sunlight filtering between tall straight tree trunks.",
+          "caption": "Low evening sunlight filtering between tall straight tree trunks.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Dagstuhl, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/among-the-castle-ruins.webp",
+          "alt": "A visitor beside rough stone foundations and the surviving castle wall.",
+          "caption": "A visitor beside rough stone foundations and the surviving castle wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Dagstuhl castle ruins"
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/sunset-above-the-valley.webp",
+          "alt": "The sun near the horizon beneath layered clouds above the wooded valley.",
+          "caption": "The sun near the horizon beneath layered clouds above the wooded valley.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Dagstuhl castle ruins",
+          "wide": true
+        },
+        {
+          "src": "/photos/germany/2024-04-25-dagstuhl/the-garden-at-dusk.webp",
+          "alt": "A brick path winding through purple flowers and neatly clipped shrubs.",
+          "caption": "A brick path winding through purple flowers and neatly clipped shrubs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-25",
+          "location": "Schloss Dagstuhl garden",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "An afternoon in Saarbrücken",
+      "date": "2024-04-26",
+      "location": "Saarbrücken, Saarland",
+      "paragraphs": [
+        "The next walk moves from the green slopes to a city centre of cafés, shopfronts and open squares. Trees soften the streets around the station."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/germany/2024-04-26-saarbruecken/trees-by-the-station.webp",
+          "alt": "Young green trees above a covered transport stop and waiting travellers.",
+          "caption": "Young green trees above a covered transport stop and waiting travellers.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Saarbrücken, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-26-saarbruecken/a-pedestrian-street.webp",
+          "alt": "A long pedestrian street between city buildings beneath a grey sky.",
+          "caption": "A long pedestrian street between city buildings beneath a grey sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-26",
+          "location": "Saarbrücken, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-26-saarbruecken/colourful-city-fronts.webp",
+          "alt": "Pastel façades, small trees and benches along a shopping street.",
+          "caption": "Pastel façades, small trees and benches along a shopping street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Saarbrücken, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-26-saarbruecken/across-the-city-square.webp",
+          "alt": "Pedestrians crossing an open square towards a pale stone building.",
+          "caption": "Pedestrians crossing an open square towards a pale stone building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Saarbrücken, Saarland",
+          "wide": true
+        },
+        {
+          "src": "/photos/germany/2024-04-26-saarbruecken/cafes-under-the-trees.webp",
+          "alt": "Café tables and shopfronts beside a tree-lined pedestrian street.",
+          "caption": "Café tables and shopfronts beside a tree-lined pedestrian street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Saarbrücken, Saarland"
+        },
+        {
+          "src": "/photos/germany/2024-04-26-saarbruecken/station-building.webp",
+          "alt": "The orange-brown station building with rows of windows and a red DB sign.",
+          "caption": "The orange-brown station building with rows of windows and a red DB sign.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-26",
+          "location": "Saarbrücken Hauptbahnhof"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Saarland",
+    "latitude": 49.53,
+    "longitude": 6.9,
+    "labelPosition": [
+      480,
+      490
+    ]
+  }
+}
