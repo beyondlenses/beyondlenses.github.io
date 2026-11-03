@@ -154,8 +154,8 @@ export function renderCredits(site, trips) {
   trips = trips.map((trip) => resolveTripPhotos(site, trip));
   const images = [...new Map(trips.flatMap(allPhotos).filter((image) => image.credit).map((image) => [image.src, image])).values()];
   return page(site, {
-    title: `Photo credits — ${site.name}`, description: 'The photographers behind the sample collections.', path: '/credits/',
-    body: `<main class="credits-page wrap" id="main"><p class="eyebrow">With thanks</p><h1>Through another <em>lens.</em></h1><p class="credits-intro">The sample collections use photographs from the sources below. These are preview images, not the journal owner’s travel photographs.</p><div class="credit-grid">${images.map((image) => `<article>${photo(image)}<h2>${e(image.credit)}</h2><p>${e(image.alt)}</p>${credit(image)}${image.license === 'CC BY-SA 4.0' ? '<p class="credit-change">Preview derivative: resized and converted to WebP; displayed with responsive cropping. Licensed under CC BY-SA 4.0.</p>' : ''}</article>`).join('')}</div><a class="text-link" href="/">Back to the journal ${arrow}</a></main>`,
+    title: `Photo credits — ${site.name}`, description: 'The photographs behind the journal.', path: '/credits/',
+    body: `<main class="credits-page wrap" id="main"><p class="eyebrow">Behind the photographs</p><h1>Photo <em>credits.</em></h1><p class="credits-intro">${images.length ? 'Source and license information for credited photographs appears below.' : 'The journal uses original travel photographs from the owner’s collections.'}</p><div class="credit-grid">${images.map((image) => `<article>${photo(image)}<h2>${e(image.credit)}</h2><p>${e(image.alt)}</p>${credit(image)}${image.license === 'CC BY-SA 4.0' ? '<p class="credit-change">Preview derivative: resized and converted to WebP; displayed with responsive cropping. Licensed under CC BY-SA 4.0.</p>' : ''}</article>`).join('')}</div><a class="text-link" href="/">Back to the journal ${arrow}</a></main>`,
   });
 }
 

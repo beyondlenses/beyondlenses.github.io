@@ -1,62 +1,801 @@
 {
   "slug": "gros-morne",
+  "photoStorage": "r2",
   "title": "The quiet of Gros Morne",
-  "subtitle": "Wide-open water. Weathered mountains. A little room to breathe.",
+  "subtitle": "Coastal villages, forest boardwalks and misty mountain trails, followed by a boat between the cliffs of Western Brook Pond.",
   "country": "Canada",
-  "location": "Newfoundland & Labrador",
+  "location": "Gros Morne National Park, Newfoundland & Labrador",
   "category": "Into the wild",
   "order": 3,
-  "demo": true,
+  "demo": false,
+  "startDate": "2024-05-24",
+  "endDate": "2024-05-27",
+  "showChapterIndex": false,
   "cover": {
-    "src": "/images/demo/gros-morne-valley.webp",
-    "alt": "Green mountains framing the water at Western Brook Pond in Gros Morne",
-    "position": "center 50%",
-    "credit": "David W Enstrom",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gros_Morne_National_Park_-_Western_Brook_Pond.jpg",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "width": 1280,
-    "height": 853
+    "src": "/photos/gros-morne/2024-05-27-western-brook-pond/western-brook-pond-valley.webp",
+    "alt": "Blue water between steep green and grey cliffs at Western Brook Pond beneath a bright sky.",
+    "caption": "Blue water between steep green and grey cliffs at Western Brook Pond beneath a bright sky.",
+    "width": 2400,
+    "height": 1600,
+    "capturedOn": "2024-05-27",
+    "location": "Western Brook Pond"
   },
   "chapters": [
     {
-      "title": "Room to breathe",
+      "title": "Rocky Harbour and Lobster Cove Head",
+      "date": "2024-05-24",
+      "location": "Rocky Harbour · Lobster Cove Head",
       "paragraphs": [
-        "A different rhythm takes over when the frame fills with water and mountains. The eye follows a distant shoreline. The details get quieter. The landscape does the talking.",
-        "This is a sample layout for a Gros Morne photo essay. Replace these credited preview images and introductory words with your own photographs and field notes."
+        "The coast begins with village streets, small buildings and blue water. At Lobster Cove Head, the lighthouse stands above the rocky shore."
       ],
-      "layout": "full",
+      "layout": "editorial",
       "photos": [
         {
-          "src": "/images/demo/gros-morne-water.webp",
-          "alt": "The water and steep cliffs of Western Brook Pond",
-          "caption": "A landscape with its own sense of time.",
-          "credit": "Siderd",
-          "creditUrl": "https://commons.wikimedia.org/wiki/File:Western_Brook_Pond_4.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "width": 1280,
-          "height": 882
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/rocky-shore.webp",
+          "alt": "Rocky shoreline and a green headland above the blue water.",
+          "caption": "Rocky shoreline and a green headland above the blue water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Rocky Harbour area"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/coastal-cottages.webp",
+          "alt": "Small cottages beside the coastal road.",
+          "caption": "Small cottages beside the coastal road.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Rocky Harbour"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/outdoor-cafe.webp",
+          "alt": "Friends seated together at an outdoor café.",
+          "caption": "Friends seated together at an outdoor café.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Rocky Harbour"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/lighthouse-mug.webp",
+          "alt": "A Lobster Cove Head lighthouse mug beside a map and a chocolate bar.",
+          "caption": "A Lobster Cove Head lighthouse mug beside a map and a chocolate bar.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Lobster Cove Head"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/red-coastal-building.webp",
+          "alt": "A small red building beside the Newfoundland coast.",
+          "caption": "A small red building beside the Newfoundland coast.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Lobster Cove Head"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/hut-above-the-bay.webp",
+          "alt": "A small hut above a wide blue bay.",
+          "caption": "A small hut above a wide blue bay.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Lobster Cove Head"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/white-building-red-door.webp",
+          "alt": "A white wooden building with a bright red door.",
+          "caption": "A white wooden building with a bright red door.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Lobster Cove Head"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-rocky-harbour/lighthouse-and-flags.webp",
+          "alt": "Flags beside the lighthouse building above the green coast.",
+          "caption": "Flags beside the lighthouse building above the green coast.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Lobster Cove Head"
         }
       ]
     },
     {
-      "title": "What stays with you",
+      "title": "The walk to Bakers Brook Falls",
+      "date": "2024-05-24",
+      "location": "Gros Morne National Park",
       "paragraphs": [
-        "A collection does not have to include every photograph. A few carefully chosen frames can hold a whole day. Leave space for the landscapes, the small discoveries, and the feeling of being there."
+        "Boardwalks cross open ground before the trail reaches trees and running water. Small plants and bare trunks add detail along the way to the falls."
       ],
-      "layout": "full",
+      "layout": "editorial",
       "photos": [
         {
-          "src": "/images/demo/gros-morne-valley.webp",
-          "alt": "A view across the valley at Western Brook Pond",
-          "caption": "One more look before the road home.",
-          "credit": "David W Enstrom",
-          "creditUrl": "https://commons.wikimedia.org/wiki/File:Gros_Morne_National_Park_-_Western_Brook_Pond.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "width": 1280,
-          "height": 853
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/curving-boardwalk.webp",
+          "alt": "A wooden boardwalk curving through low forest and open ground.",
+          "caption": "A wooden boardwalk curving through low forest and open ground.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/pitcher-plants.webp",
+          "alt": "Pitcher plants among moss and low bog vegetation.",
+          "caption": "Pitcher plants among moss and low bog vegetation.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/bare-trunks.webp",
+          "alt": "Bare tree trunks rising above fresh ground vegetation.",
+          "caption": "Bare tree trunks rising above fresh ground vegetation.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/forest-pond.webp",
+          "alt": "A small pond surrounded by conifer forest.",
+          "caption": "A small pond surrounded by conifer forest.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/boardwalk-across-the-bog.webp",
+          "alt": "A long boardwalk across open bog beneath distant hills.",
+          "caption": "A long boardwalk across open bog beneath distant hills.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/running-water.webp",
+          "alt": "River water flowing between rocks and trees.",
+          "caption": "River water flowing between rocks and trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/falls-through-the-trees.webp",
+          "alt": "A waterfall seen between branches.",
+          "caption": "A waterfall seen between branches.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/friends-by-the-falls.webp",
+          "alt": "Friends beside the waterfall viewing area.",
+          "caption": "Friends beside the waterfall viewing area.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-24-bakers-brook/pond-and-conifers.webp",
+          "alt": "A quiet pond framed by conifer branches.",
+          "caption": "A quiet pond framed by conifer branches.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-24",
+          "location": "Gros Morne National Park"
+        }
+      ]
+    },
+    {
+      "title": "Fog on the high ground",
+      "date": "2024-05-25",
+      "location": "Gros Morne National Park",
+      "paragraphs": [
+        "Low cloud closes around the stony trail and low vegetation. Between the misty views are a café stop, a lookout over the forest and a wet road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/wet-road-lookout.webp",
+          "alt": "A wet road curving below a wooded valley lookout.",
+          "caption": "A wet road curving below a wooded valley lookout.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/water-below-the-mountain.webp",
+          "alt": "Water winding below a rounded, cloud-covered mountain.",
+          "caption": "Water winding below a rounded, cloud-covered mountain.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/viewing-telescope.webp",
+          "alt": "A viewing telescope pointing across the landscape.",
+          "caption": "A viewing telescope pointing across the landscape.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/cafe-stop.webp",
+          "alt": "Friends gathered inside a café.",
+          "caption": "Friends gathered inside a café.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/hikers-in-the-fog.webp",
+          "alt": "Hikers following a stony trail into thick fog.",
+          "caption": "Hikers following a stony trail into thick fog.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/foggy-high-ground.webp",
+          "alt": "Low cloud obscuring the rocky high ground.",
+          "caption": "Low cloud obscuring the rocky high ground.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/rock-and-fog.webp",
+          "alt": "Rocky ground and small trees fading into fog.",
+          "caption": "Rocky ground and small trees fading into fog.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/forest-lookout.webp",
+          "alt": "A pond and forest seen from an elevated lookout.",
+          "caption": "A pond and forest seen from an elevated lookout.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-25-foggy-high-ground/rain-on-the-road.webp",
+          "alt": "Rain darkening a road through the park.",
+          "caption": "Rain darkening a road through the park.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-25",
+          "location": "Gros Morne National Park"
+        }
+      ]
+    },
+    {
+      "title": "On the Gros Morne Mountain trail",
+      "date": "2024-05-26",
+      "location": "Gros Morne Mountain trail",
+      "paragraphs": [
+        "The trail passes mossy trees, a metal bridge and streams below steep mountains. Above the forest are ponds, open meadows and low cloud, with fungi and flowers beside the return path."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/mossy-forest.webp",
+          "alt": "Moss-covered trees beside the forest trail.",
+          "caption": "Moss-covered trees beside the forest trail.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/mountain-under-cloud.webp",
+          "alt": "A rounded mountain rising into low cloud above the forest.",
+          "caption": "A rounded mountain rising into low cloud above the forest.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/bare-trunk-trail.webp",
+          "alt": "A narrow trail passing bare trunks and dense green undergrowth.",
+          "caption": "A narrow trail passing bare trunks and dense green undergrowth.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/bridge-approach.webp",
+          "alt": "A narrow metal footbridge at the edge of the forest.",
+          "caption": "A narrow metal footbridge at the edge of the forest.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/forest-waterfall.webp",
+          "alt": "A waterfall plunging between dark rock and dense trees.",
+          "caption": "A waterfall plunging between dark rock and dense trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/friends-on-the-footbridge.webp",
+          "alt": "Friends crossing a metal footbridge over the stream.",
+          "caption": "Friends crossing a metal footbridge over the stream.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/rocky-forest-trail.webp",
+          "alt": "A rocky trail climbing between conifers.",
+          "caption": "A rocky trail climbing between conifers.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/mountain-and-footpath.webp",
+          "alt": "A footpath leading through green groundcover towards a cloud-covered mountain.",
+          "caption": "A footpath leading through green groundcover towards a cloud-covered mountain.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/lichen-on-rock.webp",
+          "alt": "Lichen patterns across a rock beside the trail.",
+          "caption": "Lichen patterns across a rock beside the trail.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/high-pond.webp",
+          "alt": "A still pond surrounded by low vegetation beneath the mountains.",
+          "caption": "A still pond surrounded by low vegetation beneath the mountains.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/stream-and-meadow.webp",
+          "alt": "A stream winding through open meadow below steep mountains.",
+          "caption": "A stream winding through open meadow below steep mountains.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/creek-in-the-valley.webp",
+          "alt": "A creek rushing between rocks in a mountain valley.",
+          "caption": "A creek rushing between rocks in a mountain valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/handstand-by-the-bridge.webp",
+          "alt": "A traveller doing a handstand beside the trail bridge.",
+          "caption": "A traveller doing a handstand beside the trail bridge.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/bog-pond.webp",
+          "alt": "A small pond reflecting the sky among low bog plants.",
+          "caption": "A small pond reflecting the sky among low bog plants.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/valley-vista.webp",
+          "alt": "A broad mountain valley beyond the forest.",
+          "caption": "A broad mountain valley beyond the forest.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/orange-fungi.webp",
+          "alt": "Small orange fungi growing beside the forest trail.",
+          "caption": "Small orange fungi growing beside the forest trail.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/wooden-footbridge.webp",
+          "alt": "A short wooden footbridge through the forest.",
+          "caption": "A short wooden footbridge through the forest.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/muddy-boots.webp",
+          "alt": "Muddy walking boots after the trail.",
+          "caption": "Muddy walking boots after the trail.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/yellow-flowers.webp",
+          "alt": "Small yellow flowers beside the path.",
+          "caption": "Small yellow flowers beside the path.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/hiker-in-the-woods.webp",
+          "alt": "A hiker walking through dense woodland.",
+          "caption": "A hiker walking through dense woodland.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-gros-morne-mountain/river-through-the-birches.webp",
+          "alt": "River water seen between pale birch trunks.",
+          "caption": "River water seen between pale birch trunks.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne Mountain trail"
+        }
+      ]
+    },
+    {
+      "title": "Evening along the harbour",
+      "date": "2024-05-26",
+      "location": "Rocky Harbour · Gros Morne coast",
+      "paragraphs": [
+        "The afternoon returns to village streets and the shore. The light warms the water and cottages before the lighthouse appears against the blue evening sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/village-pavement.webp",
+          "alt": "A village pavement beside low wooden buildings.",
+          "caption": "A village pavement beside low wooden buildings.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Rocky Harbour"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/dandelions.webp",
+          "alt": "Yellow dandelions growing beside the road.",
+          "caption": "Yellow dandelions growing beside the road.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Rocky Harbour"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/village-overlook.webp",
+          "alt": "Colourful village buildings below a coastal overlook.",
+          "caption": "Colourful village buildings below a coastal overlook.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Rocky Harbour"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/path-above-the-bay.webp",
+          "alt": "A coastal path above the bay in low sunlight.",
+          "caption": "A coastal path above the bay in low sunlight.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Rocky Harbour area"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/rocks-and-blue-water.webp",
+          "alt": "Dark foreground rocks beside blue coastal water.",
+          "caption": "Dark foreground rocks beside blue coastal water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne coast"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/sun-above-the-coast.webp",
+          "alt": "Low sunlight above the coast and distant hills.",
+          "caption": "Low sunlight above the coast and distant hills.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne coast"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/cottage-by-the-bay.webp",
+          "alt": "A small cottage beside the water.",
+          "caption": "A small cottage beside the water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne coast"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/flat-topped-mountains.webp",
+          "alt": "Flat-topped mountains beyond a broad green valley.",
+          "caption": "Flat-topped mountains beyond a broad green valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/evening-platform.webp",
+          "alt": "A broad wooden platform with benches beneath the evening sky.",
+          "caption": "A broad wooden platform with benches beneath the evening sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne coast"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/sunlit-cabin.webp",
+          "alt": "Orange sunset light on a small wooden cabin.",
+          "caption": "Orange sunset light on a small wooden cabin.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Gros Morne coast"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/harbour-sunset.webp",
+          "alt": "Golden sunset light across the harbour water.",
+          "caption": "Golden sunset light across the harbour water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Rocky Harbour",
+          "wide": true
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/fishing-cottages.webp",
+          "alt": "A small fishing cabin along the rocky shore.",
+          "caption": "A small fishing cabin along the rocky shore.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Rocky Harbour"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-26-rocky-harbour-evening/lighthouse-at-blue-hour.webp",
+          "alt": "The lighthouse beneath a deep blue evening sky.",
+          "caption": "The lighthouse beneath a deep blue evening sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-26",
+          "location": "Lobster Cove Head"
+        }
+      ]
+    },
+    {
+      "title": "Between the cliffs of Western Brook Pond",
+      "date": "2024-05-27",
+      "location": "Western Brook Pond",
+      "paragraphs": [
+        "The approach crosses open ground below flat-topped cliffs. On the water, the boat passes waterfalls, rock faces and narrow views into the valley; the return walk ends with a kite and a lakeside rest."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/gravel-approach.webp",
+          "alt": "A gravel path crossing open ground towards a wall of flat-topped cliffs.",
+          "caption": "A gravel path crossing open ground towards a wall of flat-topped cliffs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/blue-pond-and-cliffs.webp",
+          "alt": "Blue water below the green slopes and steep cliffs.",
+          "caption": "Blue water below the green slopes and steep cliffs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/headland-in-the-pond.webp",
+          "alt": "A low headland jutting into the broad pond.",
+          "caption": "A low headland jutting into the broad pond.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/entering-the-valley.webp",
+          "alt": "Steep cliffs rising on either side of the water as the valley narrows.",
+          "caption": "Steep cliffs rising on either side of the water as the valley narrows.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/red-tour-boat.webp",
+          "alt": "A red tour boat crossing blue water below the cliffs.",
+          "caption": "A red tour boat crossing blue water below the cliffs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/waterfall-between-rocks.webp",
+          "alt": "A narrow waterfall dropping between grey rock walls.",
+          "caption": "A narrow waterfall dropping between grey rock walls.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/rock-face.webp",
+          "alt": "A steep grey rock face patterned with cracks and small trees.",
+          "caption": "A steep grey rock face patterned with cracks and small trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/peaked-cliffs.webp",
+          "alt": "Peaked cliffs rising above dark blue water.",
+          "caption": "Peaked cliffs rising above dark blue water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/high-waterfall.webp",
+          "alt": "A thin waterfall descending from the high plateau.",
+          "caption": "A thin waterfall descending from the high plateau.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/shadowed-cliffs.webp",
+          "alt": "Tall shadowed cliffs enclosing blue water.",
+          "caption": "Tall shadowed cliffs enclosing blue water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/tiered-cliff.webp",
+          "alt": "A layered grey cliff with a small waterfall above the shoreline.",
+          "caption": "A layered grey cliff with a small waterfall above the shoreline.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/valley-from-the-water.webp",
+          "alt": "A long view back along the water between green cliffs.",
+          "caption": "A long view back along the water between green cliffs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/friends-on-the-boat.webp",
+          "alt": "Friends sharing a photograph on the boat with the valley behind them.",
+          "caption": "Friends sharing a photograph on the boat with the valley behind them.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/boat-wake.webp",
+          "alt": "A white boat wake leading back towards the mountain valley.",
+          "caption": "A white boat wake leading back towards the mountain valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/dock-and-grass.webp",
+          "alt": "The dock and approach path among low green vegetation.",
+          "caption": "The dock and approach path among low green vegetation.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/kite-on-the-trail.webp",
+          "alt": "A traveller flying a small pink kite above the gravel trail.",
+          "caption": "A traveller flying a small pink kite above the gravel trail.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/curving-gravel-path.webp",
+          "alt": "A gravel path curving through open marsh beneath the distant cliffs.",
+          "caption": "A gravel path curving through open marsh beneath the distant cliffs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Western Brook Pond"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/afternoon-lake.webp",
+          "alt": "A tree-lined lake beneath green hills in the afternoon.",
+          "caption": "A tree-lined lake beneath green hills in the afternoon.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Gros Morne National Park"
+        },
+        {
+          "src": "/photos/gros-morne/2024-05-27-western-brook-pond/lakeside-rest.webp",
+          "alt": "Friends resting on the grass above a lake.",
+          "caption": "Friends resting on the grass above a lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2024-05-27",
+          "location": "Gros Morne National Park"
         }
       ]
     }

@@ -1,0 +1,54 @@
+{
+  "slug": "montreal",
+  "photoStorage": "r2",
+  "title": "Montreal",
+  "subtitle": "A short visit, kept in three photographs: the city, an underground wall and a leafy waterway.",
+  "country": "Canada",
+  "location": "Montreal, Quebec",
+  "category": "A short city visit",
+  "order": 6.1,
+  "demo": false,
+  "startDate": "2024-07-27",
+  "endDate": "2024-07-27",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/montreal/2024-07-27-montreal/montreal-city-view.webp",
+    "alt": "A large stone city building and modern towers rising above leafy trees.",
+    "caption": "A large stone city building and modern towers rising above leafy trees.",
+    "width": 2400,
+    "height": 1350,
+    "capturedOn": "2024-07-27",
+    "location": "Montreal"
+  },
+  "chapters": [
+    {
+      "title": "A short Montreal visit",
+      "date": "2024-07-27",
+      "location": "Montreal",
+      "paragraphs": [
+        "Three photographs remain from the visit: a city view, artwork on an underground wall and a tree-lined waterway."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/montreal/2024-07-27-montreal/underground-wall-art.webp",
+          "alt": "Outlined figures with flower-like heads painted across an underground wall.",
+          "caption": "Outlined figures with flower-like heads painted across an underground wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-07-27",
+          "location": "Montreal"
+        },
+        {
+          "src": "/photos/montreal/2024-07-27-montreal/tree-lined-waterway.webp",
+          "alt": "A small boat on a narrow waterway between leafy banks.",
+          "caption": "A small boat on a narrow waterway between leafy banks.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-07-27",
+          "location": "Montreal"
+        }
+      ]
+    }
+  ]
+}

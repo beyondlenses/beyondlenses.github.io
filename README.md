@@ -17,9 +17,20 @@ Kinnaur, Spiti, Chandratal, and Manali.
 Westerfolds Park, and the Great Ocean Road.
 **Britain (UK)** contains **176 original photographs** in 17 dated sections from
 **10–18 August 2025**, following Glasgow, Edinburgh, and London.
-Turkey, Spiti, Australia, and Britain photos are served from Cloudflare R2; their local WebP exports
-are ignored by Git. The existing Japan photographs remain in the repository.
-Gros Morne still uses credited stock photography and sample text.
+The Canada collections contain **304 original photographs**:
+
+| Album | Photographs | Dates |
+| --- | ---: | --- |
+| Daily life in Toronto | 129 | 28 July 2024–13 April 2025 |
+| Montreal | 3 | 27 July 2024 |
+| Algonquin and Arrowhead | 33 | 13–14 October 2024 |
+| Moosonee and the Polar Bear Express | 38 | 25–26 December 2024 |
+| Niagara Falls in winter | 21 | 16–17 February 2025 |
+| The quiet of Gros Morne | 80 | 24–27 May 2024 |
+
+All albums except Japan use Cloudflare R2; their local WebP exports are ignored
+by Git. The existing Japan photographs remain in the repository. Gros Morne’s
+stock placeholders and sample text have been replaced with original photographs.
 
 ## Run locally
 
@@ -45,7 +56,6 @@ content/
   selections/*.json      Curated source-to-export mappings and selection notes
 public/
   photos/<trip>/         Local WebP exports for R2; ignored except tracked Japan images
-  images/demo/           Stock photographs used in the sample collections
   favicon.svg            Site icon
 src/
   templates.mjs          Static HTML layouts
@@ -269,6 +279,71 @@ Representative exports checked include `twelve-apostles-coast.webp`,
 `tower-bridge-on-the-thames.webp`, `university-at-blue-hour.webp`,
 `fan-vaulting.webp`, and `st-pauls-at-night.webp`.
 
+## Canada selections
+
+All 1,419 JPEGs in `../dumps/canada/` and all 623 JPEGs in
+`../dumps/gros-morne/` were reviewed in chronological contact sheets. Shortlisted
+frames were reviewed at a larger size. Repeated bursts, weak or obstructed
+frames, screenshots, travel records and undated imports were omitted. The 122
+Canada videos and five Gros Morne videos remain outside these still-photo
+albums. No archives were extracted, and originals remain untouched.
+
+Toronto follows selected days through summer, autumn, winter and spring. The
+folder provides only three photographs from Montreal; these form a short album
+with a separate cover. No Vancouver photographs were established, so that album
+was skipped. Orillia, Arrowhead and Algonquin are grouped into one autumn trip;
+Niagara Falls and the journey to Moosonee have their own albums.
+
+Phone dates use camera-local EXIF times and recorded offsets. The Gros Morne
+Nikon D5300 clock is eight hours ahead of the matching Newfoundland phone
+photographs. Subtracting eight hours aligns the lookout, metal footbridge and
+Western Brook Pond scenes across cameras, and keeps evening pictures on their
+actual local dates. The manifest records the raw timestamps, correction and
+paired-photo evidence. The original files and their metadata are unchanged.
+
+Place labels use GPS where available, visible signs, landmarks and capture order.
+Montreal is GPS-confirmed; Arrowhead’s Big Bend and the Algonquin visitor centre
+are supported by photographed signs. Uncertain stops use broader labels such as
+Northern Ontario, the Algonquin area or the Moose River area. The foggy Gros
+Morne walk retains a broad park label instead of an unconfirmed trail name.
+
+Each album uses dated editorial galleries with the top chapter index disabled.
+Covers appear once, outside the galleries. The six selection manifests record
+source hashes, dates, evidence, counts, omissions and export settings; their
+`peoplePhotoSources` lists make personal and local-life photographs easy to
+review. Exports preserve framing and colour, correct orientation, and omit
+EXIF/XMP metadata. The two old stock WebP files have been removed, and the
+credits page now describes the original collections.
+
+```sh
+# The five Ontario/Quebec albums share the canada source folder.
+python3 scripts/export-photos.py --selection content/selections/toronto.json --source ../dumps/canada
+python3 scripts/export-photos.py --selection content/selections/montreal.json --source ../dumps/canada
+python3 scripts/export-photos.py --selection content/selections/algonquin.json --source ../dumps/canada
+python3 scripts/export-photos.py --selection content/selections/moosonee.json --source ../dumps/canada
+python3 scripts/export-photos.py --selection content/selections/niagara-falls.json --source ../dumps/canada
+python3 scripts/export-photos.py --selection content/selections/gros-morne.json --source ../dumps/gros-morne
+npm run photos:upload -- toronto montreal algonquin moosonee niagara-falls gros-morne
+npm run photos:check -- toronto montreal algonquin moosonee niagara-falls gros-morne
+npm test
+npm run build
+```
+
+Validation decoded all 304 exports and checked their original SHA-256 hashes,
+local dates, dimensions, stripped metadata, unique sources, cover use, manifest
+counts and chapter chronology. All 16 site tests pass; the build produces 14
+pages and 11 stories, with no generated references to the removed stock files.
+Representative exports opened include `toronto-skyline.webp`,
+`montreal-city-view.webp`, `big-bend-in-autumn.webp`,
+`polar-bear-express-carriage.webp`, `horseshoe-falls-in-blue.webp`, and
+`western-brook-pond-valley.webp`, plus gallery samples from each album.
+Interactive browser preview was unavailable in the sandbox.
+
+The local upload plan contains exactly the 304 selected WebP files. The R2
+upload attempt failed before transferring files because the sandbox denied
+rclone’s DNS socket. Run the upload and verification commands above from an
+environment with network access before committing and pushing the albums.
+
 ## Publish at beyondlenses.github.io
 
 Git is initialized locally on `main`, with `origin` pointing to
@@ -295,14 +370,3 @@ This project targets an account site at `/`; it is not configured for a project
 site under a repository subpath. No custom-domain `CNAME` is needed.
 See [GitHub’s Pages instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 and [custom workflow guide](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
-
-## Stock photograph credits
-
-- `gros-morne-valley.webp`: [David W Enstrom](https://commons.wikimedia.org/wiki/File:Gros_Morne_National_Park_-_Western_Brook_Pond.jpg),
-  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- `gros-morne-water.webp`: [Siderd](https://commons.wikimedia.org/wiki/File:Western_Brook_Pond_4.jpg),
-  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-The Wikimedia preview derivatives were resized and converted to WebP and are
-distributed under CC BY-SA 4.0. The layout may crop them responsively. Credit
-and license links are also published on story pages and at `/credits/`.

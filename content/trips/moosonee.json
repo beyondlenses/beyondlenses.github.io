@@ -1,0 +1,402 @@
+{
+  "slug": "moosonee",
+  "photoStorage": "r2",
+  "title": "Moosonee and the Polar Bear Express",
+  "subtitle": "A snowy drive north, a train through frozen country and winter streets beside the Moose River.",
+  "country": "Canada",
+  "location": "Northern Ontario · Cochrane · Moosonee",
+  "category": "A northern winter journey",
+  "order": 6.3,
+  "demo": false,
+  "startDate": "2024-12-25",
+  "endDate": "2024-12-26",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/moosonee/2024-12-26-moosonee-river/polar-bear-express-carriage.webp",
+    "alt": "A blue Polar Bear Express carriage with yellow handrails beside the snowy Moosonee platform.",
+    "caption": "A blue Polar Bear Express carriage with yellow handrails beside the snowy Moosonee platform.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2024-12-26",
+    "location": "Moosonee"
+  },
+  "chapters": [
+    {
+      "title": "North through the snow",
+      "date": "2024-12-25",
+      "location": "Northern Ontario · On the way to Cochrane",
+      "paragraphs": [
+        "Snowy town streets and a diner break mark the drive north before the train journey."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/moosonee/2024-12-25-northern-road/meal-on-the-way.webp",
+          "alt": "A meal served during the road journey.",
+          "caption": "A meal served during the road journey.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-25",
+          "location": "Northern Ontario · On the way to Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-25-northern-road/a-stop-in-town.webp",
+          "alt": "Friends beside a tall brick building on the snowy journey north.",
+          "caption": "Friends beside a tall brick building on the snowy journey north.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2024-12-25",
+          "location": "Northern Ontario · On the way to Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-25-northern-road/snowy-town-street.webp",
+          "alt": "Snow lining a small-town street.",
+          "caption": "Snow lining a small-town street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-25",
+          "location": "Northern Ontario · On the way to Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-25-northern-road/diner-break.webp",
+          "alt": "Friends seated together in a diner.",
+          "caption": "Friends seated together in a diner.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-25",
+          "location": "Northern Ontario · On the way to Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-25-northern-road/diner-in-the-snow.webp",
+          "alt": "A roadside diner surrounded by snow.",
+          "caption": "A roadside diner surrounded by snow.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-25",
+          "location": "Northern Ontario · On the way to Cochrane"
+        }
+      ]
+    },
+    {
+      "title": "On the Polar Bear Express",
+      "date": "2024-12-26",
+      "location": "Cochrane–Moosonee railway",
+      "paragraphs": [
+        "The train passes snowy forest, frozen waterways and small buildings beside the line. Inside are carriage seats, a café counter and views through the windows."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/forest-at-dawn.webp",
+          "alt": "A snowy forest beneath the early morning sky.",
+          "caption": "A snowy forest beneath the early morning sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/friends-on-the-train.webp",
+          "alt": "Friends together inside the train carriage.",
+          "caption": "Friends together inside the train carriage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/carriage-interior.webp",
+          "alt": "Travellers seated beside the train’s large carriage windows.",
+          "caption": "Travellers seated beside the train’s large carriage windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/dam-from-the-train.webp",
+          "alt": "A dam and river seen from the train window.",
+          "caption": "A dam and river seen from the train window.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/snowy-landscape.webp",
+          "alt": "A broad snowy landscape beside the railway.",
+          "caption": "A broad snowy landscape beside the railway.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/train-cafe.webp",
+          "alt": "A member of staff working at the counter in the train’s café carriage.",
+          "caption": "A member of staff working at the counter in the train’s café carriage.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/shed-beside-the-line.webp",
+          "alt": "A small wooden shed beside the snowy railway.",
+          "caption": "A small wooden shed beside the snowy railway.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/frozen-waterway.webp",
+          "alt": "A frozen waterway beneath a pale winter sky.",
+          "caption": "A frozen waterway beneath a pale winter sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-polar-bear-express/creek-from-the-window.webp",
+          "alt": "A narrow creek winding through snow.",
+          "caption": "A narrow creek winding through snow.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane–Moosonee railway"
+        }
+      ]
+    },
+    {
+      "title": "Moosonee and the river",
+      "date": "2024-12-26",
+      "location": "Moosonee · Moose River area",
+      "paragraphs": [
+        "Blue train carriages give way to snowy streets and the frozen river. The walk passes snowmobiles, houses, community buildings and the ice road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/moosonee-arrival.webp",
+          "alt": "A traveller beside the Moosonee station sign.",
+          "caption": "A traveller beside the Moosonee station sign.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/moosonee-welcome-carriage.webp",
+          "alt": "A decorated railway carriage beside a welcome sign and map of Moosonee.",
+          "caption": "A decorated railway carriage beside a welcome sign and map of Moosonee.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/snowmobile-stop.webp",
+          "alt": "A traveller sitting on a yellow snowmobile.",
+          "caption": "A traveller sitting on a yellow snowmobile.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/snowy-street.webp",
+          "alt": "A quiet street lined with snow.",
+          "caption": "A quiet street lined with snow.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/riverside-path.webp",
+          "alt": "A snowy path beside the frozen river.",
+          "caption": "A snowy path beside the frozen river.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/traveller-on-the-river.webp",
+          "alt": "A traveller on the frozen river beneath a low winter sun.",
+          "caption": "A traveller on the frozen river beneath a low winter sun.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/white-church.webp",
+          "alt": "A modern white church above the snow.",
+          "caption": "A modern white church above the snow.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/sled-outside-the-house.webp",
+          "alt": "A sled outside a house surrounded by snow.",
+          "caption": "A sled outside a house surrounded by snow.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/dog-in-the-snow.webp",
+          "alt": "A dog standing beside a snowy street.",
+          "caption": "A dog standing beside a snowy street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/across-the-ice-road.webp",
+          "alt": "The frozen river road seen from inside a vehicle.",
+          "caption": "The frozen river road seen from inside a vehicle.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/winter-street.webp",
+          "alt": "A snow-covered street in the low afternoon light.",
+          "caption": "A snow-covered street in the low afternoon light.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/walking-through-the-snow.webp",
+          "alt": "Friends walking together along a snowy street.",
+          "caption": "Friends walking together along a snowy street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/community-hall.webp",
+          "alt": "A community building beside a wide snow-covered area.",
+          "caption": "A community building beside a wide snow-covered area.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/brick-church.webp",
+          "alt": "A brick church surrounded by snow.",
+          "caption": "A brick church surrounded by snow.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/last-light-on-the-street.webp",
+          "alt": "Orange light along the horizon above a snowy street.",
+          "caption": "Orange light along the horizon above a snowy street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moose River area"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/beaded-footwear.webp",
+          "alt": "Beaded footwear displayed inside a glass case.",
+          "caption": "Beaded footwear displayed inside a glass case.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-moosonee-river/tools-on-display.webp",
+          "alt": "Old tools and everyday objects in a historical display.",
+          "caption": "Old tools and everyday objects in a historical display.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        }
+      ]
+    },
+    {
+      "title": "Back to Cochrane",
+      "date": "2024-12-26",
+      "location": "Moosonee–Cochrane railway · Cochrane",
+      "paragraphs": [
+        "The return begins beside the train at blue hour. After dinner on board, the last photographs are station lights, an engine, an illuminated polar bear and holiday decorations."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/moosonee/2024-12-26-return-to-cochrane/train-at-blue-hour.webp",
+          "alt": "The blue train beside the snowy platform at dusk.",
+          "caption": "The blue train beside the snowy platform at dusk.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-return-to-cochrane/dinner-on-board.webp",
+          "alt": "A passenger having dinner inside the train.",
+          "caption": "A passenger having dinner inside the train.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2024-12-26",
+          "location": "Moosonee–Cochrane railway"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-return-to-cochrane/station-after-dark.webp",
+          "alt": "Lights on the station platform after dark.",
+          "caption": "Lights on the station platform after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-return-to-cochrane/yellow-engine.webp",
+          "alt": "A yellow railway engine beside the platform at night.",
+          "caption": "A yellow railway engine beside the platform at night.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-return-to-cochrane/illuminated-polar-bear.webp",
+          "alt": "An illuminated polar bear decoration against the dark sky.",
+          "caption": "An illuminated polar bear decoration against the dark sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane"
+        },
+        {
+          "src": "/photos/moosonee/2024-12-26-return-to-cochrane/holiday-building.webp",
+          "alt": "A wooden building decorated with holiday lights after dark.",
+          "caption": "A wooden building decorated with holiday lights after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2024-12-26",
+          "location": "Cochrane"
+        }
+      ]
+    }
+  ]
+}

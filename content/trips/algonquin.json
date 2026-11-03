@@ -1,0 +1,347 @@
+{
+  "slug": "algonquin",
+  "photoStorage": "r2",
+  "title": "Algonquin and Arrowhead",
+  "subtitle": "An autumn road trip through market streets, colourful forest trails and still lakes.",
+  "country": "Canada",
+  "location": "Orillia · Arrowhead · Algonquin, Ontario",
+  "category": "Autumn roads and trails",
+  "order": 6.2,
+  "demo": false,
+  "startDate": "2024-10-13",
+  "endDate": "2024-10-14",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/algonquin/2024-10-14-arrowhead/big-bend-in-autumn.webp",
+    "alt": "A river bend surrounded by red, gold and green autumn forest.",
+    "caption": "A river bend surrounded by red, gold and green autumn forest.",
+    "width": 2400,
+    "height": 1544,
+    "capturedOn": "2024-10-14",
+    "location": "Big Bend, Arrowhead Provincial Park"
+  },
+  "chapters": [
+    {
+      "title": "A stop in Orillia",
+      "date": "2024-10-13",
+      "location": "Orillia · On the way north",
+      "paragraphs": [
+        "Shopfronts and market shelves begin the road trip. Beyond town, the route passes autumn water and ends with a meal."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/craft-shop.webp",
+          "alt": "The colourful shopfront of Lahay’s Crafts in Orillia.",
+          "caption": "The colourful shopfront of Lahay’s Crafts in Orillia.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/wall-mural.webp",
+          "alt": "A painted mural beside older shopfronts.",
+          "caption": "A painted mural beside older shopfronts.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/meal-in-orillia.webp",
+          "alt": "Rice, curry and other dishes on a restaurant table.",
+          "caption": "Rice, curry and other dishes on a restaurant table.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-13",
+          "location": "Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/market-jars.webp",
+          "alt": "Rows of jars and preserves inside the market.",
+          "caption": "Rows of jars and preserves inside the market.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "Mariposa Market, Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/market-interior.webp",
+          "alt": "Customers and counters inside Mariposa Market.",
+          "caption": "Customers and counters inside Mariposa Market.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "Mariposa Market, Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/apple-annies.webp",
+          "alt": "The sign and shopfront of Apple Annie’s.",
+          "caption": "The sign and shopfront of Apple Annie’s.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-13",
+          "location": "Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/street-detail.webp",
+          "alt": "A decorated post beside an Orillia street.",
+          "caption": "A decorated post beside an Orillia street.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-13",
+          "location": "Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/autumn-in-town.webp",
+          "alt": "Autumn trees beside the town pavement.",
+          "caption": "Autumn trees beside the town pavement.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "Orillia"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/water-along-the-route.webp",
+          "alt": "Water and marsh vegetation beside the autumn route.",
+          "caption": "Water and marsh vegetation beside the autumn route.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "On the way north"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/canoe-at-dusk.webp",
+          "alt": "Two travellers in a canoe on still water at dusk.",
+          "caption": "Two travellers in a canoe on still water at dusk.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2024-10-13",
+          "location": "On the way north"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/red-restaurant-interior.webp",
+          "alt": "Warm lights and red walls inside a restaurant.",
+          "caption": "Warm lights and red walls inside a restaurant.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "On the way north"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-13-orillia/pakoras.webp",
+          "alt": "A plate of pakoras served with sauce.",
+          "caption": "A plate of pakoras served with sauce.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-13",
+          "location": "On the way north"
+        }
+      ]
+    },
+    {
+      "title": "Autumn at Arrowhead",
+      "date": "2024-10-14",
+      "location": "Arrowhead Provincial Park",
+      "paragraphs": [
+        "Gold and red leaves line the roads, trails and water. The walk follows forest paths, rocky water and a bridge among the autumn trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/road-through-autumn.webp",
+          "alt": "A road passing through gold and red autumn trees.",
+          "caption": "A road passing through gold and red autumn trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/autumn-canopy.webp",
+          "alt": "Colourful leaves forming a canopy above the path.",
+          "caption": "Colourful leaves forming a canopy above the path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/trail-sign.webp",
+          "alt": "A trail sign among the autumn trees.",
+          "caption": "A trail sign among the autumn trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/golden-forest.webp",
+          "alt": "A forest path beneath golden leaves.",
+          "caption": "A forest path beneath golden leaves.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/hiker-on-the-path.webp",
+          "alt": "A hiker standing on a woodland path among autumn leaves.",
+          "caption": "A hiker standing on a woodland path among autumn leaves.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/leaves-against-the-sky.webp",
+          "alt": "Autumn leaves framing the pale sky.",
+          "caption": "Autumn leaves framing the pale sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/rocky-stream.webp",
+          "alt": "Water flowing between rocks beneath autumn trees.",
+          "caption": "Water flowing between rocks beneath autumn trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/friends-on-the-bridge.webp",
+          "alt": "Friends standing together on a forest footbridge.",
+          "caption": "Friends standing together on a forest footbridge.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/red-and-gold-trees.webp",
+          "alt": "Red and gold leaves along a forest path.",
+          "caption": "Red and gold leaves along a forest path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/lakeside-landing.webp",
+          "alt": "A small landing beside a quiet autumn lake.",
+          "caption": "A small landing beside a quiet autumn lake.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-arrowhead/curving-forest-road.webp",
+          "alt": "A road curving between colourful autumn trees.",
+          "caption": "A road curving between colourful autumn trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Arrowhead Provincial Park"
+        }
+      ]
+    },
+    {
+      "title": "Towards Algonquin",
+      "date": "2024-10-14",
+      "location": "Algonquin Provincial Park · Surrounding lakes",
+      "paragraphs": [
+        "The road continues to the Algonquin visitor centre. Cloudy lake views, reflections and a rack of canoes finish the autumn outing."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/road-through-the-windscreen.webp",
+          "alt": "An autumn forest road seen through the car windscreen.",
+          "caption": "An autumn forest road seen through the car windscreen.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "On the way to Algonquin"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/visitor-centre-cafe.webp",
+          "alt": "Friends seated inside the visitor centre café.",
+          "caption": "Friends seated inside the visitor centre café.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin Visitor Centre"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/algonquin-wolf.webp",
+          "alt": "A bronze howling wolf beside the Algonquin Park welcome sign.",
+          "caption": "A bronze howling wolf beside the Algonquin Park welcome sign.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin Visitor Centre"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/narrow-forest-road.webp",
+          "alt": "A narrow road through dense autumn trees.",
+          "caption": "A narrow road through dense autumn trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin area"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/clouds-above-the-lake.webp",
+          "alt": "A lakeside road beneath low clouds.",
+          "caption": "A lakeside road beneath low clouds.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin area"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/a-pause-by-the-lake.webp",
+          "alt": "A traveller standing beside an autumn lake.",
+          "caption": "A traveller standing beside an autumn lake.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin area"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/autumn-reflections.webp",
+          "alt": "Autumn trees reflected across still lake water.",
+          "caption": "Autumn trees reflected across still lake water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin area",
+          "wide": true
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/canoe-rack.webp",
+          "alt": "Colourful canoes stacked on a rack beside the water.",
+          "caption": "Colourful canoes stacked on a rack beside the water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-14",
+          "location": "Algonquin area"
+        },
+        {
+          "src": "/photos/algonquin/2024-10-14-algonquin-area/dinner-after-the-drive.webp",
+          "alt": "Bread and dishes of food on a restaurant table.",
+          "caption": "Bread and dishes of food on a restaurant table.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-14",
+          "location": "On the return journey"
+        }
+      ]
+    }
+  ]
+}
