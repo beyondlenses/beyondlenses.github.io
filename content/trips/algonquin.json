@@ -343,5 +343,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Algonquin",
+    "latitude": 45.84,
+    "longitude": -78.37,
+    "labelPosition": [
+      260,
+      300
+    ]
+  }
 }

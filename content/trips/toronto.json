@@ -1625,5 +1625,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Toronto",
+    "latitude": 43.65,
+    "longitude": -79.38,
+    "labelPosition": [
+      175,
+      430
+    ]
+  }
 }

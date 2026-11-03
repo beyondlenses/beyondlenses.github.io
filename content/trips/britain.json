@@ -1786,5 +1786,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Britain (UK)",
+    "latitude": 51.51,
+    "longitude": -0.12,
+    "labelPosition": [
+      930,
+      390
+    ]
+  }
 }

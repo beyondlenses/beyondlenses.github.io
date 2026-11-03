@@ -799,5 +799,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Gros Morne",
+    "latitude": 49.69,
+    "longitude": -57.82,
+    "labelPosition": [
+      1000,
+      225
+    ]
+  }
 }

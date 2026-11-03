@@ -337,5 +337,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Japan",
+    "latitude": 35.68,
+    "longitude": 139.69,
+    "labelPosition": [
+      864,
+      287
+    ]
+  }
 }

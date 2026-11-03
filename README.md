@@ -1,10 +1,10 @@
 # Beyond Lenses
 
 A personal travel photo journal inspired by the spacious photo essays on
-[Exposure](https://exposure.co/). Includes a featured story, country filters,
+[Exposure](https://exposure.co/). Includes a world map of the albums, country filters,
 chapter-based trip pages, a keyboard-accessible photo viewer, photo credits,
 social preview metadata, and a sitemap. Works on mobile and without JavaScript;
-JavaScript adds filters, the viewer, and reading progress.
+JavaScript adds linked map highlights, filters, the viewer, and reading progress.
 
 The Japan album contains **37 curated original photographs** in six chapters.
 **tesekkuler turkey** contains **189 original photographs** organized into 15
@@ -17,6 +17,9 @@ Kinnaur, Spiti, Chandratal, and Manali.
 Westerfolds Park, and the Great Ocean Road.
 **Britain (UK)** contains **176 original photographs** in 17 dated sections from
 **10–18 August 2025**, following Glasgow, Edinburgh, and London.
+**Malaysia** contains **113 original photographs** in ten dated sections from
+**12 October–25 November 2019**, covering Melaka, Kuala Lumpur and Batu Caves,
+George Town, Penang National Park, Penang Hill, and Langkawi.
 The Canada collections contain **304 original photographs**:
 
 | Album | Photographs | Dates |
@@ -51,14 +54,17 @@ Set `PORT=8080 npm run dev` to use another port.
 
 ```text
 content/
-  site.json              Brand, introduction, site URL, featured trip
+  site.json              Brand, introduction, site URL, public photo URL
   trips/*.json           One file per trip: chapters, photographs, captions
   selections/*.json      Curated source-to-export mappings and selection notes
 public/
   photos/<trip>/         Local WebP exports for R2; ignored except tracked Japan images
+  images/world-atlas.svg Locally hosted Natural Earth coastlines
+  images/atlas-*.svg     Country outlines and lakes for the atlas
   favicon.svg            Site icon
 src/
   templates.mjs          Static HTML layouts
+  atlas.mjs              Shared map projection for coastlines and album locations
   styles.css             Responsive editorial design
   main.js                Progressive browser interactions
   photos.mjs             Resolve R2 image URLs for rendering
@@ -67,6 +73,54 @@ tests/                   Node.js tests
 .github/workflows/       GitHub Pages build and deployment
 dist/                    Generated website; ignored by Git
 ```
+
+## Homepage travel atlas
+
+The forest-green atlas starts with countries. Selecting a country or its name
+zooms the map into that country’s destinations, reveals its clickable album
+locations, and shows its album cover cards. A country with one album follows
+the same flow. The country menu stays available for switching; **World map**
+and **Escape** return to the overview and restore keyboard focus.
+
+Countries and album counts come from the current trip content. Canada’s view
+frames its eastern destinations, and Malaysia’s view frames the peninsula.
+Mobile layouts provide large country links and stacked album cards. Hovering or
+focusing an album highlights its map marker and cover card together. Reduced
+motion preferences disable the transition. Without JavaScript, country links
+jump to the corresponding collection of album cards below the world map.
+
+Every trip has a `mapLocation` with a short `label`, representative `latitude`
+and `longitude`, and optional `labelPosition: [x, y]` for its callout in the
+**zoomed country view**, on a 1200 × 600 canvas. `src/atlas.mjs` defines the
+country centres, world-label positions, geographic frames and outline codes;
+new countries without a definition still receive a marker and an automatic
+frame. Markers identify an album’s principal destination rather than every stop
+along its route. The build validates coordinates and labels. Homepage sharing
+metadata uses the first album’s cover; `featuredTrip` is no longer used.
+
+The map assets are bundled locally, with no map service, runtime download,
+API key or additional package. They use the public-domain Natural Earth 50m
+[land](https://github.com/nvkelso/natural-earth-vector/blob/v5.1.2/geojson/ne_50m_land.geojson),
+[countries](https://github.com/nvkelso/natural-earth-vector/blob/v5.1.2/geojson/ne_50m_admin_0_countries.geojson)
+and [lakes](https://github.com/nvkelso/natural-earth-vector/blob/v5.1.2/geojson/ne_50m_lakes.geojson)
+datasets, version 5.1.2, in the Natural Earth 1 projection. See
+[Natural Earth’s terms](https://www.naturalearthdata.com/about/terms-of-use/)
+and the [projection formula](https://github.com/d3/d3-geo/blob/main/src/projection/naturalEarth1.js).
+
+To regenerate the assets, download those GeoJSON files outside the repository:
+
+```sh
+node scripts/generate-atlas.mjs /path/to/ne_50m_land.geojson /path/to/ne_50m_admin_0_countries.geojson /path/to/ne_50m_lakes.geojson
+npm test
+npm run build
+```
+
+World, Canada and Malaysia map artwork was rendered and visually checked.
+Tests cover country selection, zoom frames, country-specific album links,
+single-album countries, country switching, World map and Escape controls,
+focus restoration, hash links, modified clicks, highlights and local assets.
+Interactive browser preview remains unavailable in the sandbox; use
+`npm run dev` for the desktop and mobile browser review.
 
 ## Cloudflare R2 photographs
 
@@ -116,6 +170,7 @@ selection, people, date/location, and album layout preferences.
 2. Copy an existing file in `content/trips/`. Set a unique lowercase `slug`,
    `title`, `subtitle`, `country`, `location`, `category`, and numerical `order`.
    Lower `order` values appear first. The slug determines `/stories/<slug>/`.
+   Add its `mapLocation` label and coordinates as described above.
 3. Set `demo` to `false` and `photoStorage` to `r2`. Replace the cover and chapter photographs with paths
    such as `/photos/japan/kyoto-evening.webp`; paths are relative to `public/`.
    Add descriptive `alt` text and optional `caption`. Supply the exported image’s
@@ -129,7 +184,7 @@ selection, people, date/location, and album layout preferences.
    `cover.position` optionally controls cropping, for example `center 55%`.
 5. Create `content/selections/<slug>.json` with the source mappings and approved
    photo paths. Upload with `npm run photos:upload -- <slug>`. Update
-   `content/site.json` if changing the introduction or `featuredTrip` slug.
+   `content/site.json` if changing the introduction or site details.
    Run `npm test` and `npm run build`, then review the local preview.
 
 For a trip organized by date, add `startDate` and `endDate` (`YYYY-MM-DD`) to
@@ -343,6 +398,55 @@ The local upload plan contains exactly the 304 selected WebP files. The R2
 upload attempt failed before transferring files because the sandbox denied
 rclone’s DNS socket. Run the upload and verification commands above from an
 environment with network access before committing and pushing the albums.
+
+## Malaysia selection and exports
+
+Malaysia uses **113 selections** from the **634 still images** in
+`../dumps/malaysia/`, reviewed in chronological contact sheets. A shortlist of
+128 frames received a larger review. The album follows eight photographed days
+across **12–13 October, 2–3 November, and 22–25 November 2019** in ten dated
+sections. The single transit photograph from 21 November, metadata-free copies,
+the screenshot, repeated bursts, weaker frames and 28 videos are omitted.
+
+The sections cover Melaka, Kuala Lumpur and Batu Caves, George Town, Penang’s
+coastal forest and hill paths, Kuah, Gunung Machinchang, and the Kilim waterways.
+Dates come from camera-local EXIF: 111 use `DateTimeOriginal`, and two camera
+panoramas use `Image DateTime`, corroborated by their original filenames.
+Malaysia’s +08:00 offset is inferred and supported by GPS UTC timestamps where
+usable. Place labels use original GPS,
+visible landmarks, signs and capture order. Broader labels avoid relying on
+stale boat-route GPS fixes to name individual caves. Official landmark
+references are recorded in `content/selections/malaysia.json`.
+
+The SkyBridge cover appears once, outside the galleries. The selection manifest
+records source filenames and SHA-256 hashes, export settings, date/location
+evidence, omitted sources, daily and section counts, and people photographs for
+later review. Originals remain intact. WebP copies preserve colour and framing,
+correct EXIF orientation, and omit EXIF/XMP. They stay out of Git and `dist/`;
+the album renders their configured R2 URLs.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/malaysia.json --source ../dumps/malaysia
+npm run photos:plan -- malaysia
+npm run photos:upload -- malaysia
+npm run photos:check -- malaysia
+npm test
+npm run build
+```
+
+Validation checked all 113 source hashes, EXIF dates, decoded WebP files,
+dimensions, preserved framing, stripped metadata, unique sources, cover use,
+omissions, chronology and manifest counts. Representative exports opened were
+`skybridge-above-the-forest.webp`, `pink-reflections-at-blue-hour.webp`,
+`children-and-the-bicycle.webp`, and `mangrove-roots-in-the-water.webp`.
+The upload plan contains exactly 113 WebP files, totalling 36.2 MiB.
+`npm test` and `npm run build` pass; the build produces 15 pages and 12 stories.
+
+The R2 upload attempt transferred no files: the sandbox denied rclone’s DNS
+socket. Browser preview was also blocked when the local server could not bind
+its socket. Upload and verify with the commands above from an environment with
+network access before pushing the album content; use `npm run dev` there for
+desktop and mobile review.
 
 ## Publish at beyondlenses.github.io
 

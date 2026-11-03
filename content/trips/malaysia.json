@@ -1,0 +1,1172 @@
+{
+  "slug": "malaysia",
+  "photoStorage": "r2",
+  "title": "Malaysia",
+  "subtitle": "Melaka’s river streets, Kuala Lumpur’s towers and cave temples, Penang’s painted lanes and forest paths, and the ridges and mangroves of Langkawi.",
+  "country": "Malaysia",
+  "location": "Melaka · Kuala Lumpur · Penang · Langkawi",
+  "category": "Journeys along the Malay Peninsula",
+  "order": 7,
+  "demo": false,
+  "startDate": "2019-10-12",
+  "endDate": "2019-11-25",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/malaysia/2019-11-24-gunung-machinchang/skybridge-above-the-forest.webp",
+    "alt": "Langkawi’s curved SkyBridge suspended between steep forested ridges, seen from above.",
+    "caption": "Langkawi’s curved SkyBridge suspended between steep forested ridges, seen from above.",
+    "width": 2400,
+    "height": 1350,
+    "capturedOn": "2019-11-24",
+    "location": "Langkawi SkyBridge"
+  },
+  "chapters": [
+    {
+      "title": "An evening in Melaka",
+      "date": "2019-10-12",
+      "location": "Melaka",
+      "paragraphs": [
+        "Red arcades and decorated trishaws lead down to the river. As daylight fades, coloured reflections take over the water and Jonker Walk lights up."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/streets-of-melaka.webp",
+          "alt": "Shophouses and a yellow box junction on a street in central Melaka.",
+          "caption": "Shophouses and a yellow box junction on a street in central Melaka.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/red-arched-passage.webp",
+          "alt": "A series of red arches framing a long shaded passage.",
+          "caption": "A series of red arches framing a long shaded passage.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-12",
+          "location": "Dutch Square, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/christ-church-and-trishaws.webp",
+          "alt": "Christ Church’s red façade beside decorated trishaws in Dutch Square.",
+          "caption": "Christ Church’s red façade beside decorated trishaws in Dutch Square.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-12",
+          "location": "Dutch Square, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/colours-at-the-market.webp",
+          "alt": "Printed shirts and brightly coloured fabrics hanging beneath a red market canopy.",
+          "caption": "Printed shirts and brightly coloured fabrics hanging beneath a red market canopy.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Dutch Square, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/dutch-square-from-above.webp",
+          "alt": "Visitors, flower beds and colourful trishaws around the fountain in Dutch Square.",
+          "caption": "Visitors, flower beds and colourful trishaws around the fountain in Dutch Square.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Dutch Square, Melaka",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/red-clock-tower.webp",
+          "alt": "The red clock tower overlooking the busy square.",
+          "caption": "The red clock tower overlooking the busy square.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-12",
+          "location": "Dutch Square, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/caricature-artists.webp",
+          "alt": "Artists drawing caricatures at a brightly lit stand lined with example portraits.",
+          "caption": "Artists drawing caricatures at a brightly lit stand lined with example portraits.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka riverfront"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/boats-on-the-melaka-river.webp",
+          "alt": "A blue river boat passing buildings beside the broad Melaka River.",
+          "caption": "A blue river boat passing buildings beside the broad Melaka River.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka River"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/red-double-decker.webp",
+          "alt": "A red double-decker bus parked beside the square.",
+          "caption": "A red double-decker bus parked beside the square.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Dutch Square, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/gateway-by-the-river.webp",
+          "alt": "A brick gateway beside the river, framed by hanging pink flowers.",
+          "caption": "A brick gateway beside the river, framed by hanging pink flowers.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka River"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/pink-reflections-at-blue-hour.webp",
+          "alt": "Pink lights reflected below pale riverside buildings beneath a deep blue sky.",
+          "caption": "Pink lights reflected below pale riverside buildings beneath a deep blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka River",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/river-walk-after-dark.webp",
+          "alt": "Lamps lighting a long pedestrian walkway beside the river at night.",
+          "caption": "Lamps lighting a long pedestrian walkway beside the river at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka River"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/archway-after-dark.webp",
+          "alt": "A small arched doorway glowing at the end of an old covered passage.",
+          "caption": "A small arched doorway glowing at the end of an old covered passage.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/jonker-walk-gateway.webp",
+          "alt": "The decorated Jonker Walk gateway illuminated above an evening crowd.",
+          "caption": "The decorated Jonker Walk gateway illuminated above an evening crowd.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Jonker Walk, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-12-melaka/purple-river-lights.webp",
+          "alt": "Purple reflections beneath a row of illuminated red-roofed riverside buildings.",
+          "caption": "Purple reflections beneath a row of illuminated red-roofed riverside buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Melaka River"
+        }
+      ]
+    },
+    {
+      "title": "The old city in morning light",
+      "date": "2019-10-13",
+      "location": "Melaka",
+      "paragraphs": [
+        "The river is quieter in the morning. The walk continues past small shrines and timber roofs, up to St Paul’s stone walls and back down to the fort gateway and waterfront."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/steps-to-the-footbridge.webp",
+          "alt": "Red steps with yellow railings rising towards a pedestrian bridge.",
+          "caption": "Red steps with yellow railings rising towards a pedestrian bridge.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka River"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/morning-river-reflections.webp",
+          "alt": "Riverside buildings, palms and lamps reflected in still morning water.",
+          "caption": "Riverside buildings, palms and lamps reflected in still morning water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka River"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/green-shuttered-shophouse.webp",
+          "alt": "An ornate pale shophouse with green shutters above a quiet street.",
+          "caption": "An ornate pale shophouse with green shutters above a quiet street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/red-doorway-and-lanterns.webp",
+          "alt": "Red doors, lanterns and stone guardians at a small temple entrance.",
+          "caption": "Red doors, lanterns and stone guardians at a small temple entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/painted-shophouse-front.webp",
+          "alt": "A brightly painted shophouse front shaded by a leafy tree.",
+          "caption": "A brightly painted shophouse front shaded by a leafy tree.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/timber-palace-roofs.webp",
+          "alt": "Tiered timber roofs and carved balconies at the Melaka Sultanate Palace Museum.",
+          "caption": "Tiered timber roofs and carved balconies at the Melaka Sultanate Palace Museum.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka Sultanate Palace Museum",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/stones-against-the-old-wall.webp",
+          "alt": "Inscribed stones standing against the weathered brick and stone walls of St Paul’s Church.",
+          "caption": "Inscribed stones standing against the weathered brick and stone walls of St Paul’s Church.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "St Paul’s Church, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/inside-st-pauls.webp",
+          "alt": "Visitors inside the roofless stone nave of St Paul’s Church beneath a clear sky.",
+          "caption": "Visitors inside the roofless stone nave of St Paul’s Church beneath a clear sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "St Paul’s Church, Melaka",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/statue-on-st-pauls-hill.webp",
+          "alt": "A statue and white tower silhouetted beneath leafy branches on St Paul’s Hill.",
+          "caption": "A statue and white tower silhouetted beneath leafy branches on St Paul’s Hill.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "St Paul’s Hill, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/a-famosa-gateway.webp",
+          "alt": "The weathered stone gateway of A Famosa below a green hillside.",
+          "caption": "The weathered stone gateway of A Famosa below a green hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "A Famosa, Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/colourful-waterfront-shophouses.webp",
+          "alt": "A long row of narrow pastel and blue shophouses facing the road.",
+          "caption": "A long row of narrow pastel and blue shophouses facing the road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "Melaka"
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/maritime-museum-ship.webp",
+          "alt": "The tall masts and wooden hull of the ship at Melaka’s Maritime Museum.",
+          "caption": "The tall masts and wooden hull of the ship at Melaka’s Maritime Museum.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-13",
+          "location": "Maritime Museum, Melaka",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-10-13-melaka/white-church-towers.webp",
+          "alt": "The pale towers and pointed entrance of the Church of St Francis Xavier.",
+          "caption": "The pale towers and pointed entrance of the Church of St Francis Xavier.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-10-13",
+          "location": "Church of St Francis Xavier, Melaka"
+        }
+      ]
+    },
+    {
+      "title": "Towers, trees and evening streets",
+      "date": "2019-11-02",
+      "location": "Kuala Lumpur",
+      "paragraphs": [
+        "The twin towers rise above fountains and green park paths. A traditional timber house offers a quieter stop before the lanterns, food stalls and crowds of Bukit Bintang."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/petronas-twin-towers.webp",
+          "alt": "The Petronas Twin Towers and their skybridge rising into a pale sky.",
+          "caption": "The Petronas Twin Towers and their skybridge rising into a pale sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-02",
+          "location": "Petronas Twin Towers, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/fountains-below-the-towers.webp",
+          "alt": "Fountains and a curved pool beneath the towers beside KLCC Park.",
+          "caption": "Fountains and a curved pool beneath the towers beside KLCC Park.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "KLCC Park, Kuala Lumpur",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/trees-in-klcc-park.webp",
+          "alt": "Tall trees and hanging vines above a green lawn in KLCC Park.",
+          "caption": "Tall trees and hanging vines above a green lawn in KLCC Park.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "KLCC Park, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/flowering-trees-and-paths.webp",
+          "alt": "Purple-flowering trees shading paths and low hedges in the city park.",
+          "caption": "Purple-flowering trees shading paths and low hedges in the city park.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "KLCC Park, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/steep-city-gables.webp",
+          "alt": "Steep tiled gables and timber-coloured balconies on a city building.",
+          "caption": "Steep tiled gables and timber-coloured balconies on a city building.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-02",
+          "location": "Jalan Stonor, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/rumah-penghulu.webp",
+          "alt": "A traditional carved timber house raised on posts amid city buildings.",
+          "caption": "A traditional carved timber house raised on posts amid city buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "Rumah Penghulu Abu Seman, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/bukit-bintang-at-night.webp",
+          "alt": "Lit restaurant balconies, shoppers and traffic on an evening street.",
+          "caption": "Lit restaurant balconies, shoppers and traffic on an evening street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "Bukit Bintang, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/lanterns-over-jalan-alor.webp",
+          "alt": "Strings of red lanterns above a crowded street of evening food stalls.",
+          "caption": "Strings of red lanterns above a crowded street of evening food stalls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "Jalan Alor, Kuala Lumpur",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/mango-and-sticky-rice.webp",
+          "alt": "Sliced mango and sticky rice in a clear tray on a red table.",
+          "caption": "Sliced mango and sticky rice in a clear tray on a red table.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-02",
+          "location": "Jalan Alor, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/craft-at-the-night-market.webp",
+          "alt": "A stallholder working on a small decorative object at a table of crafts.",
+          "caption": "A stallholder working on a small decorative object at a table of crafts.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "Bukit Bintang, Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-02-kuala-lumpur/an-evening-crowd.webp",
+          "alt": "A crowd gathered around a street performance outside a glass-fronted entrance.",
+          "caption": "A crowd gathered around a street performance outside a glass-fronted entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-02",
+          "location": "Bukit Bintang, Kuala Lumpur"
+        }
+      ]
+    },
+    {
+      "title": "Morning at Batu Caves",
+      "date": "2019-11-03",
+      "location": "Kuala Lumpur · Batu Caves",
+      "paragraphs": [
+        "An illuminated city façade gives way to limestone cliffs and colourful temple details. Inside Batu Caves, dark shrines stand beneath an opening to the sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/city-facade-before-dawn.webp",
+          "alt": "An ornate cream city façade lit by warm lamps before dawn.",
+          "caption": "An ornate cream city façade lit by warm lamps before dawn.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-03",
+          "location": "Kuala Lumpur"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/murugan-and-the-colourful-stairs.webp",
+          "alt": "The golden Murugan statue beside colourful steps leading into the limestone cliff.",
+          "caption": "The golden Murugan statue beside colourful steps leading into the limestone cliff.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves, Selangor"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/temple-colours-below-the-cliff.webp",
+          "alt": "Rows of brightly painted temple figures beneath a limestone cliff and blue sky.",
+          "caption": "Rows of brightly painted temple figures beneath a limestone cliff and blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves, Selangor",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/limestone-above-the-steps.webp",
+          "alt": "Rough limestone walls rising above a steep stairway.",
+          "caption": "Rough limestone walls rising above a steep stairway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves, Selangor"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/steps-to-the-cave-shrine.webp",
+          "alt": "Red and white steps leading to a small shrine inside the cave.",
+          "caption": "Red and white steps leading to a small shrine inside the cave.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves, Selangor"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/shrine-against-the-sky.webp",
+          "alt": "A dark temple gateway and visitors silhouetted below the cave’s opening to blue sky.",
+          "caption": "A dark temple gateway and visitors silhouetted below the cave’s opening to blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves, Selangor"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/the-statue-from-above.webp",
+          "alt": "The back of the golden Murugan statue seen from the steps above the entrance plaza.",
+          "caption": "The back of the golden Murugan statue seen from the steps above the entrance plaza.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves, Selangor"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-03-batu-caves/quiet-train-carriage.webp",
+          "alt": "An empty commuter carriage with silver rails and a long central aisle.",
+          "caption": "An empty commuter carriage with silver rails and a long central aisle.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-03",
+          "location": "Batu Caves train, Selangor"
+        }
+      ]
+    },
+    {
+      "title": "A morning through George Town",
+      "date": "2019-11-22",
+      "location": "George Town, Penang",
+      "paragraphs": [
+        "The day begins on the ferry and continues through breakfast, temple streets and painted walls. At the clan jetties, timber houses stand above green water and small boats rest beside the walkways."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/george-town-from-the-ferry.webp",
+          "alt": "George Town’s waterfront beneath a layered morning sky, seen from the ferry.",
+          "caption": "George Town’s waterfront beneath a layered morning sky, seen from the ferry.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "Penang ferry, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/breakfast-in-george-town.webp",
+          "alt": "Eggs and toast covered with sauces, served with beans and a small salad.",
+          "caption": "Eggs and toast covered with sauces, served with beans and a small salad.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "George Town, Penang"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/tree-on-the-padang.webp",
+          "alt": "A bare-branched tree standing on a broad green lawn near the seafront.",
+          "caption": "A bare-branched tree standing on a broad green lawn near the seafront.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "Padang Kota Lama, George Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/temple-in-the-street.webp",
+          "alt": "An ornate red-roofed temple at the end of a street lined with stalls.",
+          "caption": "An ornate red-roofed temple at the end of a street lined with stalls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "George Town, Penang"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/flower-stalls.webp",
+          "alt": "Buckets of bright flowers arranged outside shops beneath coloured awnings.",
+          "caption": "Buckets of bright flowers arranged outside shops beneath coloured awnings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "George Town, Penang"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/kapitan-keling-mosque.webp",
+          "alt": "White walls, dark domes and an iron entrance gate at Kapitan Keling Mosque.",
+          "caption": "White walls, dark domes and an iron entrance gate at Kapitan Keling Mosque.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "Kapitan Keling Mosque, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/yap-temple-entrance.webp",
+          "alt": "Carved columns, lanterns and colourful roof figures at the Yap temple entrance.",
+          "caption": "Carved columns, lanterns and colourful roof figures at the Yap temple entrance.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Yap Temple, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/yap-kongsi-facade.webp",
+          "alt": "The pale green Yap Kongsi façade with carved window surrounds and white columns.",
+          "caption": "The pale green Yap Kongsi façade with carved window surrounds and white columns.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "Yap Kongsi, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/plants-along-the-five-foot-way.webp",
+          "alt": "Potted palms and smaller plants lining a shaded shophouse walkway.",
+          "caption": "Potted palms and smaller plants lining a shaded shophouse walkway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Armenian Street, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/mural-on-a-purple-wall.webp",
+          "alt": "A painted child peering over a ledge beside a vending machine on a purple wall.",
+          "caption": "A painted child peering over a ledge beside a vending machine on a purple wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-11-22",
+          "location": "George Town, Penang"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/children-and-the-bicycle.webp",
+          "alt": "Painted children riding a real bicycle against a weathered wall beside trailing greenery.",
+          "caption": "Painted children riding a real bicycle against a weathered wall beside trailing greenery.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Armenian Street, George Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/window-and-bicycle-mural.webp",
+          "alt": "Painted figures at a window above an old bicycle against a shophouse wall.",
+          "caption": "Painted figures at a window above an old bicycle against a shophouse wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "George Town, Penang"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/ships-in-the-strait.webp",
+          "alt": "Ships scattered across the strait below streaks of bright cloud.",
+          "caption": "Ships scattered across the strait below streaks of bright cloud.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "George Town waterfront"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/timber-buildings-on-stilts.webp",
+          "alt": "Long timber buildings with striped roofs standing on posts above the water.",
+          "caption": "Long timber buildings with striped roofs standing on posts above the water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Clan Jetties, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/boat-beside-the-jetty.webp",
+          "alt": "A decorated green boat beside a bicycle and the timber houses of the jetties.",
+          "caption": "A decorated green boat beside a bicycle and the timber houses of the jetties.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Clan Jetties, George Town"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/painted-houses-above-the-water.webp",
+          "alt": "Timber houses decorated with painted figures, raised on stilts above green water.",
+          "caption": "Timber houses decorated with painted figures, raised on stilts above green water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Clan Jetties, George Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/rolled-ice-cream.webp",
+          "alt": "A hand holding rolled ice cream topped with dark crumbs and a wafer roll.",
+          "caption": "A hand holding rolled ice cream topped with dark crumbs and a wafer roll.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "George Town, Penang"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-george-town/khoo-kongsi.webp",
+          "alt": "The ornate tiled roof and carved façade of Khoo Kongsi beneath a cloudy sky.",
+          "caption": "The ornate tiled roof and carved façade of Khoo Kongsi beneath a cloudy sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Khoo Kongsi, George Town"
+        }
+      ]
+    },
+    {
+      "title": "Forest paths beside the sea",
+      "date": "2019-11-22",
+      "location": "Penang National Park · Batu Ferringhi",
+      "paragraphs": [
+        "The afternoon follows the coastal paths of Penang National Park: sandy coves, rounded rocks and roots crossing the trail. The sea turns grey towards evening, followed by a simple dinner on the north coast."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/path-into-the-coastal-forest.webp",
+          "alt": "A narrow paved path running between trees near the coast.",
+          "caption": "A narrow paved path running between trees near the coast.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/forest-and-low-tide.webp",
+          "alt": "A sandy cove below a densely wooded headland at low tide.",
+          "caption": "A sandy cove below a densely wooded headland at low tide.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/macaques-on-the-boulders.webp",
+          "alt": "Macaques sitting on large pale boulders at the edge of the forest.",
+          "caption": "Macaques sitting on large pale boulders at the edge of the forest.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/roots-across-the-trail.webp",
+          "alt": "Tree roots crossing a narrow trail through dense green forest.",
+          "caption": "Tree roots crossing a narrow trail through dense green forest.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/old-posts-in-the-shallows.webp",
+          "alt": "Old wooden posts running through shallow coastal water beneath a grey sky.",
+          "caption": "Old wooden posts running through shallow coastal water beneath a grey sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/beach-below-the-trees.webp",
+          "alt": "A small sandy beach and low retaining wall below a wooded hillside.",
+          "caption": "A small sandy beach and low retaining wall below a wooded hillside.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/shelter-under-the-trees.webp",
+          "alt": "A small open wooden shelter beside exposed roots in the forest.",
+          "caption": "A small open wooden shelter beside exposed roots in the forest.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/bridge-in-the-canopy.webp",
+          "alt": "A narrow suspended walkway crossing overhead between forest trees.",
+          "caption": "A narrow suspended walkway crossing overhead between forest trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/quiet-water-at-dusk.webp",
+          "alt": "Rounded rocks and a wooded point beside calm grey water at dusk.",
+          "caption": "Rounded rocks and a wooded point beside calm grey water at dusk.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-22",
+          "location": "Penang National Park",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-22-penang-coast/dinner-on-the-north-coast.webp",
+          "alt": "A plate of grilled meat and dipping sauce beside a separate serving of white rice.",
+          "caption": "A plate of grilled meat and dipping sauce beside a separate serving of white rice.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-22",
+          "location": "Batu Ferringhi, Penang"
+        }
+      ]
+    },
+    {
+      "title": "Above the city on Penang Hill",
+      "date": "2019-11-23",
+      "location": "Penang Hill",
+      "paragraphs": [
+        "The steep railway opens onto a view of George Town and the sea. Flower beds and signposted paths give way to a small thatched entrance and rougher trails beneath the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/peacock-in-the-garden.webp",
+          "alt": "A peacock-shaped garden sculpture above beds of red and green plants.",
+          "caption": "A peacock-shaped garden sculpture above beds of red and green plants.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/funicular-down-the-hill.webp",
+          "alt": "Steep funicular tracks dropping between trees towards a tunnel.",
+          "caption": "Steep funicular tracks dropping between trees towards a tunnel.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/hilltop-viewing-platform.webp",
+          "alt": "Visitors on a projecting viewing platform above the green hills.",
+          "caption": "Visitors on a projecting viewing platform above the green hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/george-town-from-penang-hill.webp",
+          "alt": "George Town, surrounding hills and the distant coast beneath a cloudy sky.",
+          "caption": "George Town, surrounding hills and the distant coast beneath a cloudy sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/hilltop-signpost.webp",
+          "alt": "A wooden signpost beneath a leafy tree beside the hilltop paths.",
+          "caption": "A wooden signpost beneath a leafy tree beside the hilltop paths.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/flowers-beside-the-path.webp",
+          "alt": "Red and yellow flowers along a quiet path beneath the trees.",
+          "caption": "Red and yellow flowers along a quiet path beneath the trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/monkey-cup-garden.webp",
+          "alt": "A thatched entrance marked Monkey Cup, surrounded by ferns and trees.",
+          "caption": "A thatched entrance marked Monkey Cup, surrounded by ferns and trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-23",
+          "location": "Monkey Cup Garden, Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/steps-through-the-forest.webp",
+          "alt": "Uneven stone steps and exposed roots descending through dense forest.",
+          "caption": "Uneven stone steps and exposed roots descending through dense forest.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-23-penang-hill/vines-around-the-tree.webp",
+          "alt": "Twisted vines wrapping a tree trunk among broad green leaves.",
+          "caption": "Twisted vines wrapping a tree trunk among broad green leaves.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-23",
+          "location": "Penang Hill"
+        }
+      ]
+    },
+    {
+      "title": "The eagle at the waterfront",
+      "date": "2019-11-24",
+      "location": "Kuah, Langkawi",
+      "paragraphs": [
+        "The first stop on Langkawi is the waterfront square, where a broad-winged eagle faces the open sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-24-kuah/eagle-square.webp",
+          "alt": "The large eagle sculpture above a blue pool and patterned plaza beneath a bright sky.",
+          "caption": "The large eagle sculpture above a blue pool and patterned plaza beneath a bright sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-24",
+          "location": "Eagle Square, Kuah"
+        }
+      ]
+    },
+    {
+      "title": "Across the ridges of Langkawi",
+      "date": "2019-11-24",
+      "location": "Gunung Machinchang, Langkawi",
+      "paragraphs": [
+        "Cable cars climb above the forest to views of the coastline and scattered islands. The SkyBridge curves between steep green ridges; closer to the ground, steps wind between roots and trunks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/cable-car-at-the-station.webp",
+          "alt": "A red and black cable car approaching the station above a green slope.",
+          "caption": "A red and black cable car approaching the station above a green slope.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-24",
+          "location": "Langkawi SkyCab"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/cable-cars-above-the-coast.webp",
+          "alt": "Cable-car towers and small gondolas above a forested slope, with islands and sea beyond.",
+          "caption": "Cable-car towers and small gondolas above a forested slope, with islands and sea beyond.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Langkawi SkyCab",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/gondola-over-the-green-ridge.webp",
+          "alt": "A blue gondola above a green ridge and flowering shrubs beneath a bright sky.",
+          "caption": "A blue gondola above a green ridge and flowering shrubs beneath a bright sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-24",
+          "location": "Langkawi SkyCab"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/stations-on-the-ridge.webp",
+          "alt": "Cable-car stations and lines tracing the wooded ridges towards distant mountains.",
+          "caption": "Cable-car stations and lines tracing the wooded ridges towards distant mountains.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/islands-beyond-the-forest.webp",
+          "alt": "Small islands and open sea beyond a dark green forest canopy.",
+          "caption": "Small islands and open sea beyond a dark green forest canopy.",
+          "width": 1792,
+          "height": 1216,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/locks-along-the-railing.webp",
+          "alt": "Rows of colourful padlocks fastened to a metal railing at the viewpoint.",
+          "caption": "Rows of colourful padlocks fastened to a metal railing at the viewpoint.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/folds-of-green-mountains.webp",
+          "alt": "Deep green ridges and valleys with distant water between the hills.",
+          "caption": "Deep green ridges and valleys with distant water between the hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/cliff-and-distant-ridges.webp",
+          "alt": "A steep dark cliff framing layers of green mountains and pale blue sea.",
+          "caption": "A steep dark cliff framing layers of green mountains and pale blue sea.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/skybridge-and-its-pylon.webp",
+          "alt": "The SkyBridge and its tall supporting pylon stretching across a steep forested valley.",
+          "caption": "The SkyBridge and its tall supporting pylon stretching across a steep forested valley.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Langkawi SkyBridge",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/hazy-mountain-layers.webp",
+          "alt": "Layers of hazy mountain ridges descending towards the distant sea.",
+          "caption": "Layers of hazy mountain ridges descending towards the distant sea.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/forest-steps-below-the-bridge.webp",
+          "alt": "A stepped forest path with a metal handrail winding past roots and slender trees.",
+          "caption": "A stepped forest path with a metal handrail winding past roots and slender trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-24",
+          "location": "Gunung Machinchang, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-24-gunung-machinchang/forest-below-the-cable-car.webp",
+          "alt": "Dense green forest and a rocky mountain ridge seen beneath the cable-car line.",
+          "caption": "Dense green forest and a rocky mountain ridge seen beneath the cable-car line.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-24",
+          "location": "Langkawi SkyCab"
+        }
+      ]
+    },
+    {
+      "title": "Mangroves and limestone waterways",
+      "date": "2019-11-25",
+      "location": "Kilim Geoforest Park, Langkawi",
+      "paragraphs": [
+        "Small boats wait at the jetty before the route enters the mangroves. A cave entrance, tangled roots and narrow channels lead towards broader water and forested limestone cliffs."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/boats-at-kilim-jetty.webp",
+          "alt": "Blue-roofed boats tied beside a floating jetty below green limestone hills.",
+          "caption": "Blue-roofed boats tied beside a floating jetty below green limestone hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim jetty, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/cave-entrance-among-the-rocks.webp",
+          "alt": "A dark cave opening surrounded by pale limestone and hanging roots.",
+          "caption": "A dark cave opening surrounded by pale limestone and hanging roots.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/mangrove-roots-in-the-water.webp",
+          "alt": "Slender mangrove trunks and tangled roots reflected in still shallow water.",
+          "caption": "Slender mangrove trunks and tangled roots reflected in still shallow water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/branching-mangrove-roots.webp",
+          "alt": "Thick branching roots spreading from a tree trunk into the water.",
+          "caption": "Thick branching roots spreading from a tree trunk into the water.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/boardwalk-beside-the-roots.webp",
+          "alt": "Visitors following a narrow boardwalk beside limestone and twisted tree roots.",
+          "caption": "Visitors following a narrow boardwalk beside limestone and twisted tree roots.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/bow-towards-the-hills.webp",
+          "alt": "The bow of a small boat pointing towards mangroves and steep limestone hills.",
+          "caption": "The bow of a small boat pointing towards mangroves and steep limestone hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/boats-below-limestone-cliffs.webp",
+          "alt": "Small boats and a floating building below high forested limestone cliffs.",
+          "caption": "Small boats and a floating building below high forested limestone cliffs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/boats-at-the-rock-opening.webp",
+          "alt": "A blue-roofed boat and the bow of another beside a low opening in the limestone.",
+          "caption": "A blue-roofed boat and the bow of another beside a low opening in the limestone.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/light-through-the-water-cave.webp",
+          "alt": "Daylight visible through a low dark cave above green water.",
+          "caption": "Daylight visible through a low dark cave above green water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/narrow-mangrove-channel.webp",
+          "alt": "A narrow waterway running between mangroves and steep green hills.",
+          "caption": "A narrow waterway running between mangroves and steep green hills.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/mangrove-leaf-detail.webp",
+          "alt": "Glossy narrow green leaves and small branches above the water.",
+          "caption": "Glossy narrow green leaves and small branches above the water.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/sheltered-water-and-mangroves.webp",
+          "alt": "A calm green channel reflecting mangroves beneath a steep wooded hill.",
+          "caption": "A calm green channel reflecting mangroves beneath a steep wooded hill.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/limestone-hills-across-the-bay.webp",
+          "alt": "A broad panorama of calm water and low forested limestone hills.",
+          "caption": "A broad panorama of calm water and low forested limestone hills.",
+          "width": 2000,
+          "height": 1088,
+          "capturedOn": "2019-11-25",
+          "location": "Kilim Geoforest Park, Langkawi",
+          "wide": true
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/headland-beside-the-sea.webp",
+          "alt": "A wooded limestone headland meeting pale green water beneath a grey sky.",
+          "caption": "A wooded limestone headland meeting pale green water beneath a grey sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Langkawi coast"
+        },
+        {
+          "src": "/photos/malaysia/2019-11-25-kilim/limestone-above-green-water.webp",
+          "alt": "A steep forested limestone rock face rising straight from green sea water.",
+          "caption": "A steep forested limestone rock face rising straight from green sea water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-11-25",
+          "location": "Langkawi coast"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Malaysia",
+    "latitude": 3.14,
+    "longitude": 101.69,
+    "labelPosition": [
+      952,
+      350
+    ]
+  }
+}

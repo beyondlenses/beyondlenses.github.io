@@ -7,13 +7,64 @@ import { build, loadContent, root, validateContent } from '../scripts/build.mjs'
 import { escapeHtml, formatDate, renderHome, renderStory } from '../src/templates.mjs';
 import { allPhotos } from '../src/templates.mjs';
 import { planPhotoUpload } from '../scripts/upload-photos.mjs';
+import { groupAtlasCountries, projectLocation } from '../src/atlas.mjs';
 
 const content = await loadContent();
 const fresh = () => structuredClone(content);
 
-test('all trip content is valid and the featured story exists', () => {
+test('all trip content is valid without a featured story setting', () => {
   assert.doesNotThrow(() => validateContent(content.site, content.trips));
-  assert.ok(content.trips.find((trip) => trip.slug === content.site.featuredTrip));
+  assert.equal(content.site.featuredTrip, undefined);
+});
+
+test('the homepage atlas starts with countries and provides each country’s own album links', () => {
+  const { site, trips } = fresh();
+  const home = renderHome(site, trips);
+  const map = home.match(/<svg class="atlas-map"[\s\S]*?<\/svg>/)?.[0];
+  const destinations = home.match(/<nav class="atlas-destinations"[\s\S]*?<\/nav>/)?.[0];
+  assert.ok(map?.includes('href="/images/world-atlas.svg"'));
+  assert.ok(!home.includes('Featured story') && !home.includes('class="feature'));
+  assert.ok(!destinations.includes('/stories/'));
+  const world = map.split('<g data-atlas-world>')[1].split('<g class="atlas-album-layer"')[0];
+  assert.equal((world.match(/class="atlas-location"/g) || []).length, new Set(trips.map((trip) => trip.country)).size);
+  assert.ok(!world.includes('/stories/'));
+  for (const country of groupAtlasCountries(trips)) {
+    const id = `atlas-country-${country.id}`;
+    assert.ok(world.includes(`href="#${id}"`));
+    assert.ok(destinations.includes(`href="#${id}"`));
+    const panel = home.split(`<section class="atlas-country-panel" id="${id}"`)[1]?.split('</section>')[0];
+    assert.ok(panel, `Country panel exists for ${country.name}`);
+    assert.equal((panel.match(/class="atlas-album-card"/g) || []).length, country.trips.length);
+    for (const trip of trips) assert.equal(panel.includes(`href="/stories/${trip.slug}/"`), trip.country === country.name);
+    for (const trip of country.trips) {
+      assert.ok(map.includes(`href="/stories/${trip.slug}/"`));
+      assert.ok(map.includes(`aria-label="${escapeHtml(trip.mapLocation.label)}: ${escapeHtml(trip.title)}"`));
+    }
+  }
+});
+
+test('country zoom frames keep every album’s pin visible', () => {
+  for (const country of groupAtlasCountries(content.trips)) {
+    assert.ok(country.view.scale > 1, `${country.label} zooms in`);
+    for (const trip of country.trips) {
+      const [x, y] = projectLocation(trip.mapLocation.longitude, trip.mapLocation.latitude);
+      const px = x * country.view.scale + country.view.x, py = y * country.view.scale + country.view.y;
+      assert.ok(px >= 0 && px <= 1200 && py >= 0 && py <= 600, `${trip.slug} pin remains in its country view`);
+    }
+  }
+});
+
+test('invalid or missing atlas coordinates fail before building a misleading map', () => {
+  for (const location of [undefined, { latitude: 91, longitude: 0 }, { latitude: 0, longitude: -181 }, { latitude: '43', longitude: -79 }]) {
+    const { site, trips } = fresh();
+    trips[0].mapLocation = location;
+    assert.throws(() => validateContent(site, trips), /mapLocation needs a valid latitude and longitude/);
+  }
+  for (const labelPosition of [[-10, 20], [500, 900], [20], ['100', 200]]) {
+    const { site, trips } = fresh();
+    trips[0].mapLocation.labelPosition = labelPosition;
+    assert.throws(() => validateContent(site, trips), /labelPosition must be a point inside the atlas/);
+  }
 });
 
 test('duplicate and unsafe slugs are rejected before pages can be overwritten', () => {
@@ -47,6 +98,7 @@ test('trip text is rendered as text rather than executable HTML', () => {
   const { site, trips } = fresh();
   const unsafe = '<script>alert("hello")</script>';
   trips[0].title = unsafe;
+  trips[0].mapLocation.label = unsafe;
   trips[0].chapters[0].paragraphs[0] = unsafe;
   for (const html of [renderHome(site, trips), renderStory(site, trips[0], trips[1])]) {
     assert.ok(!html.includes(unsafe));
@@ -131,7 +183,6 @@ test('R2 covers, galleries, viewer links, and sharing previews use the public UR
   site.photoBaseUrl = 'https://images.example.test/media/';
   const trip = trips[0];
   trip.photoStorage = 'r2';
-  site.featuredTrip = trip.slug;
   const original = structuredClone(trip);
   const cover = `https://images.example.test/media${trip.cover.src}`;
   const home = renderHome(site, trips);
@@ -159,7 +210,6 @@ async function r2Fixture(t, { exports = false } = {}) {
   trip.photoStorage = 'r2';
   trip.chapters = [trip.chapters[0]];
   trip.chapters[0].photos = [trip.chapters[0].photos[0]];
-  site.featuredTrip = trip.slug;
   site.photoBaseUrl = 'https://images.example.test';
   await mkdir(path.join(projectRoot, 'content/trips'), { recursive: true });
   await mkdir(path.join(projectRoot, 'content/selections'), { recursive: true });
@@ -219,7 +269,6 @@ test('unused photographs and private reference images are not published', async 
   t.after(() => rm(projectRoot, { recursive: true, force: true }));
   const { site, trips } = fresh();
   const trip = trips[0];
-  site.featuredTrip = trip.slug;
   trip.chapters = [trip.chapters[0]];
   trip.chapters[0].photos = [trip.chapters[0].photos[0]];
   await mkdir(path.join(projectRoot, 'content/trips'), { recursive: true });

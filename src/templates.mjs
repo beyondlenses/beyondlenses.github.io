@@ -1,4 +1,5 @@
 import { resolveTripPhotos } from './photos.mjs';
+import { projectLocation, atlasSize, groupAtlasCountries } from './atlas.mjs';
 
 export const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
@@ -85,27 +86,75 @@ function card(trip, index) {
   </article>`;
 }
 
+function atlasMarker({ href, label, badge, x, y, position, attributes, description, country = false }) {
+  const [labelX, labelY] = position || [x + 90, y - 40];
+  const width = Math.max(104, label.length * 7.4 + 49);
+  const left = labelX - width / 2;
+  const edge = labelX < x ? labelX + width / 2 : labelX - width / 2;
+  return `<a class="atlas-location" href="${href}" ${attributes} aria-label="${e(description)}">
+    <title>${e(description)}</title>
+    <path class="atlas-leader" d="M${edge.toFixed(1)},${labelY}L${(edge + (x - edge) * .55).toFixed(1)},${labelY}L${x.toFixed(1)},${y.toFixed(1)}"/>
+    <circle class="atlas-halo" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="12"/>
+    <circle class="atlas-pin" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="4"/>
+    <g class="atlas-label"><rect x="${left.toFixed(1)}" y="${labelY - 19}" width="${width.toFixed(1)}" height="38" rx="19"/><text x="${(left + 15).toFixed(1)}" y="${labelY + 4}"><tspan class="atlas-label-number">${number(badge)}</tspan><tspan dx="9">${e(label)}</tspan><tspan class="atlas-label-arrow" dx="10">${country ? '+' : '↗'}</tspan></text></g>
+  </a>`;
+}
+
+function travelAtlas(trips) {
+  const countries = groupAtlasCountries(trips);
+  const countLabel = (count) => `${count} ${count === 1 ? 'album' : 'albums'}`;
+  return `<section class="atlas wrap" id="atlas" data-atlas aria-labelledby="atlas-heading">
+    <div class="atlas-panel">
+      <div class="atlas-header"><div><p class="eyebrow">An atlas of memories</p><h2 id="atlas-heading" data-atlas-heading>A world of <em>stories.</em></h2></div><div class="atlas-header-actions"><button class="atlas-back" type="button" data-atlas-back hidden>← World map</button><p class="atlas-tally"><span>${number(trips.length)} <span>albums</span></span><span>${number(countries.length)} <span>countries</span></span></p></div></div>
+      <p class="atlas-invitation">Choose a country. Find your next story.</p>
+      <svg class="atlas-map" viewBox="0 0 ${atlasSize.width} ${atlasSize.height}" role="group" aria-labelledby="atlas-map-title atlas-map-description">
+        <title id="atlas-map-title">Explore the travel albums by country</title>
+        <desc id="atlas-map-description" data-atlas-description>Select a country to zoom in and discover its albums. The country links below offer the same choices.</desc>
+        <defs><radialGradient id="atlas-ocean"><stop stop-color="#2c4b42"/><stop offset="1" stop-color="#19372f"/></radialGradient><pattern id="atlas-grain" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".45" fill="#e3dfc4" opacity=".08"/></pattern></defs>
+        <rect width="1200" height="600" fill="url(#atlas-ocean)" aria-hidden="true"/>
+        <g class="atlas-geography" data-atlas-geography aria-hidden="true">
+          <image href="/images/world-atlas.svg" width="1200" height="600"/>
+          <g class="atlas-country-shapes">${countries.filter((country) => country.code).map((country) => `<a class="atlas-country-area" href="#atlas-country-${e(country.id)}" data-atlas-country="${e(country.id)}" tabindex="-1"><use href="/images/atlas-countries.svg#${e(country.id)}"/></a>`).join('')}</g>
+          <image href="/images/atlas-lakes.svg" width="1200" height="600" pointer-events="none"/>
+        </g>
+        <rect width="1200" height="600" fill="url(#atlas-grain)" pointer-events="none" aria-hidden="true"/>
+        <g data-atlas-world>
+          <g class="atlas-oceans" aria-hidden="true"><text x="168" y="420">Pacific Ocean</text><text x="546" y="305" text-anchor="middle" font-size="12" letter-spacing="2">Atlantic<tspan x="546" dy="19">Ocean</tspan></text><text x="755" y="400">Indian Ocean</text></g>
+          <g class="atlas-compass" transform="translate(72 496)" aria-hidden="true"><circle r="26"/><path d="M0-36V36M-36 0H36M-18-18L18 18M-18 18L18-18"/><path d="M0-27L6 0 0 27-6 0Z" fill="#e0c6a2"/><path d="M-27 0L0-6 27 0 0 6Z"/><text y="-45" text-anchor="middle">N</text></g>
+          ${countries.map((country) => {
+            const [x, y] = projectLocation(country.longitude, country.latitude);
+            return atlasMarker({ href: `#atlas-country-${e(country.id)}`, label: country.label, badge: country.trips.length, x, y, position: country.labelPosition, country: true, attributes: `data-atlas-country="${e(country.id)}" aria-controls="atlas-country-${e(country.id)}"`, description: `Explore ${country.label}: ${countLabel(country.trips.length)}` });
+          }).join('')}
+        </g>
+        ${countries.map((country) => `<g class="atlas-album-layer" data-atlas-layer="${e(country.id)}" hidden>${country.trips.map((trip, index) => {
+          const { label, latitude, longitude, labelPosition } = trip.mapLocation;
+          const [x, y] = projectLocation(longitude, latitude);
+          return atlasMarker({ href: tripPath(trip), label, badge: index + 1, x: x * country.view.scale + country.view.x, y: y * country.view.scale + country.view.y, position: labelPosition, attributes: `data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"`, description: `${label}: ${trip.title}` });
+        }).join('')}</g>`).join('')}
+      </svg>
+      <div class="atlas-caption"><p data-atlas-caption>Select a country to explore its albums.</p><span class="atlas-key"><i aria-hidden="true"></i> Countries in the journal</span></div>
+      <nav class="atlas-destinations" aria-label="Explore albums by country">${countries.map((country) => `<a href="#atlas-country-${e(country.id)}" data-atlas-country="${e(country.id)}" aria-controls="atlas-country-${e(country.id)}" aria-label="Explore ${e(country.label)}: ${countLabel(country.trips.length)}">${e(country.label)}<span class="atlas-country-count">${countLabel(country.trips.length)}</span><span class="atlas-destination-arrow" aria-hidden="true">+</span></a>`).join('')}</nav>
+      <div class="atlas-country-panels">${countries.map((country) => `<section class="atlas-country-panel" id="atlas-country-${e(country.id)}" data-atlas-panel="${e(country.id)}" data-atlas-label="${e(country.label)}" data-atlas-count="${country.trips.length}" data-atlas-transform="matrix(${country.view.scale.toFixed(5)},0,0,${country.view.scale.toFixed(5)},${country.view.x.toFixed(3)},${country.view.y.toFixed(3)})" aria-labelledby="atlas-country-heading-${e(country.id)}">
+        <div class="atlas-country-heading"><div><p class="eyebrow">${e(country.label)}</p><h3 id="atlas-country-heading-${e(country.id)}" tabindex="-1">Choose an <em>album.</em></h3></div><p>${countLabel(country.trips.length)} · ${country.trips.reduce((sum, trip) => sum + frameCount(trip), 0)} photographs</p></div>
+        <div class="atlas-album-grid">${country.trips.map((trip, index) => `<a class="atlas-album-card" href="${tripPath(trip)}" data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"><div class="atlas-album-image">${photo(trip.cover)}<span aria-hidden="true">↗</span></div><div class="atlas-album-copy"><p>${number(index + 1)} <span aria-hidden="true">/</span> ${e(trip.mapLocation.label)}</p><h4>${e(trip.title)}</h4><span>${frameCount(trip)} photographs${trip.startDate ? ` · ${dateRange(trip.startDate, trip.endDate)}` : ''}</span></div></a>`).join('')}</div>
+      </section>`).join('')}</div>
+      <p class="sr-only" data-atlas-status aria-live="polite"></p>
+    </div>
+    <div class="atlas-footnote"><span>Every pin, a place remembered.</span><a href="https://www.naturalearthdata.com/">Map made with Natural Earth</a></div>
+  </section>`;
+}
+
 export function renderHome(site, trips) {
   trips = trips.map((trip) => resolveTripPhotos(site, trip));
-  const featured = trips.find((trip) => trip.slug === site.featuredTrip);
   const countries = [...new Set(trips.map((trip) => trip.country))];
   return page(site, {
-    title: `${site.name} — A personal travel journal`, description: site.description, image: featured.cover.src,
+    title: `${site.name} — A personal travel journal`, description: site.description, image: trips[0].cover.src,
     body: `<main id="main">
       <section class="intro wrap" aria-labelledby="intro-heading">
         <div><p class="eyebrow"><span class="small-star" aria-hidden="true">✳</span> Places. People. Perspective.</p><h1 id="intro-heading">${e(site.headline).replace('stay with you.', '<em>stay with you.</em>')}</h1></div>
-        <div class="intro-note"><p>${e(site.introduction)}</p><a class="text-link" href="#journal">Explore the journal ${arrow}</a></div>
+        <div class="intro-note"><p>${e(site.introduction)}</p><a class="text-link" href="#atlas">Explore the map ${arrow}</a></div>
       </section>
-      <section class="feature wrap" aria-label="Featured story">
-        <a class="feature-link" href="${tripPath(featured)}">
-          ${photo(featured.cover, { lazy: false, className: 'feature-image' })}
-          <div class="feature-shade"></div>
-          <span class="feature-kicker">Featured story <span aria-hidden="true">—</span> ${e(featured.country)}</span>
-          <div class="feature-bottom"><div><p class="eyebrow">${e(featured.location)}</p><h2>${e(featured.title)}</h2><p class="feature-subtitle">${e(featured.subtitle)}</p></div><span class="feature-cta"><span>Step into the story</span><span class="round-arrow">${arrow}</span></span></div>
-          <span class="feature-index">01 / ${number(trips.length)}</span>
-        </a>
-        <div class="feature-caption"><span>A place. A moment. A story.</span><span>Scroll a little. Travel a little. ↓</span></div>
-      </section>
+      ${travelAtlas(trips)}
       <section class="journal wrap" id="journal" aria-labelledby="journal-heading">
         <div class="section-topline"><p class="eyebrow">01 — The journal</p><span>${number(trips.length)} stories & counting</span></div>
         <div class="journal-heading"><h2 id="journal-heading">Elsewhere, <em>remembered.</em></h2><p>Some memories deserve<br>more than a camera roll.</p></div>

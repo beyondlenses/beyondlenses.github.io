@@ -17,7 +17,7 @@ const requireDate = (value, label) => {
 };
 
 export function validateContent(site, trips) {
-  for (const key of ['name', 'url', 'description', 'headline', 'introduction', 'about', 'featuredTrip']) requireText(site[key], `site.${key}`);
+  for (const key of ['name', 'url', 'description', 'headline', 'introduction', 'about']) requireText(site[key], `site.${key}`);
   const siteUrl = new URL(site.url);
   if (siteUrl.protocol !== 'https:' || site.url !== siteUrl.origin) throw new Error('site.url must be an HTTPS origin without a trailing slash.');
   if (site.photoBaseUrl !== undefined) {
@@ -31,6 +31,10 @@ export function validateContent(site, trips) {
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(trip.slug) || slugs.has(trip.slug)) throw new Error(`Invalid or duplicate trip slug: ${trip.slug}`);
     slugs.add(trip.slug);
     for (const key of ['title', 'subtitle', 'country', 'location', 'category']) requireText(trip[key], `${trip.slug}.${key}`);
+    const location = trip.mapLocation;
+    if (!location || !Number.isFinite(location.latitude) || Math.abs(location.latitude) > 90 || !Number.isFinite(location.longitude) || Math.abs(location.longitude) > 180) throw new Error(`${trip.slug}.mapLocation needs a valid latitude and longitude.`);
+    requireText(location.label, `${trip.slug}.mapLocation.label`);
+    if (location.labelPosition !== undefined && (!Array.isArray(location.labelPosition) || location.labelPosition.length !== 2 || !location.labelPosition.every((value, index) => Number.isFinite(value) && value >= 30 && value <= [1170, 570][index]))) throw new Error(`${trip.slug}.mapLocation.labelPosition must be a point inside the atlas.`);
     if (trip.demo !== undefined && typeof trip.demo !== 'boolean') throw new Error(`${trip.slug}.demo must be true or false.`);
     if (trip.photoStorage !== undefined && !['local', 'r2'].includes(trip.photoStorage)) throw new Error(`${trip.slug}.photoStorage must be local or r2.`);
     if (usesR2(trip) && !site.photoBaseUrl) throw new Error(`${trip.slug}: R2 photographs require site.photoBaseUrl.`);
@@ -86,7 +90,6 @@ export function validateContent(site, trips) {
       if (photo.license && (!photo.licenseUrl || !photo.credit || !photo.creditUrl)) throw new Error(`${trip.slug}: licensed photographs need credit, creditUrl, and licenseUrl.`);
     }
   }
-  if (!slugs.has(site.featuredTrip)) throw new Error('site.featuredTrip must match a trip slug.');
 }
 
 export async function loadContent(projectRoot = root) {

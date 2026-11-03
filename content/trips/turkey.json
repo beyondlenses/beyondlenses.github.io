@@ -1885,5 +1885,14 @@
       ]
     }
   ],
-  "showChapterIndex": false
+  "showChapterIndex": false,
+  "mapLocation": {
+    "label": "Turkey",
+    "latitude": 38.64,
+    "longitude": 34.83,
+    "labelPosition": [
+      790,
+      260
+    ]
+  }
 }

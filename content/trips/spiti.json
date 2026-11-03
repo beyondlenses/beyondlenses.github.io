@@ -1504,5 +1504,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Spiti",
+    "latitude": 32.3,
+    "longitude": 78.01,
+    "labelPosition": [
+      730,
+      100
+    ]
+  }
 }

@@ -50,5 +50,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Montreal",
+    "latitude": 45.5,
+    "longitude": -73.56,
+    "labelPosition": [
+      650,
+      330
+    ]
+  }
 }

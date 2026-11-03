@@ -1333,5 +1333,14 @@
         }
       ]
     }
-  ]
+  ],
+  "mapLocation": {
+    "label": "Australia",
+    "latitude": -37.81,
+    "longitude": 144.96,
+    "labelPosition": [
+      900,
+      420
+    ]
+  }
 }
