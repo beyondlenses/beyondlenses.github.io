@@ -1,0 +1,64 @@
+{
+  "slug": "gros-morne",
+  "title": "The quiet of Gros Morne",
+  "subtitle": "Wide-open water. Weathered mountains. A little room to breathe.",
+  "country": "Canada",
+  "location": "Newfoundland & Labrador",
+  "category": "Into the wild",
+  "order": 2,
+  "demo": true,
+  "cover": {
+    "src": "/images/demo/gros-morne-valley.webp",
+    "alt": "Green mountains framing the water at Western Brook Pond in Gros Morne",
+    "position": "center 50%",
+    "credit": "David W Enstrom",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gros_Morne_National_Park_-_Western_Brook_Pond.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "width": 1280,
+    "height": 853
+  },
+  "chapters": [
+    {
+      "title": "Room to breathe",
+      "paragraphs": [
+        "A different rhythm takes over when the frame fills with water and mountains. The eye follows a distant shoreline. The details get quieter. The landscape does the talking.",
+        "This is a sample layout for a Gros Morne photo essay. Replace these credited preview images and introductory words with your own photographs and field notes."
+      ],
+      "layout": "full",
+      "photos": [
+        {
+          "src": "/images/demo/gros-morne-water.webp",
+          "alt": "The water and steep cliffs of Western Brook Pond",
+          "caption": "A landscape with its own sense of time.",
+          "credit": "Siderd",
+          "creditUrl": "https://commons.wikimedia.org/wiki/File:Western_Brook_Pond_4.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "width": 1280,
+          "height": 882
+        }
+      ]
+    },
+    {
+      "title": "What stays with you",
+      "paragraphs": [
+        "A collection does not have to include every photograph. A few carefully chosen frames can hold a whole day. Leave space for the landscapes, the small discoveries, and the feeling of being there."
+      ],
+      "layout": "full",
+      "photos": [
+        {
+          "src": "/images/demo/gros-morne-valley.webp",
+          "alt": "A view across the valley at Western Brook Pond",
+          "caption": "One more look before the road home.",
+          "credit": "David W Enstrom",
+          "creditUrl": "https://commons.wikimedia.org/wiki/File:Gros_Morne_National_Park_-_Western_Brook_Pond.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "width": 1280,
+          "height": 853
+        }
+      ]
+    }
+  ]
+}

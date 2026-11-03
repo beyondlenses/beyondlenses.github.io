@@ -1,0 +1,341 @@
+{
+  "slug": "japan",
+  "title": "Arigato, Japan!",
+  "subtitle": "A winter journey through coastal light, Tokyo nights, and the cedar forests of Nikkō.",
+  "country": "Japan",
+  "location": "Tokyo, Nikkō & the coast",
+  "category": "Cities & quiet corners",
+  "order": 1,
+  "demo": false,
+  "cover": {
+    "src": "/photos/japan/asakusa-blue-hour.webp",
+    "alt": "The illuminated red Hozomon gate at Senso-ji beneath a deep blue evening sky",
+    "caption": "Asakusa, between daylight and night.",
+    "width": 2400,
+    "height": 1807,
+    "position": "center 35%"
+  },
+  "chapters": [
+    {
+      "title": "Between the hills and the sea",
+      "paragraphs": [
+        "A quieter beginning: red shrine gates, early pink blossoms, and the small paths between the hills and the water.",
+        "Out by the coast, the frame opens up. Clouds spread across the evening sky, a bird settles on a railing, and a single rock holds its place in the sea."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/japan/coastal-shrine.webp",
+          "alt": "A small red shrine framed by a torii gate and rows of red flags",
+          "caption": "A little red among the winter trees.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/early-blossoms.webp",
+          "alt": "Pink flowering trees along a hillside path beneath a cloudy evening sky",
+          "caption": "The first hints of pink.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/temple-gate.webp",
+          "alt": "A wooden temple gate with a sweeping tiled roof and trees behind it",
+          "caption": "Under the curve of a tiled roof.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/coast-evening-light.webp",
+          "alt": "Golden light and streaked clouds over a calm sea at sunset",
+          "caption": "The coast at the end of the day.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/crow-by-the-water.webp",
+          "alt": "A dark crow perched on a wooden railing above the rippling sea",
+          "caption": "A small pause by the water.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/rock-in-the-sea.webp",
+          "alt": "A steep solitary rock rising from the sea beneath a pale sunset",
+          "caption": "One rock, a wide horizon.",
+          "width": 2000,
+          "height": 1506
+        }
+      ]
+    },
+    {
+      "title": "Asakusa, in the details",
+      "paragraphs": [
+        "The journey into the city begins with rails and platforms. Around Asakusa, the scale keeps changing: a quiet side street, a five-storey pagoda, the intricate gold inside a temple.",
+        "Incense hangs in the air. Lanterns light up the streets and courtyards, turning familiar shapes into something warmer as the sky grows darker."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/japan/railway-platform.webp",
+          "alt": "Railway tracks and an empty platform receding beneath an overhead canopy",
+          "caption": "Following the lines into the city.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/temple-gold.webp",
+          "alt": "An ornate golden temple altar with hanging lanterns and carved details",
+          "caption": "Gold, shadow, and small details.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/incense-courtyard.webp",
+          "alt": "Smoke rising from a bronze incense burner in a busy temple courtyard",
+          "caption": "A moment in the incense smoke.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/asakusa-side-street.webp",
+          "alt": "A narrow Asakusa street beneath hanging lamps and green shop signs",
+          "caption": "The streets between the landmarks.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/pagoda-evening.webp",
+          "alt": "An illuminated five-storey pagoda above tiled roofs in the evening",
+          "caption": "One roof above another.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/lantern-corner.webp",
+          "alt": "A corner restaurant glowing with orange windows and a column of red lanterns",
+          "caption": "A warm corner as the light fades.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/lantern-courtyard.webp",
+          "alt": "Rows of illuminated yellow lanterns framing a central path at dusk",
+          "caption": "A courtyard full of light.",
+          "width": 2000,
+          "height": 1506
+        }
+      ]
+    },
+    {
+      "title": "After the lights come on",
+      "paragraphs": [
+        "Tokyo changes after dark. Reflections stretch across the river, a tower becomes a line of light, and whole buildings turn into patterns of colour.",
+        "Down at street level, there is another rhythm: bright shopfronts, narrow lanes, skewers on a small plate, and a warm meal at the counter."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/japan/sumida-night-reflections.webp",
+          "alt": "A bridge lit in blue and orange reflecting in the dark Sumida River",
+          "caption": "Colour carried across the water.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/skytree-after-dark.webp",
+          "alt": "Tokyo Skytree illuminated above the river with reflections below",
+          "caption": "A thin line of light above the river.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/tokyo-building-projection.webp",
+          "alt": "A tall twin-towered building covered in colourful geometric light projections at night",
+          "caption": "A building becomes a canvas.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/akihabara-at-night.webp",
+          "alt": "Bright billboards and shop signs lining a broad Akihabara street at night",
+          "caption": "Akihabara, all lit up.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/lantern-alley.webp",
+          "alt": "A narrow Tokyo alley lined with small restaurants and colourful hanging lanterns",
+          "caption": "A smaller world between the buildings.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/yakitori-evening.webp",
+          "alt": "Grilled skewers on a small white plate beside a glass of beer on a wooden counter",
+          "caption": "A few skewers and a place to sit.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/shinjuku-crosswalk.webp",
+          "alt": "A broad crosswalk in front of brightly lit Shinjuku buildings at night",
+          "caption": "The city keeps its own hours.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/counter-meal.webp",
+          "alt": "A tray with rice, noodles, and a drink on a restaurant counter",
+          "caption": "A warm meal between journeys.",
+          "width": 2000,
+          "height": 1506
+        }
+      ]
+    },
+    {
+      "title": "Nikkō, beneath the cedars",
+      "paragraphs": [
+        "Beyond the bright streets, the palette changes to cedar green, weathered stone, red timber, and gold. A red bridge crosses a cold river beneath the winter trees.",
+        "The eye moves from carved roof details to long rows of stone lanterns, then out along a quiet road. Red-capped figures line a path through the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/japan/nikko-red-bridge.webp",
+          "alt": "A red arched bridge spanning a rocky river in a wooded valley",
+          "caption": "Red against the winter river.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/nikko-red-timber.webp",
+          "alt": "The red timber walls and deep roof eaves of a temple beside tall cedar trees",
+          "caption": "Red timber under deep eaves.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/nikko-golden-doors.webp",
+          "alt": "An elaborately decorated shrine building with golden doors and layered tiled roofs",
+          "caption": "A closer look at the gold.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/nikko-roof-carvings.webp",
+          "alt": "Colourful carved figures and gold details beneath an ornate shrine roof",
+          "caption": "The details above the doorway.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/nikko-stone-lanterns.webp",
+          "alt": "A row of weathered stone lanterns leading past carved shrine buildings",
+          "caption": "Stone lanterns, one after another.",
+          "width": 1506,
+          "height": 2000
+        },
+        {
+          "src": "/photos/japan/nikko-cedar-canopy.webp",
+          "alt": "Tall cedar trunks and a dense green canopy viewed from a forest path",
+          "caption": "Looking up, beneath the cedars.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/nikko-forest-road.webp",
+          "alt": "An empty road bending gently beneath tall winter trees",
+          "caption": "Room for the road to wander.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/nikko-red-capped-figures.webp",
+          "alt": "A long line of mossy stone figures wearing red caps and bibs beside a forest path",
+          "caption": "A line of red through the trees.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Tokyo, under snow",
+      "paragraphs": [
+        "Another day gives the city a different outline. Snow settles on the station, bridges, and carefully shaped pines. Distant buildings fade into the weather.",
+        "Back among the temple roofs, red walls stand out against white tiles and branches. The familiar city has become quieter in the frame."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/japan/tokyo-snow-boulevard.webp",
+          "alt": "A snow-covered Tokyo boulevard with a few people and buildings disappearing into snowfall",
+          "caption": "The city fades into the snow.",
+          "width": 2000,
+          "height": 1506,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/tokyo-station-snow.webp",
+          "alt": "The red brick facade of Tokyo Station seen through falling snow",
+          "caption": "Tokyo Station, in a softer light.",
+          "width": 1506,
+          "height": 2000,
+          "wide": true
+        },
+        {
+          "src": "/photos/japan/snow-covered-bridge.webp",
+          "alt": "An empty stone bridge leading toward snow-dusted trees",
+          "caption": "A bridge without a crowd.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/winter-pines.webp",
+          "alt": "Carefully shaped pine trees standing in fresh snow",
+          "caption": "Pines drawing lines across the white.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/sensoji-winter-roof.webp",
+          "alt": "A red temple hall with a sweeping snow-covered roof above visitors carrying umbrellas",
+          "caption": "A white edge on every roof.",
+          "width": 2000,
+          "height": 1506
+        },
+        {
+          "src": "/photos/japan/snowy-water-pavilion.webp",
+          "alt": "A small red and green pavilion with a snow-covered roof beneath winter trees",
+          "caption": "The small corners hold the snow, too.",
+          "width": 2000,
+          "height": 1506
+        }
+      ]
+    },
+    {
+      "title": "One more crossing",
+      "paragraphs": [
+        "The last frame returns to the movement of the city. At Shibuya, crossings fill, empty, and fill again beneath the signs and screens.",
+        "One photograph to hold all that motion, before the next journey begins."
+      ],
+      "layout": "full",
+      "photos": [
+        {
+          "src": "/photos/japan/shibuya-crossing.webp",
+          "alt": "Crowds crossing broad striped pedestrian crossings beneath the buildings and signs of Shibuya",
+          "caption": "The city, back in motion.",
+          "width": 2000,
+          "height": 1506
+        }
+      ]
+    }
+  ]
+}

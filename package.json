@@ -1,0 +1,14 @@
+{
+  "name": "beyondlenses.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A personal travel photo journal, built for GitHub Pages.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node scripts/serve.mjs --watch",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node --test"
+  }
+}

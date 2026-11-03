@@ -1,0 +1,348 @@
+{
+  "trip": "japan",
+  "sourceDirectoryHint": "../dumps/japan",
+  "reviewedImageCount": 1202,
+  "selectedImageCount": 37,
+  "criteria": [
+    "Visually reviewed all 1,202 photographs using chronological contact sheets.",
+    "Compared shortlisted scenes at larger size for focus, composition, exposure, and foreground obstructions.",
+    "Retained one preferred frame from similar bursts; omitted repeated views, accidental shots, receipts, and visibly weak frames.",
+    "Prioritized a varied sequence of coast, architecture, street scenes, food, forest, and snowfall.",
+    "Kept original framing and colour; exports only correct EXIF orientation, resize, and encode as WebP."
+  ],
+  "photos": [
+    {
+      "source": "PXL_20260206_083023773.jpg",
+      "sourceSha256": "68665b1c77051a20519ce1bfdf564bb7e509df9d4ebd962ccef17aca7b474cdf",
+      "src": "/photos/japan/asakusa-blue-hour.webp",
+      "role": "cover",
+      "maxEdge": 2400,
+      "quality": 86,
+      "selectionReason": "Strong illuminated landmark and clear blue sky; selected instead of the many adjacent gate frames."
+    },
+    {
+      "source": "PXL_20260204_073014306.jpg",
+      "sourceSha256": "d563189817872354db84eb58b07fcc217f0137fc5128af6d0903c2eaeddc92f9",
+      "src": "/photos/japan/coastal-shrine.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260205_072556830.jpg",
+      "sourceSha256": "f08a25b921fa4a89d4747ae2dfd9ae6a490637aa6d6eab02f666ff6b4f176b5e",
+      "src": "/photos/japan/early-blossoms.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260204_075120921.jpg",
+      "sourceSha256": "cfd6754c4261ce86397079bf7fb17828181c8c3274e814ea05b147600d903b7f",
+      "src": "/photos/japan/temple-gate.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260205_080503222.jpg",
+      "sourceSha256": "d77e8759314e2d2122b63875cd22efba05106d32b1b4703d85ea5b036b2ead91",
+      "src": "/photos/japan/coast-evening-light.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "One balanced, level seascape chosen from a long sequence of nearly identical sunsets."
+    },
+    {
+      "source": "PXL_20260205_082741020.jpg",
+      "sourceSha256": "643bfe623c8ee29355759424c661d31fee63ae10d9f239d5764d6f5304070933",
+      "src": "/photos/japan/crow-by-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Clear subject and silhouette; chosen instead of the adjacent crow burst."
+    },
+    {
+      "source": "PXL_20260205_082809185.jpg",
+      "sourceSha256": "085effc6ea8b5241f14e86d2c73bf211dccd6aa7bbfdca6ef25f6515fa01f497",
+      "src": "/photos/japan/rock-in-the-sea.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "A different coastal subject; one frame retained from the repeated rock views."
+    },
+    {
+      "source": "PXL_20260206_044748734.jpg",
+      "sourceSha256": "93357e3061c9b5ea4590bbf88e19e50b74a9b564d094baac4e4caca2b2926850",
+      "src": "/photos/japan/railway-platform.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_074126245.jpg",
+      "sourceSha256": "2589a3ad5eca5df4aa6251ed2cec7feda063fccac616475d56939e8e5b17263c",
+      "src": "/photos/japan/temple-gold.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_075042494.jpg",
+      "sourceSha256": "f9876992eda0218cf934a3ce616867df3a5466e79ee302c10edfdb200a8ebc39",
+      "src": "/photos/japan/incense-courtyard.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_080107619.jpg",
+      "sourceSha256": "09eba63b555b8fb7899ae0a707f926893aeb81f967f69e85ed603ea15c7b4581",
+      "src": "/photos/japan/asakusa-side-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_082929374.jpg",
+      "sourceSha256": "aa5132398c03377b4b59b154bc1c304856ee7634ba1b788cead7404f13dc7559",
+      "src": "/photos/japan/pagoda-evening.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Warm illumination and clear roof detail; selected over the similar daylight pagoda frames."
+    },
+    {
+      "source": "PXL_20260206_081740539.jpg",
+      "sourceSha256": "6d695388f46cc1bb1c72fec059d2a90cbe002b43c9c2c441fe913cbedc83a3b8",
+      "src": "/photos/japan/lantern-corner.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_082356365.jpg",
+      "sourceSha256": "f76b211b1a0e43480e637f71874539eb7f4dbf1b676c6b53b07a9c2a0cdc83e8",
+      "src": "/photos/japan/lantern-courtyard.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_084354476.jpg",
+      "sourceSha256": "d0c7547b9c5f116f76e19ea20c5dd26e4bea16e75defb088a61bfa2d900e4585",
+      "src": "/photos/japan/sumida-night-reflections.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "A clear river reflection scene, retained instead of the adjacent repeated bridge views."
+    },
+    {
+      "source": "PXL_20260206_084155083.jpg",
+      "sourceSha256": "f26e3e26cf7ca214b5e28bc803e143d7a3f34602157b08c0d84a93b0d70f4cdf",
+      "src": "/photos/japan/skytree-after-dark.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_111310269.jpg",
+      "sourceSha256": "0dd169bab74017d35f479277a14cf70018d91841aec91eef27090a49aa497c09",
+      "src": "/photos/japan/tokyo-building-projection.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_091741507.jpg",
+      "sourceSha256": "142f4b46e806888a367fcd54af764865a1677689fedfd8ca5a7fa094ff43080d",
+      "src": "/photos/japan/akihabara-at-night.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_120639038.jpg",
+      "sourceSha256": "1fc62ea4a410ab4523c41801796cb74dd5f7b61ea7ec864cc1546a98349cfba7",
+      "src": "/photos/japan/lantern-alley.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_131850054.jpg",
+      "sourceSha256": "7e54b1171a487398dd43fc4807e9a3eafcf46b4505025f485637e5fcfe351a14",
+      "src": "/photos/japan/yakitori-evening.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260206_122950596.jpg",
+      "sourceSha256": "5056f4bd6078d62b841f5e41132b699d18e6eac566d23e279bacfc4cce1cd57c",
+      "src": "/photos/japan/shinjuku-crosswalk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "A wide composition with a distinct crossing and building facade, instead of the many similar neon street frames."
+    },
+    {
+      "source": "PXL_20260207_123730333.jpg",
+      "sourceSha256": "40e231009e8478b9ee91a38699c4d835ed43a7d024e8b418b95deed3b07dc57b",
+      "src": "/photos/japan/counter-meal.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_015119179.jpg",
+      "sourceSha256": "ec538d566497209b79a3f7f5f49d9d9ccffc257d36eda48f5bad78d6d1151ad6",
+      "src": "/photos/japan/nikko-red-bridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_021636293.jpg",
+      "sourceSha256": "c021c02b4c3aac4c4b5bc758f7f62f959ad05f105d18c2babd0a69e3ecdc28de",
+      "src": "/photos/japan/nikko-red-timber.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_033133925.jpg",
+      "sourceSha256": "71e6f289bf46446611c813028398ac0af16eb31aaa91c3804dd26153b8c72889",
+      "src": "/photos/japan/nikko-golden-doors.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_023935314.jpg",
+      "sourceSha256": "154bcfacd8f4dcc2d95ae747413296ba315ddfcfbd6c4fc059daad26a908b04e",
+      "src": "/photos/japan/nikko-roof-carvings.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_030753507.jpg",
+      "sourceSha256": "090a9e191fe2dee6672472e64445c5f2e28b6b19605bfb52e9051b3761b430b0",
+      "src": "/photos/japan/nikko-stone-lanterns.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_025451072.jpg",
+      "sourceSha256": "53f052f934bf02ea5b1c2b39087952b43f66b7ef2e7aaf863c863900396f6249",
+      "src": "/photos/japan/nikko-cedar-canopy.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_043704323.jpg",
+      "sourceSha256": "7d50aaf9a5369e696faf5c2385ddcdb723915ebd1932f4ddf9c303cf4b87ba7c",
+      "src": "/photos/japan/nikko-forest-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260207_045522038.jpg",
+      "sourceSha256": "791e74a1d10c5ce6459e3645729901ac7772113bf08f0e73f2f9bbf21afa1af9",
+      "src": "/photos/japan/nikko-red-capped-figures.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "A strong leading line and clear figures; the single frame retained from the long statue-row sequence."
+    },
+    {
+      "source": "PXL_20260208_004143507.jpg",
+      "sourceSha256": "a91a5bdddf214e56823dc461eaf837a78c6ab2dfbf2ba4c625deb494d5036c00",
+      "src": "/photos/japan/tokyo-snow-boulevard.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260208_004223968.jpg",
+      "sourceSha256": "e67e6b414d34d3a47cda7a88676d3e4921fbf6ab1c268f7c38a4370a50513934",
+      "src": "/photos/japan/tokyo-station-snow.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "A distinctive snowy station portrait; retained instead of the similar station facade bursts and daylight view."
+    },
+    {
+      "source": "PXL_20260208_020219486.jpg",
+      "sourceSha256": "15b598bc4ef2317e5b65c488e45d1d7c0341938588f4f5e1ffe5a045e3ccda74",
+      "src": "/photos/japan/snow-covered-bridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260208_022550206.jpg",
+      "sourceSha256": "cf6ea0594e306b8e63f9e66a6b5c7aa4a748bdeea38ca6ce4a5d627cf71fb579",
+      "src": "/photos/japan/winter-pines.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260208_033458594.RAW-01.COVER.jpg",
+      "sourceSha256": "8c2668e35b57a36e2c2706a390079a5b05b5da8e4224c1f95ffb0b6174dc50a6",
+      "src": "/photos/japan/sensoji-winter-roof.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260208_034110487.RAW-01.COVER.jpg",
+      "sourceSha256": "582e7fc4185b6147c83cab4bfd48760ec46495669851f8693f61e6bcfbaf7e66",
+      "src": "/photos/japan/snowy-water-pavilion.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "Distinct scene, clear detail, and a balanced composition."
+    },
+    {
+      "source": "PXL_20260208_055407215.jpg",
+      "sourceSha256": "bb184f6a1d558b2d29304c2aad9472673a43b83e79d588d3ae48ab6bd9b21d15",
+      "src": "/photos/japan/shibuya-crossing.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "selectionReason": "A balanced wide view chosen from the large Shibuya crossing burst; all other nearly identical crossing frames were omitted."
+    }
+  ]
+}
