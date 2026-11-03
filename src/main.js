@@ -50,7 +50,7 @@ if (atlas) {
       if (focus) returnFocus?.focus({ preventScroll: true });
     }
     caption.textContent = baseCaption;
-    status.textContent = panel ? `${panel.dataset.atlasLabel} selected. ${panel.dataset.atlasCount} ${Number(panel.dataset.atlasCount) === 1 ? 'album is' : 'albums are'} available below the map.` : 'World map. Choose a country to explore.';
+    status.textContent = panel ? `${panel.dataset.atlasLabel} selected. ${panel.dataset.atlasCount} ${Number(panel.dataset.atlasCount) === 1 ? 'album is' : 'albums are'} available below the map.` : 'World map. Choose a destination to explore.';
   };
 
   for (const link of countryLinks) {
@@ -81,22 +81,23 @@ if (atlas) {
     link.addEventListener('blur', (event) => highlight(links.includes(event.relatedTarget) ? event.relatedTarget : null));
   }
   const initialCountry = window.location.hash.startsWith('#atlas-country-') ? window.location.hash.slice('#atlas-country-'.length) : null;
-  showCountry(panels.some((panel) => panel.dataset.atlasPanel === initialCountry) ? initialCountry : null, { focus: false });
+  const initialPanel = panels.find((panel) => panel.dataset.atlasPanel === initialCountry || (initialCountry && (panel.dataset.atlasAliases || '').split(' ').includes(initialCountry)));
+  showCountry(initialPanel?.dataset.atlasPanel || null, { focus: false });
 }
 
 const filterBar = document.querySelector('.filters');
 if (filterBar) {
   filterBar.hidden = false;
-  const cards = [...document.querySelectorAll('[data-country]')];
+  const cards = [...document.querySelectorAll('[data-continent]')];
   const status = document.querySelector('[data-filter-status]');
   filterBar.addEventListener('click', (event) => {
     const button = event.target.closest('[data-filter]');
     if (!button) return;
-    const country = button.dataset.filter;
+    const continent = button.dataset.filter;
     for (const item of filterBar.querySelectorAll('button')) item.setAttribute('aria-pressed', String(item === button));
-    for (const card of cards) card.hidden = country !== 'all' && card.dataset.country !== country;
+    for (const card of cards) card.hidden = continent !== 'all' && card.dataset.continent !== continent;
     const count = cards.filter((card) => !card.hidden).length;
-    status.textContent = `${count} ${count === 1 ? 'story' : 'stories'} shown${country === 'all' ? '' : ` from ${country}`}.`;
+    status.textContent = `${count} ${count === 1 ? 'story' : 'stories'} shown${continent === 'all' ? '' : ` from ${continent}`}.`;
   });
 }
 

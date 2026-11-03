@@ -7,7 +7,7 @@ import { build, loadContent, root, validateContent } from '../scripts/build.mjs'
 import { escapeHtml, formatDate, renderHome, renderStory } from '../src/templates.mjs';
 import { allPhotos } from '../src/templates.mjs';
 import { planPhotoUpload } from '../scripts/upload-photos.mjs';
-import { groupAtlasCountries, projectLocation } from '../src/atlas.mjs';
+import { continentForCountry, groupAtlasCountries, projectLocation } from '../src/atlas.mjs';
 
 const content = await loadContent();
 const fresh = () => structuredClone(content);
@@ -17,30 +17,78 @@ test('all trip content is valid without a featured story setting', () => {
   assert.equal(content.site.featuredTrip, undefined);
 });
 
-test('the homepage atlas starts with countries and provides each country’s own album links', () => {
+test('the homepage opens with the map and groups Europe without combining its country albums', () => {
   const { site, trips } = fresh();
   const home = renderHome(site, trips);
   const map = home.match(/<svg class="atlas-map"[\s\S]*?<\/svg>/)?.[0];
-  const destinations = home.match(/<nav class="atlas-destinations"[\s\S]*?<\/nav>/)?.[0];
+  const groups = groupAtlasCountries(trips);
+  const top = home.split('<body')[1].split('<section class="journal')[0];
   assert.ok(map?.includes('href="/images/world-atlas.svg"'));
   assert.ok(!home.includes('Featured story') && !home.includes('class="feature'));
-  assert.ok(!destinations.includes('/stories/'));
+  assert.ok(!home.includes('class="atlas-destinations"'));
+  for (const removed of ['<nav', 'class="header-note"', 'class="intro', 'Places. People. Perspective.', 'Some places', 'Explore the map', 'An atlas of memories', 'A world of', 'class="atlas-tally"', 'Choose a country.']) assert.ok(!top.includes(removed), removed);
   const world = map.split('<g data-atlas-world>')[1].split('<g class="atlas-album-layer"')[0];
-  assert.equal((world.match(/class="atlas-location"/g) || []).length, new Set(trips.map((trip) => trip.country)).size);
+  assert.equal((world.match(/class="atlas-location"/g) || []).length, groups.length);
   assert.ok(!world.includes('/stories/'));
-  for (const country of groupAtlasCountries(trips)) {
+  const europe = groups.find((group) => group.id === 'europe');
+  assert.deepEqual(europe.trips.map((trip) => trip.slug).sort(), ['britain', 'finland', 'france', 'germany', 'portugal', 'turkey']);
+  for (const id of europe.outlineIds) {
+    assert.ok(map.includes(`/images/atlas-countries.svg#${id}`));
+    assert.ok(!world.includes(`href="#atlas-country-${id}"`));
+  }
+  assert.deepEqual(trips, content.trips, 'Map grouping preserves the individual country metadata');
+  for (const country of groups) {
     const id = `atlas-country-${country.id}`;
     assert.ok(world.includes(`href="#${id}"`));
-    assert.ok(destinations.includes(`href="#${id}"`));
     const panel = home.split(`<section class="atlas-country-panel" id="${id}"`)[1]?.split('</section>')[0];
     assert.ok(panel, `Country panel exists for ${country.name}`);
     assert.equal((panel.match(/class="atlas-album-card"/g) || []).length, country.trips.length);
-    for (const trip of trips) assert.equal(panel.includes(`href="/stories/${trip.slug}/"`), trip.country === country.name);
+    for (const trip of trips) assert.equal(panel.includes(`href="/stories/${trip.slug}/"`), country.trips.includes(trip));
     for (const trip of country.trips) {
       assert.ok(map.includes(`href="/stories/${trip.slug}/"`));
       assert.ok(map.includes(`aria-label="${escapeHtml(trip.mapLocation.label)}: ${escapeHtml(trip.title)}"`));
     }
   }
+});
+
+test('the journal offers continent filters while cards retain their country labels', () => {
+  const { site, trips } = fresh();
+  const home = renderHome(site, trips);
+  const filters = home.match(/<div class="filters"[\s\S]*?<\/div>/)[0];
+  const continents = new Set(trips.map((trip) => continentForCountry(trip.country)));
+  assert.ok(filters.includes('aria-label="Filter stories by continent"'));
+  assert.deepEqual([...filters.matchAll(/data-filter="([^"]+)"/g)].map((match) => match[1]), ['all', ...continents]);
+  assert.ok(!home.includes('data-country='));
+  for (const trip of trips) {
+    assert.ok(home.includes(`data-continent="${continentForCountry(trip.country)}"`));
+    assert.ok(home.includes(`/ ${escapeHtml(trip.country)}</span>`));
+  }
+});
+
+test('Around Ontario preserves the four collections and keeps the snowy Niagara concert together', async () => {
+  const trip = content.trips.find((item) => item.slug === 'around-ontario');
+  const manifest = JSON.parse(await readFile(path.join(root, 'content/selections/around-ontario.json'), 'utf8'));
+  assert.equal(trip.title, 'Around Ontario');
+  assert.equal(trip.showChapterIndex, false);
+  assert.deepEqual([...trip.legacySlugs].sort(), ['algonquin', 'montreal', 'moosonee', 'niagara-falls']);
+  assert.ok(trip.legacySlugs.every((slug) => !content.trips.some((item) => item.slug === slug)));
+  assert.equal(allPhotos(trip).length, 101);
+  assert.equal(manifest.selectedImageCount, 101);
+  assert.equal(new Set(manifest.photos.map((photo) => photo.source)).size, 101);
+  assert.deepEqual(new Set(manifest.photos.map((photo) => photo.src)), new Set(allPhotos(trip).map((photo) => photo.src)));
+  assert.equal(manifest.photos.filter((photo) => photo.previousSrc).length, 95);
+  assert.equal(manifest.photos.filter((photo) => photo.role === 'cover').length, 1);
+  assert.equal(Object.values(manifest.dailyCounts).reduce((a, b) => a + b, 0), 101);
+  const concert = trip.chapters.find((chapter) => chapter.title.includes('Lumineers'));
+  assert.equal(concert.date, '2025-02-16');
+  assert.match(concert.location, /Niagara Falls/);
+  assert.equal(concert.photos.length, 13);
+  assert.ok(concert.photos.every((photo) => photo.capturedOn === concert.date));
+  assert.equal(trip.chapters[trip.chapters.indexOf(concert) - 1].title, 'Snow beside the falls');
+  const toronto = content.trips.find((item) => item.slug === 'toronto');
+  assert.equal(allPhotos(toronto).length, 129);
+  assert.ok(!toronto.chapters.some((chapter) => chapter.title.includes('Lumineers')));
+  assert.ok(allPhotos(toronto).some((photo) => photo.src.endsWith('/concert-lights.webp')));
 });
 
 test('country zoom frames keep every album’s pin visible', () => {
@@ -74,6 +122,14 @@ test('duplicate and unsafe slugs are rejected before pages can be overwritten', 
   trips.pop();
   trips[0].slug = '../outside';
   assert.throws(() => validateContent(site, trips), /Invalid or duplicate/);
+});
+
+test('legacy album routes cannot overwrite active pages or escape the stories directory', () => {
+  for (const aliases of ['old-trip', ['../outside'], ['old-trip', 'old-trip'], [content.trips[1].slug]]) {
+    const { site, trips } = fresh();
+    trips[0].legacySlugs = aliases;
+    assert.throws(() => validateContent(site, trips), /legacySlugs must be an array|Invalid or duplicate legacy slug/);
+  }
 });
 
 test('photo paths cannot reference outside files or remote hosts', () => {
@@ -299,7 +355,14 @@ test('generated pages have working local assets, navigation, and chapter anchors
   const output = await mkdtemp(path.join(os.tmpdir(), 'beyondlenses-build-'));
   t.after(() => rm(output, { recursive: true, force: true }));
   const result = await build({ output });
-  assert.equal(result.pages, content.trips.length + 3);
+  assert.equal(result.pages, content.trips.length + 3 + content.trips.reduce((sum, trip) => sum + (trip.legacySlugs || []).length, 0));
+  const sitemap = await readFile(path.join(output, 'sitemap.xml'), 'utf8');
+  for (const trip of content.trips) for (const slug of trip.legacySlugs || []) {
+    const redirect = await readFile(path.join(output, `stories/${slug}/index.html`), 'utf8');
+    assert.ok(redirect.includes(`<meta http-equiv="refresh" content="0; url=/stories/${trip.slug}/">`));
+    assert.ok(redirect.includes(`<link rel="canonical" href="${content.site.url}/stories/${trip.slug}/">`));
+    assert.ok(!sitemap.includes(`/stories/${slug}/`));
+  }
   const walk = async (directory) => {
     const files = [];
     for (const item of await readdir(directory, { withFileTypes: true })) {

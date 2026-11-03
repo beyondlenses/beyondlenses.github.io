@@ -1,5 +1,5 @@
 import { resolveTripPhotos } from './photos.mjs';
-import { projectLocation, atlasSize, groupAtlasCountries } from './atlas.mjs';
+import { projectLocation, atlasSize, groupAtlasCountries, continentForCountry } from './atlas.mjs';
 
 export const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
@@ -28,11 +28,10 @@ function photo(photo, { lazy = true, className = '' } = {}) {
   return `<img class="${className}" src="${e(photo.src)}" alt="${e(photo.alt)}"${dimensions} ${lazy ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async" style="object-position:${e(photo.position || 'center')}">`;
 }
 
-function header() {
+function header(compact = false) {
   return `<header class="site-header wrap">
     <a class="wordmark" href="/" aria-label="Beyond Lenses home">${aperture}<span>beyondlenses<span class="brand-period">.</span></span></a>
-    <nav aria-label="Main navigation"><a href="/#journal">The journal</a><a href="/#about">Behind the lens</a></nav>
-    <span class="header-note">A personal photo journal <span aria-hidden="true">↗</span></span>
+    ${compact ? '' : '<nav aria-label="Main navigation"><a href="/#journal">The journal</a><a href="/#about">Behind the lens</a></nav><span class="header-note">A personal photo journal <span aria-hidden="true">↗</span></span>'}
   </header>`;
 }
 
@@ -44,7 +43,7 @@ function footer(site) {
   </footer>`;
 }
 
-function page(site, { title, description, path = '/', image, body, bodyClass = '' }) {
+function page(site, { title, description, path = '/', image, body, bodyClass = '', redirectTo }) {
   const canonical = `${site.url}${path}`;
   return `<!doctype html>
 <html lang="en" id="top">
@@ -55,6 +54,7 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
   <title>${e(title)}</title>
   <meta name="description" content="${e(description)}">
   <link rel="canonical" href="${e(canonical)}">
+  ${redirectTo ? `<meta http-equiv="refresh" content="0; url=${e(redirectTo)}">` : ''}
   <meta property="og:type" content="${path.startsWith('/stories/') ? 'article' : 'website'}">
   <meta property="og:site_name" content="${e(site.name)}">
   <meta property="og:title" content="${e(title)}">
@@ -68,7 +68,7 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
 </head>
 <body class="${bodyClass}">
   <a class="skip-link" href="#main">Skip to content</a>
-  ${header()}
+  ${header(bodyClass === 'home-page')}
   ${body}
   ${footer(site)}
 </body>
@@ -76,7 +76,7 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
 }
 
 function card(trip, index) {
-  return `<article class="story-card" data-country="${e(trip.country)}">
+  return `<article class="story-card" data-continent="${e(continentForCountry(trip.country))}">
     <a class="card-link" href="${tripPath(trip)}">
       <div class="card-image">${photo(trip.cover)}<span class="image-label">${e(trip.category)}</span><span class="card-arrow">${arrow}</span></div>
       <div class="card-meta"><span>${number(index + 1)} / ${e(trip.country)}</span><span>${number(frameCount(trip))} frames${trip.demo ? ' · Sample story' : ''}</span></div>
@@ -105,16 +105,16 @@ function travelAtlas(trips) {
   const countLabel = (count) => `${count} ${count === 1 ? 'album' : 'albums'}`;
   return `<section class="atlas wrap" id="atlas" data-atlas aria-labelledby="atlas-heading">
     <div class="atlas-panel">
-      <div class="atlas-header"><div><p class="eyebrow">An atlas of memories</p><h2 id="atlas-heading" data-atlas-heading>A world of <em>stories.</em></h2></div><div class="atlas-header-actions"><button class="atlas-back" type="button" data-atlas-back hidden>← World map</button><p class="atlas-tally"><span>${number(trips.length)} <span>albums</span></span><span>${number(countries.length)} <span>countries</span></span></p></div></div>
-      <p class="atlas-invitation">Choose a country. Find your next story.</p>
-      <svg class="atlas-map" viewBox="0 0 ${atlasSize.width} ${atlasSize.height}" role="group" aria-labelledby="atlas-map-title atlas-map-description">
-        <title id="atlas-map-title">Explore the travel albums by country</title>
-        <desc id="atlas-map-description" data-atlas-description>Select a country to zoom in and discover its albums. The country links below offer the same choices.</desc>
+      <h2 class="sr-only" id="atlas-heading" data-atlas-heading>Travel map</h2>
+      <div class="atlas-controls"><button class="atlas-back" type="button" data-atlas-back hidden>← World map</button></div>
+      <div class="atlas-viewport" role="region" aria-label="Travel map" tabindex="0"><svg class="atlas-map" viewBox="0 0 ${atlasSize.width} ${atlasSize.height}" role="group" aria-labelledby="atlas-map-title atlas-map-description">
+        <title id="atlas-map-title">Explore the travel albums by destination</title>
+        <desc id="atlas-map-description" data-atlas-description>Select a destination on the map to explore its albums.</desc>
         <defs><radialGradient id="atlas-ocean"><stop stop-color="#2c4b42"/><stop offset="1" stop-color="#19372f"/></radialGradient><pattern id="atlas-grain" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".45" fill="#e3dfc4" opacity=".08"/></pattern></defs>
         <rect width="1200" height="600" fill="url(#atlas-ocean)" aria-hidden="true"/>
         <g class="atlas-geography" data-atlas-geography aria-hidden="true">
           <image href="/images/world-atlas.svg" width="1200" height="600"/>
-          <g class="atlas-country-shapes">${countries.filter((country) => country.code).map((country) => `<a class="atlas-country-area" href="#atlas-country-${e(country.id)}" data-atlas-country="${e(country.id)}" tabindex="-1"><use href="/images/atlas-countries.svg#${e(country.id)}"/></a>`).join('')}</g>
+          <g class="atlas-country-shapes">${countries.filter((country) => country.outlineIds.length).map((country) => `<a class="atlas-country-area" href="#atlas-country-${e(country.id)}" data-atlas-country="${e(country.id)}" tabindex="-1">${country.outlineIds.map((id) => `<use href="/images/atlas-countries.svg#${e(id)}"/>`).join('')}</a>`).join('')}</g>
           <image href="/images/atlas-lakes.svg" width="1200" height="600" pointer-events="none"/>
         </g>
         <rect width="1200" height="600" fill="url(#atlas-grain)" pointer-events="none" aria-hidden="true"/>
@@ -129,12 +129,11 @@ function travelAtlas(trips) {
         ${countries.map((country) => `<g class="atlas-album-layer" data-atlas-layer="${e(country.id)}" hidden>${country.trips.map((trip, index) => {
           const { label, latitude, longitude, labelPosition } = trip.mapLocation;
           const [x, y] = projectLocation(longitude, latitude);
-          return atlasMarker({ href: tripPath(trip), label, badge: index + 1, x: x * country.view.scale + country.view.x, y: y * country.view.scale + country.view.y, position: labelPosition, attributes: `data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"`, description: `${label}: ${trip.title}` });
+          return atlasMarker({ href: tripPath(trip), label, badge: index + 1, x: x * country.view.scale + country.view.x, y: y * country.view.scale + country.view.y, position: country.albumLabelPositions[trip.slug] || labelPosition, attributes: `data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"`, description: `${label}: ${trip.title}` });
         }).join('')}</g>`).join('')}
-      </svg>
-      <div class="atlas-caption"><p data-atlas-caption>Select a country to explore its albums.</p><span class="atlas-key"><i aria-hidden="true"></i> Countries in the journal</span></div>
-      <nav class="atlas-destinations" aria-label="Explore albums by country">${countries.map((country) => `<a href="#atlas-country-${e(country.id)}" data-atlas-country="${e(country.id)}" aria-controls="atlas-country-${e(country.id)}" aria-label="Explore ${e(country.label)}: ${countLabel(country.trips.length)}">${e(country.label)}<span class="atlas-country-count">${countLabel(country.trips.length)}</span><span class="atlas-destination-arrow" aria-hidden="true">+</span></a>`).join('')}</nav>
-      <div class="atlas-country-panels">${countries.map((country) => `<section class="atlas-country-panel" id="atlas-country-${e(country.id)}" data-atlas-panel="${e(country.id)}" data-atlas-label="${e(country.label)}" data-atlas-count="${country.trips.length}" data-atlas-transform="matrix(${country.view.scale.toFixed(5)},0,0,${country.view.scale.toFixed(5)},${country.view.x.toFixed(3)},${country.view.y.toFixed(3)})" aria-labelledby="atlas-country-heading-${e(country.id)}">
+      </svg></div>
+      <p class="sr-only" data-atlas-caption>Select a destination to explore its albums.</p>
+      <div class="atlas-country-panels">${countries.map((country) => `<section class="atlas-country-panel" id="atlas-country-${e(country.id)}" data-atlas-panel="${e(country.id)}" data-atlas-aliases="${e(country.aliases.join(' '))}" data-atlas-label="${e(country.label)}" data-atlas-count="${country.trips.length}" data-atlas-transform="matrix(${country.view.scale.toFixed(5)},0,0,${country.view.scale.toFixed(5)},${country.view.x.toFixed(3)},${country.view.y.toFixed(3)})" aria-labelledby="atlas-country-heading-${e(country.id)}">
         <div class="atlas-country-heading"><div><p class="eyebrow">${e(country.label)}</p><h3 id="atlas-country-heading-${e(country.id)}" tabindex="-1">Choose an <em>album.</em></h3></div><p>${countLabel(country.trips.length)} · ${country.trips.reduce((sum, trip) => sum + frameCount(trip), 0)} photographs</p></div>
         <div class="atlas-album-grid">${country.trips.map((trip, index) => `<a class="atlas-album-card" href="${tripPath(trip)}" data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"><div class="atlas-album-image">${photo(trip.cover)}<span aria-hidden="true">↗</span></div><div class="atlas-album-copy"><p>${number(index + 1)} <span aria-hidden="true">/</span> ${e(trip.mapLocation.label)}</p><h4>${e(trip.title)}</h4><span>${frameCount(trip)} photographs${trip.startDate ? ` · ${dateRange(trip.startDate, trip.endDate)}` : ''}</span></div></a>`).join('')}</div>
       </section>`).join('')}</div>
@@ -146,19 +145,16 @@ function travelAtlas(trips) {
 
 export function renderHome(site, trips) {
   trips = trips.map((trip) => resolveTripPhotos(site, trip));
-  const countries = [...new Set(trips.map((trip) => trip.country))];
+  const continents = [...new Set(trips.map((trip) => continentForCountry(trip.country)))];
   return page(site, {
-    title: `${site.name} — A personal travel journal`, description: site.description, image: trips[0].cover.src,
+    title: `${site.name} — A personal travel journal`, description: site.description, image: trips[0].cover.src, bodyClass: 'home-page',
     body: `<main id="main">
-      <section class="intro wrap" aria-labelledby="intro-heading">
-        <div><p class="eyebrow"><span class="small-star" aria-hidden="true">✳</span> Places. People. Perspective.</p><h1 id="intro-heading">${e(site.headline).replace('stay with you.', '<em>stay with you.</em>')}</h1></div>
-        <div class="intro-note"><p>${e(site.introduction)}</p><a class="text-link" href="#atlas">Explore the map ${arrow}</a></div>
-      </section>
+      <h1 class="sr-only">${e(site.name)}</h1>
       ${travelAtlas(trips)}
       <section class="journal wrap" id="journal" aria-labelledby="journal-heading">
         <div class="section-topline"><p class="eyebrow">01 — The journal</p><span>${number(trips.length)} stories & counting</span></div>
         <div class="journal-heading"><h2 id="journal-heading">Elsewhere, <em>remembered.</em></h2><p>Some memories deserve<br>more than a camera roll.</p></div>
-        <div class="filters" aria-label="Filter stories by country" hidden><button type="button" data-filter="all" aria-pressed="true">All places <sup>${number(trips.length)}</sup></button>${countries.map((country) => `<button type="button" data-filter="${e(country)}" aria-pressed="false">${e(country)} <sup>${number(trips.filter((trip) => trip.country === country).length)}</sup></button>`).join('')}</div>
+        <div class="filters" aria-label="Filter stories by continent" hidden><button type="button" data-filter="all" aria-pressed="true">All places <sup>${number(trips.length)}</sup></button>${continents.map((continent) => `<button type="button" data-filter="${e(continent)}" aria-pressed="false">${e(continent)} <sup>${number(trips.filter((trip) => continentForCountry(trip.country) === continent).length)}</sup></button>`).join('')}</div>
         <p class="sr-only" data-filter-status aria-live="polite"></p>
         <div class="story-grid">${trips.map(card).join('')}</div>
         ${trips.some((trip) => trip.demo) ? '<p class="sample-note">Sample stories use stock photography. <a href="/credits/">See photo credits</a>.</p>' : ''}
@@ -168,6 +164,15 @@ export function renderHome(site, trips) {
         <div><p class="eyebrow">02 — Behind the lens</p><h2 id="about-heading">Collect moments.<br><em>Keep the feeling.</em></h2><p class="about-copy">${e(site.about)}</p><a class="text-link" href="#journal">There’s a story in every journey ${arrow}</a></div>
       </div></section>
     </main>`,
+  });
+}
+
+export function renderStoryRedirect(site, trip) {
+  const destination = tripPath(trip);
+  return page(site, {
+    title: `${trip.title} — ${site.name}`, description: trip.subtitle, path: destination,
+    redirectTo: destination,
+    body: `<main class="credits-page wrap" id="main"><h1>This album has moved.</h1><p>These photographs are now together in <a class="text-link" href="${destination}">${e(trip.title)} ${arrow}</a>.</p></main>`,
   });
 }
 

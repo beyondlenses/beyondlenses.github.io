@@ -37,21 +37,18 @@ The Atlanta, California and Vietnam collections add **340 original photographs**
 | California | 97 | 8 April–7 May 2023 | Berkeley, Sibley, San Francisco, Sausalito and Bolinas |
 | Vietnam | 146 | 27 May–1 June 2023 | Mỹ Sơn, Hội An, Huế, Ninh Bình, Sa Pa and Hà Nội |
 
-The Canada collections contain **367 original photographs**:
+The Canada collections contain **373 original photographs**:
 
 | Album | Photographs | Dates |
 | --- | ---: | --- |
 | Daily life in Toronto | 129 | 28 July 2024–13 April 2025 |
-| Montreal | 3 | 27 July 2024 |
-| Algonquin and Arrowhead | 33 | 13–14 October 2024 |
-| Moosonee and the Polar Bear Express | 38 | 25–26 December 2024 |
-| Niagara Falls in winter | 21 | 16–17 February 2025 |
+| Around Ontario | 101 | 27 July 2024–17 February 2025 |
 | The quiet of Gros Morne | 80 | 24–27 May 2024 |
 | Vancouver | 63 | 21–26 February 2024 |
 
 **Dubai** adds **94 original photographs** from **28 December 2023**, covering
 Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek. The site contains
-**21 albums across 14 countries**.
+**18 albums across 14 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -98,19 +95,25 @@ dist/                    Generated website; ignored by Git
 
 ## Homepage travel atlas
 
-The forest-green atlas starts with countries. Selecting a country or its name
-zooms the map into that country’s destinations, reveals its clickable album
-locations, and shows its album cover cards. A country with one album follows
-the same flow. The country menu stays available for switching; **World map**
-and **Escape** return to the overview and restore keyboard focus.
+The front page opens with the brand and forest-green map. The introductory
+headline, description, map heading, totals and country menu below the map have
+been removed. Selecting a destination zooms the map, reveals its clickable
+album locations and shows the album cover cards. **World map** and **Escape**
+return to the overview and restore keyboard focus.
 
-Countries and album counts come from the current trip content. Canada’s view
-frames Vancouver and its eastern destinations; Malaysia’s view frames the
-peninsula.
-Mobile layouts provide large country links and stacked album cards. Hovering or
-focusing an album highlights its map marker and cover card together. Reduced
-motion preferences disable the transition. Without JavaScript, country links
-jump to the corresponding collection of album cards below the world map.
+Europe is one map destination, combining the outlines and albums for Britain,
+Germany, France, Portugal, Finland and Turkey. This is a browsing group only;
+individual country albums and country labels remain intact. Old European
+country map hashes open the Europe view when JavaScript is available. The
+filters under **Elsewhere, remembered** list continents: North America, Europe,
+Asia and Oceania, plus All places.
+
+Canada’s view frames Vancouver and its eastern destinations; Malaysia’s view
+frames the peninsula. On narrow screens the labelled map scrolls horizontally,
+and album cards stack below it. Hovering or focusing an album highlights its map
+marker and cover card together. Reduced motion preferences disable the
+transition. Without JavaScript, map links jump to the corresponding collection
+of album cards below the world map.
 
 Every trip has a `mapLocation` with a short `label`, representative `latitude`
 and `longitude`, and optional `labelPosition: [x, y]` for its callout in the
@@ -366,12 +369,24 @@ frames, screenshots, travel records and undated imports were omitted. The 122
 Canada videos and five Gros Morne videos remain outside these still-photo
 albums. No archives were extracted, and originals remain untouched.
 
-Toronto follows selected days through summer, autumn, winter and spring. The
-folder provides only three photographs from Montreal; these form a short album
-with a separate cover. That source contained no established Vancouver photographs;
-the separate Vancouver collection is documented below. Orillia, Arrowhead and
-Algonquin are grouped into one autumn trip;
-Niagara Falls and the journey to Moosonee have their own albums.
+Toronto follows selected days through summer, autumn, winter and spring.
+**Around Ontario** combines the Montreal, Algonquin/Arrowhead, Moosonee and
+Niagara Falls collections in 11 chronological sections. It preserves all 95
+previous photographs and adds six distinct concert frames, for **101 photos**.
+The snowy Niagara visit and its Lumineers concert at the OLG Stage remain
+together on 16 February 2025. The concert chapter contains 13 photographs;
+Toronto retains its existing festival-stage image. Montreal remains correctly
+labelled as Quebec within the owner’s chosen album title.
+
+The original four album routes redirect to `/stories/around-ontario/` and are
+omitted from the sitemap. The combined manifest preserves each old source,
+hash, export settings and previous path. Existing derivatives were copied
+byte-for-byte to the new album paths; former covers appear once in the gallery,
+with Arrowhead’s Big Bend retained as the cover. Old remote objects are retained
+for the currently published pages until the new paths are uploaded.
+
+The shared Canada source had no established Vancouver photographs; the separate
+Vancouver collection is documented below.
 
 Phone dates use camera-local EXIF times and recorded offsets. The Gros Morne
 Nikon D5300 clock is eight hours ahead of the matching Newfoundland phone
@@ -387,7 +402,7 @@ Northern Ontario, the Algonquin area or the Moose River area. The foggy Gros
 Morne walk retains a broad park label instead of an unconfirmed trail name.
 
 Each album uses dated editorial galleries with the top chapter index disabled.
-Covers appear once, outside the galleries. The six selection manifests record
+Covers appear once, outside the galleries. The active selection manifests record
 source hashes, dates, evidence, counts, omissions and export settings; their
 `peoplePhotoSources` lists make personal and local-life photographs easy to
 review. Exports preserve framing and colour, correct orientation, and omit
@@ -395,33 +410,43 @@ EXIF/XMP metadata. The two old stock WebP files have been removed, and the
 credits page now describes the original collections.
 
 ```sh
-# The five Ontario/Quebec albums share the canada source folder.
+# Toronto and Around Ontario share the canada source folder.
 python3 scripts/export-photos.py --selection content/selections/toronto.json --source ../dumps/canada
-python3 scripts/export-photos.py --selection content/selections/montreal.json --source ../dumps/canada
-python3 scripts/export-photos.py --selection content/selections/algonquin.json --source ../dumps/canada
-python3 scripts/export-photos.py --selection content/selections/moosonee.json --source ../dumps/canada
-python3 scripts/export-photos.py --selection content/selections/niagara-falls.json --source ../dumps/canada
+python3 scripts/export-photos.py --selection content/selections/around-ontario.json --source ../dumps/canada
 python3 scripts/export-photos.py --selection content/selections/gros-morne.json --source ../dumps/gros-morne
-npm run photos:upload -- toronto montreal algonquin moosonee niagara-falls gros-morne
-npm run photos:check -- toronto montreal algonquin moosonee niagara-falls gros-morne
+npm run photos:upload -- toronto around-ontario gros-morne
+npm run photos:check -- toronto around-ontario gros-morne
 npm test
 npm run build
 ```
 
-Validation decoded all 304 exports and checked their original SHA-256 hashes,
-local dates, dimensions, stripped metadata, unique sources, cover use, manifest
-counts and chapter chronology. All 16 site tests pass; the build produces 14
-pages and 11 stories, with no generated references to the removed stock files.
-Representative exports opened include `toronto-skyline.webp`,
-`montreal-city-view.webp`, `big-bend-in-autumn.webp`,
-`polar-bear-express-carriage.webp`, `horseshoe-falls-in-blue.webp`, and
-`western-brook-pond-valley.webp`, plus gallery samples from each album.
-Interactive browser preview was unavailable in the sandbox.
+The initial Canada selection validated 304 exports. The consolidation checked
+all 101 Around Ontario originals against their SHA-256 hashes, local dates,
+export dimensions, colour profiles, stripped EXIF/XMP and unique source paths.
+All 95 prior exports match byte-for-byte; the six new concert exports use
+2000-pixel long edges at WebP quality 84. All 96 stills from the concert day were
+reviewed again in contact sheets, followed by a larger 13-frame shortlist.
+The owner identified the Lumineers; the venue sign corroborates the artist.
 
-The local upload plan contains exactly the 304 selected WebP files. The R2
-upload attempt failed before transferring files because the sandbox denied
-rclone’s DNS socket. Run the upload and verification commands above from an
-environment with network access before committing and pushing the albums.
+Representative exports opened include `big-bend-in-autumn.webp`,
+`montreal-city-view.webp`, `polar-bear-express-carriage.webp`,
+`horseshoe-falls-in-blue.webp`, `violin-on-the-screen.webp`,
+`red-lights-over-the-stage.webp` and `lumineers-venue-after-the-show.webp`.
+Static world, Europe and Canada map proofs were rendered and visually checked.
+Site tests pass, including continent filtering, Europe grouping, consolidated
+photo counts, legacy route validation and all generated links. The build
+produces 25 pages and 18 stories, including four redirect pages. Interactive
+browser review remains unavailable because the sandbox blocks preview sockets.
+
+The Around Ontario upload plan contains exactly **101 WebP files, 36.0 MiB**.
+The upload transferred zero files because the sandbox blocked the R2 DNS
+socket. Run these commands with network access **before pushing**:
+
+```sh
+npm run photos:upload -- around-ontario
+npm run photos:check -- around-ontario
+npm run dev
+```
 
 ## Malaysia selection and exports
 

@@ -6,7 +6,7 @@ import { readFile } from 'node:fs/promises';
 const source = await readFile(new URL('../src/main.js', import.meta.url), 'utf8');
 
 // Minimal DOM boundary: the actual browser controller handles all state changes.
-function fixture(hash = '') {
+function fixture(hash = '', aliases = '') {
   let document;
   const element = (dataset = {}, attributes = {}) => {
     const classes = new Set(), listeners = new Map();
@@ -30,6 +30,7 @@ function fixture(hash = '') {
   const albumLinks = ['toronto', 'gros-morne', 'japan'].flatMap((slug) => [element({ atlasAlbum: slug, atlasTitle: slug }), element({ atlasAlbum: slug, atlasTitle: slug })]);
   const panels = [element({ atlasPanel: 'canada', atlasLabel: 'Canada', atlasCount: '2', atlasTransform: 'matrix(7,0,0,7,-2200,-530)' }), element({ atlasPanel: 'japan', atlasLabel: 'Japan', atlasCount: '1', atlasTransform: 'matrix(8,0,0,8,-6800,-880)' })];
   const headings = panels.map(() => element());
+  panels[1].dataset.atlasAliases = aliases;
   panels.forEach((panel, i) => { panel.querySelector = () => headings[i]; });
   const layers = panels.map((panel) => element({ atlasLayer: panel.dataset.atlasPanel }, { hidden: '' }));
   const world = element(), geography = element(), back = element(), heading = element(), description = element(), status = element(), caption = element();
@@ -91,6 +92,8 @@ test('modified country clicks retain normal links and country hash links open th
   linked.back.fire('click');
   assert.equal(linked.document.activeElement, linked.countryLinks[3]);
   assert.equal(fixture('#atlas-country-missing').world.getAttribute('hidden'), null);
+  const aliased = fixture('#atlas-country-france', 'france portugal germany');
+  assert.deepEqual(aliased.panels.map((panel) => panel.hidden), [true, false]);
 });
 
 test('album hover highlights its matching pin and cover card together', () => {
@@ -101,4 +104,27 @@ test('album hover highlights its matching pin and cover card together', () => {
   assert.equal(ui.caption.textContent, 'toronto');
   ui.albumLinks[0].fire('pointerleave');
   assert.match(ui.caption.textContent, /Canada · 2 albums/);
+});
+
+test('continent filters show matching cards, update pressed states and restore all albums', () => {
+  const cards = ['Europe', 'North America', 'Europe', 'Asia'].map((continent) => ({ dataset: { continent }, hidden: false }));
+  const buttons = ['all', 'Europe', 'Asia'].map((filter) => ({ dataset: { filter }, attributes: {}, setAttribute(name, value) { this.attributes[name] = value; }, closest() { return this; } }));
+  const status = { textContent: '' };
+  const bar = { hidden: true, querySelectorAll: () => buttons, addEventListener(name, handler) { this.click = handler; } };
+  const document = {
+    querySelector: (selector) => ({ '.filters': bar, '[data-filter-status]': status })[selector] || null,
+    querySelectorAll: (selector) => selector === '[data-continent]' ? cards : [],
+  };
+  vm.runInNewContext(source, { document });
+  assert.equal(bar.hidden, false);
+  bar.click({ target: buttons[1] });
+  assert.deepEqual(cards.map((card) => card.hidden), [false, true, false, true]);
+  assert.equal(buttons[1].attributes['aria-pressed'], 'true');
+  assert.equal(status.textContent, '2 stories shown from Europe.');
+  bar.click({ target: buttons[2] });
+  assert.equal(status.textContent, '1 story shown from Asia.');
+  assert.equal(buttons[1].attributes['aria-pressed'], 'false');
+  bar.click({ target: buttons[0] });
+  assert.ok(cards.every((card) => !card.hidden));
+  assert.equal(status.textContent, '4 stories shown.');
 });

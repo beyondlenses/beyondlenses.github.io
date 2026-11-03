@@ -1,7 +1,7 @@
 import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { allPhotos, escapeHtml, render404, renderCredits, renderHome, renderStory } from '../src/templates.mjs';
+import { allPhotos, escapeHtml, render404, renderCredits, renderHome, renderStory, renderStoryRedirect } from '../src/templates.mjs';
 import { usesR2 } from '../src/photos.mjs';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -90,6 +90,15 @@ export function validateContent(site, trips) {
       if (photo.license && (!photo.licenseUrl || !photo.credit || !photo.creditUrl)) throw new Error(`${trip.slug}: licensed photographs need credit, creditUrl, and licenseUrl.`);
     }
   }
+  const routes = new Set(slugs);
+  for (const trip of trips) {
+    if (trip.legacySlugs === undefined) continue;
+    if (!Array.isArray(trip.legacySlugs)) throw new Error(`${trip.slug}.legacySlugs must be an array.`);
+    for (const slug of trip.legacySlugs) {
+      if (typeof slug !== 'string' || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug) || routes.has(slug)) throw new Error(`Invalid or duplicate legacy slug: ${slug}`);
+      routes.add(slug);
+    }
+  }
 }
 
 export async function loadContent(projectRoot = root) {
@@ -126,6 +135,7 @@ export async function build({ projectRoot = root, output = path.join(projectRoot
     ['credits/index.html', renderCredits(site, trips)],
     ['404.html', render404(site)],
     ...trips.map((trip, index) => [`stories/${trip.slug}/index.html`, renderStory(site, trip, trips.length > 1 ? trips[(index + 1) % trips.length] : null)]),
+    ...trips.flatMap((trip) => (trip.legacySlugs || []).map((slug) => [`stories/${slug}/index.html`, renderStoryRedirect(site, trip)])),
   ]);
   for (const [filename, html] of pages) {
     await mkdir(path.dirname(path.join(output, filename)), { recursive: true });

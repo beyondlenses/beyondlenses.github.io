@@ -31,6 +31,27 @@ export const atlasCountries = {
   'United Arab Emirates': { id: 'united-arab-emirates', label: 'UAE', code: 'ARE', longitude: 54.3, latitude: 24.3, labelPosition: [720, 300], bounds: [51, 22, 57, 27] },
 };
 
+const continentCountries = {
+  Asia: ['India', 'Japan', 'Malaysia', 'Vietnam', 'United Arab Emirates'],
+  Europe: ['United Kingdom', 'Germany', 'France', 'Portugal', 'Finland', 'Turkey'],
+  'North America': ['Canada', 'United States'],
+  Oceania: ['Australia'],
+};
+
+export function continentForCountry(country) {
+  return Object.entries(continentCountries).find(([, countries]) => countries.includes(country))?.[0] || 'Other';
+}
+
+const europeMap = {
+  id: 'europe', label: 'Europe', longitude: 15, latitude: 53,
+  labelPosition: [605, 100], bounds: [-12, 33, 46, 71],
+};
+
+const europeAlbumLabels = {
+  britain: [310, 230], germany: [570, 290], france: [320, 350],
+  portugal: [175, 455], finland: [775, 100], turkey: [990, 470],
+};
+
 export function fitAtlasBounds([west, south, east, north]) {
   const points = [];
   for (let step = 0; step <= 20; step += 1) {
@@ -47,19 +68,25 @@ export function fitAtlasBounds([west, south, east, north]) {
 export function groupAtlasCountries(trips) {
   const groups = new Map();
   for (const trip of trips) {
-    if (!groups.has(trip.country)) {
-      const config = atlasCountries[trip.country] || {
+    const name = continentForCountry(trip.country) === 'Europe' ? 'Europe' : trip.country;
+    if (!groups.has(name)) {
+      const config = name === 'Europe' ? europeMap : atlasCountries[trip.country] || {
         id: trip.country.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
         label: trip.country, longitude: trip.mapLocation.longitude, latitude: trip.mapLocation.latitude,
       };
-      groups.set(trip.country, { ...config, name: trip.country, trips: [] });
+      groups.set(name, { ...config, name, trips: [] });
     }
-    groups.get(trip.country).trips.push(trip);
+    groups.get(name).trips.push(trip);
   }
   return [...groups.values()].map((country) => {
     const longitudes = country.trips.map((trip) => trip.mapLocation.longitude);
     const latitudes = country.trips.map((trip) => trip.mapLocation.latitude);
     const bounds = country.bounds || [Math.max(-180, Math.min(...longitudes) - 8), Math.max(-85, Math.min(...latitudes) - 5), Math.min(180, Math.max(...longitudes) + 8), Math.min(85, Math.max(...latitudes) + 5)];
-    return { ...country, view: fitAtlasBounds(bounds) };
+    const outlineIds = [...new Set(country.trips.map((trip) => atlasCountries[trip.country]?.id).filter(Boolean))];
+    return {
+      ...country, outlineIds, view: fitAtlasBounds(bounds),
+      albumLabelPositions: country.id === 'europe' ? europeAlbumLabels : {},
+      aliases: outlineIds.filter((id) => id !== country.id),
+    };
   });
 }
