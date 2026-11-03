@@ -1,0 +1,2734 @@
+{
+  "trip": "atlanta",
+  "sourceDirectoryHint": "../dumps/Atlanta",
+  "sourceCollection": "Atlanta",
+  "reviewedImageCount": 325,
+  "fullImageReviewCount": 325,
+  "rawPreviewReviewCount": 0,
+  "shortlistedImageCount": 116,
+  "selectedImageCount": 97,
+  "omittedImageCount": 228,
+  "videoFileCount": 8,
+  "rawFileCount": 0,
+  "reviewScope": "All 325 JPEG/HEIC stills reviewed chronologically in 5 contact sheets; shortlisted candidates reviewed again at up to 492 pixels, with covers at 1600 pixels.",
+  "dateSource": "Camera-local EXIF capture timestamps. OffsetTimeOriginal is retained where present; filenames are not used to infer the day. Unoffset camera timestamps are preserved without assuming synchronized clocks.",
+  "captureDateSources": {
+    "EXIF DateTimeOriginal": 97
+  },
+  "locationNotes": [
+    "Original GPS, visible landmarks, readable signs and neighbouring frames establish places. Exact original GPS is not copied into this manifest or published derivatives.",
+    "Atlanta and Vietnam originals lack usable GPS; location labels rely on visible landmarks and broader collection context. California originals supply GPS for selected sites.",
+    "Nikon and phone clock times in Vietnam are preserved as recorded; they are not treated as synchronized. All selected dates agree with their original capture date.",
+    "No itinerary was present. No completed archive for this collection was present at review time; the existing extracted originals were reviewed without extraction or renaming.",
+    "Originals, videos, RAW files, HEIC originals and review sheets stay outside the website and R2. Only selected metadata-free WebP derivatives are exported."
+  ],
+  "sourceArchiveValidation": null,
+  "locationReferences": [
+    "https://home.nps.gov/articles/kingsite.htm"
+  ],
+  "criteria": [
+    "Choose distinct clear landscapes, architecture, interiors, wildlife, food and candid daily life; compare bursts and avoid padding limited days.",
+    "Group by actual local capture date and location; shorter sections are retained for isolated daily-life photographs.",
+    "Keep each cover once in its album and daily count, without repeating it in the gallery.",
+    "Preserve original framing and colour, correct EXIF orientation, omit EXIF/XMP, and export quality-84 WebP at 2000 pixels or 2400 for covers.",
+    "Local people, performances, crowds and incidental visitors are allowed. peoplePhotoSources is a conservative list to support later review without identifying or matching faces."
+  ],
+  "dailyCounts": {
+    "2025-08-23": 2,
+    "2025-08-30": 1,
+    "2025-09-11": 1,
+    "2025-09-14": 1,
+    "2025-09-25": 1,
+    "2025-09-27": 2,
+    "2025-09-29": 2,
+    "2025-10-05": 4,
+    "2025-10-10": 1,
+    "2025-10-12": 3,
+    "2025-10-15": 1,
+    "2025-10-18": 5,
+    "2025-10-19": 1,
+    "2025-10-25": 22,
+    "2025-11-01": 15,
+    "2025-11-02": 2,
+    "2025-11-04": 1,
+    "2025-11-05": 1,
+    "2025-11-06": 1,
+    "2025-11-29": 7,
+    "2025-12-01": 1,
+    "2025-12-06": 1,
+    "2025-12-12": 1,
+    "2025-12-13": 9,
+    "2025-12-14": 1,
+    "2025-12-16": 1,
+    "2025-12-20": 8,
+    "2025-12-23": 1
+  },
+  "chapterCounts": [
+    {
+      "date": "2025-08-23",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 2
+    },
+    {
+      "date": "2025-08-30",
+      "location": "Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-09-11",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-09-14",
+      "location": "Midtown, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-09-25",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-09-27",
+      "location": "Atlanta",
+      "galleryCount": 2
+    },
+    {
+      "date": "2025-09-29",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 2
+    },
+    {
+      "date": "2025-10-05",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 4
+    },
+    {
+      "date": "2025-10-10",
+      "location": "Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-10-12",
+      "location": "Piedmont Park, Atlanta",
+      "galleryCount": 3
+    },
+    {
+      "date": "2025-10-15",
+      "location": "Midtown, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-10-18",
+      "location": "Piedmont Park, Atlanta",
+      "galleryCount": 5
+    },
+    {
+      "date": "2025-10-19",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-10-25",
+      "location": "Oakland Cemetery, Atlanta",
+      "galleryCount": 7
+    },
+    {
+      "date": "2025-10-25",
+      "location": "Sweet Auburn, Atlanta",
+      "galleryCount": 9
+    },
+    {
+      "date": "2025-10-25",
+      "location": "Downtown Atlanta",
+      "galleryCount": 6
+    },
+    {
+      "date": "2025-11-01",
+      "location": "Centennial Olympic Park, Atlanta",
+      "galleryCount": 12
+    },
+    {
+      "date": "2025-11-01",
+      "location": "Downtown Atlanta",
+      "galleryCount": 3
+    },
+    {
+      "date": "2025-11-02",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 2
+    },
+    {
+      "date": "2025-11-04",
+      "location": "Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-11-05",
+      "location": "Midtown, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-11-06",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-11-29",
+      "location": "Piedmont Park, Atlanta",
+      "galleryCount": 7
+    },
+    {
+      "date": "2025-12-01",
+      "location": "Midtown, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-12-06",
+      "location": "Piedmont Park, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-12-12",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-12-13",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "galleryCount": 9
+    },
+    {
+      "date": "2025-12-14",
+      "location": "Midtown, Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-12-16",
+      "location": "Atlanta",
+      "galleryCount": 1
+    },
+    {
+      "date": "2025-12-20",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "galleryCount": 7
+    },
+    {
+      "date": "2025-12-23",
+      "location": "Georgia Tech, Atlanta",
+      "galleryCount": 1
+    }
+  ],
+  "omissionReasons": [
+    "Repeated scenes and near-identical bursts, weaker framing, blurred and badly exposed frames, and most posed portraits.",
+    "Conference slides, work records, routine transport logistics and long repeated road or flight sequences.",
+    "Videos and RAW derivatives are outside the selected WebP photo essay."
+  ],
+  "omittedPhotos": [
+    {
+      "source": "PXL_20250827_200534428.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250904_231759651.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250905_013736308.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250905_175516140.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250905_175518155.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250905_175522403.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250905_180603693.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250907_042224012.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250907_170007668.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250907_212050820.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250910_173459486.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250912_234319062.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250913_234027067.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250914_233543431.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250916_223022187.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250918_214450542.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250919_230435502.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250923_132507595.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250923_234056016.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250925_194416133.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250925_232621217.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250925_232647376.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250925_232716001.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250925_233506387.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250927_173053231.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250927_173333057.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250927_175522164.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250928_194322394.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250929_121030050.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250929_211046394.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20250930_225852573.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251002_182230706.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251002_182232729.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251003_182300810.MP.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251005_221340174.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251005_221523822.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251005_221532553.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251005_221658600.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251006_014913275.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251006_014948732.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251007_232711307.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251008_231711280.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251008_231712563.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251010_183719080.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251012_231328831.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-12_19_25_40_371_5.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-12_19_25_40_617_6.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251012_235512296.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251012_235617686.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251013_164819775.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251013_164836818.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251014_170513769.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251014_170514994.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251014_225822477.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251014_225950256.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251014_230221358.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251015_224924467.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251015_224946043.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251015_225008117.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251015_225009285.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251015_230056018.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_231823631.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_231825126.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232135793.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232300182.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232302080.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232505558.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232600593.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232634449.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251018_232637403.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-18_19_44_01_440_0.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-18_19_44_01_754_1.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-18_19_44_02_011_2.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-18_19_44_02_235_3.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-10-18_19_44_02_456_4.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251019_182106594.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251019_182107912.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251021_182825514.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251021_182827229.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251024_230017996.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251024_230020607.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_183812984.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_184247458.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_184645911.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_184651706.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_184939199.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_184941203.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_185002481.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_185006208.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_185236344.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_185529716.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_185532873.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_185551878.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_190710817.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_191039148.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_191731235.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_192220405.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_192649503.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_193211691.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_195242048.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_201611265.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_202007561.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251025_211027233.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251026_204005043.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251027_010437262.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251027_140048775.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251027_225630342.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251027_225640461.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251030_225242845.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251031_221037951.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_012103516.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_012515539.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_220045781.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_220800849.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_220916524.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_220923289.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_221408621.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_221420673.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_221745585.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_221751796.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_222533937.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_222535722.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_222602849.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_222703387.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223007385.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223235264.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223241362.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223245206.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223311487.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223318431.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223430253.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223435525.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_223716509.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_225315737.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_225606553.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_225930035.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251101_230251700.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251102_160408456.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251102_224252638.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251104_143355077.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251105_225504492.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251105_225515474.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251106_193624472.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251120_230812231.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251121_143729406.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251121_143913299.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251121_144043437.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251121_144045442.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251123_204722385.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251124_233236554.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251125_132320364.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251126_054655733.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251126_210740326.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251127_203811057.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_203326021.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_203347959.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_203615029.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_203617970.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_204952154.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_205011727.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_205035370.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_205332805.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_205412346.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_205513606.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_205904404.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_210459746.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251129_210654215.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251130_190850292.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251130_220034714.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_002810306.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_002837533.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_002903605.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_045933441.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_050017289.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_050221961.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251201_225401287.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251204_053524252.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_204343407.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_204343957.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_204350484.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_204351345.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_211009982.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_211011246.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_211151188.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_211158915.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_211203382.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_211206526.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251206_222516378.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251208_051215505.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251208_051221456.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251210_053358718.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251211_182321571.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251212_015943133.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251213_211127766.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251213_211817448.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251213_212135672.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251213_212711759.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251213_220029921.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251213_220055195.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-13_17_22_38_567_0.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-13_17_22_38_834_1.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-13_17_22_39_180_2.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-13_17_22_39_597_3.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251214_222541087.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251218_182253137.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251219_020051119.NIGHT.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251219_053657547.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251219_053703208.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_214230975.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_215841334.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_215843203.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_215848596.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_222056935.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_222102002.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251220_222323936.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_17_925_0.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_18_324_1.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_18_578_2.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_18_811_3.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_18_988_4.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_19_251_5.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "2025-12-20_17_52_19_512_6.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251222_010544533.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251222_021451450.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251222_183023599.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251222_224848773.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251223_222232971.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20251224_174420822.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    }
+  ],
+  "excludedPhotos": [],
+  "photos": [
+    {
+      "source": "PXL_20251220_214229587.jpg",
+      "sourceSha256": "5a549ab081ebe7e50be69a71408679f0732865ab0b1d15d41cc47840af0d51d6",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/midtown-reflected-in-lake-clara-meer.webp",
+      "role": "cover",
+      "maxEdge": 2400,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T16:42:29",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Lake Clara Meer, Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Representative cover checked at 1600 pixels; used once and excluded from the gallery.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250823_233652674.MP.jpg",
+      "sourceSha256": "e637e0ae4cf400d0b8a7acd4411d54de2140deb021041009622bb71cfaaae258",
+      "src": "/photos/atlanta/2025-08-23-georgia-tech/clouds-over-campus.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-08-23",
+      "capturedAtLocal": "2025-08-23T19:36:52",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250823_233728593.MP.jpg",
+      "sourceSha256": "2f09dc70f333d29259c3d0beb70d0b2ba6945a2a199330920f53979946ee1cc0",
+      "src": "/photos/atlanta/2025-08-23-georgia-tech/midtown-above-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-08-23",
+      "capturedAtLocal": "2025-08-23T19:37:28",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250830_192837431.jpg",
+      "sourceSha256": "ef19fef073960993d3924f005a033f3173b6a1d8861dce062efa6a9eff06ee1f",
+      "src": "/photos/atlanta/2025-08-30-daily-life/delivery-robot.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-08-30",
+      "capturedAtLocal": "2025-08-30T15:28:37",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250911_231508828.MP.jpg",
+      "sourceSha256": "9e36e588a3a4c411f7c2234364228137b2e36cf7ccf6984adaefc50546fdba4b",
+      "src": "/photos/atlanta/2025-09-11-georgia-tech/bronze-figures.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-11",
+      "capturedAtLocal": "2025-09-11T19:15:08",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250915_013623359.MP.jpg",
+      "sourceSha256": "900e9e9e5c0d65564123bd3d69ffcc4bfbeb64beda1ab5631c7619fe9115837b",
+      "src": "/photos/atlanta/2025-09-14-midtown/marta-after-dark.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-14",
+      "capturedAtLocal": "2025-09-14T21:36:23",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250925_233501409.MP.jpg",
+      "sourceSha256": "b9fd3a1670b0255984468156cb912f0acbf7e7a2784b9880fb8aec5081854b9c",
+      "src": "/photos/atlanta/2025-09-25-georgia-tech/golden-clouds.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-25",
+      "capturedAtLocal": "2025-09-25T19:35:01",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250927_170628687.MP.jpg",
+      "sourceSha256": "b235b223a592854325d1b76acb8e7706aa14c18aa8a429e4884a8fbbba1db2de",
+      "src": "/photos/atlanta/2025-09-27-atlanta/festival-gathering.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-27",
+      "capturedAtLocal": "2025-09-27T13:06:28",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250927_203030546.MP.jpg",
+      "sourceSha256": "c8e2e3cf90cd58d063f856db45dcb2c7badf08943f70281531289f803b6fd674",
+      "src": "/photos/atlanta/2025-09-27-atlanta/skyline-beneath-the-clouds.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-27",
+      "capturedAtLocal": "2025-09-27T16:30:30",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250929_210607135.MP.jpg",
+      "sourceSha256": "c4d16fdf29497e3bf973a8ca55167ef0ea8eea0aea417fd4d445cf5439ea3003",
+      "src": "/photos/atlanta/2025-09-29-georgia-tech/the-brick-walk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-29",
+      "capturedAtLocal": "2025-09-29T17:06:07",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20250929_231507010.MP.jpg",
+      "sourceSha256": "232977f2de3b8c5da1641421d3a735850424da21528b76b878ac529ead04d64b",
+      "src": "/photos/atlanta/2025-09-29-georgia-tech/evening-towers.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-09-29",
+      "capturedAtLocal": "2025-09-29T19:15:07",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251005_221103019.jpg",
+      "sourceSha256": "0e50842297d416d264ab32b0a085ace1d4825199627a16e54916fddd90037c99",
+      "src": "/photos/atlanta/2025-10-05-georgia-tech/rain-on-the-walk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-05",
+      "capturedAtLocal": "2025-10-05T18:11:03",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251005_221559488.jpg",
+      "sourceSha256": "13fe322d6f10306f03b48914c3995a40b8d10ff4c6fca9513e6137c15495d420",
+      "src": "/photos/atlanta/2025-10-05-georgia-tech/steps-and-planting.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-05",
+      "capturedAtLocal": "2025-10-05T18:15:59",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251005_221630957.jpg",
+      "sourceSha256": "58bdfdabff2cb551a1ef5002ab1ca086d7a3bd6040cc204fd2f291f8633e89c6",
+      "src": "/photos/atlanta/2025-10-05-georgia-tech/campus-after-rain.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-05",
+      "capturedAtLocal": "2025-10-05T18:16:30",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251006_014850680.jpg",
+      "sourceSha256": "b24177dd6613ee5ddf2c02c8423b856910783bea3accd0a83fa8780e729d8885",
+      "src": "/photos/atlanta/2025-10-05-georgia-tech/golden-spire-in-cloud.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-05",
+      "capturedAtLocal": "2025-10-05T21:48:50",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251010_131311842.jpg",
+      "sourceSha256": "06bcd978e483aadedfa0fb4a01ae61ff327e8d78ec06537da4640756c0fe55fc",
+      "src": "/photos/atlanta/2025-10-10-atlanta/blue-bicycle.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-10",
+      "capturedAtLocal": "2025-10-10T09:13:11",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251012_230415380.jpg",
+      "sourceSha256": "39b09cc2c84e1986a7ebd02121ff8ff64a7ed785a8725ae78372ff4f5051c7e9",
+      "src": "/photos/atlanta/2025-10-12-piedmont-park/painted-bridge-supports.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-12",
+      "capturedAtLocal": "2025-10-12T19:04:15",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "2025-10-12_19_25_40_144_4.jpg",
+      "sourceSha256": "d9bfcb27e90d5ac2b58af685df4cfaaa1a5d213caf8a6af8b69213ed3cc0d065",
+      "src": "/photos/atlanta/2025-10-12-piedmont-park/path-beneath-the-arches.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-12",
+      "capturedAtLocal": "2025-10-12T19:25:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": null,
+      "utcOffsetBasis": "No offset recorded; preserve DateTimeOriginal as recorded. Camera clocks are not assumed to be synchronized."
+    },
+    {
+      "source": "PXL_20251012_233438390.jpg",
+      "sourceSha256": "917ceebf5a51ceddd8d4a9416cb2d295b677d64d2fe2a668c619f1b4897b3646",
+      "src": "/photos/atlanta/2025-10-12-piedmont-park/orange-horizon.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-12",
+      "capturedAtLocal": "2025-10-12T19:34:38",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251015_224916545.jpg",
+      "sourceSha256": "87ad2a379a3229a964e60b7b03103fc951bb9c8cdcff9e80d41038dfab83932c",
+      "src": "/photos/atlanta/2025-10-15-midtown/golden-city-facades.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-15",
+      "capturedAtLocal": "2025-10-15T18:49:16",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251018_230532383.jpg",
+      "sourceSha256": "6150daf402d49e91450ee0882a79f3a2329296d159e302d928291a33f6721cc2",
+      "src": "/photos/atlanta/2025-10-18-piedmont-park/monument-at-dusk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-18",
+      "capturedAtLocal": "2025-10-18T19:05:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251018_231945691.jpg",
+      "sourceSha256": "8bc4cfa0aef8e6432f968df15cdbca5d134c89a137dfa55b81283a6737b55efb",
+      "src": "/photos/atlanta/2025-10-18-piedmont-park/the-open-lawn.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-18",
+      "capturedAtLocal": "2025-10-18T19:19:45",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251018_232140276.jpg",
+      "sourceSha256": "a384c0fdf516ca12877082a26c5f72a9550f8df71dce72490c2172d7b2474d21",
+      "src": "/photos/atlanta/2025-10-18-piedmont-park/lit-lakeside-pavilion.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-18",
+      "capturedAtLocal": "2025-10-18T19:21:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251018_232245717.jpg",
+      "sourceSha256": "208fe97cceea72d8cca14f24c069acf2aae8698dd9f95792319310f4738df441",
+      "src": "/photos/atlanta/2025-10-18-piedmont-park/bench-beneath-the-branches.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-18",
+      "capturedAtLocal": "2025-10-18T19:22:45",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251018_232538203.jpg",
+      "sourceSha256": "ff28abe4a43f94617ab500a32cf95afee8a70d75e0c369462c4432f6edf25aec",
+      "src": "/photos/atlanta/2025-10-18-piedmont-park/midtown-at-blue-hour.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-18",
+      "capturedAtLocal": "2025-10-18T19:25:38",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251019_181942415.jpg",
+      "sourceSha256": "8048abac6b839c9331eb45dcd70995094af0d84d4c1f0ff737964fb0388afbf1",
+      "src": "/photos/atlanta/2025-10-19-georgia-tech/white-corner-tower.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-19",
+      "capturedAtLocal": "2025-10-19T14:19:42",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_184616112.jpg",
+      "sourceSha256": "266660ffe12fc2fce9a6357f967a3a62dc512ddd3ffecc0b221c4c8232715815",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/oakland-gateway.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:46:16",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_184925820.jpg",
+      "sourceSha256": "a1bc17ff39ef3cfc6f72a5024b93d864b79d6fce022e7023934395ca364fff0a",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/monuments-and-evergreens.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:49:25",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_185019686.jpg",
+      "sourceSha256": "8758e704887ab9c588c9d4933e73893761c70bf1ef2985e56e9d957779767522",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/the-spreading-tree.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:50:19",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_185035984.jpg",
+      "sourceSha256": "d511d02003a64b7eca7a8396430417e0e64b2f56d832da9a547659fd9088565a",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/monument-under-blue-sky.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:50:35",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_185140355.jpg",
+      "sourceSha256": "1238a2f54cf1428d018736679011d39ef7d024ca7bfb57523236f876f7483c1a",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/brick-path-through-oakland.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:51:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_185537989.jpg",
+      "sourceSha256": "9cd3742c6b4979070b4aaa07b82fb429190eb736565a29fc0bf9e6b923fca475",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/headstones-at-the-woodland-edge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:55:37",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_185557646.jpg",
+      "sourceSha256": "6701a334ae872660f87b246f0161bbbcf7307a92f44cca96346e1fac9965cdfb",
+      "src": "/photos/atlanta/2025-10-25-oakland-cemetery/flowers-below-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T14:55:57",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Oakland Cemetery, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_190640585.jpg",
+      "sourceSha256": "e1fe73787e45b0c867e4d7c0c8ef4f57e8f1cf387c6cb28a137a216bac6cb47e",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/autumn-street-corner.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:06:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_190727788.jpg",
+      "sourceSha256": "9a771b81b6e7c44906b374649aaa07edc0a02df8683793cc58c43e879d15509b",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/king-mural.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:07:27",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_191045671.jpg",
+      "sourceSha256": "bea3854deff114c18acb82321e507e8ddb00448adea0cadffd6a74adbe5873f9",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/old-brick-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:10:45",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_191613539.jpg",
+      "sourceSha256": "988de20ce3334e3093150cf2f7419b109993775f6ea5d28c1ea51cb61f6fdb39",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/national-historical-park.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:16:13",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_192214552.jpg",
+      "sourceSha256": "30a005958e30d8e061f538cbf7b8035dbe6e2297573fb02781e6aeecf1491619",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/gandhi-statue.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:22:14",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_193007634.jpg",
+      "sourceSha256": "7afb11f34988178216722506d7fa4cc21f115abc83b71901c822b685522e4b9b",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/ebenezer-church.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:30:07",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_193235271.jpg",
+      "sourceSha256": "b8952435f8d0b500561a6f23f4ef0503c54a6e83c6b14766a425f81e7b18d0f0",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/king-center-pool.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:32:35",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_193449122.jpg",
+      "sourceSha256": "b2b6a0c65aaec2b5af7516e8b576d76b421543840432d41c19134b6bd0163dcd",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/king-and-gandhi.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:34:49",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_195010458.jpg",
+      "sourceSha256": "2ad26eaf4f7a7210429e2e6b59a4b876a0baba9936a02aca9fa71ea8f462c931",
+      "src": "/photos/atlanta/2025-10-25-sweet-auburn/mural-in-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:50:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sweet Auburn, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_195313975.jpg",
+      "sourceSha256": "ec4a831538964b3e7d5a82f4260112546e3d66bae44384d1d54a88c5cb9221b3",
+      "src": "/photos/atlanta/2025-10-25-downtown/street-lamps-and-church-spire.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:53:13",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_195837575.jpg",
+      "sourceSha256": "7131d0ee5dd242cd2b31ddf8271c5417050d95a1be40ed11b7e9e709e7585520",
+      "src": "/photos/atlanta/2025-10-25-downtown/the-market-counter.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T15:58:37",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_200045787.jpg",
+      "sourceSha256": "aac7ce795cfe19ffa498eb4453c1bc7d53737db7523bb6069ebb11ef0a81070a",
+      "src": "/photos/atlanta/2025-10-25-downtown/municipal-market.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T16:00:45",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_201316957.jpg",
+      "sourceSha256": "365441ba7c21a3bd728f2470fd0e0e7693bb17f17b06de3f01a523d59bf05134",
+      "src": "/photos/atlanta/2025-10-25-downtown/painted-bicycle-rack.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T16:13:16",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_201608633.jpg",
+      "sourceSha256": "ce68f7bdeed5de9a03a001005859f65bd451f2d565b42aca170535db664e0ea7",
+      "src": "/photos/atlanta/2025-10-25-downtown/brick-church-and-tower.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T16:16:08",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251025_202227564.jpg",
+      "sourceSha256": "1bc5d267389bd51c324a4cf449ff512d97adff536bfae40bef140704f58a2c33",
+      "src": "/photos/atlanta/2025-10-25-downtown/looking-up-downtown.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-10-25",
+      "capturedAtLocal": "2025-10-25T16:22:27",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_220244080.jpg",
+      "sourceSha256": "4b1003ec0893dd90f9893fe9ecd6e4cf4d97a23f91e36f930bb35f77128b128c",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/polished-sculpture.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:02:44",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_220750877.jpg",
+      "sourceSha256": "d5c68805cacf78979cec61cb45a38efe8f02c58ef26fc5ef57e9cb9f6811bfa9",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/olympic-rings.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:07:50",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_221110799.jpg",
+      "sourceSha256": "c6c874d3a2e7cdcf885c4e19745da4630a028782514407b8dd93f3b7340ec372",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/hall-of-fame.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:11:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_221700688.jpg",
+      "sourceSha256": "fd776a3e7a4719a8bbd34b101ff2f3d5b42af9feec749d194facccaeb48dcf00",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/georgia-aquarium.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:17:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_221738953.jpg",
+      "sourceSha256": "0841082c67ba647a6291217fed6ce77a5cea765f20ef630196f315e93a3c647b",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/civil-and-human-rights-center.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:17:38",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_221957888.jpg",
+      "sourceSha256": "12069494c1740b6b20daa9568f509b954c6911220f256d30599720b011c2e726",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/justice-mural.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:19:57",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_222012393.jpg",
+      "sourceSha256": "4054be9c6457105fae888ec8055e64f18954afca2d3a0678c7f1c510156def6a",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/world-of-coca-cola.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:20:12",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_222658682.jpg",
+      "sourceSha256": "184921bde58527e375c9443e3c81cdfdb8809bf689803f872d929b53736f9c08",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/tower-and-the-moon.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:26:58",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_222846197.jpg",
+      "sourceSha256": "0da984dcd86d4070284428f221af825be16a7233242609c09d409acba9cc290b",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/olympic-park-fountains.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:28:46",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_223223826.jpg",
+      "sourceSha256": "28b8ab03d951f2f1978ab5414462f4e3c5212ad942e9174bfc8fb4d9dafc83ac",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/carriage-beside-the-wheel.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:32:23",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_223328823.jpg",
+      "sourceSha256": "64d2f1368ff5c24197ade00cacafbc7516e980b816dc19bd05de202321a03ab9",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/skyview-wheel.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:33:28",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_223634624.jpg",
+      "sourceSha256": "cb64e20e57383ccc09a0ca305f7d34846a48701733746aec3045c5353c858b92",
+      "src": "/photos/atlanta/2025-11-01-centennial-park/illuminated-corner-building.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:36:34",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Centennial Olympic Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_225735106.jpg",
+      "sourceSha256": "e64c706d0082e6f902410af8ccb711b4d51a84d19c2ccb78023310f98c13c6b3",
+      "src": "/photos/atlanta/2025-11-01-stadium/stadium-and-light-towers.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:57:35",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_225939278.jpg",
+      "sourceSha256": "b7d05052ede3185c14e7977a981d3d15ef095e1a467c1ab548c409e50ea96741",
+      "src": "/photos/atlanta/2025-11-01-stadium/mercedes-benz-stadium.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T18:59:39",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251101_230518490.jpg",
+      "sourceSha256": "536b9bfeb7423589d90e459202c77e47fa4d07033983328182ed01f21ca1e8ae",
+      "src": "/photos/atlanta/2025-11-01-stadium/tracks-at-dusk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-01",
+      "capturedAtLocal": "2025-11-01T19:05:18",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-04:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251102_194704245.jpg",
+      "sourceSha256": "b1202f3531424c49af9ce93abdeab75e20c382f6fbcae3f5606b0e5bb4bdc6eb",
+      "src": "/photos/atlanta/2025-11-02-georgia-tech/autumn-colours.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-02",
+      "capturedAtLocal": "2025-11-02T14:47:04",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251103_014132590.jpg",
+      "sourceSha256": "9f2002015fb72cc56f781b484abe8df0d8d2249887b925e29ed353602b6b696b",
+      "src": "/photos/atlanta/2025-11-02-georgia-tech/clouds-over-the-night-skyline.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-02",
+      "capturedAtLocal": "2025-11-02T20:41:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251104_144022236.jpg",
+      "sourceSha256": "91de5e468b7d44544899160b96f80493a7e850f187d78aba4cde953cba3c5fe6",
+      "src": "/photos/atlanta/2025-11-04-atlanta/golden-roadside-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-04",
+      "capturedAtLocal": "2025-11-04T09:40:22",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251105_231231581.jpg",
+      "sourceSha256": "e303f703410629a480f970885ca21c6b5abcb9b7b5ebe15a258eee429d5bbb21",
+      "src": "/photos/atlanta/2025-11-05-midtown/white-church-columns.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-05",
+      "capturedAtLocal": "2025-11-05T18:12:31",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251106_193550060.jpg",
+      "sourceSha256": "6a58d8c5cdb0513de46fd04d8bec3cd1efb06d1f2da82012ba72187121d297fd",
+      "src": "/photos/atlanta/2025-11-06-georgia-tech/red-and-gold-leaves.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-06",
+      "capturedAtLocal": "2025-11-06T14:35:50",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_203322330.jpg",
+      "sourceSha256": "41c04fe13733dd8715254e39c63ad5e10f42b5f1a74694889e835ebda34ab0e1",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/wooden-boardwalk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:33:22",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_203613757.jpg",
+      "sourceSha256": "08508922df150e9b0a58bb819b1ce7adc5b8c03a5c4259ec71f76cb5cabe7594",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/gravel-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:36:13",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_204913071.jpg",
+      "sourceSha256": "eed28c98b12e1ddbd8d9d3b2afa151a5e12da832f8e45c3907b5f61be573ac74",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/lakeside-flower-sculpture.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:49:13",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_205010129.jpg",
+      "sourceSha256": "1da62b3f56ba4eab82e6dd7092d9eae0089e0c1d64b9f29db6835e24b520e6af",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/late-autumn-skyline.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:50:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_205140419.jpg",
+      "sourceSha256": "ffc9fe1ac83119da21cc59248fe637a3a972a0b9ff1a87c2ecc570b5003aecdf",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/cloud-reflections.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:51:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_205328899.jpg",
+      "sourceSha256": "053a01bc5211c1bb762566d09c7f9f465297b340fc77386b307b8dd3bdcba9db",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/duck-at-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:53:28",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251129_205530588.jpg",
+      "sourceSha256": "50ebcdb6930982620b5ee7d17bf063ceac1f26367a0e058673bfdf0878703d16",
+      "src": "/photos/atlanta/2025-11-29-piedmont-park/bird-at-the-shallows.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-11-29",
+      "capturedAtLocal": "2025-11-29T15:55:30",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251201_225756586.jpg",
+      "sourceSha256": "cc7106ccbda4c1610d7f3ecd02f9c903a5e2db64276062b9776a0364e9139f8d",
+      "src": "/photos/atlanta/2025-12-01-midtown/stars-in-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-01",
+      "capturedAtLocal": "2025-12-01T17:57:56",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251206_210009269.jpg",
+      "sourceSha256": "f6bbd80784b174e036022b2a40a217e4b85c9cd71ebfe0d86e1e2339cde01731",
+      "src": "/photos/atlanta/2025-12-06-piedmont-park/faces-under-the-bridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-06",
+      "capturedAtLocal": "2025-12-06T16:00:09",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251212_223931680.jpg",
+      "sourceSha256": "6cb3fd504581b7538258dbf8d3b361944161cb58f74ec04f19e896969735c864",
+      "src": "/photos/atlanta/2025-12-12-georgia-tech/pink-clouds-over-midtown.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-12",
+      "capturedAtLocal": "2025-12-12T17:39:31",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_205511762.jpg",
+      "sourceSha256": "48d10c80a8de3ee199a6674d42231a980c43feb6f3929ee0bde97273c594bca9",
+      "src": "/photos/atlanta/2025-12-13-midtown/tower-above-the-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T15:55:11",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_205559848.jpg",
+      "sourceSha256": "9d168de7ee4b7170cb9ddea30d208a1df5bae404b2e3dc91217ef6aadd4f5ae9",
+      "src": "/photos/atlanta/2025-12-13-midtown/city-garden.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T15:55:59",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_205744008.jpg",
+      "sourceSha256": "e974fecce95e8489079722b4b4b6c5abfafe417ccfa087b69a2503956752101e",
+      "src": "/photos/atlanta/2025-12-13-midtown/midtown-mural.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T15:57:44",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_212010741.jpg",
+      "sourceSha256": "2e0547c56f21997916bac98c77a0cbd025bd4540337c7592087cec787f13250d",
+      "src": "/photos/atlanta/2025-12-13-midtown/columned-church.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T16:20:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_212133323.jpg",
+      "sourceSha256": "e9dcb4053d55cb7f15dcfccba9b0d5a977eac787f29311271aac5d0dad836616",
+      "src": "/photos/atlanta/2025-12-13-midtown/between-the-towers.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T16:21:33",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_212614249.jpg",
+      "sourceSha256": "f576e8bfc7ff2d0e5589af4a8ce6f9f231c90e235a6f1e7162704164dfc0bdc1",
+      "src": "/photos/atlanta/2025-12-13-midtown/walker-and-delivery-robot.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T16:26:14",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_215142350.jpg",
+      "sourceSha256": "f54b0268a3f122089867c18f4623aaa36b9bcbae4e026b6985e840aa984d7229",
+      "src": "/photos/atlanta/2025-12-13-midtown/open-fronted-bar.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T16:51:42",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_220047688.jpg",
+      "sourceSha256": "5b5c071fa219d5e07ee065b3b7453a2fcd419c3d0eeb7ab38985e3eb0deb3bdc",
+      "src": "/photos/atlanta/2025-12-13-midtown/quiet-december-lake.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T17:00:47",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251213_220610665.jpg",
+      "sourceSha256": "8afd035303f4c6090004b7be1f7dbef79465cfe16e501529488f3560a044b453",
+      "src": "/photos/atlanta/2025-12-13-midtown/leaf-covered-park-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-13",
+      "capturedAtLocal": "2025-12-13T17:06:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251214_222537647.jpg",
+      "sourceSha256": "c6b9ae6f545d991a60d76e40fe0ef84cb31e2f2cafba419f5ba87afe101b4847",
+      "src": "/photos/atlanta/2025-12-14-midtown/winter-cycle-lane.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-14",
+      "capturedAtLocal": "2025-12-14T17:25:37",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251217_021702573.jpg",
+      "sourceSha256": "3e5d0aa585fad6aff9d46457f3febe2381f02bf411bc4b0073b78cb3819cd4fe",
+      "src": "/photos/atlanta/2025-12-16-atlanta/traffic-at-night.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-16",
+      "capturedAtLocal": "2025-12-16T21:17:02",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_213946707.jpg",
+      "sourceSha256": "14bc5493eb12b2deb4fdd72e84d597683a626f6dae4195495c5e36067cfb45db",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/golden-lakeside-trees.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T16:39:46",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_214617426.jpg",
+      "sourceSha256": "859445859e2d41ad097be7d8e5fbe67454a67e055b761c30e825fc2a11b6ef98",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/raised-park-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T16:46:17",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_215826716.jpg",
+      "sourceSha256": "b683628fe434062e8fd34cfd1ab02650ccb2ccc706cbe6dc956bd6ade1b7e5e9",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/late-light-on-the-lake.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T16:58:26",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_220210123.jpg",
+      "sourceSha256": "7e7e7b817291e5fa15e9b18a9a873d1a8f0a7046cbc11a3a3fab5a5f75fe9910",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/lakeside-platform.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T17:02:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_221800344.jpg",
+      "sourceSha256": "a970bd9b04c83c3f18194a88104d410ab0ab6550e938d9efbf0da0df69c8b707",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/rooftop-reindeer.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T17:18:00",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_222054005.jpg",
+      "sourceSha256": "21fb886b905458a4ac0f8496bab6efd9772ed5326fdfa631ee74a76a96dec7de",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/glass-buildings-in-evening-light.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T17:20:54",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251220_222320847.jpg",
+      "sourceSha256": "c77b1686c46a499ee496727e65f6f0df35ee6a0d06b7455239bb9486b367425f",
+      "src": "/photos/atlanta/2025-12-20-piedmont-park/trolley-on-the-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-20",
+      "capturedAtLocal": "2025-12-20T17:23:20",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20251223_221632096.jpg",
+      "sourceSha256": "be44b0634af9fdb8b7b2b443fd59fa4c235e165b3b8b2ae6ea4ea85df18457a7",
+      "src": "/photos/atlanta/2025-12-23-georgia-tech/winter-brick-walk.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2025-12-23",
+      "capturedAtLocal": "2025-12-23T17:16:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Georgia Tech, Atlanta",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-05:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    }
+  ],
+  "peoplePhotoSources": [
+    "PXL_20250830_192837431.jpg",
+    "PXL_20250911_231508828.MP.jpg",
+    "PXL_20250915_013623359.MP.jpg",
+    "PXL_20250927_170628687.MP.jpg",
+    "PXL_20250929_210607135.MP.jpg",
+    "PXL_20251018_231945691.jpg",
+    "PXL_20251018_232140276.jpg",
+    "PXL_20251025_191613539.jpg",
+    "PXL_20251025_192214552.jpg",
+    "PXL_20251025_193007634.jpg",
+    "PXL_20251025_193235271.jpg",
+    "PXL_20251025_195313975.jpg",
+    "PXL_20251025_195837575.jpg",
+    "PXL_20251025_200045787.jpg",
+    "PXL_20251101_220750877.jpg",
+    "PXL_20251101_221700688.jpg",
+    "PXL_20251101_221738953.jpg",
+    "PXL_20251101_221957888.jpg",
+    "PXL_20251101_222012393.jpg",
+    "PXL_20251101_222846197.jpg",
+    "PXL_20251101_223223826.jpg",
+    "PXL_20251101_223328823.jpg",
+    "PXL_20251101_225735106.jpg",
+    "PXL_20251101_225939278.jpg",
+    "PXL_20251102_194704245.jpg",
+    "PXL_20251105_231231581.jpg",
+    "PXL_20251129_203322330.jpg",
+    "PXL_20251201_225756586.jpg",
+    "PXL_20251213_212010741.jpg",
+    "PXL_20251213_212614249.jpg",
+    "PXL_20251213_215142350.jpg",
+    "PXL_20251214_222537647.jpg",
+    "PXL_20251217_021702573.jpg",
+    "PXL_20251220_214617426.jpg",
+    "PXL_20251220_222320847.jpg"
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "slug": "california",
+  "title": "California",
+  "subtitle": "Spring walks in Berkeley and the East Bay hills, San Francisco streets and the Golden Gate, and a ferry journey through Marin.",
+  "country": "United States",
+  "location": "Berkeley · San Francisco · Marin County",
+  "category": "Spring around the San Francisco Bay Area",
+  "order": 13,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2023-04-08",
+  "endDate": "2023-05-07",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/california/2023-05-07-san-francisco-bay/san-francisco-from-the-ferry.webp",
+    "alt": "The San Francisco skyline and ferry terminal beyond a white ferry wake, with an American flag at the edge of the frame.",
+    "caption": "The San Francisco skyline and ferry terminal beyond a white ferry wake, with an American flag at the edge of the frame.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2023-05-07",
+    "location": "San Francisco Bay"
+  },
+  "chapters": [
+    {
+      "title": "Spring in Berkeley",
+      "date": "2023-04-08",
+      "location": "UC Berkeley",
+      "paragraphs": [
+        "Pink blossom and a busy campus gateway mark the first walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-08-berkeley/pink-blossom.webp",
+          "alt": "Pink-blossomed trees beside a campus road.",
+          "caption": "Pink-blossomed trees beside a campus road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-08",
+          "location": "UC Berkeley"
+        },
+        {
+          "src": "/photos/california/2023-04-08-berkeley/sather-gate.webp",
+          "alt": "People walking through the ornate green entrance at Sather Gate.",
+          "caption": "People walking through the ornate green entrance at Sather Gate.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-08",
+          "location": "UC Berkeley",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Along the East Bay shore",
+      "date": "2023-04-09",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "paragraphs": [
+        "A creek leads towards open bay water, art among the rocks and paths edged with spring flowers."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/creek-towards-the-bay.webp",
+          "alt": "A narrow creek winding between green banks towards the bay.",
+          "caption": "A narrow creek winding between green banks towards the bay.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/the-bulb-arch.webp",
+          "alt": "A rough wooden arch marked The Bulb above the bay shore.",
+          "caption": "A rough wooden arch marked The Bulb above the bay shore.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/path-beside-the-bay.webp",
+          "alt": "A wide path beside shining bay water and a flowering slope.",
+          "caption": "A wide path beside shining bay water and a flowering slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/flowers-on-the-slope.webp",
+          "alt": "Yellow flowers covering a low hillside above the bay.",
+          "caption": "Yellow flowers covering a low hillside above the bay.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/rocky-spit.webp",
+          "alt": "A narrow rocky spit reaching into blue water.",
+          "caption": "A narrow rocky spit reaching into blue water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/art-on-the-shore.webp",
+          "alt": "A painted wooden structure and colourful flags among shoreline plants.",
+          "caption": "A painted wooden structure and colourful flags among shoreline plants.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/painted-timber.webp",
+          "alt": "Colourfully painted timber lying among rocks and grass.",
+          "caption": "Colourfully painted timber lying among rocks and grass.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/bridge-beside-the-water.webp",
+          "alt": "A straight pedestrian bridge with white railings beside the bay.",
+          "caption": "A straight pedestrian bridge with white railings beside the bay.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/tree-by-the-path.webp",
+          "alt": "A broad golden-green tree shading a quiet path.",
+          "caption": "A broad golden-green tree shading a quiet path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/open-waterfront-meadow.webp",
+          "alt": "Green waterfront meadow paths with the bay and distant hills beyond.",
+          "caption": "Green waterfront meadow paths with the bay and distant hills beyond.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/flowers-and-bench.webp",
+          "alt": "Tall purple flowers behind a wooden bench near the waterfront.",
+          "caption": "Tall purple flowers behind a wooden bench near the waterfront.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/marina-masts.webp",
+          "alt": "Rows of sailing-boat masts above still marina water.",
+          "caption": "Rows of sailing-boat masts above still marina water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/the-tidal-inlet.webp",
+          "alt": "A small tidal inlet bordered by dark mud and bright green grass.",
+          "caption": "A small tidal inlet bordered by dark mud and bright green grass.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/green-arched-footbridge.webp",
+          "alt": "A pale green arched pedestrian bridge beyond a creekside path.",
+          "caption": "A pale green arched pedestrian bridge beyond a creekside path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/inside-the-footbridge.webp",
+          "alt": "The yellow-green overhead structure of a pedestrian bridge.",
+          "caption": "The yellow-green overhead structure of a pedestrian bridge.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront"
+        },
+        {
+          "src": "/photos/california/2023-04-09-east-bay-shore/evening-reflections.webp",
+          "alt": "Low waterfront buildings and trees reflected in calm evening water.",
+          "caption": "Low waterfront buildings and trees reflected in calm evening water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-09",
+          "location": "Albany Bulb · Berkeley waterfront",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A mural on the corner",
+      "date": "2023-04-13",
+      "location": "Berkeley",
+      "paragraphs": [
+        "Bright figures cover a red wall beside the street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-13-berkeley/red-wall-mural.webp",
+          "alt": "A colourful mural on a red corner building.",
+          "caption": "A colourful mural on a red corner building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-13",
+          "location": "Berkeley"
+        }
+      ]
+    },
+    {
+      "title": "Green hills at Sibley",
+      "date": "2023-04-15",
+      "location": "Sibley Volcanic Regional Preserve",
+      "paragraphs": [
+        "Pale trails cross green slopes and exposed rock. The route drops into shaded trees before the bay appears in the distance."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-15-sibley/green-hills.webp",
+          "alt": "Green rolling hills and scrub beneath a deep blue sky.",
+          "caption": "Green rolling hills and scrub beneath a deep blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/walkers-on-the-trail.webp",
+          "alt": "Two walkers with backpacks on a broad hillside trail.",
+          "caption": "Two walkers with backpacks on a broad hillside trail.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/view-across-the-valley.webp",
+          "alt": "A green hillside dropping towards a distant town and mountains.",
+          "caption": "A green hillside dropping towards a distant town and mountains.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/rocky-ridge-path.webp",
+          "alt": "A narrow rocky path between green slopes and low shrubs.",
+          "caption": "A narrow rocky path between green slopes and low shrubs.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/winding-hillside-trails.webp",
+          "alt": "Pale trails winding across open green hills.",
+          "caption": "Pale trails winding across open green hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/walking-the-ridge.webp",
+          "alt": "A walker following a narrow ridge above branching trails.",
+          "caption": "A walker following a narrow ridge above branching trails.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/red-rock-outcrop.webp",
+          "alt": "A red and grey rock outcrop rising from a green hillside.",
+          "caption": "A red and grey rock outcrop rising from a green hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/path-past-the-boulder.webp",
+          "alt": "A sandy path passing a large dark boulder and yellow flowers.",
+          "caption": "A sandy path passing a large dark boulder and yellow flowers.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/folds-of-the-hills.webp",
+          "alt": "Deep green folds of hills beneath a clear blue sky.",
+          "caption": "Deep green folds of hills beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/quiet-green-clearing.webp",
+          "alt": "A broad grassy clearing below a wooded slope.",
+          "caption": "A broad grassy clearing below a wooded slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/creek-in-the-shade.webp",
+          "alt": "A narrow creek among roots, ferns and shaded trees.",
+          "caption": "A narrow creek among roots, ferns and shaded trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/woodland-path.webp",
+          "alt": "A shaded woodland path below tall slender trees.",
+          "caption": "A shaded woodland path below tall slender trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve"
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/branching-trail-tree.webp",
+          "alt": "A multi-stemmed tree beside a rough wooded trail.",
+          "caption": "A multi-stemmed tree beside a rough wooded trail.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-15-sibley/bay-from-the-hills.webp",
+          "alt": "The distant bay beyond rooftops at the end of a steep hillside street.",
+          "caption": "The distant bay beyond rooftops at the end of a steep hillside street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-15",
+          "location": "Sibley Volcanic Regional Preserve",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Evening trees",
+      "date": "2023-04-16",
+      "location": "Berkeley",
+      "paragraphs": [
+        "Warm light catches two tall trees along the street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-16-berkeley/trees-in-evening-light.webp",
+          "alt": "Tall trees glowing in evening sunlight beside a residential street.",
+          "caption": "Tall trees glowing in evening sunlight beside a residential street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-16",
+          "location": "Berkeley"
+        }
+      ]
+    },
+    {
+      "title": "Downtown streets and Chinatown",
+      "date": "2023-04-23",
+      "location": "Downtown · Chinatown, San Francisco",
+      "paragraphs": [
+        "Tall façades give way to red lanterns, shopfronts and the cable-car machinery beneath the street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/old-street-lamp.webp",
+          "alt": "An ornate street lamp among tall downtown buildings.",
+          "caption": "An ornate street lamp among tall downtown buildings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/pale-downtown-facade.webp",
+          "alt": "A tall pale building above a quiet street corner.",
+          "caption": "A tall pale building above a quiet street corner.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/streetcar-wires.webp",
+          "alt": "Overhead wires crossing between downtown buildings.",
+          "caption": "Overhead wires crossing between downtown buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/chinatown-pavilion.webp",
+          "alt": "A red-roofed pavilion in a sunny Chinatown square.",
+          "caption": "A red-roofed pavilion in a sunny Chinatown square.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/portsmouth-square.webp",
+          "alt": "A broad view across a Chinatown square towards surrounding buildings.",
+          "caption": "A broad view across a Chinatown square towards surrounding buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/lanterns-along-the-street.webp",
+          "alt": "Red lanterns strung across a narrow Chinatown street.",
+          "caption": "Red lanterns strung across a narrow Chinatown street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/colourful-chinatown-fronts.webp",
+          "alt": "Bright yellow and green shopfronts on a busy Chinatown street.",
+          "caption": "Bright yellow and green shopfronts on a busy Chinatown street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/transamerica-from-chinatown.webp",
+          "alt": "The Transamerica Pyramid at the end of a busy Chinatown street.",
+          "caption": "The Transamerica Pyramid at the end of a busy Chinatown street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/cable-car-machinery.webp",
+          "alt": "Large wheels and winding machinery inside the Cable Car Museum.",
+          "caption": "Large wheels and winding machinery inside the Cable Car Museum.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/inside-the-cable-car.webp",
+          "alt": "Passengers inside a timber cable car beneath its pale roof.",
+          "caption": "Passengers inside a timber cable car beneath its pale roof.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco/cable-car-at-the-stop.webp",
+          "alt": "A brown cable car beside a street stop and tall green trees.",
+          "caption": "A brown cable car beside a street stop and tall green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Downtown · Chinatown, San Francisco",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "The waterfront and Golden Gate",
+      "date": "2023-04-23",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "paragraphs": [
+        "Arcade lights and sea lions line the waterfront. Farther west, red bridge cables frame the crossing and the open bay."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/fishermans-wharf.webp",
+          "alt": "The Fisherman’s Wharf sign above a sunny street crossing.",
+          "caption": "The Fisherman’s Wharf sign above a sunny street crossing.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/pinball-machines.webp",
+          "alt": "Brightly illustrated pinball machines inside an old arcade.",
+          "caption": "Brightly illustrated pinball machines inside an old arcade.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/arch-over-the-pier.webp",
+          "alt": "A white arch on a wooden pier above green bay water.",
+          "caption": "A white arch on a wooden pier above green bay water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/gull-above-the-pier.webp",
+          "alt": "A gull flying above pier buildings and harbour water.",
+          "caption": "A gull flying above pier buildings and harbour water.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/pier-39-shop.webp",
+          "alt": "A small red shop beside a busy waterfront walkway.",
+          "caption": "A small red shop beside a busy waterfront walkway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/sea-lions-at-pier-39.webp",
+          "alt": "Sea lions crowded together on floating wooden platforms.",
+          "caption": "Sea lions crowded together on floating wooden platforms.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/marina-and-the-city.webp",
+          "alt": "A marina and open bay with the city skyline beyond.",
+          "caption": "A marina and open bay with the city skyline beyond.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/red-and-white-streetcar.webp",
+          "alt": "A red and white streetcar passing trees along the waterfront.",
+          "caption": "A red and white streetcar passing trees along the waterfront.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/bay-from-the-bridge.webp",
+          "alt": "Blue bay water and the city shoreline seen from the Golden Gate Bridge.",
+          "caption": "Blue bay water and the city shoreline seen from the Golden Gate Bridge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/golden-gate-tower.webp",
+          "alt": "A red Golden Gate Bridge tower above the road and pedestrian path.",
+          "caption": "A red Golden Gate Bridge tower above the road and pedestrian path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/walking-the-golden-gate.webp",
+          "alt": "Visitors walking beside red bridge cables and railings.",
+          "caption": "Visitors walking beside red bridge cables and railings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/bridge-from-the-plaza.webp",
+          "alt": "The Golden Gate Bridge beyond a broad viewing plaza.",
+          "caption": "The Golden Gate Bridge beyond a broad viewing plaza.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/bay-window-facade.webp",
+          "alt": "A pale city apartment building with rows of projecting windows.",
+          "caption": "A pale city apartment building with rows of projecting windows.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/painted-city-windows.webp",
+          "alt": "Colourfully painted lower windows on an old city façade.",
+          "caption": "Colourfully painted lower windows on an old city façade.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-04-23-san-francisco-waterfront/dumplings-for-dinner.webp",
+          "alt": "Dumplings arranged on a dark plate beside a bowl of dipping sauce.",
+          "caption": "Dumplings arranged on a dark plate beside a bowl of dipping sauce.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-04-23",
+          "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco"
+        }
+      ]
+    },
+    {
+      "title": "Back on campus",
+      "date": "2023-04-24",
+      "location": "UC Berkeley",
+      "paragraphs": [
+        "A broad lawn opens in front of a pale columned building."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-24-berkeley/campus-lawn.webp",
+          "alt": "A pale columned campus building behind a broad green lawn.",
+          "caption": "A pale columned campus building behind a broad green lawn.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-24",
+          "location": "UC Berkeley",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Campus façades",
+      "date": "2023-04-27",
+      "location": "UC Berkeley",
+      "paragraphs": [
+        "Arched entrances and tall windows catch the clear morning light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-27-berkeley/arched-campus-entrances.webp",
+          "alt": "A pale campus building with large arched entrances and carved panels.",
+          "caption": "A pale campus building with large arched entrances and carved panels.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-27",
+          "location": "UC Berkeley"
+        },
+        {
+          "src": "/photos/california/2023-04-27-berkeley/tall-campus-windows.webp",
+          "alt": "Tall windows beneath the decorative upper walls of a pale campus building.",
+          "caption": "Tall windows beneath the decorative upper walls of a pale campus building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-27",
+          "location": "UC Berkeley"
+        }
+      ]
+    },
+    {
+      "title": "A curved wall in spring",
+      "date": "2023-04-30",
+      "location": "UC Berkeley",
+      "paragraphs": [
+        "Red leaves and pale curved walls frame a campus corner."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-04-30-berkeley/curved-campus-wall.webp",
+          "alt": "A rounded white campus façade above red-leaved trees.",
+          "caption": "A rounded white campus façade above red-leaved trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-04-30",
+          "location": "UC Berkeley"
+        }
+      ]
+    },
+    {
+      "title": "Evening on campus",
+      "date": "2023-05-03",
+      "location": "UC Berkeley",
+      "paragraphs": [
+        "A quiet road passes pale buildings and planted slopes."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-05-03-berkeley/quiet-campus-road.webp",
+          "alt": "A quiet campus road beside planted slopes and a pale red-roofed building.",
+          "caption": "A quiet campus road beside planted slopes and a pale red-roofed building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-03",
+          "location": "UC Berkeley"
+        }
+      ]
+    },
+    {
+      "title": "Green paths and the botanical garden",
+      "date": "2023-05-06",
+      "location": "Berkeley · UC Botanical Garden",
+      "paragraphs": [
+        "A leafy path leads uphill towards glasshouses, cactus beds and winding garden steps."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/leafy-uphill-path.webp",
+          "alt": "A narrow path beneath a thick canopy of bright green leaves.",
+          "caption": "A narrow path beneath a thick canopy of bright green leaves.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden"
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/roots-beside-the-path.webp",
+          "alt": "Exposed roots and mossy branches beside a shaded path.",
+          "caption": "Exposed roots and mossy branches beside a shaded path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden"
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/inside-the-glasshouse.webp",
+          "alt": "Potted plants and hanging stems inside a glasshouse lit with pink lamps.",
+          "caption": "Potted plants and hanging stems inside a glasshouse lit with pink lamps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden"
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/garden-paths.webp",
+          "alt": "A visitor on a curving garden path between dense trees and shrubs.",
+          "caption": "A visitor on a curving garden path between dense trees and shrubs.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden"
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/garden-steps.webp",
+          "alt": "Garden steps and flower beds beneath a cloudy sky.",
+          "caption": "Garden steps and flower beds beneath a cloudy sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/cactus-and-glasshouses.webp",
+          "alt": "A broad prickly-pear cactus in front of glasshouses.",
+          "caption": "A broad prickly-pear cactus in front of glasshouses.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden"
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/clouds-above-the-garden.webp",
+          "alt": "A view across tall garden plants towards low hills and thick clouds.",
+          "caption": "A view across tall garden plants towards low hills and thick clouds.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-06-botanical-garden/garden-roof-and-hills.webp",
+          "alt": "A dark tiled garden roof beneath green hills and a cloudy sky.",
+          "caption": "A dark tiled garden roof beneath green hills and a cloudy sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-06",
+          "location": "Berkeley · UC Botanical Garden"
+        }
+      ]
+    },
+    {
+      "title": "Across the bay by ferry",
+      "date": "2023-05-07",
+      "location": "San Francisco Bay · Sausalito",
+      "paragraphs": [
+        "The journey crosses the bay, passes through the terminal and continues by ferry to Sausalito."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/water-beside-the-road.webp",
+          "alt": "Calm blue bay water beneath a line of low clouds, seen beside a road.",
+          "caption": "Calm blue bay water beneath a line of low clouds, seen beside a road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito"
+        },
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/terminal-arches.webp",
+          "alt": "Tall white structural arches framing the inside of a transit terminal.",
+          "caption": "Tall white structural arches framing the inside of a transit terminal.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito"
+        },
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/san-francisco-ferry-terminal.webp",
+          "alt": "The San Francisco ferry terminal and city towers beyond blue boarding rails.",
+          "caption": "The San Francisco ferry terminal and city towers beyond blue boarding rails.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/ferry-wake.webp",
+          "alt": "A white ferry wake beneath textured clouds.",
+          "caption": "A white ferry wake beneath textured clouds.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/island-from-the-ferry.webp",
+          "alt": "Low brown-green island hills across the bay from the ferry.",
+          "caption": "Low brown-green island hills across the bay from the ferry.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito"
+        },
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/sausalito-landing.webp",
+          "alt": "Boats and jetties at the Sausalito ferry landing.",
+          "caption": "Boats and jetties at the Sausalito ferry landing.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-san-francisco-bay/sausalito-street.webp",
+          "alt": "A sunny Sausalito street lined with shops, parked cars and trees.",
+          "caption": "A sunny Sausalito street lined with shops, parked cars and trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · Sausalito"
+        }
+      ]
+    },
+    {
+      "title": "Lagoon, ocean and the Marin hills",
+      "date": "2023-05-07",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "paragraphs": [
+        "The road follows the lagoon to Bolinas, where waves reach a small beach below pale cliffs. The return climbs through open hills and wooded valleys."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-05-07-bolinas/bay-beyond-the-hills.webp",
+          "alt": "The distant bay beyond wooded hills and low roadside plants.",
+          "caption": "The distant bay beyond wooded hills and low roadside plants.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/bolinas-lagoon.webp",
+          "alt": "Still lagoon water and tidal flats beneath wooded hills.",
+          "caption": "Still lagoon water and tidal flats beneath wooded hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/lagoon-beneath-the-branches.webp",
+          "alt": "Lagoon mudflats and water framed by tree branches.",
+          "caption": "Lagoon mudflats and water framed by tree branches.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/garden-sign.webp",
+          "alt": "A hand-painted Black Lives Matter sign on a tree beside a garden.",
+          "caption": "A hand-painted Black Lives Matter sign on a tree beside a garden.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/steps-to-the-beach.webp",
+          "alt": "Steps and handrails leading down to the beach beneath a spreading tree.",
+          "caption": "Steps and handrails leading down to the beach beneath a spreading tree.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/waves-at-bolinas.webp",
+          "alt": "White waves reaching a dark sandy beach below low coastal hills.",
+          "caption": "White waves reaching a dark sandy beach below low coastal hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/cliffs-above-the-beach.webp",
+          "alt": "Pale cliffs above a broad sandy beach with scattered visitors.",
+          "caption": "Pale cliffs above a broad sandy beach with scattered visitors.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/houses-above-the-sand.webp",
+          "alt": "Beachfront houses and trees above a curving sandy shore.",
+          "caption": "Beachfront houses and trees above a curving sandy shore.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/poetry-and-coffee.webp",
+          "alt": "A person and dog beside a camper van with a Poetry Coffee sign.",
+          "caption": "A person and dog beside a camper van with a Poetry Coffee sign.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/village-tennis-court.webp",
+          "alt": "A red tennis court among green gardens and village houses.",
+          "caption": "A red tennis court among green gardens and village houses.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/coastal-hills.webp",
+          "alt": "Low scrub and distant coastal hills beneath bright white clouds.",
+          "caption": "Low scrub and distant coastal hills beneath bright white clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/wooded-marin-valley.webp",
+          "alt": "A deep wooded valley below green mountain slopes.",
+          "caption": "A deep wooded valley below green mountain slopes.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-bolinas/green-slopes-and-distant-ocean.webp",
+          "alt": "Open green slopes and a dark wooded ridge with distant ocean beyond.",
+          "caption": "Open green slopes and a dark wooded ridge with distant ocean beyond.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "Bolinas Lagoon · Bolinas · Marin County"
+        }
+      ]
+    },
+    {
+      "title": "The return across the bay",
+      "date": "2023-05-07",
+      "location": "San Francisco Bay · San Francisco",
+      "paragraphs": [
+        "White wake trails behind the boat before the Bay Bridge and city streetcars come into view."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/california/2023-05-07-return-ferry/along-the-ferry.webp",
+          "alt": "The side of a white ferry above blue water and foaming wake.",
+          "caption": "The side of a white ferry above blue water and foaming wake.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · San Francisco"
+        },
+        {
+          "src": "/photos/california/2023-05-07-return-ferry/bay-bridge.webp",
+          "alt": "The Bay Bridge spanning open water beneath a pale sky.",
+          "caption": "The Bay Bridge spanning open water beneath a pale sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · San Francisco",
+          "wide": true
+        },
+        {
+          "src": "/photos/california/2023-05-07-return-ferry/green-and-cream-streetcar.webp",
+          "alt": "A green and cream streetcar passing tall downtown buildings.",
+          "caption": "A green and cream streetcar passing tall downtown buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-07",
+          "location": "San Francisco Bay · San Francisco"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "California",
+    "latitude": 37.8,
+    "longitude": -122.4,
+    "labelPosition": [
+      170,
+      250
+    ]
+  }
+}

@@ -29,6 +29,14 @@ The Europe collections add **187 original photographs**, grouped by country:
 | Portugal | 61 | 17–27 July 2026 | Lisbon |
 | Finland | 35 | 28–30 July 2026 | Helsinki |
 
+The Atlanta, California and Vietnam collections add **340 original photographs**:
+
+| Album | Photographs | Dates | Places |
+| --- | ---: | --- | --- |
+| Atlanta | 97 | 23 August–23 December 2025 | Georgia Tech, Sweet Auburn, downtown and Piedmont Park |
+| California | 97 | 8 April–7 May 2023 | Berkeley, Sibley, San Francisco, Sausalito and Bolinas |
+| Vietnam | 146 | 27 May–1 June 2023 | Mỹ Sơn, Hội An, Huế, Ninh Bình, Sa Pa and Hà Nội |
+
 The Canada collections contain **304 original photographs**:
 
 | Album | Photographs | Dates |
@@ -463,9 +471,8 @@ The Europe sources are grouped into **Germany, France, Portugal and Finland**,
 with cities and locations retained as dated sections within each country album.
 Germany has 15 photographs in two sections; France has 76 in eight sections;
 Portugal has 61 in eleven sections; Finland has 35 in five sections.
-The homepage now has 16 albums across 11 countries. The four new countries have
-atlas outlines and zoom frames; the existing coastlines and lake assets are
-unchanged.
+The four Europe countries have atlas outlines and zoom frames; the existing
+coastlines and lake assets are unchanged.
 
 All **451 still images** from `../dumps/europe_24/` and **526 still images** from
 `../dumps/Europe_26/` were reviewed in thirteen contact sheets. A shortlist of
@@ -511,6 +518,62 @@ The R2 upload attempt transferred no files because the sandbox denied rclone’s
 DNS socket. Run the upload and check commands above from an environment with
 network access before pushing. Use `npm run dev` there to review desktop and
 mobile layouts; the sandbox also blocks the local preview server socket.
+
+## Atlanta, California and Vietnam selections
+
+The three albums contain **340 photographs** in 58 dated sections. The site now
+has **19 albums across 13 countries**. Atlanta and California appear within
+United States; Vietnam has its own country view. Both countries have local
+atlas outlines and zoom frames.
+
+All **325 Atlanta JPEGs**, **400 California JPEGs and 15 HEICs**, and **980
+Vietnam JPEGs** were reviewed in 24 chronological contact sheets. Larger
+reviews compared 504 candidates. Vietnam's three additional RAW embedded
+previews repeat music and river scenes; the RAW originals are retained outside
+the website. Each selected cover was inspected at 1600 pixels and appears
+only once in its album total.
+
+Dates use camera-local EXIF timestamps. Atlanta's recorded offsets change
+from −04:00 to −05:00; California records −07:00. Vietnam's phone photographs
+record +07:00 where available. Nikon and unoffset timestamps are retained as
+recorded without assuming synchronized camera clocks. California GPS, visible
+landmarks, readable signs and capture context support location labels. Broader
+labels are used where an exact site cannot be established. No source archive
+for these three collections was present, so validation covered their existing
+extracted originals. No original was changed or renamed.
+
+The manifests record source hashes, export settings, complete omissions,
+capture-date evidence, chapter and daily counts, and people scenes for later
+review. Repeated bursts, weak or blurred frames, most posed portraits and
+routine travel/work records are omitted. Only selected WebP copies are exported
+to `public/photos/atlanta/`, `public/photos/california/` and
+`public/photos/vietnam/`; they remain ignored by Git.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/atlanta.json --source ../dumps/Atlanta
+python3 scripts/export-photos.py --selection content/selections/california.json --source ../dumps/california
+python3 scripts/export-photos.py --selection content/selections/vietnam.json --source ../dumps/vietnam
+npm run photos:plan -- atlanta california vietnam
+npm run photos:upload -- atlanta california vietnam
+npm run photos:check -- atlanta california vietnam
+npm test
+npm run build
+```
+
+The upload plan contains exactly 340 WebP files, totalling **155.7 MiB**.
+Validation checked original hashes, local capture dates and offsets, decoded
+exports, dimensions, framing, preserved colour profiles, stripped EXIF/XMP,
+distinct sources, cover use, complete omissions and manifest counts. Site tests
+pass, and the build produces 22 pages and 19 stories. Representative exports
+checked include the three covers, `lit-lakeside-pavilion.webp`,
+`sea-lions-at-pier-39.webp` and `terraces-beside-the-river.webp`. World, United
+States and Vietnam map artwork was rendered and visually checked.
+
+The R2 upload attempt transferred no files because the sandbox blocked the DNS
+socket. **Run the upload and check commands above with network access before
+pushing.** Interactive browser review is also pending because the sandbox
+blocks Chrome; use `npm run dev` to review desktop/mobile galleries and the
+photo viewer after uploading.
 
 ## Publish at beyondlenses.github.io
 

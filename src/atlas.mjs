@@ -26,6 +26,8 @@ export const atlasCountries = {
   France: { id: 'france', label: 'France', code: 'FRA', longitude: 2.5, latitude: 46.6, labelPosition: [465, 165], bounds: [-5.5, 41, 9.7, 51.5] },
   Portugal: { id: 'portugal', label: 'Portugal', code: 'PRT', longitude: -8, latitude: 39.6, labelPosition: [455, 225], bounds: [-10, 36.5, -6, 42.5] },
   Finland: { id: 'finland', label: 'Finland', code: 'FIN', longitude: 25.7, latitude: 64.8, labelPosition: [720, 55], bounds: [19, 59, 32, 70.5] },
+  'United States': { id: 'united-states', label: 'United States', code: 'USA', longitude: -98, latitude: 38, labelPosition: [265, 190], bounds: [-126, 24, -66, 50] },
+  Vietnam: { id: 'vietnam', label: 'Vietnam', code: 'VNM', longitude: 107, latitude: 16, labelPosition: [960, 265], bounds: [102, 8, 110, 24] },
 };
 
 export function fitAtlasBounds([west, south, east, north]) {

@@ -1,0 +1,1547 @@
+{
+  "slug": "vietnam",
+  "title": "Vietnam",
+  "subtitle": "Brick towers at Mỹ Sơn, lantern evenings in Hội An, the courtyards of Huế, Tràng An waterways and the green terraces around Sa Pa.",
+  "country": "Vietnam",
+  "location": "Mỹ Sơn · Hội An · Huế · Ninh Bình · Sa Pa · Hà Nội",
+  "category": "Lantern streets, limestone waterways and mountain terraces",
+  "order": 14,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2023-05-27",
+  "endDate": "2023-06-01",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/vietnam/2023-05-29-trang-an/boats-beneath-the-limestone-cliffs.webp",
+    "alt": "Small rowing boats beneath tall green limestone cliffs on the still waterways of Tràng An.",
+    "caption": "Small rowing boats beneath tall green limestone cliffs on the still waterways of Tràng An.",
+    "width": 2400,
+    "height": 1600,
+    "capturedOn": "2023-05-29",
+    "location": "Tràng An, Ninh Bình"
+  },
+  "chapters": [
+    {
+      "title": "Brick towers in a green valley",
+      "date": "2023-05-27",
+      "location": "Mỹ Sơn Sanctuary",
+      "paragraphs": [
+        "The route into Mỹ Sơn passes a green valley and a performance space before reaching weathered brick towers and carved stone details."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/my-son-entrance.webp",
+          "alt": "A brick entrance arch beside a sign and a narrow bridge into green woodland.",
+          "caption": "A brick entrance arch beside a sign and a narrow bridge into green woodland.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/valley-below-the-mountain.webp",
+          "alt": "A green valley and small waterway below a rounded mountain.",
+          "caption": "A green valley and small waterway below a rounded mountain.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/dance-at-my-son.webp",
+          "alt": "Dancers in bright green costumes performing on a lit stage.",
+          "caption": "Dancers in bright green costumes performing on a lit stage.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/musicians-and-performer.webp",
+          "alt": "A standing performer and seated musicians on a dark wooden stage.",
+          "caption": "A standing performer and seated musicians on a dark wooden stage.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/towers-and-the-green-valley.webp",
+          "alt": "Weathered brick towers surrounded by grass, trees and distant hills.",
+          "caption": "Weathered brick towers surrounded by grass, trees and distant hills.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/brick-tower-entrance.webp",
+          "alt": "A small brick tower with a dark doorway and short stone steps.",
+          "caption": "A small brick tower with a dark doorway and short stone steps.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/carved-figure-in-the-brickwork.webp",
+          "alt": "A carved standing figure within a weathered brick niche.",
+          "caption": "A carved standing figure within a weathered brick niche.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/passage-between-the-towers.webp",
+          "alt": "A narrow passage framed by weathered brick tower walls.",
+          "caption": "A narrow passage framed by weathered brick tower walls.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/ruins-and-stone-steps.webp",
+          "alt": "Stone steps and old brick towers beneath a bright cloudy sky.",
+          "caption": "Stone steps and old brick towers beneath a bright cloudy sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/mossy-stone-carving.webp",
+          "alt": "A moss-covered carved figure between brick columns.",
+          "caption": "A moss-covered carved figure between brick columns.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/tower-and-grassy-path.webp",
+          "alt": "An old brick tower beside a grassy path and dense trees.",
+          "caption": "An old brick tower beside a grassy path and dense trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-my-son/sheltered-brick-remains.webp",
+          "alt": "Ancient brick remains protected beneath an open-sided metal roof.",
+          "caption": "Ancient brick remains protected beneath an open-sided metal roof.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Mỹ Sơn Sanctuary"
+        }
+      ]
+    },
+    {
+      "title": "Flowers and old streets",
+      "date": "2023-05-27",
+      "location": "Hội An Ancient Town",
+      "paragraphs": [
+        "Bougainvillea hangs over yellow walls and timber shopfronts. Cyclos, lanterns and decorated gateways fill the afternoon streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/bougainvillea-shopfront.webp",
+          "alt": "Pink bougainvillea above a timber shopfront as people and a motorbike pass.",
+          "caption": "Pink bougainvillea above a timber shopfront as people and a motorbike pass.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/assembly-hall-gateway.webp",
+          "alt": "An ornate pink and green assembly-hall gateway above a busy street.",
+          "caption": "An ornate pink and green assembly-hall gateway above a busy street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/cyclos-in-the-street.webp",
+          "alt": "Cyclo drivers moving along a street of old yellow shopfronts.",
+          "caption": "Cyclo drivers moving along a street of old yellow shopfronts.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/flower-framed-doorway.webp",
+          "alt": "A doorway surrounded by a broad arch of pale flowers.",
+          "caption": "A doorway surrounded by a broad arch of pale flowers.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/old-yellow-facade.webp",
+          "alt": "A two-storey yellow façade with timber shutters and hanging lanterns.",
+          "caption": "A two-storey yellow façade with timber shutters and hanging lanterns.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/lanterns-along-the-lane.webp",
+          "alt": "A narrow lane lined with warm lanterns and old shopfronts.",
+          "caption": "A narrow lane lined with warm lanterns and old shopfronts.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/pink-flowers-against-blue-sky.webp",
+          "alt": "Bright pink bougainvillea spreading across a clear blue sky.",
+          "caption": "Bright pink bougainvillea spreading across a clear blue sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/small-shop-window.webp",
+          "alt": "Framed illustrations beside the warm-lit window of a small shop.",
+          "caption": "Framed illustrations beside the warm-lit window of a small shop.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/boats-at-blue-hour.webp",
+          "alt": "Lantern-lit boats below a bright bridge and riverside buildings at blue hour.",
+          "caption": "Lantern-lit boats below a bright bridge and riverside buildings at blue hour.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an/the-evening-street.webp",
+          "alt": "Crowds and a cyclo under rows of colourful lanterns.",
+          "caption": "Crowds and a cyclo under rows of colourful lanterns.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An Ancient Town",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Lanterns by the river",
+      "date": "2023-05-27",
+      "location": "Hội An",
+      "paragraphs": [
+        "The river and streets fill with lantern light. Food stalls, small boats and a live performance continue late into the evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/painted-silk-lantern.webp",
+          "alt": "A glowing yellow silk lantern painted with flowers and a riverside scene.",
+          "caption": "A glowing yellow silk lantern painted with flowers and a riverside scene.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/lantern-lit-entrance.webp",
+          "alt": "Visitors beneath a lantern-lit entrance beside a tiled roof.",
+          "caption": "Visitors beneath a lantern-lit entrance beside a tiled roof.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/dinner-on-a-bamboo-tray.webp",
+          "alt": "Grilled food, vegetables and dipping sauce arranged on a bamboo tray.",
+          "caption": "Grilled food, vegetables and dipping sauce arranged on a bamboo tray.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/dog-at-the-shop.webp",
+          "alt": "A small fluffy dog resting outside a shop filled with colourful souvenirs.",
+          "caption": "A small fluffy dog resting outside a shop filled with colourful souvenirs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/red-and-white-lanterns.webp",
+          "alt": "Red and white lanterns above a brightly lit shop entrance.",
+          "caption": "Red and white lanterns above a brightly lit shop entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/boats-with-coloured-lanterns.webp",
+          "alt": "Small boats carrying green, yellow and pink lanterns on dark river water.",
+          "caption": "Small boats carrying green, yellow and pink lanterns on dark river water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/live-music.webp",
+          "alt": "Musicians performing beneath hanging lanterns in a small indoor venue.",
+          "caption": "Musicians performing beneath hanging lanterns in a small indoor venue.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-27-hoi-an-night/riverside-lights.webp",
+          "alt": "A quiet riverside walkway beneath a long row of red and white lanterns.",
+          "caption": "A quiet riverside walkway beneath a long row of red and white lanterns.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-27",
+          "location": "Hội An"
+        }
+      ]
+    },
+    {
+      "title": "Round boats among the palms",
+      "date": "2023-05-28",
+      "location": "Hội An waterways",
+      "paragraphs": [
+        "Basket boats move between palm-lined channels and open water. Colourful umbrellas and a spinning boat animate the river."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/palm-lined-channel.webp",
+          "alt": "A narrow brown-water channel between dense palms.",
+          "caption": "A narrow brown-water channel between dense palms.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/wooden-boat-and-palms.webp",
+          "alt": "A wooden river boat beside a long row of palms.",
+          "caption": "A wooden river boat beside a long row of palms.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/basket-boat-at-the-landing.webp",
+          "alt": "A rower in a round basket boat beneath strings of colourful paper decorations.",
+          "caption": "A rower in a round basket boat beneath strings of colourful paper decorations.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/colourful-riverside-shelter.webp",
+          "alt": "A riverside shelter filled with lanterns, bright bunting and red chairs.",
+          "caption": "A riverside shelter filled with lanterns, bright bunting and red chairs.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/rower-in-a-conical-hat.webp",
+          "alt": "A rower wearing a conical hat beside a round boat on the river.",
+          "caption": "A rower wearing a conical hat beside a round boat on the river.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/paddling-the-basket-boat.webp",
+          "alt": "A rower guiding a round blue and yellow basket boat with visitors aboard.",
+          "caption": "A rower guiding a round blue and yellow basket boat with visitors aboard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/green-basket-boat.webp",
+          "alt": "A rower in a green round basket boat beside waterside buildings.",
+          "caption": "A rower in a green round basket boat beside waterside buildings.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/palms-above-the-channel.webp",
+          "alt": "Tall palms arching above a narrow channel and small boats.",
+          "caption": "Tall palms arching above a narrow channel and small boats.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/spinning-basket-boat.webp",
+          "alt": "A boatman balancing in a sharply tilted red and white basket boat.",
+          "caption": "A boatman balancing in a sharply tilted red and white basket boat.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hoi-an-waterways/umbrellas-on-the-water.webp",
+          "alt": "Colourful umbrellas and round boats gathered on the river.",
+          "caption": "Colourful umbrellas and round boats gathered on the river.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Hội An waterways",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Courtyards and gardens in Huế",
+      "date": "2023-05-28",
+      "location": "Imperial City, Huế",
+      "paragraphs": [
+        "Moats and broad courtyards lead into a series of tiled roofs, covered passages and carefully shaped trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/the-citadel-moat.webp",
+          "alt": "A stone balustrade beside the moat and flag tower beneath large clouds.",
+          "caption": "A stone balustrade beside the moat and flag tower beneath large clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/citadel-square.webp",
+          "alt": "Visitors crossing the broad paved square below the flag tower.",
+          "caption": "Visitors crossing the broad paved square below the flag tower.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/bronze-cauldron.webp",
+          "alt": "A large patterned bronze cauldron in a palace courtyard.",
+          "caption": "A large patterned bronze cauldron in a palace courtyard.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/small-covered-gateway.webp",
+          "alt": "A small timber gateway at the end of a quiet garden path.",
+          "caption": "A small timber gateway at the end of a quiet garden path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/red-and-gold-interior.webp",
+          "alt": "Steps leading through a red and gold palace interior.",
+          "caption": "Steps leading through a red and gold palace interior.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/palace-gate-from-the-garden.webp",
+          "alt": "A tiered palace gate above stone walls and clipped garden hedges.",
+          "caption": "A tiered palace gate above stone walls and clipped garden hedges.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/beside-the-garden-pond.webp",
+          "alt": "Visitors beside a small pond below yellow walls and planted rocks.",
+          "caption": "Visitors beside a small pond below yellow walls and planted rocks.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/covered-garden-passage.webp",
+          "alt": "A dark timber passage beside flowering plants and tiled roofs.",
+          "caption": "A dark timber passage beside flowering plants and tiled roofs.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/bonsai-against-yellow-wall.webp",
+          "alt": "A small bonsai in a shallow pot against a weathered yellow wall.",
+          "caption": "A small bonsai in a shallow pot against a weathered yellow wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/clouds-in-the-moat.webp",
+          "alt": "Heavy clouds reflected in still moat water beside a stone path.",
+          "caption": "Heavy clouds reflected in still moat water beside a stone path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/broad-palace-courtyard.webp",
+          "alt": "A long tiled-roof palace building beyond an open brick courtyard.",
+          "caption": "A long tiled-roof palace building beyond an open brick courtyard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/golden-dragon.webp",
+          "alt": "A golden dragon sculpture on a pedestal beside a palace garden.",
+          "caption": "A golden dragon sculpture on a pedestal beside a palace garden.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/painted-palace-frieze.webp",
+          "alt": "A long painted decorative frieze above red palace columns.",
+          "caption": "A long painted decorative frieze above red palace columns.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/the-covered-walkway.webp",
+          "alt": "A long covered walkway beneath a dark timber roof.",
+          "caption": "A long covered walkway beneath a dark timber roof.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/the-flag-courtyard-from-above.webp",
+          "alt": "The flag tower and broad courtyard seen from a raised palace terrace.",
+          "caption": "The flag tower and broad courtyard seen from a raised palace terrace.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/bonsai-and-rooftops.webp",
+          "alt": "A spreading bonsai surrounded by green gardens and tiled rooftops.",
+          "caption": "A spreading bonsai surrounded by green gardens and tiled rooftops.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/arched-garden-door.webp",
+          "alt": "A small stone archway beside a tree and an old palace wall.",
+          "caption": "A small stone archway beside a tree and an old palace wall.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/path-through-the-flowers.webp",
+          "alt": "A straight stone path between flower beds towards palace buildings.",
+          "caption": "A straight stone path between flower beds towards palace buildings.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/red-columned-corridor.webp",
+          "alt": "A long corridor of red columns and carved roof panels.",
+          "caption": "A long corridor of red columns and carved roof panels.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-28-hue/illuminated-palace-gate.webp",
+          "alt": "An ornate golden palace gateway glowing against a cloudy evening sky.",
+          "caption": "An ornate golden palace gateway glowing against a cloudy evening sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-28",
+          "location": "Imperial City, Huế",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Before the boat journey",
+      "date": "2023-05-29",
+      "location": "Ninh Bình",
+      "paragraphs": [
+        "A reflective pool and temple details introduce the limestone country around Ninh Bình."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-29-ninh-binh/limestone-reflections.webp",
+          "alt": "Steep limestone hills reflected in a still pool beneath a bright sky.",
+          "caption": "Steep limestone hills reflected in a still pool beneath a bright sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-ninh-binh/golden-temple-interior.webp",
+          "alt": "Carved gold panels, an altar and a chandelier inside a temple.",
+          "caption": "Carved gold panels, an altar and a chandelier inside a temple.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-ninh-binh/cranes-in-the-courtyard.webp",
+          "alt": "Bronze crane sculptures and a large incense burner beneath trees.",
+          "caption": "Bronze crane sculptures and a large incense burner beneath trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Ninh Bình"
+        }
+      ]
+    },
+    {
+      "title": "Through the waterways of Tràng An",
+      "date": "2023-05-29",
+      "location": "Tràng An, Ninh Bình",
+      "paragraphs": [
+        "Small rowing boats pass between limestone walls, stopping at temples and quiet landings. Clear water, a low cave and a pavilion beneath the cliffs mark the route."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/boat-between-the-hills.webp",
+          "alt": "A small boat beneath steep limestone hills and a bright blue sky.",
+          "caption": "A small boat beneath steep limestone hills and a bright blue sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/wake-through-the-reeds.webp",
+          "alt": "Ripples behind a rowing boat moving between reeds and limestone hills.",
+          "caption": "Ripples behind a rowing boat moving between reeds and limestone hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/boats-under-the-cliff.webp",
+          "alt": "Small rowing boats passing below a densely wooded limestone cliff.",
+          "caption": "Small rowing boats passing below a densely wooded limestone cliff.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/thatched-building.webp",
+          "alt": "A low thatched building beneath pale limestone and green plants.",
+          "caption": "A low thatched building beneath pale limestone and green plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/temple-entrance-under-the-tree.webp",
+          "alt": "A timber temple entrance shaded by a spreading tree.",
+          "caption": "A timber temple entrance shaded by a spreading tree.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/red-flag-at-the-bow.webp",
+          "alt": "A small red flag at the bow of a boat facing still green water.",
+          "caption": "A small red flag at the bow of a boat facing still green water.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/golden-temple-figures.webp",
+          "alt": "Seated gold figures beneath carved timber and gold decoration.",
+          "caption": "Seated gold figures beneath carved timber and gold decoration.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/white-horse-sculpture.webp",
+          "alt": "A white horse sculpture among richly carved temple panels.",
+          "caption": "A white horse sculpture among richly carved temple panels.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/figures-before-the-golden-panel.webp",
+          "alt": "Dark seated figures, flowers and offerings in front of a golden temple panel.",
+          "caption": "Dark seated figures, flowers and offerings in front of a golden temple panel.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/clear-water-and-lilies.webp",
+          "alt": "Water plants and lily leaves below clear water reflecting the limestone hills.",
+          "caption": "Water plants and lily leaves below clear water reflecting the limestone hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/curving-waterside-path.webp",
+          "alt": "A narrow curved stone path crossing shallow water below steep green cliffs.",
+          "caption": "A narrow curved stone path crossing shallow water below steep green cliffs.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/rowboat-below-the-hills.webp",
+          "alt": "A rower guiding visitors across green water beneath forested limestone hills.",
+          "caption": "A rower guiding visitors across green water beneath forested limestone hills.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/towards-the-limestone-walls.webp",
+          "alt": "A rowing boat approaching a narrow gap between tall limestone walls.",
+          "caption": "A rowing boat approaching a narrow gap between tall limestone walls.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/pale-limestone-face.webp",
+          "alt": "A pale exposed limestone face above green water and reeds.",
+          "caption": "A pale exposed limestone face above green water and reeds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/thatched-shelter-in-the-shade.webp",
+          "alt": "A small thatched shelter beneath deep shade and limestone hills.",
+          "caption": "A small thatched shelter beneath deep shade and limestone hills.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/timber-temple-in-the-trees.webp",
+          "alt": "A low timber temple facing a quiet courtyard beneath leafy trees.",
+          "caption": "A low timber temple facing a quiet courtyard beneath leafy trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/dragon-fruit-offerings.webp",
+          "alt": "Dragon fruit and incense arranged before a golden temple figure.",
+          "caption": "Dragon fruit and incense arranged before a golden temple figure.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/painted-guardian.webp",
+          "alt": "A brightly painted temple guardian beneath a timber roof.",
+          "caption": "A brightly painted temple guardian beneath a timber roof.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/seated-buddha.webp",
+          "alt": "A golden seated Buddha within an ornate circular surround.",
+          "caption": "A golden seated Buddha within an ornate circular surround.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/cliffs-and-white-clouds.webp",
+          "alt": "Green limestone cliffs and reeds reflected beneath bright white clouds.",
+          "caption": "Green limestone cliffs and reeds reflected beneath bright white clouds.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/inside-the-water-cave.webp",
+          "alt": "Small lights reflected on water beneath a low dark cave ceiling.",
+          "caption": "Small lights reflected on water beneath a low dark cave ceiling.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/cliff-above-the-boat.webp",
+          "alt": "A tall pale limestone cliff rising directly above a small boat.",
+          "caption": "A tall pale limestone cliff rising directly above a small boat.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/rower-and-the-pavilion.webp",
+          "alt": "A standing rower approaching a small pavilion beneath steep wooded cliffs.",
+          "caption": "A standing rower approaching a small pavilion beneath steep wooded cliffs.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-trang-an/figures-by-the-water.webp",
+          "alt": "Painted figures beside shallow water and a rough limestone wall.",
+          "caption": "Painted figures beside shallow water and a rough limestone wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Tràng An, Ninh Bình"
+        }
+      ]
+    },
+    {
+      "title": "Above the fields",
+      "date": "2023-05-29",
+      "location": "Hang Múa, Ninh Bình",
+      "paragraphs": [
+        "Stone stairs climb above a patchwork of fields and isolated limestone hills."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-29-hang-mua/fields-below-the-cliff.webp",
+          "alt": "Green and flooded fields below a steep limestone cliff and distant buildings.",
+          "caption": "Green and flooded fields below a steep limestone cliff and distant buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Hang Múa, Ninh Bình"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-hang-mua/ninh-binh-from-above.webp",
+          "alt": "A broad patchwork of fields and scattered limestone hills in evening light.",
+          "caption": "A broad patchwork of fields and scattered limestone hills in evening light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-29",
+          "location": "Hang Múa, Ninh Bình",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-29-hang-mua/stairs-on-the-limestone.webp",
+          "alt": "A steep stone stairway climbing between limestone walls towards a hilltop pavilion.",
+          "caption": "A steep stone stairway climbing between limestone walls towards a hilltop pavilion.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-29",
+          "location": "Hang Múa, Ninh Bình"
+        }
+      ]
+    },
+    {
+      "title": "Into the clouds on Fansipan",
+      "date": "2023-05-30",
+      "location": "Sa Pa · Fansipan",
+      "paragraphs": [
+        "The morning route reaches clouded slopes, temple roofs and the high terraces of Fansipan. A small red funicular stands out against the green mountainside."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/morning-train.webp",
+          "alt": "A blue, white and red railway carriage beside a station platform.",
+          "caption": "A blue, white and red railway carriage beside a station platform.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/sapa-corner-building.webp",
+          "alt": "An ornate corner building with large clock faces above a Sa Pa street.",
+          "caption": "An ornate corner building with large clock faces above a Sa Pa street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/mountains-above-sapa.webp",
+          "alt": "Clouds gathering above mountain slopes and scattered hillside buildings.",
+          "caption": "Clouds gathering above mountain slopes and scattered hillside buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/hoang-lien-station.webp",
+          "alt": "Visitors beneath a sign for Hoang Lien station inside a bright terminal.",
+          "caption": "Visitors beneath a sign for Hoang Lien station inside a bright terminal.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/cloud-on-the-slope.webp",
+          "alt": "Low cloud drifting across a steep green and rocky mountain slope.",
+          "caption": "Low cloud drifting across a steep green and rocky mountain slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/temples-in-the-clouds.webp",
+          "alt": "Visitors and tiled temple roofs beneath a clouded mountain summit.",
+          "caption": "Visitors and tiled temple roofs beneath a clouded mountain summit.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/gardening-at-fansipan.webp",
+          "alt": "A gardener working on a large circular planted display among mountain buildings.",
+          "caption": "A gardener working on a large circular planted display among mountain buildings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/stone-tower-in-cloud.webp",
+          "alt": "A square stone tower and tiled roof surrounded by pale cloud.",
+          "caption": "A square stone tower and tiled roof surrounded by pale cloud.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/temples-on-the-ridge.webp",
+          "alt": "Orange temple roofs along a narrow green ridge amid low cloud.",
+          "caption": "Orange temple roofs along a narrow green ridge amid low cloud.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/flag-above-the-steps.webp",
+          "alt": "A red flag above a broad stone stairway and summit terrace.",
+          "caption": "A red flag above a broad stone stairway and summit terrace.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/buddha-above-the-valley.webp",
+          "alt": "A seated Buddha above steep stairways and clouded mountain slopes.",
+          "caption": "A seated Buddha above steep stairways and clouded mountain slopes.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/red-mountain-funicular.webp",
+          "alt": "A small red funicular on steep tracks among low green shrubs.",
+          "caption": "A small red funicular on steep tracks among low green shrubs.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/clouds-over-the-forest.webp",
+          "alt": "White cloud spilling over a densely forested mountain slope.",
+          "caption": "White cloud spilling over a densely forested mountain slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-fansipan/stream-through-the-forest.webp",
+          "alt": "A narrow stream crossing the floor of a steep wooded valley.",
+          "caption": "A narrow stream crossing the floor of a steep wooded valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa · Fansipan",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Paths through the terraced valley",
+      "date": "2023-05-30",
+      "location": "Sa Pa valley",
+      "paragraphs": [
+        "Footpaths connect green rice terraces, small houses and bridges. The walk continues past village gardens and people resting beside the trail."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/walking-down-the-slope.webp",
+          "alt": "A walker descending a narrow hillside path above a hazy valley.",
+          "caption": "A walker descending a narrow hillside path above a hazy valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/watered-terraces.webp",
+          "alt": "Freshly watered terraces curving across a mountainside beneath clouds.",
+          "caption": "Freshly watered terraces curving across a mountainside beneath clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/bamboo-by-the-trail.webp",
+          "alt": "Tall bamboo and dense green foliage beside a shaded trail.",
+          "caption": "Tall bamboo and dense green foliage beside a shaded trail.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/rows-on-the-hillside.webp",
+          "alt": "Closely planted rows following a steep hillside.",
+          "caption": "Closely planted rows following a steep hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/curved-green-fields.webp",
+          "alt": "Curved green rice fields around a small hillside shelter.",
+          "caption": "Curved green rice fields around a small hillside shelter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/terraces-below-the-clouds.webp",
+          "alt": "Terraced fields and layered hills below large white clouds.",
+          "caption": "Terraced fields and layered hills below large white clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/baskets-on-the-path.webp",
+          "alt": "Walkers carrying woven baskets along a narrow hillside path.",
+          "caption": "Walkers carrying woven baskets along a narrow hillside path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/rest-by-the-trail.webp",
+          "alt": "People resting on a wooden bench beneath a blue-roofed trail shelter.",
+          "caption": "People resting on a wooden bench beneath a blue-roofed trail shelter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/basket-beside-the-trail.webp",
+          "alt": "A person wearing a broad hat resting beside a woven basket.",
+          "caption": "A person wearing a broad hat resting beside a woven basket.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/valley-beyond-the-tree.webp",
+          "alt": "A slender tree framing a broad terraced valley in soft light.",
+          "caption": "A slender tree framing a broad terraced valley in soft light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/terraces-under-the-trees.webp",
+          "alt": "Narrow rice terraces beneath trees and small hillside houses.",
+          "caption": "Narrow rice terraces beneath trees and small hillside houses.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/river-through-the-terraces.webp",
+          "alt": "A pale rocky riverbed winding between green rice terraces.",
+          "caption": "A pale rocky riverbed winding between green rice terraces.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/bridge-through-the-valley.webp",
+          "alt": "Walkers crossing a narrow bridge between green terraced hillsides.",
+          "caption": "Walkers crossing a narrow bridge between green terraced hillsides.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/hillside-houses-and-fields.webp",
+          "alt": "Small houses among terraced slopes above a rocky riverbed.",
+          "caption": "Small houses among terraced slopes above a rocky riverbed.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/village-on-the-hillside.webp",
+          "alt": "Village houses and winding terraces scattered across a sunlit hillside.",
+          "caption": "Village houses and winding terraces scattered across a sunlit hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/red-suspension-bridge.webp",
+          "alt": "A red suspension bridge beside a bare tree and hillside buildings.",
+          "caption": "A red suspension bridge beside a bare tree and hillside buildings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/rice-in-the-valley.webp",
+          "alt": "Bright green rice fields beneath mountains and a hazy sky.",
+          "caption": "Bright green rice fields beneath mountains and a hazy sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/path-through-the-rice.webp",
+          "alt": "A walker following a narrow raised path through bright green rice.",
+          "caption": "A walker following a narrow raised path through bright green rice.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/stream-below-the-trees.webp",
+          "alt": "A small rocky stream below trees and terraced fields.",
+          "caption": "A small rocky stream below trees and terraced fields.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/terraces-beside-the-river.webp",
+          "alt": "Deep green curved rice terraces following a river through the valley.",
+          "caption": "Deep green curved rice terraces following a river through the valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/close-rice-terraces.webp",
+          "alt": "Narrow green rice terraces stepping down a steep hillside.",
+          "caption": "Narrow green rice terraces stepping down a steep hillside.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/valley-fields-from-above.webp",
+          "alt": "A wide view of fields and small houses across the valley floor.",
+          "caption": "A wide view of fields and small houses across the valley floor.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/village-valley.webp",
+          "alt": "A village and green fields spread between dark mountain slopes.",
+          "caption": "A village and green fields spread between dark mountain slopes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/evening-path-through-the-fields.webp",
+          "alt": "A curving footpath through green fields beneath backlit mountains.",
+          "caption": "A curving footpath through green fields beneath backlit mountains.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-30-sapa-valley/village-street-market.webp",
+          "alt": "People and a motorbike beside vegetable stalls on a village street.",
+          "caption": "People and a motorbike beside vegetable stalls on a village street.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-30",
+          "location": "Sa Pa valley"
+        }
+      ]
+    },
+    {
+      "title": "A day in Hà Nội",
+      "date": "2023-05-31",
+      "location": "Hà Nội",
+      "paragraphs": [
+        "The railway arrival leads to coffee, temple grounds and a museum façade. Later, dinner and railway-side streets fill the evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/train-in-hanoi.webp",
+          "alt": "A blue, white and red train beside railway tracks and leafy trees.",
+          "caption": "A blue, white and red train beside railway tracks and leafy trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/hanoi-station.webp",
+          "alt": "The pale station entrance beneath the Ga Hà Nội sign.",
+          "caption": "The pale station entrance beneath the Ga Hà Nội sign.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/coffee-on-the-table.webp",
+          "alt": "A cup topped with pale foam and cocoa beside a spoon on a wooden table.",
+          "caption": "A cup topped with pale foam and cocoa beside a spoon on a wooden table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/one-pillar-pagoda.webp",
+          "alt": "A small tiled-roof pagoda above water beside stone steps and trees.",
+          "caption": "A small tiled-roof pagoda above water beside stone steps and trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/ho-chi-minh-museum.webp",
+          "alt": "The pale angular entrance façade of the Ho Chi Minh Museum.",
+          "caption": "The pale angular entrance façade of the Ho Chi Minh Museum.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/yellow-flowers-in-the-courtyard.webp",
+          "alt": "A round yellow-flowered tree beside a weathered white courtyard wall.",
+          "caption": "A round yellow-flowered tree beside a weathered white courtyard wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/bus-through-the-city.webp",
+          "alt": "Passengers seated inside a city bus beneath overhead rails.",
+          "caption": "Passengers seated inside a city bus beneath overhead rails.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/dinner-in-hanoi.webp",
+          "alt": "Rice, vegetables and grilled food arranged in dishes on a blue table.",
+          "caption": "Rice, vegetables and grilled food arranged in dishes on a blue table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/railway-between-the-buildings.webp",
+          "alt": "Railway tracks curving between closely packed city buildings and cafés.",
+          "caption": "Railway tracks curving between closely packed city buildings and cafés.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/portrait-on-the-wall.webp",
+          "alt": "A large painted portrait on a worn wall beside a parked motorbike.",
+          "caption": "A large painted portrait on a worn wall beside a parked motorbike.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội"
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/railway-street-after-dark.webp",
+          "alt": "Warm café lights beside curving railway tracks after dark.",
+          "caption": "Warm café lights beside curving railway tracks after dark.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-05-31-hanoi/mango-at-the-shop.webp",
+          "alt": "Packets of dried mango stacked on a shop shelf.",
+          "caption": "Packets of dried mango stacked on a shop shelf.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-05-31",
+          "location": "Hà Nội"
+        }
+      ]
+    },
+    {
+      "title": "The train after dark",
+      "date": "2023-06-01",
+      "location": "Hà Nội",
+      "paragraphs": [
+        "Café lights line the railway before the locomotive arrives and the carriages pass."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vietnam/2023-06-01-hanoi-night/small-railway-cafe.webp",
+          "alt": "A small illuminated café counter and menu boards beside a painted wall.",
+          "caption": "A small illuminated café counter and menu boards beside a painted wall.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-06-01",
+          "location": "Hà Nội"
+        },
+        {
+          "src": "/photos/vietnam/2023-06-01-hanoi-night/cafes-beside-the-tracks.webp",
+          "alt": "Café tables, plants and warm lights beside railway tracks at night.",
+          "caption": "Café tables, plants and warm lights beside railway tracks at night.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-06-01",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-06-01-hanoi-night/locomotive-at-night.webp",
+          "alt": "The red front of a locomotive with bright lamps between close-set buildings.",
+          "caption": "The red front of a locomotive with bright lamps between close-set buildings.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-06-01",
+          "location": "Hà Nội",
+          "wide": true
+        },
+        {
+          "src": "/photos/vietnam/2023-06-01-hanoi-night/passing-carriage.webp",
+          "alt": "A blue, white and red railway carriage passing a row of café tables.",
+          "caption": "A blue, white and red railway carriage passing a row of café tables.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2023-06-01",
+          "location": "Hà Nội"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Vietnam",
+    "latitude": 16.06,
+    "longitude": 108.22,
+    "labelPosition": [
+      820,
+      300
+    ]
+  }
+}

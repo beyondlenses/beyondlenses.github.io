@@ -1,0 +1,1270 @@
+{
+  "slug": "atlanta",
+  "title": "Atlanta",
+  "subtitle": "Campus paths, Sweet Auburn and downtown landmarks, with autumn colour and quiet walks around Piedmont Park.",
+  "country": "United States",
+  "location": "Atlanta, Georgia",
+  "category": "City walks, parks and changing seasons",
+  "order": 12,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2025-08-23",
+  "endDate": "2025-12-23",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/atlanta/2025-12-20-piedmont-park/midtown-reflected-in-lake-clara-meer.webp",
+    "alt": "Midtown towers and autumn trees reflected in Lake Clara Meer beneath bare overhanging branches.",
+    "caption": "Midtown towers and autumn trees reflected in Lake Clara Meer beneath bare overhanging branches.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2025-12-20",
+    "location": "Lake Clara Meer, Piedmont Park, Atlanta"
+  },
+  "chapters": [
+    {
+      "title": "First evenings in Atlanta",
+      "date": "2025-08-23",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Clouds gather above campus buildings, with the Midtown towers rising beyond the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-08-23-georgia-tech/clouds-over-campus.webp",
+          "alt": "Soft evening clouds above campus buildings and the distant skyline.",
+          "caption": "Soft evening clouds above campus buildings and the distant skyline.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-23",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-08-23-georgia-tech/midtown-above-the-trees.webp",
+          "alt": "Midtown towers rising above trees and an elevated road.",
+          "caption": "Midtown towers rising above trees and an elevated road.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-23",
+          "location": "Georgia Tech, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "A small delivery",
+      "date": "2025-08-30",
+      "location": "Atlanta",
+      "paragraphs": [
+        "A delivery robot waits outside a café."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-08-30-daily-life/delivery-robot.webp",
+          "alt": "A small white delivery robot on the pavement outside a café.",
+          "caption": "A small white delivery robot on the pavement outside a café.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-30",
+          "location": "Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Figures on the brick walk",
+      "date": "2025-09-11",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Bronze figures stand among trees and campus buildings."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-09-11-georgia-tech/bronze-figures.webp",
+          "alt": "Three bronze figures on a brick path shaded by trees.",
+          "caption": "Three bronze figures on a brick path shaded by trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-09-11",
+          "location": "Georgia Tech, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "The station after dark",
+      "date": "2025-09-14",
+      "location": "Midtown, Atlanta",
+      "paragraphs": [
+        "The station entrance and a bright pink sculpture stand under the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-09-14-midtown/marta-after-dark.webp",
+          "alt": "The illuminated MARTA entrance beside a bright pink bird sculpture.",
+          "caption": "The illuminated MARTA entrance beside a bright pink bird sculpture.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-09-14",
+          "location": "Midtown, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Clouds at sunset",
+      "date": "2025-09-25",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Gold clouds spread across a patch of clear blue sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-09-25-georgia-tech/golden-clouds.webp",
+          "alt": "Gold and grey clouds above low rooftops at sunset.",
+          "caption": "Gold and grey clouds above low rooftops at sunset.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-09-25",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A festival and the distant skyline",
+      "date": "2025-09-27",
+      "location": "Atlanta",
+      "paragraphs": [
+        "A crowded celebration gives way to a broad sky above the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-09-27-atlanta/festival-gathering.webp",
+          "alt": "A crowd gathered before decorated figures and red curtains indoors.",
+          "caption": "A crowd gathered before decorated figures and red curtains indoors.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-09-27",
+          "location": "Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-09-27-atlanta/skyline-beneath-the-clouds.webp",
+          "alt": "A distant skyline beneath large white clouds.",
+          "caption": "A distant skyline beneath large white clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-09-27",
+          "location": "Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Paths and evening light",
+      "date": "2025-09-29",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "A long brick walk leads between trees; the city catches the last warm light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-09-29-georgia-tech/the-brick-walk.webp",
+          "alt": "A long red-brick pedestrian walk beneath green trees.",
+          "caption": "A long red-brick pedestrian walk beneath green trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-09-29",
+          "location": "Georgia Tech, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-09-29-georgia-tech/evening-towers.webp",
+          "alt": "City towers in warm evening light beyond a stadium floodlight.",
+          "caption": "City towers in warm evening light beyond a stadium floodlight.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-09-29",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A wet campus walk",
+      "date": "2025-10-05",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Rain leaves the brick paths shining. Steps and terraces lead past planted slopes."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-05-georgia-tech/rain-on-the-walk.webp",
+          "alt": "A wet brick path between trees beneath a grey sky.",
+          "caption": "A wet brick path between trees beneath a grey sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-05",
+          "location": "Georgia Tech, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-05-georgia-tech/steps-and-planting.webp",
+          "alt": "Outdoor steps beside thick planting and low brick walls.",
+          "caption": "Outdoor steps beside thick planting and low brick walls.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-05",
+          "location": "Georgia Tech, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-05-georgia-tech/campus-after-rain.webp",
+          "alt": "A broad wet campus path between lawns and modern buildings.",
+          "caption": "A broad wet campus path between lawns and modern buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-05",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-05-georgia-tech/golden-spire-in-cloud.webp",
+          "alt": "A gold-lit tower crown surrounded by low cloud after dark.",
+          "caption": "A gold-lit tower crown surrounded by low cloud after dark.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-05",
+          "location": "Georgia Tech, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "A bicycle by the trees",
+      "date": "2025-10-10",
+      "location": "Atlanta",
+      "paragraphs": [
+        "A bright bicycle rests beside a quiet outdoor terrace."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-10-atlanta/blue-bicycle.webp",
+          "alt": "A blue bicycle with yellow wheel rims beside chairs and trees.",
+          "caption": "A blue bicycle with yellow wheel rims beside chairs and trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-10",
+          "location": "Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Beneath the bridge",
+      "date": "2025-10-12",
+      "location": "Piedmont Park, Atlanta",
+      "paragraphs": [
+        "Painted bridge supports and an arched span overlook a winding park path."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-12-piedmont-park/painted-bridge-supports.webp",
+          "alt": "Colourful murals on concrete supports beneath a bridge.",
+          "caption": "Colourful murals on concrete supports beneath a bridge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-12",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-12-piedmont-park/path-beneath-the-arches.webp",
+          "alt": "A paved path curving beneath an old arched concrete bridge.",
+          "caption": "A paved path curving beneath an old arched concrete bridge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-12",
+          "location": "Piedmont Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-12-piedmont-park/orange-horizon.webp",
+          "alt": "An orange strip of sunset below a deep blue evening sky.",
+          "caption": "An orange strip of sunset below a deep blue evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-12",
+          "location": "Piedmont Park, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Buildings in the evening sun",
+      "date": "2025-10-15",
+      "location": "Midtown, Atlanta",
+      "paragraphs": [
+        "Warm light catches tall façades at a city intersection."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-15-midtown/golden-city-facades.webp",
+          "alt": "Tall pale buildings glowing gold above a city intersection.",
+          "caption": "Tall pale buildings glowing gold above a city intersection.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-15",
+          "location": "Midtown, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Blue hour at the lake",
+      "date": "2025-10-18",
+      "location": "Piedmont Park, Atlanta",
+      "paragraphs": [
+        "The park darkens around the lake while the pavilion and Midtown windows begin to glow."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-18-piedmont-park/monument-at-dusk.webp",
+          "alt": "A bronze monument beneath trees at the edge of the park.",
+          "caption": "A bronze monument beneath trees at the edge of the park.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-18",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-18-piedmont-park/the-open-lawn.webp",
+          "alt": "Visitors spread across a wide park lawn as daylight fades.",
+          "caption": "Visitors spread across a wide park lawn as daylight fades.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-18",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-18-piedmont-park/lit-lakeside-pavilion.webp",
+          "alt": "A warmly lit stone pavilion reflected in dark lake water.",
+          "caption": "A warmly lit stone pavilion reflected in dark lake water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-18",
+          "location": "Piedmont Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-18-piedmont-park/bench-beneath-the-branches.webp",
+          "alt": "An empty bench beneath overhanging branches beside the lake.",
+          "caption": "An empty bench beneath overhanging branches beside the lake.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-18",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-18-piedmont-park/midtown-at-blue-hour.webp",
+          "alt": "Illuminated Midtown towers reflected in the lake at blue hour.",
+          "caption": "Illuminated Midtown towers reflected in the lake at blue hour.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-18",
+          "location": "Piedmont Park, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "White walls and blue sky",
+      "date": "2025-10-19",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "A pale corner tower rises against the clouds."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-19-georgia-tech/white-corner-tower.webp",
+          "alt": "A pale building with an open-sided corner tower beneath a blue sky.",
+          "caption": "A pale building with an open-sided corner tower beneath a blue sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-19",
+          "location": "Georgia Tech, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Among the trees at Oakland",
+      "date": "2025-10-25",
+      "location": "Oakland Cemetery, Atlanta",
+      "paragraphs": [
+        "The brick gateway opens onto paths, old monuments and spreading trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/oakland-gateway.webp",
+          "alt": "The red-brick Oakland gateway beneath wispy clouds.",
+          "caption": "The red-brick Oakland gateway beneath wispy clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/monuments-and-evergreens.webp",
+          "alt": "Old headstones and monuments among green trees.",
+          "caption": "Old headstones and monuments among green trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/the-spreading-tree.webp",
+          "alt": "A broad branching tree above a path and old graves.",
+          "caption": "A broad branching tree above a path and old graves.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/monument-under-blue-sky.webp",
+          "alt": "A tall pale monument rising above rows of headstones.",
+          "caption": "A tall pale monument rising above rows of headstones.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/brick-path-through-oakland.webp",
+          "alt": "A narrow brick path between low walls and garden planting.",
+          "caption": "A narrow brick path between low walls and garden planting.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/headstones-at-the-woodland-edge.webp",
+          "alt": "Small headstones below dense trees at the edge of the cemetery.",
+          "caption": "Small headstones below dense trees at the edge of the cemetery.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-oakland-cemetery/flowers-below-the-trees.webp",
+          "alt": "Pale purple flowers beneath trees beside the cemetery paths.",
+          "caption": "Pale purple flowers beneath trees beside the cemetery paths.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Oakland Cemetery, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "A walk through Sweet Auburn",
+      "date": "2025-10-25",
+      "location": "Sweet Auburn, Atlanta",
+      "paragraphs": [
+        "Murals and historic buildings lead towards the King Center. Memorial spaces, church towers and street details continue the walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/autumn-street-corner.webp",
+          "alt": "Red-leaved trees and pale apartment buildings at a quiet corner.",
+          "caption": "Red-leaved trees and pale apartment buildings at a quiet corner.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/king-mural.webp",
+          "alt": "A large portrait mural of Martin Luther King Jr. on a building façade.",
+          "caption": "A large portrait mural of Martin Luther King Jr. on a building façade.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/old-brick-street.webp",
+          "alt": "An old brick building beside a narrow street and overhead wires.",
+          "caption": "An old brick building beside a narrow street and overhead wires.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/national-historical-park.webp",
+          "alt": "The brick entrance sign at Martin Luther King Jr. National Historical Park.",
+          "caption": "The brick entrance sign at Martin Luther King Jr. National Historical Park.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/gandhi-statue.webp",
+          "alt": "A bronze statue of Gandhi outside a low brick building.",
+          "caption": "A bronze statue of Gandhi outside a low brick building.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/ebenezer-church.webp",
+          "alt": "The brick tower and glazed entrance of Ebenezer Baptist Church.",
+          "caption": "The brick tower and glazed entrance of Ebenezer Baptist Church.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/king-center-pool.webp",
+          "alt": "A long blue reflecting pool beside the King Center memorial.",
+          "caption": "A long blue reflecting pool beside the King Center memorial.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/king-and-gandhi.webp",
+          "alt": "A portrait panel showing Martin Luther King Jr. and Gandhi on a brick wall.",
+          "caption": "A portrait panel showing Martin Luther King Jr. and Gandhi on a brick wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-sweet-auburn/mural-in-the-trees.webp",
+          "alt": "A painted portrait on a textured wall beneath tree branches.",
+          "caption": "A painted portrait on a textured wall beneath tree branches.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Sweet Auburn, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Market counters and city façades",
+      "date": "2025-10-25",
+      "location": "Downtown Atlanta",
+      "paragraphs": [
+        "The Municipal Market is followed by small street details and a view up the tall downtown façades."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-10-25-downtown/street-lamps-and-church-spire.webp",
+          "alt": "Curved street lamps along a brick-lined street with a church spire beyond.",
+          "caption": "Curved street lamps along a brick-lined street with a church spire beyond.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Downtown Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-downtown/the-market-counter.webp",
+          "alt": "A vendor behind a glass food counter at the Municipal Market.",
+          "caption": "A vendor behind a glass food counter at the Municipal Market.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Downtown Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-downtown/municipal-market.webp",
+          "alt": "The Municipal Market sign above an aisle of counters and shoppers.",
+          "caption": "The Municipal Market sign above an aisle of counters and shoppers.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Downtown Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-downtown/painted-bicycle-rack.webp",
+          "alt": "A bright yellow and green bicycle-shaped rack beside the pavement.",
+          "caption": "A bright yellow and green bicycle-shaped rack beside the pavement.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Downtown Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-downtown/brick-church-and-tower.webp",
+          "alt": "A brick church with arched windows and a square corner tower.",
+          "caption": "A brick church with arched windows and a square corner tower.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-10-25",
+          "location": "Downtown Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-10-25-downtown/looking-up-downtown.webp",
+          "alt": "A tall pale downtown façade seen from its arched entrance.",
+          "caption": "A tall pale downtown façade seen from its arched entrance.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-10-25",
+          "location": "Downtown Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Around Centennial Olympic Park",
+      "date": "2025-11-01",
+      "location": "Centennial Olympic Park, Atlanta",
+      "paragraphs": [
+        "Landmark façades, public art and the Olympic park fill the early evening. Carriages wait near the observation wheel."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/polished-sculpture.webp",
+          "alt": "A polished metal sculpture outside a tall pale building.",
+          "caption": "A polished metal sculpture outside a tall pale building.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/olympic-rings.webp",
+          "alt": "Large Olympic rings beside a downtown intersection.",
+          "caption": "Large Olympic rings beside a downtown intersection.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/hall-of-fame.webp",
+          "alt": "The College Football Hall of Fame beneath a textured evening sky.",
+          "caption": "The College Football Hall of Fame beneath a textured evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/georgia-aquarium.webp",
+          "alt": "The curved blue façade of Georgia Aquarium above landscaped paths.",
+          "caption": "The curved blue façade of Georgia Aquarium above landscaped paths.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/civil-and-human-rights-center.webp",
+          "alt": "Angular museum walls and a tall city tower beyond the park lawn.",
+          "caption": "Angular museum walls and a tall city tower beyond the park lawn.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/justice-mural.webp",
+          "alt": "A colourful mural with a raised hand and the word Justice.",
+          "caption": "A colourful mural with a raised hand and the word Justice.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/world-of-coca-cola.webp",
+          "alt": "The white entrance and tall bottle display at World of Coca-Cola.",
+          "caption": "The white entrance and tall bottle display at World of Coca-Cola.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/tower-and-the-moon.webp",
+          "alt": "A cylindrical glass tower beside the moon in a clear evening sky.",
+          "caption": "A cylindrical glass tower beside the moon in a clear evening sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/olympic-park-fountains.webp",
+          "alt": "Low fountain jets and a tall column across a broad park plaza.",
+          "caption": "Low fountain jets and a tall column across a broad park plaza.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/carriage-beside-the-wheel.webp",
+          "alt": "A driver and horse-drawn carriage beside the observation wheel.",
+          "caption": "A driver and horse-drawn carriage beside the observation wheel.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/skyview-wheel.webp",
+          "alt": "The SkyView observation wheel rising above the street.",
+          "caption": "The SkyView observation wheel rising above the street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-centennial-park/illuminated-corner-building.webp",
+          "alt": "Blue illuminated panels on a corner building at dusk.",
+          "caption": "Blue illuminated panels on a corner building at dusk.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-01",
+          "location": "Centennial Olympic Park, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "The stadium at dusk",
+      "date": "2025-11-01",
+      "location": "Downtown Atlanta",
+      "paragraphs": [
+        "The stadium’s angular walls catch the last light above railway tracks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-01-stadium/stadium-and-light-towers.webp",
+          "alt": "Angular stadium walls and tall light structures beneath thin clouds.",
+          "caption": "Angular stadium walls and tall light structures beneath thin clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Downtown Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-stadium/mercedes-benz-stadium.webp",
+          "alt": "The faceted exterior of Mercedes-Benz Stadium in pink evening light.",
+          "caption": "The faceted exterior of Mercedes-Benz Stadium in pink evening light.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-01",
+          "location": "Downtown Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-01-stadium/tracks-at-dusk.webp",
+          "alt": "Railway tracks leading beneath a road bridge at dusk.",
+          "caption": "Railway tracks leading beneath a road bridge at dusk.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-01",
+          "location": "Downtown Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Autumn and a cloudy night",
+      "date": "2025-11-02",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Red and yellow leaves brighten the day, followed by clouds over the lit city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-02-georgia-tech/autumn-colours.webp",
+          "alt": "Red and yellow autumn trees beneath a bright blue sky.",
+          "caption": "Red and yellow autumn trees beneath a bright blue sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-02",
+          "location": "Georgia Tech, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-02-georgia-tech/clouds-over-the-night-skyline.webp",
+          "alt": "City lights beneath low textured clouds at night.",
+          "caption": "City lights beneath low textured clouds at night.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-02",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A row of gold trees",
+      "date": "2025-11-04",
+      "location": "Atlanta",
+      "paragraphs": [
+        "Autumn foliage fills a roadside row of trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-04-atlanta/golden-roadside-trees.webp",
+          "alt": "A row of yellow-leaved trees beside a pavement and fence.",
+          "caption": "A row of yellow-leaved trees beside a pavement and fence.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-04",
+          "location": "Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "White columns after dark",
+      "date": "2025-11-05",
+      "location": "Midtown, Atlanta",
+      "paragraphs": [
+        "Warm light shines between the columns of a church entrance."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-05-midtown/white-church-columns.webp",
+          "alt": "Tall white church columns and bronze figures illuminated after dark.",
+          "caption": "Tall white church columns and bronze figures illuminated after dark.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-05",
+          "location": "Midtown, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Red and gold on campus",
+      "date": "2025-11-06",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Autumn colour surrounds a modern campus building."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-06-georgia-tech/red-and-gold-leaves.webp",
+          "alt": "Red and yellow foliage around a modern glass-fronted building.",
+          "caption": "Red and yellow foliage around a modern glass-fronted building.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-06",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A late-autumn lake walk",
+      "date": "2025-11-29",
+      "location": "Piedmont Park, Atlanta",
+      "paragraphs": [
+        "The boardwalk leads through bare trees towards the lake. Reflections, a waterside sculpture and birds slow the walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/wooden-boardwalk.webp",
+          "alt": "A wooden boardwalk curving through bare trees.",
+          "caption": "A wooden boardwalk curving through bare trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/gravel-path.webp",
+          "alt": "A pale gravel path beneath trees in late autumn.",
+          "caption": "A pale gravel path beneath trees in late autumn.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/lakeside-flower-sculpture.webp",
+          "alt": "A metal flower sculpture beside the lake with city towers beyond.",
+          "caption": "A metal flower sculpture beside the lake with city towers beyond.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/late-autumn-skyline.webp",
+          "alt": "Midtown buildings reflected in still lake water beneath bare branches.",
+          "caption": "Midtown buildings reflected in still lake water beneath bare branches.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/cloud-reflections.webp",
+          "alt": "White clouds and trees reflected in the calm lake.",
+          "caption": "White clouds and trees reflected in the calm lake.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/duck-at-the-water.webp",
+          "alt": "A black and white duck at the water’s edge among fallen leaves.",
+          "caption": "A black and white duck at the water’s edge among fallen leaves.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-11-29-piedmont-park/bird-at-the-shallows.webp",
+          "alt": "A long-legged bird standing in shallow water below thin branches.",
+          "caption": "A long-legged bird standing in shallow water below thin branches.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-29",
+          "location": "Piedmont Park, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Stars in the trees",
+      "date": "2025-12-01",
+      "location": "Midtown, Atlanta",
+      "paragraphs": [
+        "Small star-shaped lights hang above a garden beside the street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-01-midtown/stars-in-the-trees.webp",
+          "alt": "Warm star-shaped lights hanging in bare trees beside city buildings.",
+          "caption": "Warm star-shaped lights hanging in bare trees beside city buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-01",
+          "location": "Midtown, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Painted faces below the bridge",
+      "date": "2025-12-06",
+      "location": "Piedmont Park, Atlanta",
+      "paragraphs": [
+        "A colourful mural brightens the concrete beneath the bridge."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-06-piedmont-park/faces-under-the-bridge.webp",
+          "alt": "A mural of colourful faces painted on concrete beneath a bridge.",
+          "caption": "A mural of colourful faces painted on concrete beneath a bridge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-06",
+          "location": "Piedmont Park, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Pink evening clouds",
+      "date": "2025-12-12",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "Pink clouds stretch above the city and a stadium floodlight."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-12-georgia-tech/pink-clouds-over-midtown.webp",
+          "alt": "Pink clouds above city towers and a stadium floodlight.",
+          "caption": "Pink clouds above city towers and a stadium floodlight.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-12",
+          "location": "Georgia Tech, Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A December walk through Midtown",
+      "date": "2025-12-13",
+      "location": "Midtown · Piedmont Park, Atlanta",
+      "paragraphs": [
+        "Tall buildings and small gardens line the streets. The walk ends beside still water and leaf-covered paths."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/tower-above-the-trees.webp",
+          "alt": "A tall stepped tower rising above dark green trees.",
+          "caption": "A tall stepped tower rising above dark green trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/city-garden.webp",
+          "alt": "A small garden with red-leaved trees beneath a tall pale building.",
+          "caption": "A small garden with red-leaved trees beneath a tall pale building.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/midtown-mural.webp",
+          "alt": "A brightly coloured Midtown mural beside a shopfront.",
+          "caption": "A brightly coloured Midtown mural beside a shopfront.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/columned-church.webp",
+          "alt": "A broad church façade with tall white columns and a triangular pediment.",
+          "caption": "A broad church façade with tall white columns and a triangular pediment.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/between-the-towers.webp",
+          "alt": "City towers rising above a tree-lined street.",
+          "caption": "City towers rising above a tree-lined street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/walker-and-delivery-robot.webp",
+          "alt": "A pedestrian and a small delivery robot on a Midtown pavement.",
+          "caption": "A pedestrian and a small delivery robot on a Midtown pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/open-fronted-bar.webp",
+          "alt": "People gathered at an open-fronted bar beneath a red awning.",
+          "caption": "People gathered at an open-fronted bar beneath a red awning.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/quiet-december-lake.webp",
+          "alt": "Pink evening clouds and dark trees reflected in quiet lake water.",
+          "caption": "Pink evening clouds and dark trees reflected in quiet lake water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-12-13-midtown/leaf-covered-park-path.webp",
+          "alt": "A narrow park path winding between bare trees and fallen leaves.",
+          "caption": "A narrow park path winding between bare trees and fallen leaves.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-13",
+          "location": "Midtown · Piedmont Park, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "A quiet street towards sunset",
+      "date": "2025-12-14",
+      "location": "Midtown, Atlanta",
+      "paragraphs": [
+        "Bare trees frame a long street and its green cycle lane."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-14-midtown/winter-cycle-lane.webp",
+          "alt": "A green cycle lane curving along a quiet tree-lined city street.",
+          "caption": "A green cycle lane curving along a quiet tree-lined city street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-14",
+          "location": "Midtown, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "Traffic after dark",
+      "date": "2025-12-16",
+      "location": "Atlanta",
+      "paragraphs": [
+        "Tail lights form a red stream through the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-16-atlanta/traffic-at-night.webp",
+          "alt": "A busy multi-lane road with red tail lights beneath city buildings.",
+          "caption": "A busy multi-lane road with red tail lights beneath city buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-16",
+          "location": "Atlanta",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Winter light around the park",
+      "date": "2025-12-20",
+      "location": "Piedmont Park · Midtown, Atlanta",
+      "paragraphs": [
+        "Low sun warms the lake edge and bare trees. A raised path leads back towards the buildings, a rooftop reindeer and a passing trolley."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/golden-lakeside-trees.webp",
+          "alt": "Bare and gold-leaved trees reflected along the lake shore.",
+          "caption": "Bare and gold-leaved trees reflected along the lake shore.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/raised-park-path.webp",
+          "alt": "A raised paved path winding between trees and dry planting.",
+          "caption": "A raised paved path winding between trees and dry planting.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/late-light-on-the-lake.webp",
+          "alt": "Low sunlight on bare trees reflected in still water.",
+          "caption": "Low sunlight on bare trees reflected in still water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta",
+          "wide": true
+        },
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/lakeside-platform.webp",
+          "alt": "A broad wooden platform looking across a quiet lake.",
+          "caption": "A broad wooden platform looking across a quiet lake.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/rooftop-reindeer.webp",
+          "alt": "A large reindeer decoration silhouetted above a roof.",
+          "caption": "A large reindeer decoration silhouetted above a roof.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/glass-buildings-in-evening-light.webp",
+          "alt": "Glass apartment towers catching warm light above a street.",
+          "caption": "Glass apartment towers catching warm light above a street.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta"
+        },
+        {
+          "src": "/photos/atlanta/2025-12-20-piedmont-park/trolley-on-the-street.webp",
+          "alt": "A red trolley-style bus passing bare trees and brick buildings.",
+          "caption": "A red trolley-style bus passing bare trees and brick buildings.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-20",
+          "location": "Piedmont Park · Midtown, Atlanta"
+        }
+      ]
+    },
+    {
+      "title": "The brick walk in winter",
+      "date": "2025-12-23",
+      "location": "Georgia Tech, Atlanta",
+      "paragraphs": [
+        "The long campus walk is quieter beneath bare branches."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/atlanta/2025-12-23-georgia-tech/winter-brick-walk.webp",
+          "alt": "A long brick pedestrian walk between bare trees and low campus buildings.",
+          "caption": "A long brick pedestrian walk between bare trees and low campus buildings.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-12-23",
+          "location": "Georgia Tech, Atlanta"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Atlanta",
+    "latitude": 33.75,
+    "longitude": -84.39,
+    "labelPosition": [
+      900,
+      335
+    ]
+  }
+}

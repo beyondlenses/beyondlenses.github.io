@@ -1,0 +1,3005 @@
+{
+  "trip": "california",
+  "sourceDirectoryHint": "../dumps/california",
+  "sourceCollection": "california",
+  "reviewedImageCount": 415,
+  "fullImageReviewCount": 415,
+  "rawPreviewReviewCount": 0,
+  "shortlistedImageCount": 123,
+  "selectedImageCount": 97,
+  "omittedImageCount": 318,
+  "videoFileCount": 15,
+  "rawFileCount": 0,
+  "reviewScope": "All 415 JPEG/HEIC stills reviewed chronologically in 6 contact sheets; shortlisted candidates reviewed again at up to 492 pixels, with covers at 1600 pixels.",
+  "dateSource": "Camera-local EXIF capture timestamps. OffsetTimeOriginal is retained where present; filenames are not used to infer the day. Unoffset camera timestamps are preserved without assuming synchronized clocks.",
+  "captureDateSources": {
+    "EXIF DateTimeOriginal": 97
+  },
+  "locationNotes": [
+    "Original GPS, visible landmarks, readable signs and neighbouring frames establish places. Exact original GPS is not copied into this manifest or published derivatives.",
+    "Atlanta and Vietnam originals lack usable GPS; location labels rely on visible landmarks and broader collection context. California originals supply GPS for selected sites.",
+    "Nikon and phone clock times in Vietnam are preserved as recorded; they are not treated as synchronized. All selected dates agree with their original capture date.",
+    "No itinerary was present. No completed archive for this collection was present at review time; the existing extracted originals were reviewed without extraction or renaming.",
+    "Originals, videos, RAW files, HEIC originals and review sheets stay outside the website and R2. Only selected metadata-free WebP derivatives are exported."
+  ],
+  "sourceArchiveValidation": null,
+  "locationReferences": [
+    "https://www.ebparks.org/parks/sibley-volcanic",
+    "https://www.parks.marincounty.gov/parkspreserves/preserves/bolinas-lagoon"
+  ],
+  "criteria": [
+    "Choose distinct clear landscapes, architecture, interiors, wildlife, food and candid daily life; compare bursts and avoid padding limited days.",
+    "Group by actual local capture date and location; shorter sections are retained for isolated daily-life photographs.",
+    "Keep each cover once in its album and daily count, without repeating it in the gallery.",
+    "Preserve original framing and colour, correct EXIF orientation, omit EXIF/XMP, and export quality-84 WebP at 2000 pixels or 2400 for covers.",
+    "Local people, performances, crowds and incidental visitors are allowed. peoplePhotoSources is a conservative list to support later review without identifying or matching faces."
+  ],
+  "dailyCounts": {
+    "2023-04-08": 2,
+    "2023-04-09": 16,
+    "2023-04-13": 1,
+    "2023-04-15": 14,
+    "2023-04-16": 1,
+    "2023-04-23": 26,
+    "2023-04-24": 1,
+    "2023-04-27": 2,
+    "2023-04-30": 1,
+    "2023-05-03": 1,
+    "2023-05-06": 8,
+    "2023-05-07": 24
+  },
+  "chapterCounts": [
+    {
+      "date": "2023-04-08",
+      "location": "UC Berkeley",
+      "galleryCount": 2
+    },
+    {
+      "date": "2023-04-09",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "galleryCount": 16
+    },
+    {
+      "date": "2023-04-13",
+      "location": "Berkeley",
+      "galleryCount": 1
+    },
+    {
+      "date": "2023-04-15",
+      "location": "Sibley Volcanic Regional Preserve",
+      "galleryCount": 14
+    },
+    {
+      "date": "2023-04-16",
+      "location": "Berkeley",
+      "galleryCount": 1
+    },
+    {
+      "date": "2023-04-23",
+      "location": "Downtown · Chinatown, San Francisco",
+      "galleryCount": 11
+    },
+    {
+      "date": "2023-04-23",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "galleryCount": 15
+    },
+    {
+      "date": "2023-04-24",
+      "location": "UC Berkeley",
+      "galleryCount": 1
+    },
+    {
+      "date": "2023-04-27",
+      "location": "UC Berkeley",
+      "galleryCount": 2
+    },
+    {
+      "date": "2023-04-30",
+      "location": "UC Berkeley",
+      "galleryCount": 1
+    },
+    {
+      "date": "2023-05-03",
+      "location": "UC Berkeley",
+      "galleryCount": 1
+    },
+    {
+      "date": "2023-05-06",
+      "location": "Berkeley · UC Botanical Garden",
+      "galleryCount": 8
+    },
+    {
+      "date": "2023-05-07",
+      "location": "San Francisco Bay · Sausalito",
+      "galleryCount": 7
+    },
+    {
+      "date": "2023-05-07",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "galleryCount": 13
+    },
+    {
+      "date": "2023-05-07",
+      "location": "San Francisco Bay · San Francisco",
+      "galleryCount": 3
+    }
+  ],
+  "omissionReasons": [
+    "Repeated scenes and near-identical bursts, weaker framing, blurred and badly exposed frames, and most posed portraits.",
+    "Conference slides, work records, routine transport logistics and long repeated road or flight sequences.",
+    "Videos and RAW derivatives are outside the selected WebP photo essay."
+  ],
+  "omittedPhotos": [
+    {
+      "source": "PXL_20230409_232758727.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230409_233900093.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230409_234851213.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230409_234856006.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230409_235304456.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230409_235311391.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_000000512.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_000036544.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_000520728.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_000532044.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_000709003.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_000712886.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_001907848.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_001922749.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_001935028.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_002513121.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_002517098.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_002538333.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_003420552.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_004005304.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_004017435.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_004018761.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_004109925.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_004740793.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_005258500.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010124535.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010126582.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010336352.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010344920.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010635410.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010638466.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_010705297.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_011254017.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_011838441.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_012519492.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_014828394.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_014829996.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_014859056.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_015006617.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_20230409_185056844.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_20230409_185104416.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_015128522.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_015130446.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230410_015536707.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_210405606.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_210408416.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_210953785.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_210958338.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_211118323.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_211329167.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_211343638.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_211553415.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_211739429.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212145538.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212633848.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212635479.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212654750.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212702068.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212719632.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212835930.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_212838330.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213013499.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213015749.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213117132.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213124450.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213129369.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213734826.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213737970.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213739453.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213749370.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_213818285.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_214725301.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_214821842.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_214829710.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_215025703.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_215030333.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_215334751.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_215553102.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_215556661.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_221722253.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_221729515.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_221733386.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_222439568.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_222441785.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_223042635.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_230948479.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_233559348.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230415_234648477.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230416_000847187.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230416_002638683.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230416_003813599.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230416_192702180.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230421_192342458.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230421_223940384.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230421_223944786.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230421_223948540.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230421_223950309.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230422_003540496.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230422_003551177.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230422_003613258.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_191321459.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_194351441.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_194354615.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_194443365.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_194504738.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_194548072.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_195841700.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_195850735.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_200044314.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_200319012.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_200403799.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_201349682.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_202322066.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_210909475.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_212406633.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_212415217.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_213736058.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_214927177.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_215124999.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_215148552.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_215237569.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3438.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3439.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_220227544.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_220934674.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_221330886.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_221410419.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222114436.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222115148.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222259440.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222302146.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222310406.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222325430.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_222845313.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_223829285.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_224258080.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_230032144.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_230707085.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3458.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3459.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3460.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3461.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3462.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3463.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3464.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_233532082.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_233537577.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_233840464.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_234523800.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3465.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3466.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3467.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3468.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3469.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_3471.HEIC",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230423_235628268.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_000246468.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_001431460.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_001853190.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_002047506.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_002051789.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_002851310.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_071230338.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_164651212.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230424_165240913.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230427_175818344.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230430_022309672.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230501_015450010.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230503_024844440.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230503_024855765.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230503_030827304.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230505_053246190.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230505_174225069.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_021045577.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_203742566.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_210146079.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_215629694.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_215632361.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_215728423.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_215759383.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_215812570.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_215926834.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_220155936.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_220202908.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_221003700.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_221010428.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_223143953.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_223224587.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_224628435.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_224634272.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_225746853.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_232007988.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230506_232449208.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_005416677.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_005422336.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_163709295.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_163709570.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165309729.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165316082.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165319801.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_20230507_095553884.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_20230507_095609125.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165747656.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165750829.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165751492.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165752189.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165752866.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165756361.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165757158.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165907755.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_165911992.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_170547003.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_170548765.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_170559966.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_170628520.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_171941486.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_172325690.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_174102499.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_174842324.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_174842395.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_175526156.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_175531842.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_175539673.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_175745367.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_175748950.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_180014531.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_180629797.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_180636121.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_181720781.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_181728046.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_181731660.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_182611314.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_182748046.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_185711921.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_190848080.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_193536650.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_193538829.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194057608.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194058725.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194113917.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194537790.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194539385.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194617403.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_194620551.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195225094.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195228357.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195230797.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195232328.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195235982.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195307399.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195437559.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195440315.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195516083.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_195620236.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200238247.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200618858.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200938345.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200939199.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200941558.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200945620.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200947286.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200948500.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200949982.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_200956053.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_201153987.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_201155279.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_202700578.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203401880.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203406278.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203409021.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203644122.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203645778.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203647128.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203706305.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203710003.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203745117.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203746615.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203754784.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203858596.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_203859234.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204108018.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204111046.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204114695.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204138401.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204141522.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204143556.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204144619.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204145594.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204220657.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204307863.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204319603.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204337501.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204425467.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204651031.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204652369.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204717486.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204815240.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204816189.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204824590.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_204826682.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_210340456.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_210502692.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_210504658.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_210509206.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_210516307.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_210544142.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "IMG_20230507_140723927.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_212526095.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_212528946.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_212625879.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_212632074.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_214146942.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_215803850.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_223328134.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_223855958.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_223858567.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_230824224.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    },
+    {
+      "source": "PXL_20230507_231201805.jpg",
+      "reason": "Not selected after visual review: repeated view or burst, weaker composition, blur or exposure, posed portrait, or routine travel/work record."
+    }
+  ],
+  "excludedPhotos": [],
+  "photos": [
+    {
+      "source": "PXL_20230507_174057833.jpg",
+      "sourceSha256": "864fe908bcf2bbe0531bfc9d9f45377496d80af4aab45fa7014e84dfb8d97bc5",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/san-francisco-from-the-ferry.webp",
+      "role": "cover",
+      "maxEdge": 2400,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T10:40:57",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Representative cover checked at 1600 pixels; used once and excluded from the gallery.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230408_195059447.jpg",
+      "sourceSha256": "7ee09c22a3465d2855cf2508e3c497b39daadf2f6d647fdf34a94fef33b569be",
+      "src": "/photos/california/2023-04-08-berkeley/pink-blossom.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-08",
+      "capturedAtLocal": "2023-04-08T12:50:59",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230408_200025131.jpg",
+      "sourceSha256": "8cd63c83d39217c04bc378c8f423b1813cb4f98acfc44715e1583bea20fd9cdc",
+      "src": "/photos/california/2023-04-08-berkeley/sather-gate.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-08",
+      "capturedAtLocal": "2023-04-08T13:00:25",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230409_233601981.jpg",
+      "sourceSha256": "d76e59e300280b965de97dd1b94339116ba2f3a8f2bb760f5adfcce470701319",
+      "src": "/photos/california/2023-04-09-east-bay-shore/creek-towards-the-bay.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T16:36:01",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230409_234838149.jpg",
+      "sourceSha256": "507bf78834a2726bd4f12ea4b28bd2f467d29f1f2f8aa8154c34a0893760c684",
+      "src": "/photos/california/2023-04-09-east-bay-shore/the-bulb-arch.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T16:48:38",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230409_234914399.jpg",
+      "sourceSha256": "6124274dfe728cd2ba5d66418905a88d5d19c72df992c4ff5b1e3d1dc9fc2253",
+      "src": "/photos/california/2023-04-09-east-bay-shore/path-beside-the-bay.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T16:49:14",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230409_235830860.jpg",
+      "sourceSha256": "20be53b8ab82354cd840ea9e9148d727e18b05513bcb56adf51dc36524f9ec26",
+      "src": "/photos/california/2023-04-09-east-bay-shore/flowers-on-the-slope.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T16:58:30",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_000010001.jpg",
+      "sourceSha256": "647cb5aa1d5ad0db99d8fce799a8bb6dd04a8d80d25745a72882967dc1b2d69e",
+      "src": "/photos/california/2023-04-09-east-bay-shore/rocky-spit.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T17:00:10",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_000155075.jpg",
+      "sourceSha256": "d07a686254605210632f7f03ae501624d9a1dd6fad82ad03dc299e791f738df5",
+      "src": "/photos/california/2023-04-09-east-bay-shore/art-on-the-shore.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T17:01:55",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_000354332.jpg",
+      "sourceSha256": "4a3611cc178dbf8278789149d1d68ac1b8b3f3b82b12de03e58695b8d3ec7abe",
+      "src": "/photos/california/2023-04-09-east-bay-shore/painted-timber.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T17:03:54",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_002102537.jpg",
+      "sourceSha256": "3de738955e7adbd489438bd7fd1ad8e844e2d8de617dd38517c5711c8fe48c19",
+      "src": "/photos/california/2023-04-09-east-bay-shore/bridge-beside-the-water.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T17:21:02",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_004418012.jpg",
+      "sourceSha256": "9c99164c8e0349104c87b177c5409802a24c35798bd650846d201fefbceac186",
+      "src": "/photos/california/2023-04-09-east-bay-shore/tree-by-the-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T17:44:18",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_010119395.jpg",
+      "sourceSha256": "fb0131d9636b260ce572027c614949121c82ca2cf8786e0f06cc9a459a811dcd",
+      "src": "/photos/california/2023-04-09-east-bay-shore/open-waterfront-meadow.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:01:19",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_010441154.jpg",
+      "sourceSha256": "0c2e2bbe93ffe1b4e109b3115d6dd8d94fd9d9a64d5184d55caaa025016de839",
+      "src": "/photos/california/2023-04-09-east-bay-shore/flowers-and-bench.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:04:41",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_011040117.jpg",
+      "sourceSha256": "d090731d18c8920ab903ba1a7ee5d29855949f9c38e29ddefbcb7fb2090ef56f",
+      "src": "/photos/california/2023-04-09-east-bay-shore/marina-masts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:10:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_012906830.jpg",
+      "sourceSha256": "e2484adff63aa26833224e725595f1712744b87457b6d76056c56659d604c8f8",
+      "src": "/photos/california/2023-04-09-east-bay-shore/the-tidal-inlet.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:29:06",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_014355780.jpg",
+      "sourceSha256": "c167c66e9c45a7fdfac49f01e1ad49a1cf3e83c275960d2fe5e5d2d889f85d1a",
+      "src": "/photos/california/2023-04-09-east-bay-shore/green-arched-footbridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:43:55",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_014940453.jpg",
+      "sourceSha256": "a7237fab12537fb92dde2a023b9df61fe2740aac71bd3d16c0e7d994ad888f9d",
+      "src": "/photos/california/2023-04-09-east-bay-shore/inside-the-footbridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:49:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230410_015125533.jpg",
+      "sourceSha256": "4963d36540cfa0039cc82163691edf4b5956f8b0617b83a58646f2b6648fd257",
+      "src": "/photos/california/2023-04-09-east-bay-shore/evening-reflections.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-09",
+      "capturedAtLocal": "2023-04-09T18:51:25",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Albany Bulb · Berkeley waterfront",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230414_015126029.jpg",
+      "sourceSha256": "676973afd21539484ca5fe471be9007e6c762dcfe40b66e9c1f3cf31d62016bb",
+      "src": "/photos/california/2023-04-13-berkeley/red-wall-mural.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-13",
+      "capturedAtLocal": "2023-04-13T18:51:26",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_210401387.jpg",
+      "sourceSha256": "b03b69c8f7b77ed8a055b9942fcac174d6411b636db461b9222cb33634a60cb4",
+      "src": "/photos/california/2023-04-15-sibley/green-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:04:01",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_211327400.jpg",
+      "sourceSha256": "01bdb320ce3b0ad25c00404bd53e711a33a9fe422a2df4a5bb8bc86629f06b36",
+      "src": "/photos/california/2023-04-15-sibley/walkers-on-the-trail.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:13:27",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_212132634.jpg",
+      "sourceSha256": "c23330fb246764dc6d73d879f71247eefb8db8546329f10d75d3a781694669fe",
+      "src": "/photos/california/2023-04-15-sibley/view-across-the-valley.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:21:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_212632495.jpg",
+      "sourceSha256": "e301dfb68e205a3c836732effeda496d35c77218332acda49d84c877f5badd94",
+      "src": "/photos/california/2023-04-15-sibley/rocky-ridge-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:26:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_213008691.jpg",
+      "sourceSha256": "15ac3effe781ca287a2cb795bd8f25b8fe378b8be491beb8b80842b08d503d27",
+      "src": "/photos/california/2023-04-15-sibley/winding-hillside-trails.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:30:08",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_213815525.jpg",
+      "sourceSha256": "3143187e39d3ebf41e7917f84e174302a4c240d5e442094d1929e38a170925ef",
+      "src": "/photos/california/2023-04-15-sibley/walking-the-ridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:38:15",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_214823828.jpg",
+      "sourceSha256": "93ee62e6f28c6cb82456cb90deda8b0b0d807070a07416ba9fa7507c7cc1cad4",
+      "src": "/photos/california/2023-04-15-sibley/red-rock-outcrop.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:48:23",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_215032837.jpg",
+      "sourceSha256": "17391273e62bc114ca61559bb5d0c122170e26cf80c7c560f4816e6f617fa2b0",
+      "src": "/photos/california/2023-04-15-sibley/path-past-the-boulder.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:50:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_215551260.jpg",
+      "sourceSha256": "36d675dfbcc3d85080b38bf3e77b005c5b3a74a95f62c8939a10082834b49c5d",
+      "src": "/photos/california/2023-04-15-sibley/folds-of-the-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T14:55:51",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_222231698.jpg",
+      "sourceSha256": "5c8de2feac8e4c589b8eb96db191606b938b431a1b702e8340f1fd17844ed0cf",
+      "src": "/photos/california/2023-04-15-sibley/quiet-green-clearing.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T15:22:31",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_222945229.jpg",
+      "sourceSha256": "e9f686788beac3c31c36d1c82c9a5b07bfe58d28d1a4821abf09be98a0d321d6",
+      "src": "/photos/california/2023-04-15-sibley/creek-in-the-shade.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T15:29:45",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_223414341.jpg",
+      "sourceSha256": "86c8d7f07c9b25e543b874ab3d40d0fad8a8612ee9dcf7479ca8ee5c8a555084",
+      "src": "/photos/california/2023-04-15-sibley/woodland-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T15:34:14",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230415_233555896.jpg",
+      "sourceSha256": "9a00b56368898c056e89c3950e1fd4c8fa41dcb1dd9c70134baad5515efa5b4a",
+      "src": "/photos/california/2023-04-15-sibley/branching-trail-tree.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T16:35:55",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230416_005219128.jpg",
+      "sourceSha256": "57cfcc2ab06f7764e3eb54031ad1800927753f9c9e520d873905274c7c02efd7",
+      "src": "/photos/california/2023-04-15-sibley/bay-from-the-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-15",
+      "capturedAtLocal": "2023-04-15T17:52:19",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Sibley Volcanic Regional Preserve",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230417_021533423.jpg",
+      "sourceSha256": "ea976b6e07245d9953e32273f0618fdb49ff57870844977d71adb5d906923a28",
+      "src": "/photos/california/2023-04-16-berkeley/trees-in-evening-light.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-16",
+      "capturedAtLocal": "2023-04-16T19:15:33",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_194342449.jpg",
+      "sourceSha256": "e08be1983723f14078f9e15252ab570e05aa1327d1652a52047e7c04fd57c1df",
+      "src": "/photos/california/2023-04-23-san-francisco/old-street-lamp.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T12:43:42",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_194543754.jpg",
+      "sourceSha256": "6b6516acf24c4751fc108397823aebb77f80ef409bed613c57513d551e50c05b",
+      "src": "/photos/california/2023-04-23-san-francisco/pale-downtown-facade.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T12:45:43",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_194949525.jpg",
+      "sourceSha256": "43738d7efa8bd06fad9bc6c7cdbd0b4bae87a3564255fe02017ef9248172604a",
+      "src": "/photos/california/2023-04-23-san-francisco/streetcar-wires.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T12:49:49",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_200006826.jpg",
+      "sourceSha256": "6f2fd11b98aa2dd749feea7fdee5b09adb2fd98a8d083f940c803652c7f479b6",
+      "src": "/photos/california/2023-04-23-san-francisco/chinatown-pavilion.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T13:00:06",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_200059512.jpg",
+      "sourceSha256": "59bc86eba143b0394544f23061e6d6d231a62ee632c9e37c78bb60200ae4441a",
+      "src": "/photos/california/2023-04-23-san-francisco/portsmouth-square.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T13:00:59",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_200316492.jpg",
+      "sourceSha256": "e41a9d4900346e882075a391e59b8b5e87da45533127baddb782e69f31285dd6",
+      "src": "/photos/california/2023-04-23-san-francisco/lanterns-along-the-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T13:03:16",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_200333776.jpg",
+      "sourceSha256": "0fd45c0c8d38a737f4905774b9401aa3d6cfb7e94cadb2b85be1e0ff7bec5320",
+      "src": "/photos/california/2023-04-23-san-francisco/colourful-chinatown-fronts.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T13:03:33",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_210746346.jpg",
+      "sourceSha256": "63a7ee5b553f5a0dac1442a2182e04ad09b72320b6685120186024888f13b3ca",
+      "src": "/photos/california/2023-04-23-san-francisco/transamerica-from-chinatown.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T14:07:46",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_211729065.jpg",
+      "sourceSha256": "370ff51fd5083a0b6af9bc247a79c7b62781a4fd48b1db23133d1fd871445c81",
+      "src": "/photos/california/2023-04-23-san-francisco/cable-car-machinery.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T14:17:29",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_214709994.jpg",
+      "sourceSha256": "3dfec9a3e5b3639608269cd94ed85725b4115a1bc60bb50b674bd7a82ecc7f6e",
+      "src": "/photos/california/2023-04-23-san-francisco/inside-the-cable-car.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T14:47:09",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_215232764.jpg",
+      "sourceSha256": "d16c8758b286d033e3476c8075eccdd57128cc665a025c2603d4992e8c29e612",
+      "src": "/photos/california/2023-04-23-san-francisco/cable-car-at-the-stop.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T14:52:32",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Downtown · Chinatown, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_220225204.jpg",
+      "sourceSha256": "c00f8c984e481a8c4c5a068144cac6d79f18ceb2d2cc622a5f7efa3ced29cde0",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/fishermans-wharf.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:02:25",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_221326419.jpg",
+      "sourceSha256": "f66129357cf0b6fa4325abed54e90307dd0fe2696f573b801f9fcfe5546f8e06",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/pinball-machines.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:13:26",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_221812600.jpg",
+      "sourceSha256": "4fece4c7a84dc081743d8d9ffc12477890ac46fad3e7a1577b220c8e6d5fcff2",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/arch-over-the-pier.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:18:12",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_222115232.jpg",
+      "sourceSha256": "165b6d9292aca009928641c278daf790213817d00ef2032483bdc761c26b4f6a",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/gull-above-the-pier.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:21:15",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_222524410.jpg",
+      "sourceSha256": "4f90e61f33690b5e642518bca86c3f8266c03b533887cd30a60830c7573f0e7e",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/pier-39-shop.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:25:24",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_223655063.jpg",
+      "sourceSha256": "64b688603e9fdd086ec702a5f7f631417a3b0dc4040d45c3e0d4703eed76afd1",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/sea-lions-at-pier-39.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:36:55",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_224324204.jpg",
+      "sourceSha256": "e1427f91c83da63781695eb67c72e7ac251f1d56962e02d01d8bfab9ea50b3dd",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/marina-and-the-city.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T15:43:24",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_230705299.jpg",
+      "sourceSha256": "c6a0dfa77fb21b115c8b3b8d30ac2c950b0912c742c4d05bfaaa2650d75394ab",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/red-and-white-streetcar.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T16:07:05",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_233528920.jpg",
+      "sourceSha256": "517d3ae1aa6288466f8558b70d2099774bbfe80d47a323dc20ac93bed9892944",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/bay-from-the-bridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T16:35:28",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_233626799.jpg",
+      "sourceSha256": "baaa2ab8a64ab6b196e53dec86817e36b1bd495cbb072776896d417f4ad9405b",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/golden-gate-tower.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T16:36:26",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_234521202.jpg",
+      "sourceSha256": "8db054b0b752a878b0b1908e27bfa906b67211563c76ae5a28725083a6048960",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/walking-the-golden-gate.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T16:45:21",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230423_235627027.jpg",
+      "sourceSha256": "e80e68ca85577ba229780a24f04b8e23c71119e5a419dc1dcd219f7bccc64870",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/bridge-from-the-plaza.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T16:56:27",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230424_002353309.jpg",
+      "sourceSha256": "cdd71b0220f3a7ba49ab9b3966165fc6db433fc5fbf7a1f9af33787d9e7211a0",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/bay-window-facade.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T17:23:53",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230424_003612494.jpg",
+      "sourceSha256": "88f5fca6312df1ff47c9e206e3e0fe53ec766dfa033690a844f0607deea9bdc8",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/painted-city-windows.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T17:36:12",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230424_014109365.jpg",
+      "sourceSha256": "5170b0cb9f25b45ff5a544214353a946dc94381de75a2f97050371270f656f2d",
+      "src": "/photos/california/2023-04-23-san-francisco-waterfront/dumplings-for-dinner.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-23",
+      "capturedAtLocal": "2023-04-23T18:41:09",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Fisherman’s Wharf · Golden Gate Bridge, San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230425_011621718.jpg",
+      "sourceSha256": "9d14a62eec1d906f6653e373a4cd71186a87b6bad8396ff4d3a64f00de67f286",
+      "src": "/photos/california/2023-04-24-berkeley/campus-lawn.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-24",
+      "capturedAtLocal": "2023-04-24T18:16:21",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230427_175921452.jpg",
+      "sourceSha256": "291e73618027e68287306df597e870ba3e58671bcc8b1c28dfe0c3c001ea967f",
+      "src": "/photos/california/2023-04-27-berkeley/arched-campus-entrances.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-27",
+      "capturedAtLocal": "2023-04-27T10:59:21",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230427_180106042.jpg",
+      "sourceSha256": "bcfaa7f4461c7d238fc1041822fcf4cdc70f2f37e1c05d53cc54ec92bc1559db",
+      "src": "/photos/california/2023-04-27-berkeley/tall-campus-windows.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-27",
+      "capturedAtLocal": "2023-04-27T11:01:06",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230430_233051868.jpg",
+      "sourceSha256": "461bce9ba1f69c84e91c49a8bab8ffdbad6111b133480509036f59ddb25acef2",
+      "src": "/photos/california/2023-04-30-berkeley/curved-campus-wall.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-04-30",
+      "capturedAtLocal": "2023-04-30T16:30:51",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230504_014927737.jpg",
+      "sourceSha256": "6c5c10d2cd5f69ec8b910a9a70ece8648f2f45d480da1a4dfd6cc1dbb13c0fe9",
+      "src": "/photos/california/2023-05-03-berkeley/quiet-campus-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-03",
+      "capturedAtLocal": "2023-05-03T18:49:27",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "UC Berkeley",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_220045356.jpg",
+      "sourceSha256": "904b091c18c17aa6e47fbc05b62748c61c15f28cf27150f1cdeff2cff7bf9f23",
+      "src": "/photos/california/2023-05-06-botanical-garden/leafy-uphill-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:00:45",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_220211116.jpg",
+      "sourceSha256": "865bddbce5c230bc3451c94dc1f76b3c31a64e085d9e3892e303b20fe3fa40c5",
+      "src": "/photos/california/2023-05-06-botanical-garden/roots-beside-the-path.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:02:11",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_223141295.jpg",
+      "sourceSha256": "ab97d8116cba4b1bd267eb099e7c0a11bd32576b0fb08b39c648a51113b02858",
+      "src": "/photos/california/2023-05-06-botanical-garden/inside-the-glasshouse.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:31:41",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_223557438.jpg",
+      "sourceSha256": "f7369cd7d81b7f24962343b8ca708203861eeb9c9db6e6bbe43a0bfa708d8fe8",
+      "src": "/photos/california/2023-05-06-botanical-garden/garden-paths.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:35:57",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_223608434.jpg",
+      "sourceSha256": "bb58dd52fbe48ccf7342f1e4e253480fb3a50ded364bb318ad5dc8302fc4ac40",
+      "src": "/photos/california/2023-05-06-botanical-garden/garden-steps.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:36:08",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_224139391.jpg",
+      "sourceSha256": "cf7bc7c67603c175fb44e8faf1506fc72e65e80e3b25f4053c9dc3d2a4c4f8e1",
+      "src": "/photos/california/2023-05-06-botanical-garden/cactus-and-glasshouses.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:41:39",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_225128784.jpg",
+      "sourceSha256": "b057ee10a61e299b6ab9a45a1efd9317b24a88e23cf707b0c435711f813bdd71",
+      "src": "/photos/california/2023-05-06-botanical-garden/clouds-above-the-garden.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:51:28",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230506_225843235.jpg",
+      "sourceSha256": "23f8e499143d8a89566d886803f6f36064b3e62500b045e6247addba23cd7f7c",
+      "src": "/photos/california/2023-05-06-botanical-garden/garden-roof-and-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-06",
+      "capturedAtLocal": "2023-05-06T15:58:43",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Berkeley · UC Botanical Garden",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_165503097.jpg",
+      "sourceSha256": "5e46c8efedd71d468bb02b00b9eaff3ca956f9c91df704f3d5256b27ad1de10d",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/water-beside-the-road.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T09:55:03",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_170627210.jpg",
+      "sourceSha256": "60863dbdcd20125d37ee66bc106f29428ac249e68e3413d824eb905455942d22",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/terminal-arches.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T10:06:27",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_171947368.jpg",
+      "sourceSha256": "c9022eadc9de674021f6d7f9482b8b5641dc5e1fbb82d2187496084ac1174fb1",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/san-francisco-ferry-terminal.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T10:19:47",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_174844056.jpg",
+      "sourceSha256": "fd6dbc3e7b8d44bd32714ad24a73878cdab6fd7c801895749caf6d2e61014d7d",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/ferry-wake.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T10:48:44",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_175553558.jpg",
+      "sourceSha256": "7fb711bbf2c0c41706ac276cc4f7668e9a45956d764ba0b1f84d2308f3fbf01f",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/island-from-the-ferry.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T10:55:53",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_180704396.jpg",
+      "sourceSha256": "fe44503025e115c39cc1dd2851b4c05cf08731d6df4266177219aa1127444790",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/sausalito-landing.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T11:07:04",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_181724452.jpg",
+      "sourceSha256": "8e1ef46cb86118488efa148e96db5ec9d1ec2880e6237ae1a176fa73498f93f6",
+      "src": "/photos/california/2023-05-07-san-francisco-bay/sausalito-street.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T11:17:24",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · Sausalito",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_190921026.jpg",
+      "sourceSha256": "e6ec72896d3dc68a914c6f3a8205c86e768c00bd76acde4ac08e817f732785ff",
+      "src": "/photos/california/2023-05-07-bolinas/bay-beyond-the-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T12:09:21",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_195222267.jpg",
+      "sourceSha256": "b1eaa86c8e8ff5c63952b4d87d459ac1429e4e82c36b2cd5cfe1591efe66533c",
+      "src": "/photos/california/2023-05-07-bolinas/bolinas-lagoon.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T12:52:22",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_195517648.jpg",
+      "sourceSha256": "d507ebbe53046f0d1e2939f49f46e6415fe326976cd0c85685846b7d6e62f6b2",
+      "src": "/photos/california/2023-05-07-bolinas/lagoon-beneath-the-branches.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T12:55:17",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_200226873.jpg",
+      "sourceSha256": "be4fa3c28a9d36e66356a92572a6d4825f6f715a36403bcf4ee4db92cf0e3e70",
+      "src": "/photos/california/2023-05-07-bolinas/garden-sign.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:02:26",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_200740862.jpg",
+      "sourceSha256": "e04d9ffc85ccadeca8dae128ddb3f408dd59ae235a21b0781da664b57cd44795",
+      "src": "/photos/california/2023-05-07-bolinas/steps-to-the-beach.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:07:40",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_200937189.jpg",
+      "sourceSha256": "e56279978f0c0ef248653eef152dfd13f0fd3a5634c167d4aa6fd90c5ddc38ae",
+      "src": "/photos/california/2023-05-07-bolinas/waves-at-bolinas.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:09:37",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_200944061.jpg",
+      "sourceSha256": "d3dc08fcb9ddc18b273341354fa644bce27d0b82e67796bfebd71ec09f8435f9",
+      "src": "/photos/california/2023-05-07-bolinas/cliffs-above-the-beach.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:09:44",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_200955127.jpg",
+      "sourceSha256": "7d3d58eb045be58d99d3fa19e0712749e337256b03cbfc368c4b7c5d4af59479",
+      "src": "/photos/california/2023-05-07-bolinas/houses-above-the-sand.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:09:55",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_201354583.jpg",
+      "sourceSha256": "c35d58d29b0596c21f6f88c3884fdfe0f86a84f06fece2e1769a1377ece33d88",
+      "src": "/photos/california/2023-05-07-bolinas/poetry-and-coffee.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:13:54",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_201618804.jpg",
+      "sourceSha256": "0e648ec0cec90702563886b8ec384957c985f2e1fdcec24bda90839dedabb8cc",
+      "src": "/photos/california/2023-05-07-bolinas/village-tennis-court.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:16:18",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_203703090.jpg",
+      "sourceSha256": "c81d900069200eca707226c1f81cfaa0d6f65dfe4240126ec1db89be1bb1422a",
+      "src": "/photos/california/2023-05-07-bolinas/coastal-hills.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T13:37:03",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_212533423.jpg",
+      "sourceSha256": "cab765a410c6e14228841a766112a664bd5ee4b01225a7f171d57921ea94efb3",
+      "src": "/photos/california/2023-05-07-bolinas/wooded-marin-valley.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T14:25:33",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_212633733.jpg",
+      "sourceSha256": "0a2e04b242e1bd632231f03b3961f08eced74ce94064be2365253766edac2c35",
+      "src": "/photos/california/2023-05-07-bolinas/green-slopes-and-distant-ocean.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T14:26:33",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "Bolinas Lagoon · Bolinas · Marin County",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_223323288.jpg",
+      "sourceSha256": "3ffd7e8b4a38bb6b0eb86772577b8895f6f266ba98f5d2a4ccddda1befe4a9d7",
+      "src": "/photos/california/2023-05-07-return-ferry/along-the-ferry.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T15:33:23",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_224614750.jpg",
+      "sourceSha256": "1cc3c2fe8fa2160feda903b34fa7750fee54ae5cb869039ab6eaf176df602937",
+      "src": "/photos/california/2023-05-07-return-ferry/bay-bridge.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T15:46:14",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    },
+    {
+      "source": "PXL_20230507_230849584.jpg",
+      "sourceSha256": "bed1aa6210bf9bc98e257ba7a60d2b8d83ebb907ca21887e60768677d67aadcd",
+      "src": "/photos/california/2023-05-07-return-ferry/green-and-cream-streetcar.webp",
+      "role": "gallery",
+      "maxEdge": 2000,
+      "quality": 84,
+      "capturedOn": "2023-05-07",
+      "capturedAtLocal": "2023-05-07T16:08:49",
+      "captureDateSource": "EXIF DateTimeOriginal",
+      "location": "San Francisco Bay · San Francisco",
+      "locationBasis": "Visible landmarks and signs, chronological context and original GPS where present. Broader labels are used where a precise location is uncertain.",
+      "selectionReason": "Distinct scene selected after complete chronological contact sheets and larger candidate review; repeated and weaker alternatives omitted.",
+      "utcOffset": "-07:00",
+      "utcOffsetBasis": "Original OffsetTimeOriginal tag; no UTC conversion applied to the camera-local capture date."
+    }
+  ],
+  "peoplePhotoSources": [
+    "PXL_20230408_200025131.jpg",
+    "PXL_20230409_234914399.jpg",
+    "PXL_20230410_002102537.jpg",
+    "PXL_20230410_010119395.jpg",
+    "PXL_20230410_011040117.jpg",
+    "PXL_20230410_014940453.jpg",
+    "PXL_20230415_211327400.jpg",
+    "PXL_20230415_213815525.jpg",
+    "PXL_20230416_005219128.jpg",
+    "PXL_20230423_194342449.jpg",
+    "PXL_20230423_194949525.jpg",
+    "PXL_20230423_200006826.jpg",
+    "PXL_20230423_200059512.jpg",
+    "PXL_20230423_200316492.jpg",
+    "PXL_20230423_200333776.jpg",
+    "PXL_20230423_210746346.jpg",
+    "PXL_20230423_214709994.jpg",
+    "PXL_20230423_215232764.jpg",
+    "PXL_20230423_220225204.jpg",
+    "PXL_20230423_222115232.jpg",
+    "PXL_20230423_222524410.jpg",
+    "PXL_20230423_223655063.jpg",
+    "PXL_20230423_224324204.jpg",
+    "PXL_20230423_230705299.jpg",
+    "PXL_20230423_233626799.jpg",
+    "PXL_20230423_234521202.jpg",
+    "PXL_20230423_235627027.jpg",
+    "PXL_20230424_002353309.jpg",
+    "PXL_20230424_003612494.jpg",
+    "PXL_20230506_223557438.jpg",
+    "PXL_20230507_170627210.jpg",
+    "PXL_20230507_171947368.jpg",
+    "PXL_20230507_174844056.jpg",
+    "PXL_20230507_180704396.jpg",
+    "PXL_20230507_181724452.jpg",
+    "PXL_20230507_200740862.jpg",
+    "PXL_20230507_200944061.jpg",
+    "PXL_20230507_200955127.jpg",
+    "PXL_20230507_201354583.jpg",
+    "PXL_20230507_201618804.jpg",
+    "PXL_20230507_230849584.jpg"
+  ]
+}
