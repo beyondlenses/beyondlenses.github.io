@@ -1,0 +1,1790 @@
+{
+  "slug": "britain",
+  "photoStorage": "r2",
+  "title": "Britain (UK)",
+  "subtitle": "University stonework and festival streets in Scotland, followed by London’s parks, galleries, river walks and evening lights.",
+  "country": "United Kingdom",
+  "location": "Glasgow · Edinburgh · London",
+  "category": "A journey through Scotland and England",
+  "order": 5,
+  "demo": false,
+  "startDate": "2025-08-10",
+  "endDate": "2025-08-18",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/tower-bridge-on-the-thames.webp",
+    "alt": "The two stone towers and blue suspension elements of Tower Bridge above the Thames beneath a clear blue sky.",
+    "caption": "The two stone towers and blue suspension elements of Tower Bridge above the Thames beneath a clear blue sky.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2025-08-17",
+    "location": "Tower Bridge, London"
+  },
+  "chapters": [
+    {
+      "title": "First afternoon in Glasgow",
+      "date": "2025-08-10",
+      "location": "University of Glasgow",
+      "paragraphs": [
+        "Gothic stonework, a sheltered gateway and green slopes mark the first walk around the university. The photographs begin beneath a grey Glasgow sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-10-glasgow/gothic-stonework.webp",
+          "alt": "Gothic windows and a round stone turret beside a green university lawn.",
+          "caption": "Gothic windows and a round stone turret beside a green university lawn.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-10",
+          "location": "University of Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-10-glasgow/university-gateway.webp",
+          "alt": "A pointed stone gateway framing a shaded passage through the university.",
+          "caption": "A pointed stone gateway framing a shaded passage through the university.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-10",
+          "location": "University of Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-10-glasgow/university-tower.webp",
+          "alt": "The University of Glasgow tower rising above the long stone façade.",
+          "caption": "The University of Glasgow tower rising above the long stone façade.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-10",
+          "location": "University of Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-10-glasgow/gardens-below-the-university.webp",
+          "alt": "A stone monument below a green wooded slope.",
+          "caption": "A stone monument below a green wooded slope.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-10",
+          "location": "Kelvingrove Park, Glasgow"
+        }
+      ]
+    },
+    {
+      "title": "Around a Glasgow table",
+      "date": "2025-08-11",
+      "location": "Glasgow",
+      "paragraphs": [
+        "The next photograph is a pause indoors: small bowls and plates crowded together on a checked tablecloth."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-11-glasgow/dinner-in-glasgow.webp",
+          "alt": "Bowls of curry and side dishes arranged on a red and white checked restaurant table.",
+          "caption": "Bowls of curry and side dishes arranged on a red and white checked restaurant table.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-11",
+          "location": "Glasgow"
+        }
+      ]
+    },
+    {
+      "title": "Rooms and streets of Glasgow",
+      "date": "2025-08-12",
+      "location": "Glasgow",
+      "paragraphs": [
+        "An ornate civic interior leads out to the stone façades around George Square. The evening ends at a restaurant table."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-12-glasgow/ornate-civic-hall.webp",
+          "alt": "A decorated arched hall with chandeliers, painted panels and a small stage.",
+          "caption": "A decorated arched hall with chandeliers, painted panels and a small stage.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-12",
+          "location": "Glasgow City Chambers"
+        },
+        {
+          "src": "/photos/britain/2025-08-12-glasgow/glasgow-city-chambers.webp",
+          "alt": "The ornate stone façade of Glasgow City Chambers against a pale evening sky.",
+          "caption": "The ornate stone façade of Glasgow City Chambers against a pale evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-12",
+          "location": "George Square, Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-12-glasgow/dinner-and-side-dishes.webp",
+          "alt": "A restaurant dish with sauce, flatbread and small bowls of side dishes.",
+          "caption": "A restaurant dish with sauce, flatbread and small bowls of side dishes.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-12",
+          "location": "Glasgow"
+        }
+      ]
+    },
+    {
+      "title": "The university after sunset",
+      "date": "2025-08-13",
+      "location": "University of Glasgow",
+      "paragraphs": [
+        "Warm light catches the stone arches and tower as the sky turns deep blue."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-13-glasgow/university-at-blue-hour.webp",
+          "alt": "The lit university façade and tower beneath a deep blue evening sky.",
+          "caption": "The lit university façade and tower beneath a deep blue evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-13",
+          "location": "University of Glasgow"
+        }
+      ]
+    },
+    {
+      "title": "An evening at Kelvingrove",
+      "date": "2025-08-14",
+      "location": "Kelvingrove Art Gallery and Museum, Glasgow",
+      "paragraphs": [
+        "The museum’s organ and high arched windows overlook a tiled hall set for dinner. Later, suspended heads and soft coloured light fill the space above."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-14-kelvingrove/kelvingrove-organ.webp",
+          "alt": "The large organ framed by arches and columns inside Kelvingrove.",
+          "caption": "The large organ framed by arches and columns inside Kelvingrove.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-14",
+          "location": "Kelvingrove Art Gallery and Museum, Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-14-kelvingrove/museum-lamps-and-windows.webp",
+          "alt": "Ornate hanging lamps beneath high arched museum windows.",
+          "caption": "Ornate hanging lamps beneath high arched museum windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-14",
+          "location": "Kelvingrove Art Gallery and Museum, Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-14-kelvingrove/museum-hall-from-above.webp",
+          "alt": "Round dining tables arranged on the tiled floor of the museum hall.",
+          "caption": "Round dining tables arranged on the tiled floor of the museum hall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-14",
+          "location": "Kelvingrove Art Gallery and Museum, Glasgow"
+        },
+        {
+          "src": "/photos/britain/2025-08-14-kelvingrove/floating-heads.webp",
+          "alt": "Suspended white heads lit in pale green beneath the museum roof.",
+          "caption": "Suspended white heads lit in pale green beneath the museum roof.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-14",
+          "location": "Kelvingrove Art Gallery and Museum, Glasgow"
+        }
+      ]
+    },
+    {
+      "title": "An afternoon in Edinburgh",
+      "date": "2025-08-15",
+      "location": "Edinburgh",
+      "paragraphs": [
+        "Festival crowds and street performers fill the old town. Between the lanes and shop fronts, the castle rises above the gardens and the city’s monuments."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/glasgow-station-concourse.webp",
+          "alt": "Travellers beneath the departures boards and glass roof of a railway station.",
+          "caption": "Travellers beneath the departures boards and glass roof of a railway station.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Glasgow Queen Street"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/old-town-above-the-gardens.webp",
+          "alt": "Stone buildings of Edinburgh’s old town rising above green trees.",
+          "caption": "Stone buildings of Edinburgh’s old town rising above green trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/old-town-steps.webp",
+          "alt": "A long flight of stone steps between tall old-town buildings.",
+          "caption": "A long flight of stone steps between tall old-town buildings.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/festival-on-the-royal-mile.webp",
+          "alt": "A performer holding a sign above the festival crowd on the Royal Mile.",
+          "caption": "A performer holding a sign above the festival crowd on the Royal Mile.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Royal Mile, Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/royal-mile-crowds.webp",
+          "alt": "A busy pedestrian street lined with stone façades and distant spires.",
+          "caption": "A busy pedestrian street lined with stone façades and distant spires.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Royal Mile, Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/street-musician.webp",
+          "alt": "A musician playing in a cobbled square with an open guitar case.",
+          "caption": "A musician playing in a cobbled square with an open guitar case.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/timber-fronted-house.webp",
+          "alt": "A projecting timber façade above a narrow cobbled lane.",
+          "caption": "A projecting timber façade above a narrow cobbled lane.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/artist-at-work.webp",
+          "alt": "An artist drawing at a small table beside displayed pictures.",
+          "caption": "An artist drawing at a small table beside displayed pictures.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/castle-above-the-rock.webp",
+          "alt": "Edinburgh Castle’s stone buildings and walls above a steep rocky slope.",
+          "caption": "Edinburgh Castle’s stone buildings and walls above a steep rocky slope.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh Castle"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/ross-fountain.webp",
+          "alt": "The blue and gold Ross Fountain below Edinburgh Castle.",
+          "caption": "The blue and gold Ross Fountain below Edinburgh Castle.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Princes Street Gardens"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/music-beside-the-gallery.webp",
+          "alt": "A group gathered around musicians beside a columned gallery façade.",
+          "caption": "A group gathered around musicians beside a columned gallery façade.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/scott-monument.webp",
+          "alt": "The dark Gothic arches and spire of the Scott Monument.",
+          "caption": "The dark Gothic arches and spire of the Scott Monument.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Scott Monument, Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/balmoral-clock.webp",
+          "alt": "The Balmoral clock tower above a curved glass roof.",
+          "caption": "The Balmoral clock tower above a curved glass roof.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/old-town-street.webp",
+          "alt": "A gently sloping street between old stone buildings with shops at ground level.",
+          "caption": "A gently sloping street between old stone buildings with shops at ground level.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/adam-smith-and-the-cathedral.webp",
+          "alt": "The Adam Smith statue in front of St Giles’ Cathedral.",
+          "caption": "The Adam Smith statue in front of St Giles’ Cathedral.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Royal Mile, Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/guitarist-by-the-stone-wall.webp",
+          "alt": "A guitarist singing beside a stone wall with an open red case.",
+          "caption": "A guitarist singing beside a stone wall with an open red case.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/victoria-street.webp",
+          "alt": "Colourful shop fronts below tall stone buildings along Victoria Street.",
+          "caption": "Colourful shop fronts below tall stone buildings along Victoria Street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Victoria Street, Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/victoria-street-shop.webp",
+          "alt": "A purple shop front with decorated signs and people at the doorway.",
+          "caption": "A purple shop front with decorated signs and people at the doorway.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Victoria Street, Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/flower-covered-pub.webp",
+          "alt": "A tall stone pub façade with a clock and flowers above the entrance.",
+          "caption": "A tall stone pub façade with a clock and flowers above the entrance.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh"
+        },
+        {
+          "src": "/photos/britain/2025-08-15-edinburgh/train-under-the-glass-roof.webp",
+          "alt": "A blue ScotRail train beneath the station’s high glass roof.",
+          "caption": "A blue ScotRail train beneath the station’s high glass roof.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-15",
+          "location": "Edinburgh Waverley"
+        }
+      ]
+    },
+    {
+      "title": "A morning through Kensington Gardens",
+      "date": "2025-08-16",
+      "location": "Kensington Gardens, London",
+      "paragraphs": [
+        "Tree-lined paths lead from the Albert Memorial to still water, fountains and the palace. Birds move between the lawns and the lake before the city becomes busy."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/tree-lined-avenue.webp",
+          "alt": "A long empty avenue beneath arching green trees.",
+          "caption": "A long empty avenue beneath arching green trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/albert-memorial.webp",
+          "alt": "The gilded figure and pointed canopy of the Albert Memorial.",
+          "caption": "The gilded figure and pointed canopy of the Albert Memorial.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Albert Memorial, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/royal-albert-hall.webp",
+          "alt": "The round red-brick façade and arched entrance of the Royal Albert Hall.",
+          "caption": "The round red-brick façade and arched entrance of the Royal Albert Hall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Royal Albert Hall, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/marble-sculpture.webp",
+          "alt": "A marble sculpture group with an elephant below the memorial.",
+          "caption": "A marble sculpture group with an elephant below the memorial.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Albert Memorial, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/garden-pavilion.webp",
+          "alt": "A dark curved pavilion structure on a lawn between the garden paths.",
+          "caption": "A dark curved pavilion structure on a lawn between the garden paths.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/still-water-and-bridge.webp",
+          "alt": "Still water reflecting trees with a low bridge in the distance.",
+          "caption": "Still water reflecting trees with a low bridge in the distance.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/peter-pan-statue.webp",
+          "alt": "The Peter Pan statue on its decorated bronze base beside a garden path.",
+          "caption": "The Peter Pan statue on its decorated bronze base beside a garden path.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/italian-gardens-fountains.webp",
+          "alt": "Water jets rising from a formal basin surrounded by stonework.",
+          "caption": "Water jets rising from a formal basin surrounded by stonework.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Italian Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/cormorant-by-the-water.webp",
+          "alt": "A dark cormorant walking across paving beside the water.",
+          "caption": "A dark cormorant walking across paving beside the water.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/goose-on-the-lawn.webp",
+          "alt": "A grey goose standing on a pale green lawn.",
+          "caption": "A grey goose standing on a pale green lawn.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/swan-on-the-lake.webp",
+          "alt": "A white swan floating close to the edge of the lake.",
+          "caption": "A white swan floating close to the edge of the lake.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Gardens, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-kensington-gardens/kensington-palace.webp",
+          "alt": "The brick façade of Kensington Palace beyond formal clipped shrubs.",
+          "caption": "The brick façade of Kensington Palace beyond formal clipped shrubs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington Palace, London"
+        }
+      ]
+    },
+    {
+      "title": "Shops and stalls in Notting Hill",
+      "date": "2025-08-16",
+      "location": "Notting Hill, London",
+      "paragraphs": [
+        "Colourful shop fronts and white terraces line the walk towards Portobello Road. Antiques, signs and framed pictures spill onto the pavement as the stalls open."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/red-brick-corner-house.webp",
+          "alt": "A red-brick corner building with tall chimneys and projecting windows.",
+          "caption": "A red-brick corner building with tall chimneys and projecting windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Kensington, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/colourful-neighbourhood-shops.webp",
+          "alt": "Painted shop fronts and a red bus on a Notting Hill street.",
+          "caption": "Painted shop fronts and a red bus on a Notting Hill street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Notting Hill, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/souvenir-shop.webp",
+          "alt": "A small Notting Hill shop covered in postcards, bags and souvenirs.",
+          "caption": "A small Notting Hill shop covered in postcards, bags and souvenirs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Notting Hill, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/white-terrace-houses.webp",
+          "alt": "White terrace houses and leafy trees along a quiet side street.",
+          "caption": "White terrace houses and leafy trees along a quiet side street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Notting Hill, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/alices-antiques.webp",
+          "alt": "Antiques and small objects outside the red façade of Alice’s.",
+          "caption": "Antiques and small objects outside the red façade of Alice’s.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Portobello Road, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/antiques-stall.webp",
+          "alt": "A stallholder among old signs, metal objects and antiques.",
+          "caption": "A stallholder among old signs, metal objects and antiques.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Portobello Road, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-notting-hill/pictures-along-the-pavement.webp",
+          "alt": "Framed pictures beside a row of colourful shops.",
+          "caption": "Framed pictures beside a row of colourful shops.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Portobello Road, London"
+        }
+      ]
+    },
+    {
+      "title": "Stone façades and museum rooms",
+      "date": "2025-08-16",
+      "location": "South Kensington, London",
+      "paragraphs": [
+        "The Natural History Museum’s towers give way to galleries of paintings, textiles, sculpture and architectural casts at the V&A. A tiled passage leads back to the Underground."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/natural-history-museum.webp",
+          "alt": "The Natural History Museum’s long stone façade and tower behind trees.",
+          "caption": "The Natural History Museum’s long stone façade and tower behind trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Natural History Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/museum-twin-towers.webp",
+          "alt": "The twin towers and arched entrance of the Natural History Museum.",
+          "caption": "The twin towers and arched entrance of the Natural History Museum.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Natural History Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/tiled-museum-passage.webp",
+          "alt": "A long tiled pedestrian passage with a few people in the distance.",
+          "caption": "A long tiled pedestrian passage with a few people in the distance.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "South Kensington, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/painted-altarpiece.webp",
+          "alt": "A gilded altarpiece covered in small painted scenes in a museum gallery.",
+          "caption": "A gilded altarpiece covered in small painted scenes in a museum gallery.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/painting-gallery.webp",
+          "alt": "A vaulted gallery with paintings and visitors below a white ceiling.",
+          "caption": "A vaulted gallery with paintings and visitors below a white ceiling.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/sculpture-gallery-doorway.webp",
+          "alt": "Visitors walking between sculptures and painted gallery doorways.",
+          "caption": "Visitors walking between sculptures and painted gallery doorways.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/patterned-textiles.webp",
+          "alt": "Two patterned textiles with flowers and curling leaves in a display case.",
+          "caption": "Two patterned textiles with flowers and curling leaves in a display case.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/union-flag-costume.webp",
+          "alt": "A costume incorporating Union Flag fabric displayed on a mannequin.",
+          "caption": "A costume incorporating Union Flag fabric displayed on a mannequin.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/marble-figure.webp",
+          "alt": "A seated marble figure on a round pedestal against a dark wall.",
+          "caption": "A seated marble figure on a round pedestal against a dark wall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/gilded-mirror-and-fireplace.webp",
+          "alt": "A tall gilded mirror above a fireplace in a blue museum room.",
+          "caption": "A tall gilded mirror above a fireplace in a blue museum room.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/carved-wooden-minbar.webp",
+          "alt": "A tall carved wooden pulpit beneath an arched museum ceiling.",
+          "caption": "A tall carved wooden pulpit beneath an arched museum ceiling.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/glass-jug.webp",
+          "alt": "A clear decorated glass jug displayed against a dark background.",
+          "caption": "A clear decorated glass jug displayed against a dark background.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/sunlit-sculpture-corridor.webp",
+          "alt": "Sculpture beneath the long white glass roof of a museum corridor.",
+          "caption": "Sculpture beneath the long white glass roof of a museum corridor.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/cast-court.webp",
+          "alt": "Architectural casts and recumbent figures in the V&A’s cast court.",
+          "caption": "Architectural casts and recumbent figures in the V&A’s cast court.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/sculpted-arch.webp",
+          "alt": "A richly carved architectural arch displayed against a pink museum wall.",
+          "caption": "A richly carved architectural arch displayed against a pink museum wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/david-cast.webp",
+          "alt": "The head and shoulders of a cast of Michelangelo’s David.",
+          "caption": "The head and shoulders of a cast of Michelangelo’s David.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria and Albert Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-south-kensington/south-kensington-platform.webp",
+          "alt": "Travellers waiting beneath green beams and skylights on an Underground platform.",
+          "caption": "Travellers waiting beneath green beams and skylights on an Underground platform.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "South Kensington station, London"
+        }
+      ]
+    },
+    {
+      "title": "Across the bridge to Westminster",
+      "date": "2025-08-16",
+      "location": "Westminster · South Bank, London",
+      "paragraphs": [
+        "The Thames brings the familiar outlines of the clock tower, Parliament and the London Eye into view. The walk crosses the bridge and continues to the carved entrance of the Abbey."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-westminster/elizabeth-tower.webp",
+          "alt": "The clock faces of Elizabeth Tower above the Houses of Parliament.",
+          "caption": "The clock faces of Elizabeth Tower above the Houses of Parliament.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Elizabeth Tower, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/london-eye-across-the-river.webp",
+          "alt": "The London Eye and County Hall across the Thames.",
+          "caption": "The London Eye and County Hall across the Thames.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "South Bank, London",
+          "wide": true
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/westminster-bridge-lamp.webp",
+          "alt": "A decorative three-lantern lamp on Westminster Bridge.",
+          "caption": "A decorative three-lantern lamp on Westminster Bridge.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Bridge, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/beneath-the-london-eye.webp",
+          "alt": "The capsules and spokes of the London Eye seen from below.",
+          "caption": "The capsules and spokes of the London Eye seen from below.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "London Eye, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/parliament-from-the-bridge.webp",
+          "alt": "The Houses of Parliament and clock tower beyond Westminster Bridge.",
+          "caption": "The Houses of Parliament and clock tower beyond Westminster Bridge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Bridge, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/bagpiper-by-the-thames.webp",
+          "alt": "A bagpiper playing beside the Thames on a stone bridge.",
+          "caption": "A bagpiper playing beside the Thames on a stone bridge.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster · South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/westminster-abbey-entrance.webp",
+          "alt": "The Gothic towers, pointed arches and rose window of Westminster Abbey.",
+          "caption": "The Gothic towers, pointed arches and rose window of Westminster Abbey.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster/abbey-carved-portal.webp",
+          "alt": "Carved stone figures and decorative bands above an Abbey doorway.",
+          "caption": "Carved stone figures and decorative bands above an Abbey doorway.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        }
+      ]
+    },
+    {
+      "title": "Light and stone inside the Abbey",
+      "date": "2025-08-16",
+      "location": "Westminster Abbey, London",
+      "paragraphs": [
+        "High vaults, stained glass and gilded woodwork fill the Abbey. The walk continues through chapels, carved memorials and a quiet green courtyard beside the cloisters."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/abbey-nave.webp",
+          "alt": "The high stone vault and gilded screen above visitors in the Abbey nave.",
+          "caption": "The high stone vault and gilded screen above visitors in the Abbey nave.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/vault-and-chandelier.webp",
+          "alt": "A round chandelier beneath ribbed stone vaulting.",
+          "caption": "A round chandelier beneath ribbed stone vaulting.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/abbey-quire.webp",
+          "alt": "Wooden choir stalls and gilded carving beneath the Abbey’s vaulted ceiling.",
+          "caption": "Wooden choir stalls and gilded carving beneath the Abbey’s vaulted ceiling.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/high-altar.webp",
+          "alt": "The gilded altar and tall Gothic arches at the east end of the Abbey.",
+          "caption": "The gilded altar and tall Gothic arches at the east end of the Abbey.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/gilded-pulpit.webp",
+          "alt": "A dark wooden pulpit with gilded decoration beneath a tall canopy.",
+          "caption": "A dark wooden pulpit with gilded decoration beneath a tall canopy.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/rose-window.webp",
+          "alt": "A rose window and narrow stained-glass panels above pointed stone arches.",
+          "caption": "A rose window and narrow stained-glass panels above pointed stone arches.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/painted-royal-memorial.webp",
+          "alt": "A richly decorated painted and gilded memorial beneath tall windows.",
+          "caption": "A richly decorated painted and gilded memorial beneath tall windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/fan-vaulting.webp",
+          "alt": "Intricate pale fan vaulting with hanging stone pendants.",
+          "caption": "Intricate pale fan vaulting with hanging stone pendants.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Henry VII Lady Chapel, Westminster Abbey"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/chapel-stained-glass.webp",
+          "alt": "A tall stained-glass window filled with small colourful figures.",
+          "caption": "A tall stained-glass window filled with small colourful figures.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/chapel-banners.webp",
+          "alt": "Heraldic banners beneath the fan-vaulted chapel ceiling.",
+          "caption": "Heraldic banners beneath the fan-vaulted chapel ceiling.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Henry VII Lady Chapel, Westminster Abbey"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/heraldic-doors.webp",
+          "alt": "Painted coats of arms on a pair of tall wooden doors.",
+          "caption": "Painted coats of arms on a pair of tall wooden doors.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/recumbent-memorial.webp",
+          "alt": "A painted recumbent figure in a red robe above a carved memorial base.",
+          "caption": "A painted recumbent figure in a red robe above a carved memorial base.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/kneeling-figures.webp",
+          "alt": "Small painted figures kneeling in prayer on a carved memorial.",
+          "caption": "Small painted figures kneeling in prayer on a carved memorial.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/arched-stained-glass.webp",
+          "alt": "Coloured coats of arms in an arched stained-glass window.",
+          "caption": "Coloured coats of arms in an arched stained-glass window.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/abbey-courtyard.webp",
+          "alt": "A green courtyard beside the pale stone buttresses and windows of the Abbey.",
+          "caption": "A green courtyard beside the pale stone buttresses and windows of the Abbey.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-westminster-abbey/abbey-cloisters.webp",
+          "alt": "Visitors beneath the repeated stone vaults of the Abbey cloisters.",
+          "caption": "Visitors beneath the repeated stone vaults of the Abbey cloisters.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster Abbey, London"
+        }
+      ]
+    },
+    {
+      "title": "Parks and palace gates",
+      "date": "2025-08-16",
+      "location": "Westminster · St James’s, London",
+      "paragraphs": [
+        "Stone government buildings give way to trees and lake water in St James’s Park. The route ends at the palace, with the gilded memorial above the gathering crowds."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/column-and-red-bus.webp",
+          "alt": "A tall memorial column and red bus on a busy London street.",
+          "caption": "A tall memorial column and red bus on a busy London street.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/whitehall-street.webp",
+          "alt": "A quiet street between long pale stone government buildings.",
+          "caption": "A quiet street between long pale stone government buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Whitehall, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/red-telephone-box.webp",
+          "alt": "A red telephone box beside a pale stone building.",
+          "caption": "A red telephone box beside a pale stone building.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/park-fountain.webp",
+          "alt": "A fountain seen between trees beside the lake.",
+          "caption": "A fountain seen between trees beside the lake.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "St James’s Park, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/st-jamess-lake.webp",
+          "alt": "A long view along the tree-lined lake in St James’s Park.",
+          "caption": "A long view along the tree-lined lake in St James’s Park.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "St James’s Park, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/victoria-memorial.webp",
+          "alt": "The gilded figure above the white marble Victoria Memorial.",
+          "caption": "The gilded figure above the white marble Victoria Memorial.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Victoria Memorial, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/buckingham-palace.webp",
+          "alt": "Visitors outside the broad stone façade of Buckingham Palace.",
+          "caption": "Visitors outside the broad stone façade of Buckingham Palace.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Buckingham Palace, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-st-jamess/bright-pedicabs.webp",
+          "alt": "Colourful pedicabs parked beside a busy London pavement.",
+          "caption": "Colourful pedicabs parked beside a busy London pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "London"
+        }
+      ]
+    },
+    {
+      "title": "An evening in the West End",
+      "date": "2025-08-16",
+      "location": "West End · South Bank, London",
+      "paragraphs": [
+        "Shop windows and old pub fronts lead towards the crowds at Piccadilly Circus. Market roofs, street artists and performers carry the walk towards the river after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-16-west-end/liberty-facade.webp",
+          "alt": "The black and white timbered façade of Liberty beneath a pale blue sky.",
+          "caption": "The black and white timbered façade of Liberty beneath a pale blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Liberty, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/pub-on-carnaby-street.webp",
+          "alt": "People outside a flower-covered pub on Carnaby Street.",
+          "caption": "People outside a flower-covered pub on Carnaby Street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Carnaby Street, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/regent-street-curve.webp",
+          "alt": "The curved stone façades of Regent Street with buses and pedestrians.",
+          "caption": "The curved stone façades of Regent Street with buses and pedestrians.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Regent Street, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/covered-shopping-arcade.webp",
+          "alt": "A covered shopping arcade with a patterned floor and repeated arches.",
+          "caption": "A covered shopping arcade with a patterned floor and repeated arches.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "West End, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/piccadilly-screens.webp",
+          "alt": "Bright advertising screens above the crowds at Piccadilly Circus.",
+          "caption": "Bright advertising screens above the crowds at Piccadilly Circus.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Piccadilly Circus, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/piccadilly-crowds.webp",
+          "alt": "People gathered around the fountain beneath the stone buildings of Piccadilly Circus.",
+          "caption": "People gathered around the fountain beneath the stone buildings of Piccadilly Circus.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Piccadilly Circus, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/pavement-flags.webp",
+          "alt": "Colourful flags drawn on the pavement beside a street artist.",
+          "caption": "Colourful flags drawn on the pavement beside a street artist.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "West End, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/street-portrait-artist.webp",
+          "alt": "An artist drawing a seated visitor in a busy public square.",
+          "caption": "An artist drawing a seated visitor in a busy public square.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Leicester Square, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/covent-garden-roof.webp",
+          "alt": "The glass and iron roof above the Apple Market at Covent Garden.",
+          "caption": "The glass and iron roof above the Apple Market at Covent Garden.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Covent Garden, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/covent-garden-performer.webp",
+          "alt": "A street performer above a small platform with spectators nearby.",
+          "caption": "A street performer above a small platform with spectators nearby.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Covent Garden, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/thames-after-dark.webp",
+          "alt": "Bridge lights and riverside buildings reflected in the Thames.",
+          "caption": "Bridge lights and riverside buildings reflected in the Thames.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/riverside-carousel.webp",
+          "alt": "A brightly lit carousel beside the river after dark.",
+          "caption": "A brightly lit carousel beside the river after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/london-eye-at-night.webp",
+          "alt": "The London Eye illuminated in purple beside the river.",
+          "caption": "The London Eye illuminated in purple beside the river.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/parliament-across-the-water.webp",
+          "alt": "Parliament and the illuminated clock tower reflected across the Thames.",
+          "caption": "Parliament and the illuminated clock tower reflected across the Thames.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster, London",
+          "wide": true
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/purple-wheel-reflections.webp",
+          "alt": "The purple London Eye and County Hall reflected in the river.",
+          "caption": "The purple London Eye and County Hall reflected in the river.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-16",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/clock-tower-after-dark.webp",
+          "alt": "The illuminated clock tower above night traffic and pavement lights.",
+          "caption": "The illuminated clock tower above night traffic and pavement lights.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-16-west-end/a-personal-westminster-memory.webp",
+          "alt": "A traveller standing below the illuminated clock tower at night.",
+          "caption": "A traveller standing below the illuminated clock tower at night.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-16",
+          "location": "Westminster, London"
+        }
+      ]
+    },
+    {
+      "title": "A morning among museum galleries",
+      "date": "2025-08-17",
+      "location": "British Museum, London",
+      "paragraphs": [
+        "The museum visit moves from reliefs and large stone figures to pottery, carved wood and rooms lined with books. Later galleries add ceramics, armour and a reconstructed wooden interior."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/west-end-in-the-morning.webp",
+          "alt": "People passing the Dominion Theatre beneath a clear blue sky.",
+          "caption": "People passing the Dominion Theatre beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "West End, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/british-museum-facade.webp",
+          "alt": "The British Museum’s columned façade below a clear blue sky.",
+          "caption": "The British Museum’s columned façade below a clear blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/carved-stone-figure.webp",
+          "alt": "A dark stone figure covered in fine carved hieroglyphs.",
+          "caption": "A dark stone figure covered in fine carved hieroglyphs.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/stone-reliefs.webp",
+          "alt": "Visitors studying a long wall of carved stone reliefs.",
+          "caption": "Visitors studying a long wall of carved stone reliefs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/carved-sun-disc.webp",
+          "alt": "A dark rectangular stone relief with a circular sun-like pattern.",
+          "caption": "A dark rectangular stone relief with a circular sun-like pattern.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/bronze-cat.webp",
+          "alt": "A dark bronze cat displayed inside a glass case.",
+          "caption": "A dark bronze cat displayed inside a glass case.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/large-stone-figure.webp",
+          "alt": "The carved head and shoulders of a large Egyptian stone figure.",
+          "caption": "The carved head and shoulders of a large Egyptian stone figure.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/painted-pottery.webp",
+          "alt": "Painted pottery vessels arranged inside a lit glass case.",
+          "caption": "Painted pottery vessels arranged inside a lit glass case.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/columned-stone-monument.webp",
+          "alt": "A small temple-like stone monument with columns and carved figures.",
+          "caption": "A small temple-like stone monument with columns and carved figures.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/decorated-costumes.webp",
+          "alt": "Brightly patterned costumes with tall decorated headpieces.",
+          "caption": "Brightly patterned costumes with tall decorated headpieces.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/feathered-costume.webp",
+          "alt": "A feathered costume with circular beadwork inside a museum case.",
+          "caption": "A feathered costume with circular beadwork inside a museum case.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/painted-codex-display.webp",
+          "alt": "A long illustrated display filled with colourful figures and symbols.",
+          "caption": "A long illustrated display filled with colourful figures and symbols.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/carved-figure.webp",
+          "alt": "A carved stone figure with a broad headdress.",
+          "caption": "A carved stone figure with a broad headdress.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/museum-library-room.webp",
+          "alt": "Tall bookcases and a decorated ceiling above a busy museum room.",
+          "caption": "Tall bookcases and a decorated ceiling above a busy museum room.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/green-inlaid-object.webp",
+          "alt": "Two pale green inlaid sections of an object in a lit display case.",
+          "caption": "Two pale green inlaid sections of an object in a lit display case.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/seated-wooden-figure.webp",
+          "alt": "A seated wooden religious figure with traces of paint.",
+          "caption": "A seated wooden religious figure with traces of paint.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/miniature-pavilion.webp",
+          "alt": "An ornate miniature pavilion displayed inside a museum case.",
+          "caption": "An ornate miniature pavilion displayed inside a museum case.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/tall-standing-figure.webp",
+          "alt": "A tall pale stone figure between dark museum columns.",
+          "caption": "A tall pale stone figure between dark museum columns.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/wooden-korean-room.webp",
+          "alt": "A reconstructed wooden Korean interior with tiled eaves inside the museum.",
+          "caption": "A reconstructed wooden Korean interior with tiled eaves inside the museum.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/ceramics-gallery.webp",
+          "alt": "A long row of illuminated cases filled with ceramics.",
+          "caption": "A long row of illuminated cases filled with ceramics.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/samurai-armour.webp",
+          "alt": "Samurai armour and swords displayed inside a museum case.",
+          "caption": "Samurai armour and swords displayed inside a museum case.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/coloured-glass-form.webp",
+          "alt": "A round glass vessel fading from yellow to deep blue.",
+          "caption": "A round glass vessel fading from yellow to deep blue.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-british-museum/painted-folding-screen.webp",
+          "alt": "A painted folding screen above a display of decorated plates.",
+          "caption": "A painted folding screen above a display of decorated plates.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "British Museum, London"
+        }
+      ]
+    },
+    {
+      "title": "Inside the Tower walls",
+      "date": "2025-08-17",
+      "location": "Tower of London, London",
+      "paragraphs": [
+        "The Tower visit follows stone gateways, ravens, armour and the chapel inside the White Tower. From the walls, the modern city rises beyond older roofs and green courtyards."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/white-tower-from-the-courtyard.webp",
+          "alt": "The White Tower above visitors and the old stone wall.",
+          "caption": "The White Tower above visitors and the old stone wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/animal-sculpture.webp",
+          "alt": "A dark animal sculpture on a stone path beside the Tower wall.",
+          "caption": "A dark animal sculpture on a stone path beside the Tower wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/ravens-at-the-tower.webp",
+          "alt": "Two ravens perched behind mesh with the White Tower beyond.",
+          "caption": "Two ravens perched behind mesh with the White Tower beyond.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/tower-gateway.webp",
+          "alt": "A stone gateway with round turrets and a clock above the arch.",
+          "caption": "A stone gateway with round turrets and a clock above the arch.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/yeoman-warder.webp",
+          "alt": "A Yeoman Warder standing beside a stone wall.",
+          "caption": "A Yeoman Warder standing beside a stone wall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/mounted-armour.webp",
+          "alt": "A display of armoured riders on model horses beneath timber beams.",
+          "caption": "A display of armoured riders on model horses beneath timber beams.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/white-tower-chapel.webp",
+          "alt": "The rounded stone arches and simple interior of the chapel inside the White Tower.",
+          "caption": "The rounded stone arches and simple interior of the chapel inside the White Tower.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/polished-suit-of-armour.webp",
+          "alt": "A polished suit of armour displayed behind glass.",
+          "caption": "A polished suit of armour displayed behind glass.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/shard-from-the-tower.webp",
+          "alt": "A green courtyard and the Shard beyond the Tower walls.",
+          "caption": "A green courtyard and the Shard beyond the Tower walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/armour-dragon.webp",
+          "alt": "A dragon-shaped display made from armour and weaponry.",
+          "caption": "A dragon-shaped display made from armour and weaponry.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/stone-spiral-stairs.webp",
+          "alt": "A narrow spiral stair inside a rough stone tower.",
+          "caption": "A narrow spiral stair inside a rough stone tower.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/cannons-and-weapons.webp",
+          "alt": "Cannons and racks of weapons beneath a timber roof.",
+          "caption": "Cannons and racks of weapons beneath a timber roof.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/sentry-at-the-tower.webp",
+          "alt": "A uniformed sentry outside a small guard box.",
+          "caption": "A uniformed sentry outside a small guard box.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/tree-and-poppies.webp",
+          "alt": "A large tree beside red poppies and the old stone walls.",
+          "caption": "A large tree beside red poppies and the old stone walls.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/metal-archer.webp",
+          "alt": "A metal archer sculpture on a stone wall beneath green leaves.",
+          "caption": "A metal archer sculpture on a stone wall beneath green leaves.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/small-stone-tower.webp",
+          "alt": "A narrow approach to a stone tower with a pointed doorway.",
+          "caption": "A narrow approach to a stone tower with a pointed doorway.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/city-skyline.webp",
+          "alt": "Modern London towers rising above trees beyond the old fortress.",
+          "caption": "Modern London towers rising above trees beyond the old fortress.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/fortress-wall.webp",
+          "alt": "A low stone fortress wall with scattered openings beside a paved courtyard.",
+          "caption": "A low stone fortress wall with scattered openings beside a paved courtyard.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/timber-walkway.webp",
+          "alt": "A timbered walkway above a stone arch beside the Tower walls.",
+          "caption": "A timbered walkway above a stone arch beside the Tower walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-of-london/white-tower-in-sunlight.webp",
+          "alt": "The White Tower seen from below beside grass and old stonework.",
+          "caption": "The White Tower seen from below beside grass and old stonework.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        }
+      ]
+    },
+    {
+      "title": "Along the river to the Globe",
+      "date": "2025-08-17",
+      "location": "Tower Bridge · South Bank, London",
+      "paragraphs": [
+        "The walk crosses Tower Bridge and follows the river past stone embankments and bridges. At the Globe, wooden galleries circle the open sky and a decorated stage; outside, St Paul’s catches the last light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/walking-onto-tower-bridge.webp",
+          "alt": "The roadway passing beneath a stone arch on Tower Bridge.",
+          "caption": "The roadway passing beneath a stone arch on Tower Bridge.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower Bridge, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/tower-bridge-deck.webp",
+          "alt": "Blue railings and traffic beneath a tower and suspension cables.",
+          "caption": "Blue railings and traffic beneath a tower and suspension cables.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "Tower Bridge, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/tower-bridge-from-below.webp",
+          "alt": "A Tower Bridge tower and blue suspension elements seen from the riverside.",
+          "caption": "A Tower Bridge tower and blue suspension elements seen from the riverside.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower Bridge, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/tower-from-across-the-river.webp",
+          "alt": "The Tower of London above the river wall on the opposite bank.",
+          "caption": "The Tower of London above the river wall on the opposite bank.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Tower of London, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/curved-glass-building.webp",
+          "alt": "A curved glass building beside the riverside walkway.",
+          "caption": "A curved glass building beside the riverside walkway.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-17",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/southwark-bridge.webp",
+          "alt": "The arches and metalwork of Southwark Bridge above the Thames.",
+          "caption": "The arches and metalwork of Southwark Bridge above the Thames.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Southwark Bridge, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/st-pauls-across-the-thames.webp",
+          "alt": "The dome of St Paul’s beyond riverside buildings and the Thames.",
+          "caption": "The dome of St Paul’s beyond riverside buildings and the Thames.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/globe-galleries.webp",
+          "alt": "Wooden galleries curving around the open-air theatre.",
+          "caption": "Wooden galleries curving around the open-air theatre.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Shakespeare’s Globe, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/globe-stage.webp",
+          "alt": "A decorated stage canopy and large golden stage structure at the Globe.",
+          "caption": "A decorated stage canopy and large golden stage structure at the Globe.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Shakespeare’s Globe, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/open-sky-at-the-globe.webp",
+          "alt": "The open sky framed by the Globe’s circular wooden galleries.",
+          "caption": "The open sky framed by the Globe’s circular wooden galleries.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Shakespeare’s Globe, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/riverside-at-blue-hour.webp",
+          "alt": "A riverside landing and St Paul’s dome in the blue evening light.",
+          "caption": "A riverside landing and St Paul’s dome in the blue evening light.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "South Bank, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/globe-at-dusk.webp",
+          "alt": "The white timbered exterior of Shakespeare’s Globe beneath a deep blue sky.",
+          "caption": "The white timbered exterior of Shakespeare’s Globe beneath a deep blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "Shakespeare’s Globe, London"
+        },
+        {
+          "src": "/photos/britain/2025-08-17-tower-bridge-south-bank/st-pauls-at-night.webp",
+          "alt": "St Paul’s illuminated above the river, beside the Millennium Bridge.",
+          "caption": "St Paul’s illuminated above the river, beside the Millennium Bridge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-08-17",
+          "location": "South Bank, London",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Back through Glasgow",
+      "date": "2025-08-18",
+      "location": "Glasgow Central station",
+      "paragraphs": [
+        "The final morning brings the journey back to Glasgow. A sculpture of two travellers sharing a farewell stands in the station concourse."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/britain/2025-08-18-glasgow/station-farewell.webp",
+          "alt": "A bronze sculpture of two people embracing beside a travel bag in the station concourse.",
+          "caption": "A bronze sculpture of two people embracing beside a travel bag in the station concourse.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-08-18",
+          "location": "Glasgow Central station"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1337 @@
+{
+  "slug": "australia",
+  "photoStorage": "r2",
+  "title": "Australia",
+  "subtitle": "City lanes and river lights, kangaroos and penguins, then a road along Victoria’s coast to the Twelve Apostles.",
+  "country": "Australia",
+  "location": "Melbourne · Williamstown · St Kilda · Great Ocean Road",
+  "category": "Cities, coast and wildlife",
+  "order": 4,
+  "demo": false,
+  "startDate": "2025-11-10",
+  "endDate": "2025-11-18",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/australia/2025-11-17-port-campbell/twelve-apostles-coast.webp",
+    "alt": "Limestone sea stacks and layered cliffs above the surf under a breaking evening sky.",
+    "caption": "Limestone sea stacks and layered cliffs above the surf under a breaking evening sky.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2025-11-17",
+    "location": "Twelve Apostles, Victoria"
+  },
+  "chapters": [
+    {
+      "title": "First walks through Melbourne",
+      "date": "2025-11-10",
+      "location": "Melbourne",
+      "paragraphs": [
+        "Laneways, patterned façades and a glass dome introduce the city. After rain, the street lights leave colour across the pavement."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/patterned-city-tower.webp",
+          "alt": "A tall Melbourne building with blue and yellow geometric panels beneath an overcast sky.",
+          "caption": "A tall Melbourne building with blue and yellow geometric panels beneath an overcast sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/narrow-city-laneway.webp",
+          "alt": "A narrow lane between a painted wall and a stone building, with a café balcony overhead.",
+          "caption": "A narrow lane between a painted wall and a stone building, with a café balcony overhead.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/melbourne-central-clock.webp",
+          "alt": "A large gold pocket-watch clock suspended inside Melbourne Central.",
+          "caption": "A large gold pocket-watch clock suspended inside Melbourne Central.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne Central"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/brick-laneway.webp",
+          "alt": "A covered brick laneway with graffiti and light at the far end.",
+          "caption": "A covered brick laneway with graffiti and light at the far end.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/coloured-discs.webp",
+          "alt": "A row of colourful circular panels above a narrow city passage.",
+          "caption": "A row of colourful circular panels above a narrow city passage.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/glass-cone.webp",
+          "alt": "The circular steel and glass cone of Melbourne Central viewed from below.",
+          "caption": "The circular steel and glass cone of Melbourne Central viewed from below.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne Central"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/stone-corner-building.webp",
+          "alt": "An ornate stone building with a turret at a Melbourne intersection.",
+          "caption": "An ornate stone building with a turret at a Melbourne intersection.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/rain-on-the-pavement.webp",
+          "alt": "A yellow cyclist sculpture beside wet paving and evening traffic.",
+          "caption": "A yellow cyclist sculpture beside wet paving and evening traffic.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/dinner-on-the-table.webp",
+          "alt": "Fish, rice and bowls of curry arranged on a restaurant table.",
+          "caption": "Fish, rice and bowls of curry arranged on a restaurant table.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/colourful-window-display.webp",
+          "alt": "A colourful Shrek-themed miniature scene in a shop window.",
+          "caption": "A colourful Shrek-themed miniature scene in a shop window.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-10-melbourne/miniature-post-office.webp",
+          "alt": "A miniature Melbourne post office with bright red lamps in a shop display.",
+          "caption": "A miniature Melbourne post office with bright red lamps in a shop display.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-10",
+          "location": "Melbourne"
+        }
+      ]
+    },
+    {
+      "title": "Courtyards and river lights",
+      "date": "2025-11-11",
+      "location": "Carlton · Melbourne · Yarra River",
+      "paragraphs": [
+        "The day moves from quiet university courtyards to busy city lanes. At night, coloured bridge lights and the skyline reflect in the Yarra."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/textured-tower.webp",
+          "alt": "A patterned metal building façade rising above a Melbourne street.",
+          "caption": "A patterned metal building façade rising above a Melbourne street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-11",
+          "location": "Carlton · Melbourne · Yarra River"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/arched-university-passage.webp",
+          "alt": "A brick and stone vaulted passage with two visitors at the far end.",
+          "caption": "A brick and stone vaulted passage with two visitors at the far end.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "University of Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/stained-glass-panel.webp",
+          "alt": "A large stained-glass panel displayed above a polished wooden floor.",
+          "caption": "A large stained-glass panel displayed above a polished wooden floor.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "University of Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/illuminated-manuscripts.webp",
+          "alt": "Illustrated manuscripts displayed open in a museum case.",
+          "caption": "Illustrated manuscripts displayed open in a museum case.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-11-11",
+          "location": "University of Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/university-courtyard.webp",
+          "alt": "A green university courtyard enclosed by pale stone arcades.",
+          "caption": "A green university courtyard enclosed by pale stone arcades.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "University of Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/city-down-the-lane.webp",
+          "alt": "Modern skyscrapers seen beyond a narrow lane of older buildings.",
+          "caption": "Modern skyscrapers seen beyond a narrow lane of older buildings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/chinatown-gateway.webp",
+          "alt": "Pedestrians passing beneath a decorated gateway in Melbourne Chinatown.",
+          "caption": "Pedestrians passing beneath a decorated gateway in Melbourne Chinatown.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "Chinatown, Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/restaurant-under-the-arch.webp",
+          "alt": "A restaurant bar beneath a tall arched wall and a suspended sculpture.",
+          "caption": "A restaurant bar beneath a tall arched wall and a suspended sculpture.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/station-in-red.webp",
+          "alt": "The clock tower and façade of Flinders Street Station illuminated in red.",
+          "caption": "The clock tower and façade of Flinders Street Station illuminated in red.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "Flinders Street Station"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/illuminated-footbridge.webp",
+          "alt": "Visitors crossing an angular footbridge outlined in coloured lights.",
+          "caption": "Visitors crossing an angular footbridge outlined in coloured lights.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-11",
+          "location": "Yarra River"
+        },
+        {
+          "src": "/photos/australia/2025-11-11-carlton-yarra/yarra-at-night.webp",
+          "alt": "City lights and a rainbow-coloured bridge reflected across the Yarra at night.",
+          "caption": "City lights and a rainbow-coloured bridge reflected across the Yarra at night.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-11",
+          "location": "Yarra River",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Trams, birds and Federation Square",
+      "date": "2025-11-12",
+      "location": "Melbourne",
+      "paragraphs": [
+        "A green tram passes old stone buildings, a lorikeet forages beside the pavement, and a crowd fills Federation Square. The train carries the afternoon towards the bay."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-12-melbourne/tram-at-the-intersection.webp",
+          "alt": "A white tram passing a red-brick building beneath a blue Melbourne sky.",
+          "caption": "A white tram passing a red-brick building beneath a blue Melbourne sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-melbourne/rainbow-lorikeet.webp",
+          "alt": "A green lorikeet with a blue head and orange breast beside a garden path.",
+          "caption": "A green lorikeet with a blue head and orange breast beside a garden path.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-12",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-melbourne/green-city-tram.webp",
+          "alt": "A green heritage tram passing a stone church on a sunny street.",
+          "caption": "A green heritage tram passing a stone church on a sunny street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-melbourne/state-library-steps.webp",
+          "alt": "Visitors on the steps below the columned façade of the State Library.",
+          "caption": "Visitors on the steps below the columned façade of the State Library.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "State Library Victoria"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-melbourne/federation-square-crowd.webp",
+          "alt": "A crowd gathered below the angular silver façade at Federation Square.",
+          "caption": "A crowd gathered below the angular silver façade at Federation Square.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Federation Square"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-melbourne/train-to-the-bay.webp",
+          "alt": "A blue suburban train alongside a sunlit platform.",
+          "caption": "A blue suburban train alongside a sunlit platform.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-12",
+          "location": "On the way to Williamstown"
+        }
+      ]
+    },
+    {
+      "title": "An evening beside the bay",
+      "date": "2025-11-12",
+      "location": "Williamstown",
+      "paragraphs": [
+        "Rock pools, low coastal plants and black swans line the waterfront. As the light fades, the city becomes a distant line beyond the boats."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/drink-by-the-water.webp",
+          "alt": "A red drink with mint and citrus on a table beside the bay.",
+          "caption": "A red drink with mint and citrus on a table beside the bay.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/sun-on-the-bay.webp",
+          "alt": "People silhouetted on rocks and sand beneath the low sun over the bay.",
+          "caption": "People silhouetted on rocks and sand beneath the low sun over the bay.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/boulder-in-a-rock-pool.webp",
+          "alt": "A dark boulder reflected in a still pool surrounded by bright coastal plants.",
+          "caption": "A dark boulder reflected in a still pool surrounded by bright coastal plants.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/tidal-rocks.webp",
+          "alt": "Shallow tidal pools and green groundcover between dark shoreline rocks.",
+          "caption": "Shallow tidal pools and green groundcover between dark shoreline rocks.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/sunset-in-the-pools.webp",
+          "alt": "Sunlight reflected in a rock pool beside pink coastal flowers.",
+          "caption": "Sunlight reflected in a rock pool beside pink coastal flowers.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/path-under-the-tree.webp",
+          "alt": "A winding coastal path leading towards a spreading tree and waterfront houses.",
+          "caption": "A winding coastal path leading towards a spreading tree and waterfront houses.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/black-swans.webp",
+          "alt": "Black swans drifting together across the bay in the evening light.",
+          "caption": "Black swans drifting together across the bay in the evening light.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/path-towards-the-city.webp",
+          "alt": "A waterfront walking and cycling path with the distant city across the water.",
+          "caption": "A waterfront walking and cycling path with the distant city across the water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        },
+        {
+          "src": "/photos/australia/2025-11-12-williamstown/marina-at-dusk.webp",
+          "alt": "Yachts and tall masts against the distant Melbourne skyline at dusk.",
+          "caption": "Yachts and tall masts against the distant Melbourne skyline at dusk.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-11-12",
+          "location": "Williamstown"
+        }
+      ]
+    },
+    {
+      "title": "From the city to the evening sea",
+      "date": "2025-11-13",
+      "location": "Melbourne · Elwood",
+      "paragraphs": [
+        "Courtyards and a street musician give way to the open water at Point Ormond. Gulls cross the sunset, and the walk ends among palms and lit restaurant windows."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/campus-lane.webp",
+          "alt": "A pedestrian lane between brick buildings with modern towers in the distance.",
+          "caption": "A pedestrian lane between brick buildings with modern towers in the distance.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-13",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/stone-campus-courtyard.webp",
+          "alt": "A stone courtyard with arched windows and trees in the university precinct.",
+          "caption": "A stone courtyard with arched windows and trees in the university precinct.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-13",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/tram-and-geometric-facade.webp",
+          "alt": "A green tram beneath trees and the geometric façade of a city building.",
+          "caption": "A green tram beneath trees and the geometric façade of a city building.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/street-saxophonist.webp",
+          "alt": "A saxophonist playing beneath trees on a Melbourne pavement.",
+          "caption": "A saxophonist playing beneath trees on a Melbourne pavement.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-13",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/point-ormond-city-view.webp",
+          "alt": "The Melbourne skyline beyond the curving bay shore and a grassy lookout.",
+          "caption": "The Melbourne skyline beyond the curving bay shore and a grassy lookout.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Point Ormond, Elwood",
+          "wide": true
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/sunset-over-the-bay.webp",
+          "alt": "The sun sinking below orange clouds over the open bay.",
+          "caption": "The sun sinking below orange clouds over the open bay.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Point Ormond, Elwood"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/gulls-in-the-evening-light.webp",
+          "alt": "Gulls flying across a peach-coloured sky above the water.",
+          "caption": "Gulls flying across a peach-coloured sky above the water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Elwood foreshore"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/palms-at-dusk.webp",
+          "alt": "Palm trees silhouetted against a pink and violet evening sky.",
+          "caption": "Palm trees silhouetted against a pink and violet evening sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-11-13",
+          "location": "Elwood"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/evening-restaurants.webp",
+          "alt": "People walking between restaurants and outdoor tables at dusk.",
+          "caption": "People walking between restaurants and outdoor tables at dusk.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Elwood"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/noodles-and-greens.webp",
+          "alt": "A plate of noodles topped with meat, herbs and greens.",
+          "caption": "A plate of noodles topped with meat, herbs and greens.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-13",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/oysters-on-ice.webp",
+          "alt": "A display of oysters on ice with small handwritten labels.",
+          "caption": "A display of oysters on ice with small handwritten labels.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-13-melbourne-elwood/chinatown-lanterns.webp",
+          "alt": "Red lanterns above a Melbourne Chinatown street after dark.",
+          "caption": "Red lanterns above a Melbourne Chinatown street after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-13",
+          "location": "Chinatown, Melbourne"
+        }
+      ]
+    },
+    {
+      "title": "Colour along the Yarra",
+      "date": "2025-11-14",
+      "location": "Melbourne · Yarra River",
+      "paragraphs": [
+        "The city changes colour through the evening: a bright tree in Federation Square, a pink sky above the bridges, then blue dusk and reflections beside the river."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/city-layers.webp",
+          "alt": "Tram wires, red brick and patterned modern towers at a Melbourne intersection.",
+          "caption": "Tram wires, red brick and patterned modern towers at a Melbourne intersection.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-14",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/church-and-towers.webp",
+          "alt": "Late sunlight above a stone church and the surrounding city towers.",
+          "caption": "Late sunlight above a stone church and the surrounding city towers.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/coloured-courtyard-facade.webp",
+          "alt": "A curved building façade of coloured vertical panels around a planted courtyard.",
+          "caption": "A curved building façade of coloured vertical panels around a planted courtyard.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-14",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/sunken-library-sculpture.webp",
+          "alt": "An angled architectural sculpture beneath trees beside the pavement.",
+          "caption": "An angled architectural sculpture beneath trees beside the pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-14",
+          "location": "State Library Victoria"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/federation-square-lights.webp",
+          "alt": "Visitors gathered beside a bright green tree-shaped light display.",
+          "caption": "Visitors gathered beside a bright green tree-shaped light display.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Federation Square"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/river-and-city-towers.webp",
+          "alt": "City towers and riverside buildings above the still evening water.",
+          "caption": "City towers and riverside buildings above the still evening water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Yarra River"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/pink-sky-above-the-city.webp",
+          "alt": "A pink sunset over city towers and the illuminated footbridge.",
+          "caption": "A pink sunset over city towers and the illuminated footbridge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Yarra River"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/princes-bridge-lamp.webp",
+          "alt": "An ornate bridge lamp and coat of arms against the city skyline.",
+          "caption": "An ornate bridge lamp and coat of arms against the city skyline.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-14",
+          "location": "Princes Bridge"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/blue-hour-reflections.webp",
+          "alt": "Office towers reflected in the Yarra beneath a blue evening sky.",
+          "caption": "Office towers reflected in the Yarra beneath a blue evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Yarra River",
+          "wide": true
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/palms-and-riverside-art.webp",
+          "alt": "Palm trees above a brightly patterned riverside wall.",
+          "caption": "Palm trees above a brightly patterned riverside wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-11-14",
+          "location": "Yarra River"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/an-evening-at-clocks.webp",
+          "alt": "People seated beneath colourful wall decoration inside a busy pub.",
+          "caption": "People seated beneath colourful wall decoration inside a busy pub.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-14-melbourne-yarra/city-from-above.webp",
+          "alt": "Melbourne towers and lit pedestrian spaces viewed from above after dark.",
+          "caption": "Melbourne towers and lit pedestrian spaces viewed from above after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-14",
+          "location": "Melbourne"
+        }
+      ]
+    },
+    {
+      "title": "Out along St Kilda Pier",
+      "date": "2025-11-15",
+      "location": "Melbourne · St Kilda",
+      "paragraphs": [
+        "After the city streets, St Kilda is all dark water and long strings of pier lights. Little penguins stand among the breakwater rocks before the late journey back."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/sunlit-city-street.webp",
+          "alt": "A Melbourne street with trams, leafy trees and a pale angular building.",
+          "caption": "A Melbourne street with trams, leafy trees and a pale angular building.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-15",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/neighbourhood-corner.webp",
+          "alt": "A low corner pub with modern towers behind it beneath broken cloud.",
+          "caption": "A low corner pub with modern towers behind it beneath broken cloud.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-15",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/restaurant-under-the-leaves.webp",
+          "alt": "A restaurant entrance and red umbrellas beneath a canopy of green leaves.",
+          "caption": "A restaurant entrance and red umbrellas beneath a canopy of green leaves.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-11-15",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/tram-towards-the-towers.webp",
+          "alt": "A tram and pedestrians beneath the tall buildings of a city street.",
+          "caption": "A tram and pedestrians beneath the tall buildings of a city street.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-15",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/pier-at-blue-hour.webp",
+          "alt": "Small waves on a sandy beach beside the illuminated pier.",
+          "caption": "Small waves on a sandy beach beside the illuminated pier.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-15",
+          "location": "St Kilda"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/boat-and-distant-skyline.webp",
+          "alt": "A small boat in dark water with the Melbourne skyline beyond.",
+          "caption": "A small boat in dark water with the Melbourne skyline beyond.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-15",
+          "location": "St Kilda"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/curving-pier-boardwalk.webp",
+          "alt": "The lit wooden walkway curving between the sea and the breakwater.",
+          "caption": "The lit wooden walkway curving between the sea and the breakwater.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-15",
+          "location": "St Kilda Pier"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/golden-pier-reflections.webp",
+          "alt": "Lights along the pier reflected in the dark water.",
+          "caption": "Lights along the pier reflected in the dark water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-15",
+          "location": "St Kilda Pier"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/penguin-among-boulders.webp",
+          "alt": "A little penguin standing in the shelter of large breakwater boulders.",
+          "caption": "A little penguin standing in the shelter of large breakwater boulders.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-15",
+          "location": "St Kilda breakwater"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/two-little-penguins.webp",
+          "alt": "Two little penguins standing side by side on sand beneath the rocks.",
+          "caption": "Two little penguins standing side by side on sand beneath the rocks.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-15",
+          "location": "St Kilda breakwater"
+        },
+        {
+          "src": "/photos/australia/2025-11-15-melbourne-st-kilda/drinks-at-the-bar.webp",
+          "alt": "Three drinks on a wooden bar beneath polished beer taps.",
+          "caption": "Three drinks on a wooden bar beneath polished beer taps.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-15",
+          "location": "Melbourne"
+        }
+      ]
+    },
+    {
+      "title": "A walk through Westerfolds",
+      "date": "2025-11-16",
+      "location": "Melbourne · Westerfolds Park",
+      "paragraphs": [
+        "Beyond the city, kangaroos graze beside paths and old trees. The walk passes the brick manor, woodland birds and the brown water of the Yarra."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/glass-gardens.webp",
+          "alt": "Small planted terrariums hanging in glass globes outside a shop.",
+          "caption": "Small planted terrariums hanging in glass globes outside a shop.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/tram-view-over-the-hills.webp",
+          "alt": "A hilly suburban road seen through the front window of a tram.",
+          "caption": "A hilly suburban road seen through the front window of a tram.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/kangaroo-by-the-tree.webp",
+          "alt": "A kangaroo standing beside the tangled branches of a low tree.",
+          "caption": "A kangaroo standing beside the tangled branches of a low tree.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/kangaroos-grazing.webp",
+          "alt": "Several kangaroos grazing together on a green clearing.",
+          "caption": "Several kangaroos grazing together on a green clearing.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park",
+          "wide": true
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/kangaroo-and-manor.webp",
+          "alt": "An upright kangaroo on the lawn with the brick manor behind it.",
+          "caption": "An upright kangaroo on the lawn with the brick manor behind it.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/old-brick-manor.webp",
+          "alt": "The brick manor house with tall chimneys and a steep tiled roof.",
+          "caption": "The brick manor house with tall chimneys and a steep tiled roof.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/duck-on-the-path.webp",
+          "alt": "A duck standing on the grass and leaf litter beside a path.",
+          "caption": "A duck standing on the grass and leaf litter beside a path.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/trees-in-a-puddle.webp",
+          "alt": "Tree branches reflected in a puddle at the edge of a curving path.",
+          "caption": "Tree branches reflected in a puddle at the edge of a curving path.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/old-gum-tree.webp",
+          "alt": "A large gum tree with bare upper branches in the park woodland.",
+          "caption": "A large gum tree with bare upper branches in the park woodland.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/ibis-in-the-woodland.webp",
+          "alt": "Several dark ibis foraging among leaves beneath woodland trees.",
+          "caption": "Several dark ibis foraging among leaves beneath woodland trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/rocky-stream.webp",
+          "alt": "A small stream flowing between rocks and green shrubs.",
+          "caption": "A small stream flowing between rocks and green shrubs.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/woodland-stairs.webp",
+          "alt": "Wooden steps descending through trees towards the river.",
+          "caption": "Wooden steps descending through trees towards the river.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/branches-above-the-yarra.webp",
+          "alt": "Tree branches extending over the brown water of the Yarra.",
+          "caption": "Tree branches extending over the brown water of the Yarra.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Westerfolds Park"
+        },
+        {
+          "src": "/photos/australia/2025-11-16-westerfolds/red-rose.webp",
+          "alt": "A red rose growing beside a suburban pavement.",
+          "caption": "A red rose growing beside a suburban pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-16",
+          "location": "Templestowe"
+        }
+      ]
+    },
+    {
+      "title": "The first stretches of the Great Ocean Road",
+      "date": "2025-11-17",
+      "location": "Bells Beach · Anglesea · Surf Coast",
+      "paragraphs": [
+        "The coast opens below the road under a shifting sky. Steps lead down to the surf, flowers grow beside the lookouts, and the road follows the edge of the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/first-road-to-the-sea.webp",
+          "alt": "A road curving downhill towards the sea beneath heavy cloud.",
+          "caption": "A road curving downhill towards the sea beneath heavy cloud.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Surf Coast"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/bells-beach-lookout.webp",
+          "alt": "A wooden staircase and a broad sandy bay beneath a blue and grey sky.",
+          "caption": "A wooden staircase and a broad sandy bay beneath a blue and grey sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Bells Beach",
+          "wide": true
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/coastal-flowers.webp",
+          "alt": "Pink flowers among fleshy green and yellow coastal plants.",
+          "caption": "Pink flowers among fleshy green and yellow coastal plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-17",
+          "location": "Bells Beach"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/steps-to-the-surf.webp",
+          "alt": "Wooden steps descending through coastal scrub towards breaking waves.",
+          "caption": "Wooden steps descending through coastal scrub towards breaking waves.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Bells Beach"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/rocks-below-the-cliffs.webp",
+          "alt": "A person walking along the rocky shore below a low coastal cliff.",
+          "caption": "A person walking along the rocky shore below a low coastal cliff.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Bells Beach"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/anglesea-shore.webp",
+          "alt": "Waves washing across a broad beach below low cliffs.",
+          "caption": "Waves washing across a broad beach below low cliffs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Anglesea"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/sweeping-surf-coast.webp",
+          "alt": "A long sandy beach curving around the bay below a coastal lookout.",
+          "caption": "A long sandy beach curving around the bay below a coastal lookout.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Anglesea coast"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/road-beside-the-beach.webp",
+          "alt": "The Great Ocean Road following a sandy shore below green hills.",
+          "caption": "The Great Ocean Road following a sandy shore below green hills.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Eastern View"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/rock-shelves-and-blue-water.webp",
+          "alt": "Shallow turquoise water washing over flat rocks below the coastal slope.",
+          "caption": "Shallow turquoise water washing over flat rocks below the coastal slope.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Great Ocean Road, near Lorne"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-surf-coast/picnic-above-the-sea.webp",
+          "alt": "Two travellers eating at a picnic table above the sea.",
+          "caption": "Two travellers eating at a picnic table above the sea.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Lorne"
+        }
+      ]
+    },
+    {
+      "title": "Headlands and river birds",
+      "date": "2025-11-17",
+      "location": "Lorne · Kennett River",
+      "paragraphs": [
+        "The road curls around green headlands, with short walks down wooden steps and through reeds. At Kennett River, birds perch above the water and a cockatoo waits beside the road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/creek-mouth-and-sand.webp",
+          "alt": "A narrow creek meeting the sea across a sandy beach between green hills.",
+          "caption": "A narrow creek meeting the sea across a sandy beach between green hills.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Great Ocean Road, west of Lorne"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/headland-above-blue-water.webp",
+          "alt": "A green headland rising above blue water and a narrow coastal road.",
+          "caption": "A green headland rising above blue water and a narrow coastal road.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Teddy’s Lookout, Lorne"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/steps-beside-the-headland.webp",
+          "alt": "Wooden steps descending beside a green headland above the sea.",
+          "caption": "Wooden steps descending beside a green headland above the sea.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Teddy’s Lookout, Lorne"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/great-ocean-road-curve.webp",
+          "alt": "The Great Ocean Road curving around a headland above the rocky shore.",
+          "caption": "The Great Ocean Road curving around a headland above the rocky shore.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Teddy’s Lookout, Lorne",
+          "wide": true
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/reeds-between-the-hills.webp",
+          "alt": "Tall reeds filling a small valley between steep green hills.",
+          "caption": "Tall reeds filling a small valley between steep green hills.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Lorne"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/waves-on-the-rock-shelves.webp",
+          "alt": "Waves crossing shallow rock shelves below the green coastal hills.",
+          "caption": "Waves crossing shallow rock shelves below the green coastal hills.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Great Ocean Road, west of Lorne"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/river-and-yellow-flowers.webp",
+          "alt": "Yellow flowers beside a calm river beneath green hills.",
+          "caption": "Yellow flowers beside a calm river beneath green hills.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-17",
+          "location": "Kennett River"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/bird-in-the-reeds.webp",
+          "alt": "A small dark bird with a red bill among tall green reeds.",
+          "caption": "A small dark bird with a red bill among tall green reeds.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-17",
+          "location": "Kennett River"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/birds-above-the-river.webp",
+          "alt": "Dark waterbirds perched on pale branches above the river.",
+          "caption": "Dark waterbirds perched on pale branches above the river.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Kennett River"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-lorne-kennett-river/cockatoo-by-the-road.webp",
+          "alt": "A white cockatoo with a raised yellow crest standing on the pavement.",
+          "caption": "A white cockatoo with a raised yellow crest standing on the pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-17",
+          "location": "Kennett River"
+        }
+      ]
+    },
+    {
+      "title": "Through the Otways",
+      "date": "2025-11-17",
+      "location": "Cape Otway · Castle Cove",
+      "paragraphs": [
+        "Tall trunks close around the road before the coast appears again at Cape Otway. Beyond the lighthouse headland, sheep graze in fields and long surf rolls into Castle Cove."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/road-through-the-gums.webp",
+          "alt": "A narrow road winding between tall gum trees.",
+          "caption": "A narrow road winding between tall gum trees.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-17",
+          "location": "Cape Otway road"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/path-through-the-tea-trees.webp",
+          "alt": "A narrow walking path beneath arching, pale-trunked coastal trees.",
+          "caption": "A narrow walking path beneath arching, pale-trunked coastal trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Cape Otway"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/cape-otway-coast.webp",
+          "alt": "Rough blue water and rock shelves below the green Cape Otway cliffs.",
+          "caption": "Rough blue water and rock shelves below the green Cape Otway cliffs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Cape Otway"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/distant-lighthouse.webp",
+          "alt": "The white lighthouse standing above a dark coastal headland.",
+          "caption": "The white lighthouse standing above a dark coastal headland.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-11-17",
+          "location": "Cape Otway"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/green-coastal-path.webp",
+          "alt": "A sandy path enclosed by dense green coastal shrubs.",
+          "caption": "A sandy path enclosed by dense green coastal shrubs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Cape Otway"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/leaning-gum-trees.webp",
+          "alt": "Pale gum trees leaning across a grassy clearing.",
+          "caption": "Pale gum trees leaning across a grassy clearing.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Cape Otway"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/sheep-on-green-pasture.webp",
+          "alt": "Sheep grazing across a green field under a dark band of cloud.",
+          "caption": "Sheep grazing across a green field under a dark band of cloud.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Otway countryside"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/light-on-the-fields.webp",
+          "alt": "Sunlit green fields and distant livestock beneath low grey cloud.",
+          "caption": "Sunlit green fields and distant livestock beneath low grey cloud.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Otway countryside"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-cape-otway/castle-cove-surf.webp",
+          "alt": "Long lines of surf curling onto the sandy beach beneath green cliffs.",
+          "caption": "Long lines of surf curling onto the sandy beach beneath green cliffs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Castle Cove",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Sea stacks, a rainbow and the Grotto",
+      "date": "2025-11-17",
+      "location": "Twelve Apostles · Loch Ard Gorge · The Grotto",
+      "paragraphs": [
+        "Evening light moves across the limestone coast and a rainbow hangs above the sea stacks. The last stops follow a narrow gorge and a boardwalk to the Grotto as dusk settles over the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/limestone-stacks-and-beach.webp",
+          "alt": "Tall limestone sea stacks beside a wide sandy beach and layered cliffs.",
+          "caption": "Tall limestone sea stacks beside a wide sandy beach and layered cliffs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Twelve Apostles",
+          "wide": true
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/edge-of-the-limestone-cliff.webp",
+          "alt": "A sheer orange limestone cliff above waves and a narrow rock shelf.",
+          "caption": "A sheer orange limestone cliff above waves and a narrow rock shelf.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-11-17",
+          "location": "Twelve Apostles"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/rainbow-over-the-stacks.webp",
+          "alt": "A rainbow above two limestone sea stacks and a curving line of surf.",
+          "caption": "A rainbow above two limestone sea stacks and a curving line of surf.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Twelve Apostles"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/evening-at-the-lookout.webp",
+          "alt": "A traveller leaning on the lookout railing beneath a bright break in the clouds.",
+          "caption": "A traveller leaning on the lookout railing beneath a bright break in the clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Twelve Apostles"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/weathered-limestone-stack.webp",
+          "alt": "A weathered limestone stack with dark cracks above the white surf.",
+          "caption": "A weathered limestone stack with dark cracks above the white surf.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Twelve Apostles"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/loch-ard-gorge.webp",
+          "alt": "The sea flowing through the narrow opening between the limestone walls of Loch Ard Gorge.",
+          "caption": "The sea flowing through the narrow opening between the limestone walls of Loch Ard Gorge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "Loch Ard Gorge"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/boardwalk-towards-dusk.webp",
+          "alt": "A wooden boardwalk winding through low coastal scrub under the evening sky.",
+          "caption": "A wooden boardwalk winding through low coastal scrub under the evening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "The Grotto"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/the-grotto-arch.webp",
+          "alt": "A natural rock arch framing a pool and the sea beyond.",
+          "caption": "A natural rock arch framing a pool and the sea beyond.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "The Grotto"
+        },
+        {
+          "src": "/photos/australia/2025-11-17-port-campbell/grotto-from-above.webp",
+          "alt": "Wooden steps descending towards the rock arch and the open sea.",
+          "caption": "Wooden steps descending towards the rock arch and the open sea.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-11-17",
+          "location": "The Grotto"
+        }
+      ]
+    },
+    {
+      "title": "A last evening in Melbourne",
+      "date": "2025-11-18",
+      "location": "Melbourne",
+      "paragraphs": [
+        "Back in the city, there is time for a sweet snack, another tram ride and a final meal. Bright window displays bring the journey back to the streets where it began."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/australia/2025-11-18-melbourne/sugar-dusted-snack.webp",
+          "alt": "A sugar-dusted snack held in a paper wrapper beside a café table.",
+          "caption": "A sugar-dusted snack held in a paper wrapper beside a café table.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-18",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-18-melbourne/reflections-on-the-tram.webp",
+          "alt": "Tram seats and passengers reflected in the window.",
+          "caption": "Tram seats and passengers reflected in the window.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-18",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-18-melbourne/last-evening-tram-stop.webp",
+          "alt": "A tram stop and restaurant façades beneath the evening sky.",
+          "caption": "A tram stop and restaurant façades beneath the evening sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-18",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-18-melbourne/rice-and-curry.webp",
+          "alt": "Rice, curry and side dishes served on a metal plate.",
+          "caption": "Rice, curry and side dishes served on a metal plate.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-18",
+          "location": "Melbourne"
+        },
+        {
+          "src": "/photos/australia/2025-11-18-melbourne/illuminated-city-windows.webp",
+          "alt": "A department-store façade illuminated in pink and green at night.",
+          "caption": "A department-store façade illuminated in pink and green at night.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-11-18",
+          "location": "Melbourne"
+        }
+      ]
+    }
+  ]
+}

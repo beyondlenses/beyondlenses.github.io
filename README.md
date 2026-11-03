@@ -12,7 +12,12 @@ daily sections from **26 April to 10 May 2025**, with date and location labels.
 **The long road to Spiti** contains **151 original photographs** in nine daily
 sections from **15–23 September 2026**, following the journey through Shimla,
 Kinnaur, Spiti, Chandratal, and Manali.
-Turkey and Spiti photos are served from Cloudflare R2; their local WebP exports
+**Australia** contains **130 original photographs** in 13 dated sections from
+**10–18 November 2025**, covering Melbourne, Williamstown, St Kilda,
+Westerfolds Park, and the Great Ocean Road.
+**Britain (UK)** contains **176 original photographs** in 17 dated sections from
+**10–18 August 2025**, following Glasgow, Edinburgh, and London.
+Turkey, Spiti, Australia, and Britain photos are served from Cloudflare R2; their local WebP exports
 are ignored by Git. The existing Japan photographs remain in the repository.
 Gros Morne still uses credited stock photography and sample text.
 
@@ -218,6 +223,51 @@ WebP exports live in `public/photos/spiti/<date>-<area>/`. They preserve colour
 and framing, correct EXIF orientation, and omit EXIF/XMP. Camera originals stay
 unchanged outside the repository. The exports are ignored by Git, uploaded to
 `r2:beyondlenses/photos/spiti/`, and served from the public R2 URL.
+
+## Australia and Britain selections
+
+Australia’s 130 photographs were selected from all 2,077 JPEGs in
+`../dumps/australia/`. The 176 Britain photographs were selected from all 830
+JPEGs in `../dumps/UK/`. Both collections were reviewed in chronological contact
+sheets, followed by larger views of shortlisted frames. Similar bursts,
+duplicate views, blurred or obstructed frames, receipts, travel documents, and
+conference records were omitted. The 84 Australia videos and 27 UK videos are
+outside these still-photo albums. No archives were extracted for these additions.
+
+Dates use camera-local EXIF timestamps: the selected Victoria photographs use
+`+11:00`, and the Britain selections use `+01:00`. This keeps late Australian
+evenings on their actual local dates. Place labels use visible landmarks,
+signs and capture order, with GPS support where available in the Australia
+collection. Broader district labels are used when the exact venue is uncertain.
+The short Glasgow and final Melbourne sections reflect the smaller number of
+distinct suitable photographs on those days.
+
+Both albums retain the editorial galleries, date and place labels, and image
+viewer, with the top chapter index disabled. Each cover appears only once in
+its album count and is not repeated in a gallery. Personal photographs and
+local-life selections are listed in each manifest’s `peoplePhotoSources` for
+later review. Original photographs remain untouched outside the repository.
+
+`content/selections/australia.json` and `content/selections/britain.json` record
+source filenames and SHA-256 hashes, capture times and offsets, location evidence,
+daily and chapter counts, omissions, and export settings. WebP copies preserve
+framing and colour, correct EXIF orientation, and omit EXIF/XMP metadata. They
+live in `public/photos/australia/` and `public/photos/britain/`, are ignored by Git,
+and are served from the corresponding R2 paths.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/australia.json --source ../dumps/australia
+python3 scripts/export-photos.py --selection content/selections/britain.json --source ../dumps/UK
+npm run photos:upload -- australia britain
+npm run photos:check -- australia britain
+npm test
+npm run build
+```
+
+Representative exports checked include `twelve-apostles-coast.webp`,
+`black-swans.webp`, `two-little-penguins.webp`, `kangaroos-grazing.webp`,
+`tower-bridge-on-the-thames.webp`, `university-at-blue-hour.webp`,
+`fan-vaulting.webp`, and `st-pauls-at-night.webp`.
 
 ## Publish at beyondlenses.github.io
 
