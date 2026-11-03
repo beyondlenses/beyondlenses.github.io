@@ -38,6 +38,13 @@
 /originals/
 /downloads/
 
+# Local exclusion reference
+/public/photos/do-not-add-this-persons-photo.webp
+
+# New album exports are uploaded to Cloudflare R2. Existing tracked Japan
+# images remain in Git; local exports and future albums stay out of commits.
+/public/photos/
+
 # Local configuration and editor state
 .env
 .env.*

@@ -1,0 +1,1508 @@
+{
+  "slug": "spiti",
+  "photoStorage": "r2",
+  "title": "The long road to Spiti",
+  "subtitle": "Nine days from the green hills of Shimla and Kinnaur to Spiti’s high villages, monasteries, and the blue water of Chandratal.",
+  "country": "India",
+  "location": "Shimla · Kinnaur · Spiti · Chandratal · Manali",
+  "category": "A Himalayan road journey",
+  "order": 2.5,
+  "demo": false,
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-23",
+  "cover": {
+    "src": "/photos/spiti/2026-09-22-key-chandratal/key-monastery.webp",
+    "alt": "White buildings of Key Monastery rising above the dry mountain valley beneath a clear blue sky.",
+    "caption": "White buildings of Key Monastery rising above the dry mountain valley beneath a clear blue sky.",
+    "width": 2400,
+    "height": 1600,
+    "capturedOn": "2026-09-22",
+    "location": "Key Monastery, Spiti Valley",
+    "position": "center 55%"
+  },
+  "chapters": [
+    {
+      "title": "An evening in Shimla",
+      "date": "2026-09-15",
+      "location": "Shimla",
+      "paragraphs": [
+        "The journey begins above the clouds and ends with warm food and the lights around the Ridge. Beyond the town, the mountains are waiting."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-15-shimla/above-the-clouds.webp",
+          "alt": "An aircraft wing above a wide bank of white clouds.",
+          "caption": "An aircraft wing above a wide bank of white clouds.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-09-15",
+          "location": "On the way to Himachal Pradesh"
+        },
+        {
+          "src": "/photos/spiti/2026-09-15-shimla/first-evening-thali.webp",
+          "alt": "Rice, dal, vegetables, and chutney served on a steel thali.",
+          "caption": "Rice, dal, vegetables, and chutney served on a steel thali.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-15",
+          "location": "Shimla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-15-shimla/siddu-and-chutney.webp",
+          "alt": "Steamed siddu with small bowls of chutney on a wooden table.",
+          "caption": "Steamed siddu with small bowls of chutney on a wooden table.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-09-15",
+          "location": "Shimla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-15-shimla/an-evening-on-the-ridge.webp",
+          "alt": "A personal photograph outside the illuminated Christ Church after dark.",
+          "caption": "A personal photograph outside the illuminated Christ Church after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-15",
+          "location": "The Ridge, Shimla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-15-shimla/the-ridge-after-dark.webp",
+          "alt": "The illuminated buildings of the Ridge, with Christ Church at the edge of the frame.",
+          "caption": "The illuminated buildings of the Ridge, with Christ Church at the edge of the frame.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-15",
+          "location": "The Ridge, Shimla",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Forests, a lake & palace courtyards",
+      "date": "2026-09-16",
+      "location": "Narkanda · Rampur",
+      "paragraphs": [
+        "Green hills give way to forest paths, a still lake, and the carved wood of palace courtyards. The road keeps winding east, towards Kinnaur."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/green-hills-morning.webp",
+          "alt": "Green ridges and hillside houses beneath a clear blue sky.",
+          "caption": "Green ridges and hillside houses beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Shimla–Narkanda road",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/road-around-the-rock.webp",
+          "alt": "The mountain road bending around a tall outcrop of rock.",
+          "caption": "The mountain road bending around a tall outcrop of rock.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Shimla–Narkanda road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/winding-hillside-road.webp",
+          "alt": "A winding road tracing the folds of a forested valley.",
+          "caption": "A winding road tracing the folds of a forested valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Shimla–Narkanda road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/hatu-hilltop.webp",
+          "alt": "A grassy path and fence leading towards the hilltop temple.",
+          "caption": "A grassy path and fence leading towards the hilltop temple.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Hatu Peak, Narkanda"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/tani-jubbar-reflections.webp",
+          "alt": "Tall conifers reflected in the still water of Tani Jubbar Lake.",
+          "caption": "Tall conifers reflected in the still water of Tani Jubbar Lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Tani Jubbar Lake, Narkanda",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/temple-dog-resting.webp",
+          "alt": "A dog resting in a patch of light beside a temple doorway.",
+          "caption": "A dog resting in a patch of light beside a temple doorway.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Tani Jubbar Lake, Narkanda"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/lake-through-the-doorway.webp",
+          "alt": "The lake and its surrounding trees framed by a carved wooden doorway.",
+          "caption": "The lake and its surrounding trees framed by a carved wooden doorway.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Tani Jubbar Lake, Narkanda"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/palace-courtyard-pavilion.webp",
+          "alt": "An ornate open pavilion in the palace courtyard, backed by green hills.",
+          "caption": "An ornate open pavilion in the palace courtyard, backed by green hills.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Padam Palace, Rampur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/pavilion-carved-pillars.webp",
+          "alt": "Painted pillars, carved brackets, and the roof of the courtyard pavilion.",
+          "caption": "Painted pillars, carved brackets, and the roof of the courtyard pavilion.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Padam Palace, Rampur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/padam-palace-garden.webp",
+          "alt": "The palace facade rising above a garden and clipped hedges.",
+          "caption": "The palace facade rising above a garden and clipped hedges.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Padam Palace, Rampur",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/painted-ceiling.webp",
+          "alt": "A repeating floral pattern covering a brightly painted ceiling.",
+          "caption": "A repeating floral pattern covering a brightly painted ceiling.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Padam Palace, Rampur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/palace-tower.webp",
+          "alt": "A projecting palace tower with arched windows and a pointed roof.",
+          "caption": "A projecting palace tower with arched windows and a pointed roof.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Padam Palace, Rampur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/timber-and-stone-balconies.webp",
+          "alt": "A timber-and-stone building with long rows of blue-framed balconies.",
+          "caption": "A timber-and-stone building with long rows of blue-framed balconies.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Rampur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/arched-palace-balcony.webp",
+          "alt": "Arched balconies beneath a broad sloping palace roof.",
+          "caption": "Arched balconies beneath a broad sloping palace roof.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Padam Palace, Rampur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-16-narkanda-rampur/rampur-street-life.webp",
+          "alt": "Pedestrians, shops, and vehicles along a busy street beneath green hills.",
+          "caption": "Pedestrians, shops, and vehicles along a busy street beneath green hills.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-16",
+          "location": "Rampur"
+        }
+      ]
+    },
+    {
+      "title": "Into the Baspa Valley",
+      "date": "2026-09-17",
+      "location": "Sarahan · Sangla · Chitkul",
+      "paragraphs": [
+        "Morning begins among the timber roofs of Sarahan. Rock-cut roads lead into Kinnaur, then along the Baspa towards Chitkul, where cloud lifts from the snow peaks before evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/sarahan-morning.webp",
+          "alt": "The layered roofs of the Bhimakali temple among the buildings of Sarahan.",
+          "caption": "The layered roofs of the Bhimakali temple among the buildings of Sarahan.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Sarahan"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/bhimakali-wooden-balcony.webp",
+          "alt": "Carved timber arches and a sloping slate roof at the temple.",
+          "caption": "Carved timber arches and a sloping slate roof at the temple.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Bhimakali Temple, Sarahan"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/golden-guardian.webp",
+          "alt": "A golden guardian figure beside carved wooden temple pillars.",
+          "caption": "A golden guardian figure beside carved wooden temple pillars.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-17",
+          "location": "Bhimakali Temple, Sarahan"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/mist-over-the-ridges.webp",
+          "alt": "Successive mountain ridges fading into low grey cloud.",
+          "caption": "Successive mountain ridges fading into low grey cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Sarahan",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/morning-on-the-playing-field.webp",
+          "alt": "A morning walk across the playing field below the green hillside.",
+          "caption": "A morning walk across the playing field below the green hillside.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Sarahan"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/road-under-the-cliff.webp",
+          "alt": "A narrow road passing beneath an overhanging rock face.",
+          "caption": "A narrow road passing beneath an overhanging rock face.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-17",
+          "location": "Kinnaur road",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/road-into-kinnaur.webp",
+          "alt": "A bend in the road beneath steep green slopes and cloud-covered peaks.",
+          "caption": "A bend in the road beneath steep green slopes and cloud-covered peaks.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-17",
+          "location": "Kinnaur road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/turquoise-reservoir.webp",
+          "alt": "Pale turquoise water enclosed by steep mountain walls.",
+          "caption": "Pale turquoise water enclosed by steep mountain walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-17",
+          "location": "Karcham, Kinnaur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/soup-with-dumplings.webp",
+          "alt": "Dumplings and vegetables in a hot bowl of soup.",
+          "caption": "Dumplings and vegetables in a hot bowl of soup.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-09-17",
+          "location": "Sangla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/a-roadside-lunch.webp",
+          "alt": "A browned stuffed bread with bowls of soup and chutney.",
+          "caption": "A browned stuffed bread with bowls of soup and chutney.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-17",
+          "location": "Sangla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/sangla-under-clouds.webp",
+          "alt": "The Sangla valley beneath mountain slopes wrapped in cloud.",
+          "caption": "The Sangla valley beneath mountain slopes wrapped in cloud.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-17",
+          "location": "Sangla, Baspa Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/baspa-footbridge.webp",
+          "alt": "A green steel bridge across the Baspa below dark mountain slopes.",
+          "caption": "A green steel bridge across the Baspa below dark mountain slopes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Baspa Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/baspa-river-bend.webp",
+          "alt": "The pale blue Baspa winding between trees and a rocky valley floor.",
+          "caption": "The pale blue Baspa winding between trees and a rocky valley floor.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Baspa Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/chitkul-mountain-light.webp",
+          "alt": "Sunlit peaks and drifting cloud beyond the green slopes near Chitkul.",
+          "caption": "Sunlit peaks and drifting cloud beyond the green slopes near Chitkul.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Chitkul"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/river-below-the-village.webp",
+          "alt": "The Baspa flowing through a narrow valley beneath village buildings.",
+          "caption": "The Baspa flowing through a narrow valley beneath village buildings.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-17",
+          "location": "Chitkul"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/blue-windowed-village-house.webp",
+          "alt": "Blue window frames on a village house below a steep mountain slope.",
+          "caption": "Blue window frames on a village house below a steep mountain slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Chitkul"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/snow-peaks-through-cloud.webp",
+          "alt": "A snow-covered summit emerging above a ribbon of cloud.",
+          "caption": "A snow-covered summit emerging above a ribbon of cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Chitkul",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/cattle-on-the-village-road.webp",
+          "alt": "A herd of cattle coming down the village road beneath snowy mountain peaks.",
+          "caption": "A herd of cattle coming down the village road beneath snowy mountain peaks.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Chitkul"
+        },
+        {
+          "src": "/photos/spiti/2026-09-17-sarahan-chitkul/last-light-on-the-peaks.webp",
+          "alt": "The last warm light catching the snowy peaks above the village.",
+          "caption": "The last warm light catching the snowy peaks above the village.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-17",
+          "location": "Chitkul"
+        }
+      ]
+    },
+    {
+      "title": "Apple orchards & carved doorways",
+      "date": "2026-09-18",
+      "location": "Baspa Valley · Kamru · Kalpa",
+      "paragraphs": [
+        "The Baspa runs bright beneath the forest. Apples hang beside village paths, and carved wooden doorways mark the stops between Sangla and Kalpa."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/chitkul-in-morning-light.webp",
+          "alt": "Rocky mountain ridges and scattered houses in clear morning light.",
+          "caption": "Rocky mountain ridges and scattered houses in clear morning light.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Chitkul",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/hanging-branches.webp",
+          "alt": "Long green strands hanging from the branches of a large tree.",
+          "caption": "Long green strands hanging from the branches of a large tree.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Baspa Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/sunlit-conifers.webp",
+          "alt": "Golden sunlight falling across dense conifers on a mountain slope.",
+          "caption": "Golden sunlight falling across dense conifers on a mountain slope.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Baspa Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/baspa-through-the-forest.webp",
+          "alt": "The bright river winding through a long forested valley.",
+          "caption": "The bright river winding through a long forested valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Baspa Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/open-baspa-valley.webp",
+          "alt": "The river and fields opening out beneath high rocky mountains.",
+          "caption": "The river and fields opening out beneath high rocky mountains.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-18",
+          "location": "Baspa Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/houses-across-the-river.webp",
+          "alt": "Village houses and trees on the far bank of the Baspa.",
+          "caption": "Village houses and trees on the far bank of the Baspa.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Baspa Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/rocky-summit.webp",
+          "alt": "A sharply ridged mountain summit against a clear blue sky.",
+          "caption": "A sharply ridged mountain summit against a clear blue sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Baspa Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/apples-in-the-sun.webp",
+          "alt": "Red and yellow apples growing among sunlit green leaves.",
+          "caption": "Red and yellow apples growing among sunlit green leaves.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kamru, Sangla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/kamru-tower.webp",
+          "alt": "The tall timber-and-stone tower of Kamru Fort above the courtyard.",
+          "caption": "The tall timber-and-stone tower of Kamru Fort above the courtyard.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-18",
+          "location": "Kamru Fort, Sangla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/courtyard-shrine.webp",
+          "alt": "A small wooden shrine beneath a slate roof in the fort courtyard.",
+          "caption": "A small wooden shrine beneath a slate roof in the fort courtyard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kamru Fort, Sangla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/flag-above-the-ridges.webp",
+          "alt": "A red and white flag above the jagged mountain skyline.",
+          "caption": "A red and white flag above the jagged mountain skyline.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kamru Fort, Sangla"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/cliffs-near-kalpa.webp",
+          "alt": "Sheer rocky slopes falling into a deep valley near Kalpa.",
+          "caption": "Sheer rocky slopes falling into a deep valley near Kalpa.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-18",
+          "location": "Kalpa–Roghi road",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/kalpa-slate-roofs.webp",
+          "alt": "Layered slate roofs and small golden finials above the temple courtyard.",
+          "caption": "Layered slate roofs and small golden finials above the temple courtyard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kalpa"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/carved-wood-panel.webp",
+          "alt": "An intricate carved wooden panel on the temple doorway.",
+          "caption": "An intricate carved wooden panel on the temple doorway.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-18",
+          "location": "Kalpa"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/golden-lions.webp",
+          "alt": "Two golden lion figures decorating a wooden temple window.",
+          "caption": "Two golden lion figures decorating a wooden temple window.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kalpa"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/wooden-relief.webp",
+          "alt": "Figures and floral patterns carved into a wooden temple panel.",
+          "caption": "Figures and floral patterns carved into a wooden temple panel.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kalpa"
+        },
+        {
+          "src": "/photos/spiti/2026-09-18-sangla-kalpa/ornate-temple-door.webp",
+          "alt": "A pair of richly carved wooden doors standing open above stone steps.",
+          "caption": "A pair of richly carved wooden doors standing open above stone steps.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-18",
+          "location": "Kalpa"
+        }
+      ]
+    },
+    {
+      "title": "From sunrise to the high desert",
+      "date": "2026-09-19",
+      "location": "Kalpa · Khab · Nako · Gue · Tabo",
+      "paragraphs": [
+        "Sunbeams spread above the ridgeline at Kalpa. The road follows deep river gorges into a drier landscape, pausing among the stone lanes, monastery walls, and quiet water of Nako. Painted details and evening light at Gue mark the last stop before Tabo."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/kinnaur-kailash-sunrise.webp",
+          "alt": "Rays of morning light spreading above the Kinnaur Kailash ridgeline.",
+          "caption": "Rays of morning light spreading above the Kinnaur Kailash ridgeline.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-19",
+          "location": "Kalpa",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/sun-over-the-ridge.webp",
+          "alt": "The sun rising above dark mountain silhouettes.",
+          "caption": "The sun rising above dark mountain silhouettes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Kalpa"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/river-and-boulders.webp",
+          "alt": "Fast grey-green water flowing around large river boulders.",
+          "caption": "Fast grey-green water flowing around large river boulders.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Kinnaur road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/rocky-river-gorge.webp",
+          "alt": "A fast river running through a narrow gorge of pale rock.",
+          "caption": "A fast river running through a narrow gorge of pale rock.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Khab, Kinnaur",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/river-beneath-the-cliff.webp",
+          "alt": "The river curving beneath a towering rock wall.",
+          "caption": "The river curving beneath a towering rock wall.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Khab, Kinnaur"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/road-to-nako.webp",
+          "alt": "A winding road and layered brown ridges beneath scattered clouds.",
+          "caption": "A winding road and layered brown ridges beneath scattered clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-19",
+          "location": "Approaching Nako",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/nako-monastery-exterior.webp",
+          "alt": "A stone monastery building with a red roofline and golden finials.",
+          "caption": "A stone monastery building with a red roofline and golden finials.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/painted-monastery-pavilion.webp",
+          "alt": "A colourful monastery pavilion beneath a red roof and prayer flags.",
+          "caption": "A colourful monastery pavilion beneath a red roof and prayer flags.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/white-chortens.webp",
+          "alt": "White chortens set into shaded stone alcoves.",
+          "caption": "White chortens set into shaded stone alcoves.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/prayer-flags-above-nako.webp",
+          "alt": "Long strands of prayer flags against a deep blue sky.",
+          "caption": "Long strands of prayer flags against a deep blue sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/red-earth-temple.webp",
+          "alt": "A red-earth temple wall and small dark doorway beneath golden finials.",
+          "caption": "A red-earth temple wall and small dark doorway beneath golden finials.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/painted-temple-entrance.webp",
+          "alt": "A brightly painted temple entrance with carved pillars and golden details.",
+          "caption": "A brightly painted temple entrance with carved pillars and golden details.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/nako-stone-lane.webp",
+          "alt": "A quiet lane bordered by low stone walls and village houses.",
+          "caption": "A quiet lane bordered by low stone walls and village houses.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/lake-under-the-trees.webp",
+          "alt": "Green water and mountain reflections beneath overhanging trees.",
+          "caption": "Green water and mountain reflections beneath overhanging trees.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako Lake",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/fish-in-the-shallows.webp",
+          "alt": "Small fish gathering in the green shallows beside the lake.",
+          "caption": "Small fish gathering in the green shallows beside the lake.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-19",
+          "location": "Nako Lake"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/nako-lake-reflections.webp",
+          "alt": "Clouds, trees, and village houses reflected in the lake.",
+          "caption": "Clouds, trees, and village houses reflected in the lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako Lake",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/walking-through-nako.webp",
+          "alt": "A walk between old stone walls and newer village houses.",
+          "caption": "A walk between old stone walls and newer village houses.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-19",
+          "location": "Nako"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/painted-gompa-detail.webp",
+          "alt": "Bright red, blue, and gold patterns around a monastery doorway.",
+          "caption": "Bright red, blue, and gold patterns around a monastery doorway.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-09-19",
+          "location": "Gue"
+        },
+        {
+          "src": "/photos/spiti/2026-09-19-kalpa-nako-tabo/gue-evening-ridges.webp",
+          "alt": "Warm evening light across the bare ridges above the village.",
+          "caption": "Warm evening light across the bare ridges above the village.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-19",
+          "location": "Gue"
+        }
+      ]
+    },
+    {
+      "title": "Earthen temples & river valleys",
+      "date": "2026-09-20",
+      "location": "Tabo · Dhankar · Pin Valley",
+      "paragraphs": [
+        "Pale earthen walls hold the morning light at Tabo. Above the river, Dhankar rises from eroded rock; farther along, painted monastery rooms and a narrow footbridge lead into the open space of Pin Valley."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/tabo-golden-stupa.webp",
+          "alt": "A golden stupa standing against the rocky mountain slopes.",
+          "caption": "A golden stupa standing against the rocky mountain slopes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Tabo"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/dog-in-the-monastery-courtyard.webp",
+          "alt": "A dog standing on the stone paving of the monastery courtyard.",
+          "caption": "A dog standing on the stone paving of the monastery courtyard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Tabo"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/weathered-temple-door.webp",
+          "alt": "A weathered wooden door set into a pale earthen temple wall.",
+          "caption": "A weathered wooden door set into a pale earthen temple wall.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-20",
+          "location": "Tabo Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/earthen-temple.webp",
+          "alt": "A low earthen temple with a dark doorway and a flat roof.",
+          "caption": "A low earthen temple with a dark doorway and a flat roof.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Tabo Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/chorten-and-mountain.webp",
+          "alt": "A pale chorten, dark roofline, and steep mountains against the blue sky.",
+          "caption": "A pale chorten, dark roofline, and steep mountains against the blue sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Tabo Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/tabo-earthen-courtyard.webp",
+          "alt": "Old earthen temples and chortens in the monastery courtyard.",
+          "caption": "Old earthen temples and chortens in the monastery courtyard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Tabo Monastery",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/spiti-river-valley.webp",
+          "alt": "The broad riverbed beneath sharply folded mountain slopes.",
+          "caption": "The broad riverbed beneath sharply folded mountain slopes.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-20",
+          "location": "Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/dhankar-village.webp",
+          "alt": "White village houses spread across the dry slopes below Dhankar.",
+          "caption": "White village houses spread across the dry slopes below Dhankar.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/rock-pinnacle-and-flags.webp",
+          "alt": "Prayer flags stretching beside an eroded rock pinnacle.",
+          "caption": "Prayer flags stretching beside an eroded rock pinnacle.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/yellow-monastery-windows.webp",
+          "alt": "Yellow window frames set into a whitewashed monastery wall.",
+          "caption": "Yellow window frames set into a whitewashed monastery wall.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/monastery-on-the-cliff.webp",
+          "alt": "White monastery buildings perched on tall, eroded rock pinnacles.",
+          "caption": "White monastery buildings perched on tall, eroded rock pinnacles.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar Monastery",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/river-confluence.webp",
+          "alt": "Braided river channels meeting far below the monastery.",
+          "caption": "Braided river channels meeting far below the monastery.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar viewpoint",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/valley-through-a-window.webp",
+          "alt": "The river valley framed by a deep monastery window.",
+          "caption": "The river valley framed by a deep monastery window.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/dhankar-painted-temple.webp",
+          "alt": "A white temple with red trim and a brightly painted entrance.",
+          "caption": "A white temple with red trim and a brightly painted entrance.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/weathered-earth-walls.webp",
+          "alt": "The weathered walls and dark doorway of an old earthen building.",
+          "caption": "The weathered walls and dark doorway of an old earthen building.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Dhankar"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/bridge-across-the-gorge.webp",
+          "alt": "A narrow suspension bridge spanning a deeply cut river gorge.",
+          "caption": "A narrow suspension bridge spanning a deeply cut river gorge.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-20",
+          "location": "Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/river-through-the-desert.webp",
+          "alt": "Blue-grey water flowing between bare, folded mountain slopes.",
+          "caption": "Blue-grey water flowing between bare, folded mountain slopes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Pin Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/kungri-gong.webp",
+          "alt": "A brass gong in an ornate wooden housing outside the monastery.",
+          "caption": "A brass gong in an ornate wooden housing outside the monastery.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Kungri Monastery, Pin Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/kungri-wall-painting.webp",
+          "alt": "An intricate Buddhist wall painting in shades of blue, gold, and green.",
+          "caption": "An intricate Buddhist wall painting in shades of blue, gold, and green.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Kungri Monastery, Pin Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/painted-shrine-doorway.webp",
+          "alt": "Painted figures above a shrine doorway decorated with orange garlands.",
+          "caption": "Painted figures above a shrine doorway decorated with orange garlands.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Kungri Monastery, Pin Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/prayer-banner-in-the-valley.webp",
+          "alt": "A tall prayer banner in front of the bare mountain ridges.",
+          "caption": "A tall prayer banner in front of the bare mountain ridges.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Kungri Monastery, Pin Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/pin-valley-footbridge.webp",
+          "alt": "A narrow footbridge and strands of prayer flags above the river.",
+          "caption": "A narrow footbridge and strands of prayer flags above the river.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-20",
+          "location": "Pin Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/mudh-valley-light.webp",
+          "alt": "Long evening shadows across the open valley and braided riverbed.",
+          "caption": "Long evening shadows across the open valley and braided riverbed.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-20",
+          "location": "Mudh, Pin Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-20-tabo-dhankar-pin/mudh-village-houses.webp",
+          "alt": "A village street bordered by white houses with colourful window frames.",
+          "caption": "A village street bordered by white houses with colourful window frames.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-20",
+          "location": "Mudh, Pin Valley"
+        }
+      ]
+    },
+    {
+      "title": "Above the valley",
+      "date": "2026-09-21",
+      "location": "Mudh · Kaza · Langza · Komic · Hikkim",
+      "paragraphs": [
+        "From Pin Valley, the road climbs towards the high villages above Kaza. Bright monastery paint, a Buddha against the sky, mountain sheep, and long views across the plateau fill the day."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/morning-in-pin-valley.webp",
+          "alt": "The wide river valley and bare mountain slopes in morning light.",
+          "caption": "The wide river valley and bare mountain slopes in morning light.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-21",
+          "location": "Mudh, Pin Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/road-beneath-the-cliffs.webp",
+          "alt": "A dusty road running beneath steep, eroded cliff faces.",
+          "caption": "A dusty road running beneath steep, eroded cliff faces.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-21",
+          "location": "Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/eroded-rock-columns.webp",
+          "alt": "Tall, closely packed columns of pale eroded rock.",
+          "caption": "Tall, closely packed columns of pale eroded rock.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-21",
+          "location": "Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/kaza-monastery-facade.webp",
+          "alt": "The brightly painted monastery facade beneath a deep blue sky.",
+          "caption": "The brightly painted monastery facade beneath a deep blue sky.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Kaza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/monastery-gong.webp",
+          "alt": "A brass gong in a wooden frame with mountains beyond the courtyard.",
+          "caption": "A brass gong in a wooden frame with mountains beyond the courtyard.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Kaza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/painted-eaves.webp",
+          "alt": "Turquoise, red, and gold patterns beneath the monastery eaves.",
+          "caption": "Turquoise, red, and gold patterns beneath the monastery eaves.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Kaza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/monastery-shrine.webp",
+          "alt": "A gilded shrine surrounded by richly painted columns and murals.",
+          "caption": "A gilded shrine surrounded by richly painted columns and murals.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Kaza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/langza-high-plateau.webp",
+          "alt": "Bare rolling slopes and distant peaks on the high plateau.",
+          "caption": "Bare rolling slopes and distant peaks on the high plateau.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Langza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/flags-and-high-mountains.webp",
+          "alt": "Prayer flags above the open plateau and distant snow peaks.",
+          "caption": "Prayer flags above the open plateau and distant snow peaks.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Langza",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/langza-buddha.webp",
+          "alt": "A golden seated Buddha against white clouds and a deep blue sky.",
+          "caption": "A golden seated Buddha against white clouds and a deep blue sky.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-21",
+          "location": "Langza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/village-on-the-plateau.webp",
+          "alt": "White village houses scattered across a broad brown plateau.",
+          "caption": "White village houses scattered across a broad brown plateau.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Langza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/horned-mountain-sheep.webp",
+          "alt": "A horned mountain sheep standing on a stony hillside.",
+          "caption": "A horned mountain sheep standing on a stony hillside.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Near Langza"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/sheep-on-the-ridge.webp",
+          "alt": "A small herd of mountain sheep along a high ridge beneath drifting cloud.",
+          "caption": "A small herd of mountain sheep along a high ridge beneath drifting cloud.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Langza–Komic road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/snowy-mountain-wall.webp",
+          "alt": "A long wall of snow-covered peaks beyond the dry mountain slopes.",
+          "caption": "A long wall of snow-covered peaks beyond the dry mountain slopes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Langza–Komic road",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/chorten-above-the-village.webp",
+          "alt": "A small white chorten above stone walls and scattered village houses.",
+          "caption": "A small white chorten above stone walls and scattered village houses.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Komic"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/komic-monastery-wall.webp",
+          "alt": "Red monastery walls, yellow window frames, and a carved wooden entrance.",
+          "caption": "Red monastery walls, yellow window frames, and a carved wooden entrance.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Komic"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/monastery-statues.webp",
+          "alt": "Small religious statues arranged in a wooden cabinet.",
+          "caption": "Small religious statues arranged in a wooden cabinet.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Komic"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/blue-village-house.webp",
+          "alt": "A white village house with blue and red trim around its windows.",
+          "caption": "A white village house with blue and red trim around its windows.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Hikkim"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/road-across-the-plateau.webp",
+          "alt": "A winding road climbing across the open mountain plateau.",
+          "caption": "A winding road climbing across the open mountain plateau.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Hikkim"
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/hikkim-mountain-panorama.webp",
+          "alt": "Wide brown ridges and distant snowy peaks beneath scattered clouds.",
+          "caption": "Wide brown ridges and distant snowy peaks beneath scattered clouds.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-21",
+          "location": "Hikkim",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-21-kaza-high-villages/river-below-kaza.webp",
+          "alt": "A braided river cutting through a long valley of bare mountains.",
+          "caption": "A braided river cutting through a long valley of bare mountains.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-21",
+          "location": "Spiti Valley near Kaza"
+        }
+      ]
+    },
+    {
+      "title": "Monasteries, a gorge & the blue lake",
+      "date": "2026-09-22",
+      "location": "Key · Kibber · Chicham · Kunzum · Chandratal",
+      "paragraphs": [
+        "White monastery buildings rise above the river at Key. The road continues through Kibber and Chicham, crosses the high country around Kunzum, and reaches Chandratal, where clouds and mountain shadows move across the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/approaching-key.webp",
+          "alt": "Bare mountain slopes and a wide riverbed on the approach to Key.",
+          "caption": "Bare mountain slopes and a wide riverbed on the approach to Key.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Key, Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/key-on-the-hillside.webp",
+          "alt": "White monastery buildings gathered on a hill in the morning shadows.",
+          "caption": "White monastery buildings gathered on a hill in the morning shadows.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Key Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/key-monastery-gate.webp",
+          "alt": "A brightly painted monastery gateway beneath a decorated roof.",
+          "caption": "A brightly painted monastery gateway beneath a decorated roof.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Key Monastery"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/river-below-key.webp",
+          "alt": "The broad riverbed and mountain slopes below the monastery.",
+          "caption": "The broad riverbed and mountain slopes below the monastery.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Key Monastery",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/kibber-prayer-flags.webp",
+          "alt": "Prayer flags tied above a white chorten on a dry village plateau.",
+          "caption": "Prayer flags tied above a white chorten on a dry village plateau.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Kibber"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/kibber-white-houses.webp",
+          "alt": "White houses with dark window frames clustered across the hillside.",
+          "caption": "White houses with dark window frames clustered across the hillside.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Kibber",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/chicham-gorge.webp",
+          "alt": "A bridge crossing a deep gorge below the winding mountain road.",
+          "caption": "A bridge crossing a deep gorge below the winding mountain road.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chicham"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/crossing-chicham-bridge.webp",
+          "alt": "Visitors crossing the suspension bridge between yellow towers and prayer flags.",
+          "caption": "Visitors crossing the suspension bridge between yellow towers and prayer flags.",
+          "width": 1333,
+          "height": 2000,
+          "capturedOn": "2026-09-22",
+          "location": "Chicham Bridge"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/food-bus.webp",
+          "alt": "Colourful chairs and prayer flags outside a bus converted into a cafe.",
+          "caption": "Colourful chairs and prayer flags outside a bus converted into a cafe.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chicham"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/chicham-suspension-bridge.webp",
+          "alt": "The yellow towers and suspended span of Chicham Bridge above the gorge.",
+          "caption": "The yellow towers and suspended span of Chicham Bridge above the gorge.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chicham Bridge",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/upper-spiti-riverbed.webp",
+          "alt": "Pale river channels winding between bare mountains.",
+          "caption": "Pale river channels winding between bare mountains.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-22",
+          "location": "Upper Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/eroded-valley-slopes.webp",
+          "alt": "Deep gullies and rock columns carved into a dry mountainside.",
+          "caption": "Deep gullies and rock columns carved into a dry mountainside.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-22",
+          "location": "Upper Spiti Valley"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/kunzum-snow-peaks.webp",
+          "alt": "Snow-covered peaks and high brown slopes beyond Kunzum Pass.",
+          "caption": "Snow-covered peaks and high brown slopes beyond Kunzum Pass.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Kunzum Pass",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/river-braids-near-kunzum.webp",
+          "alt": "Braided river channels spreading across a wide valley floor.",
+          "caption": "Braided river channels spreading across a wide valley floor.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-22",
+          "location": "Kunzum–Chandratal road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/peaks-above-chandratal.webp",
+          "alt": "A sharp snow peak above dark ridges beneath bright white clouds.",
+          "caption": "A sharp snow peak above dark ridges beneath bright white clouds.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/chandratal-shoreline.webp",
+          "alt": "Clear blue water meeting a rocky shoreline beneath pale mountain slopes.",
+          "caption": "Clear blue water meeting a rocky shoreline beneath pale mountain slopes.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/mountains-in-the-water.webp",
+          "alt": "Soft reflections of bare mountain slopes in the still lake.",
+          "caption": "Soft reflections of bare mountain slopes in the still lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/chandratal-mountain-reflection.webp",
+          "alt": "Clouds and mountain slopes reflected in the blue-green lake.",
+          "caption": "Clouds and mountain slopes reflected in the blue-green lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/stones-in-clear-water.webp",
+          "alt": "Sunlit stones beneath clear water beside tufts of grass on the shore.",
+          "caption": "Sunlit stones beneath clear water beside tufts of grass on the shore.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/afternoon-on-the-lake.webp",
+          "alt": "Cloud shadows crossing the mountains above the darkening lake.",
+          "caption": "Cloud shadows crossing the mountains above the darkening lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/sunbeams-across-the-valley.webp",
+          "alt": "Beams of afternoon light falling across distant ridges and a river valley.",
+          "caption": "Beams of afternoon light falling across distant ridges and a river valley.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/prayer-flags-by-the-lake.webp",
+          "alt": "Prayer flags and a low pile of stones beside the blue lake.",
+          "caption": "Prayer flags and a low pile of stones beside the blue lake.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/clear-lake-shallows.webp",
+          "alt": "Clouds reflected above stones visible through the clear lake shallows.",
+          "caption": "Clouds reflected above stones visible through the clear lake shallows.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-22-key-chandratal/last-light-on-the-ridge.webp",
+          "alt": "Warm late-afternoon light catching the upper edge of a rocky ridge.",
+          "caption": "Warm late-afternoon light catching the upper edge of a rocky ridge.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-22",
+          "location": "Chandratal"
+        }
+      ]
+    },
+    {
+      "title": "Back towards the green hills",
+      "date": "2026-09-23",
+      "location": "Chandratal · Lahaul · Manali",
+      "paragraphs": [
+        "A snowy summit catches the first light above camp. On the road towards Manali, bare slopes gradually give way to green meadows and conifer-covered hills."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/spiti/2026-09-23-chandratal-manali/first-light-on-the-snow-peak.webp",
+          "alt": "The first sunlight reaching a pointed snow-covered mountain.",
+          "caption": "The first sunlight reaching a pointed snow-covered mountain.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-23",
+          "location": "Chandratal",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-23-chandratal-manali/cloud-on-the-summit.webp",
+          "alt": "A wisp of cloud brushing a sharply pointed snowy summit.",
+          "caption": "A wisp of cloud brushing a sharply pointed snowy summit.",
+          "width": 2000,
+          "height": 1333,
+          "capturedOn": "2026-09-23",
+          "location": "Chandratal"
+        },
+        {
+          "src": "/photos/spiti/2026-09-23-chandratal-manali/road-to-manali.webp",
+          "alt": "A smooth mountain road curving beneath a bare hillside.",
+          "caption": "A smooth mountain road curving beneath a bare hillside.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-09-23",
+          "location": "Lahaul–Manali road"
+        },
+        {
+          "src": "/photos/spiti/2026-09-23-chandratal-manali/return-of-the-forest.webp",
+          "alt": "Green conifers and a footbridge below steep, cloud-covered mountains.",
+          "caption": "Green conifers and a footbridge below steep, cloud-covered mountains.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-23",
+          "location": "Solang Valley, Manali",
+          "wide": true
+        },
+        {
+          "src": "/photos/spiti/2026-09-23-chandratal-manali/green-meadow-in-the-valley.webp",
+          "alt": "A green meadow and small buildings surrounded by conifer-covered slopes.",
+          "caption": "A green meadow and small buildings surrounded by conifer-covered slopes.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2026-09-23",
+          "location": "Solang Valley, Manali"
+        },
+        {
+          "src": "/photos/spiti/2026-09-23-chandratal-manali/temple-and-visitors.webp",
+          "alt": "Visitors outside a carved wooden temple beneath a forested hillside.",
+          "caption": "Visitors outside a carved wooden temple beneath a forested hillside.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2026-09-23",
+          "location": "Manali"
+        }
+      ]
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     "dev": "node scripts/serve.mjs --watch",
     "build": "node scripts/build.mjs",
     "preview": "node scripts/serve.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "photos:plan": "node scripts/upload-photos.mjs --plan",
+    "photos:upload": "node scripts/upload-photos.mjs",
+    "photos:check": "node scripts/upload-photos.mjs --check"
   }
 }

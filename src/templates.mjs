@@ -1,3 +1,5 @@
+import { resolveTripPhotos } from './photos.mjs';
+
 export const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
 })[character]);
@@ -57,7 +59,7 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
   <meta property="og:title" content="${e(title)}">
   <meta property="og:description" content="${e(description)}">
   <meta property="og:url" content="${e(canonical)}">
-  ${image ? `<meta property="og:image" content="${e(site.url + image)}">` : ''}
+  ${image ? `<meta property="og:image" content="${e(new URL(image, site.url).href)}">` : ''}
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/assets/styles.css">
@@ -84,6 +86,7 @@ function card(trip, index) {
 }
 
 export function renderHome(site, trips) {
+  trips = trips.map((trip) => resolveTripPhotos(site, trip));
   const featured = trips.find((trip) => trip.slug === site.featuredTrip);
   const countries = [...new Set(trips.map((trip) => trip.country))];
   return page(site, {
@@ -128,6 +131,8 @@ function galleryPhoto(image) {
 }
 
 export function renderStory(site, trip, nextTrip) {
+  trip = resolveTripPhotos(site, trip);
+  nextTrip = resolveTripPhotos(site, nextTrip);
   return page(site, {
     title: `${trip.title} — ${site.name}`, description: trip.subtitle, path: tripPath(trip), image: trip.cover.src, bodyClass: 'story-page',
     body: `<div class="reading-progress" aria-hidden="true"></div><main id="main">
@@ -135,8 +140,8 @@ export function renderStory(site, trip, nextTrip) {
         <header class="story-intro wrap"><a class="back-link" href="/#journal">← Back to the journal</a><p class="eyebrow">${e(trip.country)} <span aria-hidden="true">/</span> ${e(trip.category)}</p><h1>${e(trip.title)}</h1><p class="story-subtitle">${e(trip.subtitle)}</p><div class="story-details"><span>${e(trip.location)}</span>${trip.startDate ? `<span>${dateRange(trip.startDate, trip.endDate)}</span>` : ''}<span>${number(frameCount(trip))} photographs</span><span>${trip.demo ? 'Sample story' : 'A photo essay'}</span></div></header>
         <div class="story-cover wrap">${photo(trip.cover, { lazy: false })}<div class="cover-credit">${trip.cover.capturedOn || trip.cover.location ? `<span class="photo-context">${photoContext(trip.cover)}</span>` : ''}${credit(trip.cover)}</div></div>
         ${trip.demo ? '<aside class="demo-notice prose">You’re viewing a sample story with stock photography. Personal photographs and field notes will make their home here.</aside>' : ''}
-        <nav class="chapter-nav wrap${trip.chapters.some((chapter) => chapter.date) ? ' chapter-nav-dated' : ''}" aria-label="Chapters">${trip.chapters.map((chapter, index) => `<a href="#chapter-${index + 1}">${chapter.date ? `<span class="chapter-nav-date">${time(chapter.date, { year: false })}</span>` : number(index + 1)} <span>${e(chapter.title)}</span></a>`).join('')}</nav>
-        ${trip.chapters.map((chapter, index) => `<section class="chapter" id="chapter-${index + 1}"><div class="prose"><p class="eyebrow">${number(index + 1)} — ${e(chapter.location || 'Field notes')}</p><h2>${e(chapter.title)}</h2>${chapter.date ? `<p class="chapter-date">${time(chapter.date)} <span aria-hidden="true">·</span> ${chapter.photos.length} photographs</p>` : ''}${chapter.paragraphs.map((paragraph) => `<p>${e(paragraph)}</p>`).join('')}</div><div class="gallery gallery-${e(chapter.layout)} wrap">${chapter.photos.map(galleryPhoto).join('')}</div></section>`).join('')}
+        ${trip.showChapterIndex === false ? '' : `<nav id="chapters" class="chapter-nav wrap${trip.chapters.some((chapter) => chapter.date) ? ' chapter-nav-dated' : ''}" aria-label="Chapters">${trip.chapters.map((chapter, index) => `<a href="#chapter-${index + 1}">${chapter.date ? `<span class="chapter-nav-date">${time(chapter.date, { year: false })}</span>` : number(index + 1)} <span>${e(chapter.title)}</span></a>`).join('')}</nav>`}
+        ${trip.chapters.map((chapter, index) => `<section class="chapter" id="chapter-${index + 1}"><div class="prose"><p class="eyebrow">${number(index + 1)} — ${e(chapter.location || 'Field notes')}</p><h2>${e(chapter.title)}</h2>${chapter.date ? `<p class="chapter-date">${time(chapter.date)} <span aria-hidden="true">·</span> ${chapter.photos.length} photographs</p>` : ''}${chapter.paragraphs.map((paragraph) => `<p>${e(paragraph)}</p>`).join('')}</div><div class="gallery gallery-${e(chapter.layout)} wrap">${chapter.photos.map(galleryPhoto).join('')}</div>${chapter.date && trip.showChapterIndex !== false ? '<div class="chapter-return wrap"><a href="#chapters">Back to the day index ↑</a></div>' : ''}</section>`).join('')}
         <div class="story-end prose"><span aria-hidden="true">✳</span><p>Until the next journey.</p><a class="text-link" href="/#journal">Back to all stories ${arrow}</a></div>
       </article>
       ${nextTrip ? `<section class="next-story wrap"><p class="eyebrow">Keep wandering</p><a href="${tripPath(nextTrip)}"><div>${photo(nextTrip.cover)}</div><span><span class="eyebrow">${e(nextTrip.country)}</span><h2>${e(nextTrip.title)}</h2><span class="text-link">Read the next story ${arrow}</span></span></a></section>` : ''}
@@ -146,6 +151,7 @@ export function renderStory(site, trip, nextTrip) {
 }
 
 export function renderCredits(site, trips) {
+  trips = trips.map((trip) => resolveTripPhotos(site, trip));
   const images = [...new Map(trips.flatMap(allPhotos).filter((image) => image.credit).map((image) => [image.src, image])).values()];
   return page(site, {
     title: `Photo credits — ${site.name}`, description: 'The photographers behind the sample collections.', path: '/credits/',

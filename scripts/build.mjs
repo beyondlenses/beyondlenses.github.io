@@ -2,6 +2,7 @@ import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from 'node:fs/promi
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { allPhotos, escapeHtml, render404, renderCredits, renderHome, renderStory } from '../src/templates.mjs';
+import { usesR2 } from '../src/photos.mjs';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -19,6 +20,11 @@ export function validateContent(site, trips) {
   for (const key of ['name', 'url', 'description', 'headline', 'introduction', 'about', 'featuredTrip']) requireText(site[key], `site.${key}`);
   const siteUrl = new URL(site.url);
   if (siteUrl.protocol !== 'https:' || site.url !== siteUrl.origin) throw new Error('site.url must be an HTTPS origin without a trailing slash.');
+  if (site.photoBaseUrl !== undefined) {
+    requireText(site.photoBaseUrl, 'site.photoBaseUrl');
+    const photoUrl = new URL(site.photoBaseUrl);
+    if (photoUrl.protocol !== 'https:' || photoUrl.username || photoUrl.password || photoUrl.search || photoUrl.hash || photoUrl.hostname.endsWith('.r2.cloudflarestorage.com')) throw new Error('site.photoBaseUrl must be a public HTTPS base URL without credentials, a query, or a fragment; the private R2 S3 endpoint is not supported.');
+  }
   if (!trips.length) throw new Error('Add at least one trip in content/trips/.');
   const slugs = new Set();
   for (const trip of trips) {
@@ -26,6 +32,9 @@ export function validateContent(site, trips) {
     slugs.add(trip.slug);
     for (const key of ['title', 'subtitle', 'country', 'location', 'category']) requireText(trip[key], `${trip.slug}.${key}`);
     if (trip.demo !== undefined && typeof trip.demo !== 'boolean') throw new Error(`${trip.slug}.demo must be true or false.`);
+    if (trip.photoStorage !== undefined && !['local', 'r2'].includes(trip.photoStorage)) throw new Error(`${trip.slug}.photoStorage must be local or r2.`);
+    if (usesR2(trip) && !site.photoBaseUrl) throw new Error(`${trip.slug}: R2 photographs require site.photoBaseUrl.`);
+    if (trip.showChapterIndex !== undefined && typeof trip.showChapterIndex !== 'boolean') throw new Error(`${trip.slug}.showChapterIndex must be true or false.`);
     if (trip.startDate !== undefined || trip.endDate !== undefined) {
       requireDate(trip.startDate, `${trip.slug}.startDate`);
       requireDate(trip.endDate, `${trip.slug}.endDate`);
@@ -67,6 +76,8 @@ export function validateContent(site, trips) {
         if (![photo.width, photo.height].every((dimension) => Number.isInteger(dimension) && dimension > 0)) throw new Error(`${trip.slug}: photo width and height must both be positive integers.`);
       }
       if (typeof photo.src !== 'string' || !/^\/(photos|images)\/[a-zA-Z0-9/_-]+\.(webp|jpe?g|png|avif)$/i.test(photo.src)) throw new Error(`${trip.slug}: photo.src must be a local /photos/ or /images/ path with a supported image extension.`);
+      if (usesR2(trip) && (!photo.src.startsWith(`/photos/${trip.slug}/`) || !photo.src.endsWith('.webp'))) throw new Error(`${trip.slug}: R2 photos must be WebP files under /photos/${trip.slug}/.`);
+      if (path.basename(photo.src) === 'do-not-add-this-persons-photo.webp') throw new Error(`${trip.slug}: a private exclusion reference cannot be published.`);
       if (photo.position && !/^(?:(?:left|right|top|bottom|center|\d{1,3}%)\s*){1,2}$/.test(photo.position)) throw new Error(`${trip.slug}: invalid image position.`);
       for (const key of ['creditUrl', 'licenseUrl']) {
         if (photo[key] && new URL(photo[key]).protocol !== 'https:') throw new Error(`${trip.slug}: ${key} must use HTTPS.`);
@@ -84,7 +95,7 @@ export async function loadContent(projectRoot = root) {
   const trips = await Promise.all(files.map(async (file) => JSON.parse(await readFile(path.join(projectRoot, 'content/trips', file), 'utf8'))));
   validateContent(site, trips);
   trips.sort((a, b) => a.order - b.order || a.slug.localeCompare(b.slug));
-  for (const image of trips.flatMap(allPhotos)) {
+  for (const image of trips.filter((trip) => !usesR2(trip)).flatMap(allPhotos)) {
     const filename = path.join(projectRoot, 'public', image.src);
     if (!(await stat(filename).catch(() => null))?.isFile()) throw new Error(`Missing photograph: public${image.src}`);
   }
@@ -95,7 +106,16 @@ export async function build({ projectRoot = root, output = path.join(projectRoot
   const { site, trips } = await loadContent(projectRoot);
   await rm(output, { recursive: true, force: true });
   await mkdir(path.join(output, 'assets'), { recursive: true });
-  await cp(path.join(projectRoot, 'public'), output, { recursive: true, filter: (source) => path.basename(source) !== '.gitkeep' });
+  const unpublishedFiles = new Set(['.gitkeep', 'do-not-add-this-persons-photo.webp']);
+  const publicRoot = path.join(projectRoot, 'public');
+  await cp(publicRoot, output, { recursive: true, filter: (source) => source !== path.join(publicRoot, 'photos') && !unpublishedFiles.has(path.basename(source)) });
+  // Publish only album selections, so unused or removed photos stay out of dist/.
+  const selectedPhotos = new Set(trips.filter((trip) => !usesR2(trip)).flatMap(allPhotos).map((photo) => photo.src).filter((source) => source.startsWith('/photos/')));
+  for (const source of selectedPhotos) {
+    const destination = path.join(output, source);
+    await mkdir(path.dirname(destination), { recursive: true });
+    await cp(path.join(publicRoot, source), destination);
+  }
   for (const filename of ['styles.css', 'main.js']) await cp(path.join(projectRoot, 'src', filename), path.join(output, 'assets', filename));
   await writeFile(path.join(output, '.nojekyll'), '');
   const pages = new Map([

@@ -1,0 +1,1889 @@
+{
+  "slug": "turkey",
+  "photoStorage": "r2",
+  "title": "tesekkuler turkey",
+  "subtitle": "Fifteen days through İstanbul, ancient cities, the turquoise coast, and the valleys of Cappadocia.",
+  "country": "Turkey",
+  "location": "İstanbul · the Aegean · the Mediterranean · Cappadocia",
+  "category": "A spring journey",
+  "order": 2,
+  "demo": false,
+  "startDate": "2025-04-26",
+  "endDate": "2025-05-10",
+  "cover": {
+    "src": "/photos/turkey/2025-05-06-goreme/cappadocia-balloon-dawn.webp",
+    "alt": "Colourful hot air balloons over the valleys in the first light of morning.",
+    "caption": "Colourful hot air balloons over the valleys in the first light of morning.",
+    "width": 2400,
+    "height": 1807,
+    "capturedOn": "2025-05-06",
+    "location": "Göreme, Cappadocia",
+    "position": "center 55%"
+  },
+  "chapters": [
+    {
+      "title": "İstanbul after dusk",
+      "date": "2025-04-26",
+      "location": "İstanbul · Sultanahmet & Çemberlitaş",
+      "paragraphs": [
+        "Cobbled streets, the evening tram, and warm shop windows begin the journey. Below the city, the columns and brick vaults of the Basilica Cistern catch the light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/cobbled-street.webp",
+          "alt": "A cobbled street descending between narrow buildings at dusk.",
+          "caption": "A cobbled street descending between narrow buildings at dusk.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Sultanahmet, İstanbul",
+          "wide": true
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/photography-shop.webp",
+          "alt": "Warm light in the arched windows of an Ottoman photography shop.",
+          "caption": "Warm light in the arched windows of an Ottoman photography shop.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Sultanahmet, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/evening-tram.webp",
+          "alt": "A tram passing restaurants and pedestrians in the evening.",
+          "caption": "A tram passing restaurants and pedestrians in the evening.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Divan Yolu, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/hagia-sophia-through-trees.webp",
+          "alt": "Hagia Sophia framed by spring trees and tram wires.",
+          "caption": "Hagia Sophia framed by spring trees and tram wires.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Sultanahmet, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/cistern-vaults.webp",
+          "alt": "Brick vaults and columns in the warm light of the cistern.",
+          "caption": "Brick vaults and columns in the warm light of the cistern.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-26",
+          "location": "Basilica Cistern, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/carved-column.webp",
+          "alt": "The carved patterns of a column beneath the brick vaults.",
+          "caption": "The carved patterns of a column beneath the brick vaults.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-26",
+          "location": "Basilica Cistern, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/cistern-reflections.webp",
+          "alt": "Illuminated columns reflected in the still underground water.",
+          "caption": "Illuminated columns reflected in the still underground water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Basilica Cistern, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/sultanahmet-at-night.webp",
+          "alt": "A domed stone building illuminated against the night sky.",
+          "caption": "A domed stone building illuminated against the night sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Sultanahmet, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-26-istanbul/night-street-corner.webp",
+          "alt": "A lively street corner with shops, lamps, and cobblestones.",
+          "caption": "A lively street corner with shops, lamps, and cobblestones.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-26",
+          "location": "Çemberlitaş, İstanbul"
+        }
+      ]
+    },
+    {
+      "title": "Sultanahmet & Topkapı",
+      "date": "2025-04-27",
+      "location": "İstanbul · the historic peninsula & Bosphorus",
+      "paragraphs": [
+        "A day of domes, mosaics, tiled palace rooms, and views across the water. The evening moves onto the Bosphorus, where bridge lights and boats brighten the dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/blue-mosque-interior.webp",
+          "alt": "Painted domes, windows, and chandeliers inside the Blue Mosque.",
+          "caption": "Painted domes, windows, and chandeliers inside the Blue Mosque.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Blue Mosque, İstanbul",
+          "wide": true
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/hagia-sophia-painted-vaults.webp",
+          "alt": "Faded gold patterns across the high vaults of Hagia Sophia.",
+          "caption": "Faded gold patterns across the high vaults of Hagia Sophia.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Hagia Sophia, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/hagia-sophia-interior.webp",
+          "alt": "The vast interior of Hagia Sophia framed by columns and arches.",
+          "caption": "The vast interior of Hagia Sophia framed by columns and arches.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Hagia Sophia, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/hagia-sophia-mosaic.webp",
+          "alt": "A Byzantine mosaic set within patterned marble walls.",
+          "caption": "A Byzantine mosaic set within patterned marble walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Hagia Sophia, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-table-clock.webp",
+          "alt": "A golden table clock and painted case in a palace display.",
+          "caption": "A golden table clock and painted case in a palace display.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-tile-panel.webp",
+          "alt": "A blue and yellow floral tile panel with intricate borders.",
+          "caption": "A blue and yellow floral tile panel with intricate borders.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-display.webp",
+          "alt": "A patterned carpet and small objects in a softly lit display.",
+          "caption": "A patterned carpet and small objects in a softly lit display.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-water-view.webp",
+          "alt": "Blue water and the opposite shoreline beyond the palace grounds.",
+          "caption": "Blue water and the opposite shoreline beyond the palace grounds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/painted-palace-room.webp",
+          "alt": "An arched window surrounded by blue tiles and painted decoration.",
+          "caption": "An arched window surrounded by blue tiles and painted decoration.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-floral-vault.webp",
+          "alt": "Blue floral tiles surrounding the curved windows of a palace room.",
+          "caption": "Blue floral tiles surrounding the curved windows of a palace room.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-doorway.webp",
+          "alt": "A richly tiled palace doorway and visitors passing through it.",
+          "caption": "A richly tiled palace doorway and visitors passing through it.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-tiled-niche.webp",
+          "alt": "An ornate stone niche framed by blue patterned tiles.",
+          "caption": "An ornate stone niche framed by blue patterned tiles.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-passage.webp",
+          "alt": "A narrow stone passage leading toward an arch and daylight.",
+          "caption": "A narrow stone passage leading toward an arch and daylight.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/palace-geometric-ceiling.webp",
+          "alt": "Small geometric painted motifs around a ceiling light well.",
+          "caption": "Small geometric painted motifs around a ceiling light well.",
+          "width": 1024,
+          "height": 1664,
+          "capturedOn": "2025-04-27",
+          "location": "Topkapı Palace, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/hagia-sophia-outside.webp",
+          "alt": "The domes and minarets of Hagia Sophia beneath a blue sky.",
+          "caption": "The domes and minarets of Hagia Sophia beneath a blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Hagia Sophia, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/bosphorus-bridge-night.webp",
+          "alt": "The illuminated suspension bridge above the water after dark.",
+          "caption": "The illuminated suspension bridge above the water after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Bosphorus, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-27-istanbul/ferry-after-dark.webp",
+          "alt": "A brightly lit passenger boat reflected in the harbour water.",
+          "caption": "A brightly lit passenger boat reflected in the harbour water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-27",
+          "location": "Eminönü waterfront, İstanbul"
+        }
+      ]
+    },
+    {
+      "title": "Fener, Balat & the museums",
+      "date": "2025-04-28",
+      "location": "İstanbul · Fener, Balat & the historic peninsula",
+      "paragraphs": [
+        "Bright houses, a red brick school, street cats, and painted steps give the neighbourhoods their colour. The afternoon ends in the courtyard of the archaeological museums."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/blue-mosque-skyline.webp",
+          "alt": "The Blue Mosque and its minarets rising behind spring trees.",
+          "caption": "The Blue Mosque and its minarets rising behind spring trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-28",
+          "location": "Sultanahmet, İstanbul",
+          "wide": true
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/old-city-mosque.webp",
+          "alt": "A pale domed mosque, slender minarets, and a busy forecourt.",
+          "caption": "A pale domed mosque, slender minarets, and a busy forecourt.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-28",
+          "location": "Historic peninsula, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/tram-tracks.webp",
+          "alt": "Tram tracks leading along a sunny city street.",
+          "caption": "Tram tracks leading along a sunny city street.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-28",
+          "location": "Historic peninsula, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/fener-red-school.webp",
+          "alt": "The elaborate red brick facade of the Greek Orthodox school.",
+          "caption": "The elaborate red brick facade of the Greek Orthodox school.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-28",
+          "location": "Fener, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/balat-street-cat.webp",
+          "alt": "A fluffy street cat resting in a patch of sunlight.",
+          "caption": "A fluffy street cat resting in a patch of sunlight.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-28",
+          "location": "Balat, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/balat-painted-steps.webp",
+          "alt": "Colourful painted steps leading past plants and small cafés.",
+          "caption": "Colourful painted steps leading past plants and small cafés.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-28",
+          "location": "Balat, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/balat-cat-at-window.webp",
+          "alt": "A street cat perched on a red windowsill above a painted sign.",
+          "caption": "A street cat perched on a red windowsill above a painted sign.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-28",
+          "location": "Balat, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/balat-historic-house.webp",
+          "alt": "Rows of timber-framed windows above a small neighbourhood café.",
+          "caption": "Rows of timber-framed windows above a small neighbourhood café.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-28",
+          "location": "Balat, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-04-28-istanbul/museum-courtyard.webp",
+          "alt": "The museum courtyard framed between two pale columns.",
+          "caption": "The museum courtyard framed between two pale columns.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-28",
+          "location": "İstanbul Archaeological Museums"
+        }
+      ]
+    },
+    {
+      "title": "Ephesus & Selçuk",
+      "date": "2025-04-29",
+      "location": "Ephesus · Selçuk · Ayasuluk",
+      "paragraphs": [
+        "The route turns toward ancient stone: the Library of Celsus, mosaic floors, basilica columns, and the walls above Selçuk. Cats and a small ice cream counter bring the town back into the frame."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/selcuk-platform.webp",
+          "alt": "A passenger train beside a quiet station platform after midnight.",
+          "caption": "A passenger train beside a quiet station platform after midnight.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Selçuk railway station",
+          "wide": true
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/celsus-library.webp",
+          "alt": "The two-storey stone facade of the Library of Celsus.",
+          "caption": "The two-storey stone facade of the Library of Celsus.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Library of Celsus, Ephesus"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/terrace-house-mosaics.webp",
+          "alt": "Ancient mosaic floors and walls beneath a protective roof.",
+          "caption": "Ancient mosaic floors and walls beneath a protective roof.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Terrace Houses, Ephesus"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/ephesus-ruins.webp",
+          "alt": "Stone arches and fallen blocks beneath a green hillside.",
+          "caption": "Stone arches and fallen blocks beneath a green hillside.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Ephesus, Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/ephesus-stone-arch.webp",
+          "alt": "A tall stone arch framing the blue sky above the ruins.",
+          "caption": "A tall stone arch framing the blue sky above the ruins.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Ephesus, Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/basilica-column-line.webp",
+          "alt": "A row of ancient columns beneath a wide cloud-filled sky.",
+          "caption": "A row of ancient columns beneath a wide cloud-filled sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Basilica of St. John, Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/basilica-arches.webp",
+          "alt": "A visitor beneath brick arches and a row of ancient columns.",
+          "caption": "A visitor beneath brick arches and a row of ancient columns.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-29",
+          "location": "Basilica of St. John, Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/ayasuluk-castle-gate.webp",
+          "alt": "A stone castle gateway opening onto the countryside beyond.",
+          "caption": "A stone castle gateway opening onto the countryside beyond.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-29",
+          "location": "Ayasuluk Castle, Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/artemis-temple-remains.webp",
+          "alt": "A solitary column and scattered stone remains in a green field.",
+          "caption": "A solitary column and scattered stone remains in a green field.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-29",
+          "location": "Temple of Artemis, Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/selcuk-cats.webp",
+          "alt": "Three street cats gathered around a small feeding tray.",
+          "caption": "Three street cats gathered around a small feeding tray.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Selçuk"
+        },
+        {
+          "src": "/photos/turkey/2025-04-29-ephesus-selcuk/selcuk-ice-cream.webp",
+          "alt": "A small ice cream counter beneath a leafy street canopy.",
+          "caption": "A small ice cream counter beneath a leafy street canopy.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-29",
+          "location": "Selçuk town centre"
+        }
+      ]
+    },
+    {
+      "title": "Pamukkale & Hierapolis",
+      "date": "2025-04-30",
+      "location": "Denizli · Pamukkale · Hierapolis",
+      "paragraphs": [
+        "White mineral slopes and pale blue pools give way to the weathered streets, arches, and theatre of Hierapolis. Two very different landscapes, side by side."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/denizli-breakfast.webp",
+          "alt": "A breakfast plate with vegetables, bread, cheese, and coffee.",
+          "caption": "A breakfast plate with vegetables, bread, cheese, and coffee.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-30",
+          "location": "Denizli"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/pamukkale-tree.webp",
+          "alt": "A small green tree rising from the pale mineral landscape.",
+          "caption": "A small green tree rising from the pale mineral landscape.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-04-30",
+          "location": "Pamukkale travertines"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/travertine-pools.webp",
+          "alt": "Pale blue pools edged by white mineral terraces.",
+          "caption": "Pale blue pools edged by white mineral terraces.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Pamukkale travertines",
+          "wide": true
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/pamukkale-mineral-pools.webp",
+          "alt": "Pale blue water below the textured white travertine slopes.",
+          "caption": "Pale blue water below the textured white travertine slopes.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Pamukkale"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/white-terraces.webp",
+          "alt": "White travertine slopes stretching toward the valley below.",
+          "caption": "White travertine slopes stretching toward the valley below.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Pamukkale travertines"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/hierapolis-statue.webp",
+          "alt": "A seated stone figure and columns among the ancient ruins.",
+          "caption": "A seated stone figure and columns among the ancient ruins.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Hierapolis"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/hierapolis-theatre.webp",
+          "alt": "The broad stone seating and stage of the ancient theatre.",
+          "caption": "The broad stone seating and stage of the ancient theatre.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Hierapolis Theatre"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/hierapolis-street.webp",
+          "alt": "A stone-paved street lined with columns and weathered walls.",
+          "caption": "A stone-paved street lined with columns and weathered walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Hierapolis"
+        },
+        {
+          "src": "/photos/turkey/2025-04-30-pamukkale-hierapolis/hierapolis-arches.webp",
+          "alt": "Twin stone arches beneath a cloudy spring sky.",
+          "caption": "Twin stone arches beneath a cloudy spring sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-04-30",
+          "location": "Hierapolis"
+        }
+      ]
+    },
+    {
+      "title": "Kaputaş & Kaş",
+      "date": "2025-05-01",
+      "location": "Kaputaş Beach · Kaş",
+      "paragraphs": [
+        "Clouds gather above the turquoise beach before the day continues into Kaş. Stone theatre seats, harbour boats, small courtyards, and blue ceramics fill the later frames."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kaputas-cliffs.webp",
+          "alt": "A high rocky cliff rising above the pale sandy beach.",
+          "caption": "A high rocky cliff rising above the pale sandy beach.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaputaş Beach"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kaputas-shore.webp",
+          "alt": "Small waves reaching the sand beneath a darkening sky.",
+          "caption": "Small waves reaching the sand beneath a darkening sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaputaş Beach"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kaputas-overlook.webp",
+          "alt": "A turquoise cove seen from above with storm clouds offshore.",
+          "caption": "A turquoise cove seen from above with storm clouds offshore.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaputaş Beach"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kaputas-tree-framed-shore.webp",
+          "alt": "The pale beach and sea framed by olive branches above the cove.",
+          "caption": "The pale beach and sea framed by olive branches above the cove.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-01",
+          "location": "Kaputaş Beach"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/antiphellos-theatre.webp",
+          "alt": "Curving stone theatre seats beneath the hills of Kaş.",
+          "caption": "Curving stone theatre seats beneath the hills of Kaş.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Antiphellos Theatre, Kaş"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kas-harbour.webp",
+          "alt": "Masts, fishing boats, and white buildings below the green hills.",
+          "caption": "Masts, fishing boats, and white buildings below the green hills.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş harbour"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kas-across-the-bay.webp",
+          "alt": "White hillside buildings and harbour boats across the water.",
+          "caption": "White hillside buildings and harbour boats across the water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/boat-on-land.webp",
+          "alt": "The bow of a wooden boat resting on supports beside the water.",
+          "caption": "The bow of a wooden boat resting on supports beside the water.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş harbour"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kas-restaurant-garden.webp",
+          "alt": "A restaurant terrace decorated with plants and colourful pictures.",
+          "caption": "A restaurant terrace decorated with plants and colourful pictures.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kas-small-courtyard.webp",
+          "alt": "A small courtyard restaurant with a boat displayed by its wall.",
+          "caption": "A small courtyard restaurant with a boat displayed by its wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kas-art-window.webp",
+          "alt": "Paintings and colourful ceramic objects in a shop window.",
+          "caption": "Paintings and colourful ceramic objects in a shop window.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-01-kaputas-kas/kas-blue-ceramics.webp",
+          "alt": "A traveller browsing a wall of blue ceramic decorations.",
+          "caption": "A traveller browsing a wall of blue ceramic decorations.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-01",
+          "location": "Kaş old town"
+        }
+      ]
+    },
+    {
+      "title": "Kekova, Simena & Myra",
+      "date": "2025-05-02",
+      "location": "Kaş · Kekova · Kaleköy · Demre",
+      "paragraphs": [
+        "Clear water, wooden boats, and a castle above the bay lead into a day along the coast. In Demre, vaulted church interiors and the rock-cut tombs of Myra bring a different texture."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kas-morning-marina.webp",
+          "alt": "A marina and small islands seen from the road above the bay.",
+          "caption": "A marina and small islands seen from the road above the bay.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Kaş"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kekova-clear-water.webp",
+          "alt": "Clear turquoise water revealing rocks below the surface.",
+          "caption": "Clear turquoise water revealing rocks below the surface.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Kaleköy, Kekova"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kekova-wooden-boat.webp",
+          "alt": "A small wooden excursion boat tied to a quiet stone landing.",
+          "caption": "A small wooden excursion boat tied to a quiet stone landing.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Kekova"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kalekoy-sewing-machine.webp",
+          "alt": "An old sewing machine resting outside a weathered village window.",
+          "caption": "An old sewing machine resting outside a weathered village window.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Kaleköy, Kekova"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kekova-bird-on-rock.webp",
+          "alt": "A small bird perched on a weathered rock above the blue water.",
+          "caption": "A small bird perched on a weathered rock above the blue water.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-02",
+          "location": "Kekova"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/simena-bay-view.webp",
+          "alt": "The village harbour and island-dotted bay seen from the castle.",
+          "caption": "The village harbour and island-dotted bay seen from the castle.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Simena Castle, Kaleköy"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/simena-castle.webp",
+          "alt": "A Turkish flag above the castle walls and spring greenery.",
+          "caption": "A Turkish flag above the castle walls and spring greenery.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Simena Castle, Kaleköy"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kekova-shore-ruins.webp",
+          "alt": "Stone ruins and green vegetation above clear coastal water.",
+          "caption": "Stone ruins and green vegetation above clear coastal water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Kekova coast"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/kekova-turquoise-shore.webp",
+          "alt": "Clear blue and turquoise water along a rocky, tree-lined shore.",
+          "caption": "Clear blue and turquoise water along a rocky, tree-lined shore.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Kekova"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/demre-boats.webp",
+          "alt": "Wooden excursion boats moored in a sheltered harbour.",
+          "caption": "Wooden excursion boats moored in a sheltered harbour.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Demre coast"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/saint-nicholas-vaults.webp",
+          "alt": "A vaulted stone nave with light entering through tall windows.",
+          "caption": "A vaulted stone nave with light entering through tall windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "St. Nicholas Church, Demre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/saint-nicholas-painting.webp",
+          "alt": "Red floral and cross patterns painted on an old church ceiling.",
+          "caption": "Red floral and cross patterns painted on an old church ceiling.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "St. Nicholas Church, Demre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/demre-stone-fragments.webp",
+          "alt": "Children exploring fallen columns beside an ancient stone wall.",
+          "caption": "Children exploring fallen columns beside an ancient stone wall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "St. Nicholas Church, Demre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/myra-rock-tombs.webp",
+          "alt": "Lycian tombs carved into the face of a steep rocky hillside.",
+          "caption": "Lycian tombs carved into the face of a steep rocky hillside.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-02",
+          "location": "Myra, Demre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/myra-carved-facade.webp",
+          "alt": "The carved doorway and sculpted details of a rock-cut tomb.",
+          "caption": "The carved doorway and sculpted details of a rock-cut tomb.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Myra, Demre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-02-kekova-demre/myra-theatre.webp",
+          "alt": "Stone theatre walls beneath cliffs and a cloud-filled sky.",
+          "caption": "Stone theatre walls beneath cliffs and a cloud-filled sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-02",
+          "location": "Myra, Demre"
+        }
+      ]
+    },
+    {
+      "title": "Perge, Aspendos & Side",
+      "date": "2025-05-03",
+      "location": "Perge · Aspendos · Side · Manavgat",
+      "paragraphs": [
+        "Ancient stones and long theatre arcades give way to the sea and timber-fronted streets of Side. The last frames slow down beside the flowing water at Manavgat."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/perge-carved-stone.webp",
+          "alt": "A carved stone block standing among the ancient ruins.",
+          "caption": "A carved stone block standing among the ancient ruins.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-03",
+          "location": "Perge"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/perge-open-stadium.webp",
+          "alt": "Ancient stone seating and scattered blocks beneath an open sky.",
+          "caption": "Ancient stone seating and scattered blocks beneath an open sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Perge"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/perge-stone-seating.webp",
+          "alt": "Rows of old stone seating beneath a wide spring sky.",
+          "caption": "Rows of old stone seating beneath a wide spring sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Perge"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/aspendos-arcade.webp",
+          "alt": "A long arched stone corridor curving around the theatre.",
+          "caption": "A long arched stone corridor curving around the theatre.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-03",
+          "location": "Aspendos Theatre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/aspendos-seating.webp",
+          "alt": "The sweeping stone tiers and upper arcade of the theatre.",
+          "caption": "The sweeping stone tiers and upper arcade of the theatre.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Aspendos Theatre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/aspendos-stage.webp",
+          "alt": "The monumental stage wall seen across the theatre seating.",
+          "caption": "The monumental stage wall seen across the theatre seating.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Aspendos Theatre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/side-apollo-columns.webp",
+          "alt": "Tall white columns and carved capitals against a deep blue sky.",
+          "caption": "Tall white columns and carved capitals against a deep blue sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-03",
+          "location": "Temple of Apollo, Side"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/side-excursion-boat.webp",
+          "alt": "A small excursion boat crossing sunlit blue water.",
+          "caption": "A small excursion boat crossing sunlit blue water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Side waterfront"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/side-hanging-ornaments.webp",
+          "alt": "Hanging ornaments at a small shop, with a visitor facing the display.",
+          "caption": "Hanging ornaments at a small shop, with a visitor facing the display.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-03",
+          "location": "Side"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/side-timber-house.webp",
+          "alt": "A timber-fronted house with plants and a red shop awning.",
+          "caption": "A timber-fronted house with plants and a red shop awning.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Side old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/side-town-square.webp",
+          "alt": "A shaded square decorated with red and white flags.",
+          "caption": "A shaded square decorated with red and white flags.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Side old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-03-perge-aspendos-side/manavgat-waterfall.webp",
+          "alt": "A broad low waterfall flowing into a pool bordered by trees.",
+          "caption": "A broad low waterfall flowing into a pool bordered by trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-03",
+          "location": "Manavgat Waterfall"
+        }
+      ]
+    },
+    {
+      "title": "Antalya & Kaleiçi",
+      "date": "2025-05-04",
+      "location": "Antalya · Düden coast · Kaleiçi",
+      "paragraphs": [
+        "A waterfall meets the Mediterranean before the day moves into the old town. Stone passages, museum rooms, and carved details fill the afternoon."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/lower-duden-falls.webp",
+          "alt": "A waterfall dropping from coastal cliffs into the Mediterranean.",
+          "caption": "A waterfall dropping from coastal cliffs into the Mediterranean.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Lower Düden Waterfall, Antalya"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/antalya-mountain-coast.webp",
+          "alt": "A boat crossing blue water with distant mountains on the horizon.",
+          "caption": "A boat crossing blue water with distant mountains on the horizon.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Düden coast, Antalya"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/duden-above-the-falls.webp",
+          "alt": "Fast water spilling over the coastal rocks toward the Mediterranean.",
+          "caption": "Fast water spilling over the coastal rocks toward the Mediterranean.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Lower Düden Falls, Antalya"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/kaleici-red-kiosk.webp",
+          "alt": "A traveller beside a small red wooden kiosk in the old town.",
+          "caption": "A traveller beside a small red wooden kiosk in the old town.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-04",
+          "location": "Kaleiçi, Antalya"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/kaleici-stone-passage.webp",
+          "alt": "A narrow stone passage and stairs framed by square doorways.",
+          "caption": "A narrow stone passage and stairs framed by square doorways.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-04",
+          "location": "Kaleiçi, Antalya"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/kaleici-museum-room.webp",
+          "alt": "Traditional clothing and a domestic scene displayed in a museum room.",
+          "caption": "Traditional clothing and a domestic scene displayed in a museum room.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Suna & İnan Kıraç Kaleiçi Museum"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/kaleici-floor-mosaic.webp",
+          "alt": "A patterned floor mosaic with circular and floral designs.",
+          "caption": "A patterned floor mosaic with circular and floral designs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Suna & İnan Kıraç Kaleiçi Museum"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/antalya-bench.webp",
+          "alt": "People sitting beside a green comic character sculpture on a bench.",
+          "caption": "People sitting beside a green comic character sculpture on a bench.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Antalya city centre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/antalya-tram-street.webp",
+          "alt": "Tram tracks curving along a palm-lined street.",
+          "caption": "Tram tracks curving along a palm-lined street.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Antalya city centre"
+        },
+        {
+          "src": "/photos/turkey/2025-05-04-antalya/antalya-museum-carving.webp",
+          "alt": "A carved stone sarcophagus displayed against a dark background.",
+          "caption": "A carved stone sarcophagus displayed against a dark background.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-04",
+          "location": "Antalya Museum"
+        }
+      ]
+    },
+    {
+      "title": "Uçhisar, Paşabağ & Avanos",
+      "date": "2025-05-05",
+      "location": "Göreme · Uçhisar · Paşabağ · Zelve area · Avanos",
+      "paragraphs": [
+        "The landscape changes to pale rock, carved rooms, and fairy chimneys. Broad valley views give way to small windows and doorways, then the careful work of a potter in Avanos."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/uchisar-rock-path.webp",
+          "alt": "A path winding between rock-cut dwellings beneath the castle area.",
+          "caption": "A path winding between rock-cut dwellings beneath the castle area.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Uçhisar, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/uchisar-rock-tower.webp",
+          "alt": "Windows and doorways carved into a tall tapering rock tower.",
+          "caption": "Windows and doorways carved into a tall tapering rock tower.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-05",
+          "location": "Uçhisar, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/pasabag-rock-dwellings.webp",
+          "alt": "Cave openings beneath the broad caps of fairy chimneys.",
+          "caption": "Cave openings beneath the broad caps of fairy chimneys.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-05",
+          "location": "Paşabağ, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/pasabag-window.webp",
+          "alt": "Twin fairy chimneys framed by a dark opening in the rock.",
+          "caption": "Twin fairy chimneys framed by a dark opening in the rock.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-05",
+          "location": "Paşabağ, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/pasabag-carved-window.webp",
+          "alt": "A square opening carved into the rough pale rock.",
+          "caption": "A square opening carved into the rough pale rock.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-05",
+          "location": "Paşabağ, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/pasabag-twin-chimneys.webp",
+          "alt": "A double-capped fairy chimney beneath scattered white clouds.",
+          "caption": "A double-capped fairy chimney beneath scattered white clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Paşabağ, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/pasabag-valley-and-spire.webp",
+          "alt": "A narrow rock spire rising beside layered valley walls.",
+          "caption": "A narrow rock spire rising beside layered valley walls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Paşabağ, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/zelve-valley-wall.webp",
+          "alt": "An eroded valley wall above green grass and spring trees.",
+          "caption": "An eroded valley wall above green grass and spring trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Paşabağ–Zelve area, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/zelve-carved-rocks.webp",
+          "alt": "Cave openings and pointed rock formations beneath a blue sky.",
+          "caption": "Cave openings and pointed rock formations beneath a blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Zelve area, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/zelve-rock-facade.webp",
+          "alt": "A broad rock face dotted with old carved rooms and windows.",
+          "caption": "A broad rock face dotted with old carved rooms and windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Zelve area, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/avanos-potter.webp",
+          "alt": "A potter demonstrating his craft in a stone-walled workshop.",
+          "caption": "A potter demonstrating his craft in a stone-walled workshop.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-05",
+          "location": "Avanos, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-05-cappadocia/love-valley-view.webp",
+          "alt": "A wide green valley surrounded by pale rock spires and cliffs.",
+          "caption": "A wide green valley surrounded by pale rock spires and cliffs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-05",
+          "location": "Love Valley viewpoint, Cappadocia"
+        }
+      ]
+    },
+    {
+      "title": "Göreme, from dawn to dusk",
+      "date": "2025-05-06",
+      "location": "Göreme · the surrounding valleys · Cappadocia",
+      "paragraphs": [
+        "The morning begins among balloons and quiet ridges. Rock-cut churches, carved rooms, an evening performance, and the lights of Göreme carry the day through to night."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-dawn-valley.webp",
+          "alt": "Pale ridges and paths across a quiet valley before the sun reaches it.",
+          "caption": "Pale ridges and paths across a quiet valley before the sun reaches it.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme valleys, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/balloon-above-the-valley.webp",
+          "alt": "A single hot air balloon rising over the sunlit valley.",
+          "caption": "A single hot air balloon rising over the sunlit valley.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/balloons-from-the-basket.webp",
+          "alt": "Balloons above the valley, seen past a passenger facing away.",
+          "caption": "Balloons above the valley, seen past a passenger facing away.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/balloon-by-the-rock.webp",
+          "alt": "A hot air balloon floating close to a pointed rock formation.",
+          "caption": "A hot air balloon floating close to a pointed rock formation.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/cave-hotel-breakfast.webp",
+          "alt": "A breakfast plate served on a richly patterned tablecloth.",
+          "caption": "A breakfast plate served on a richly patterned tablecloth.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-church-painting.webp",
+          "alt": "Faded red geometric patterns and figures on a rock-cut church wall.",
+          "caption": "Faded red geometric patterns and figures on a rock-cut church wall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme Open Air Museum"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-sculpted-ridges.webp",
+          "alt": "Rounded pale ridges beneath a bright blue sky and white clouds.",
+          "caption": "Rounded pale ridges beneath a bright blue sky and white clouds.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme Open Air Museum area"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-rock-cut-facade.webp",
+          "alt": "An old rock-cut dwelling with windows and a steep stone stairway.",
+          "caption": "An old rock-cut dwelling with windows and a steep stone stairway.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-carved-vault.webp",
+          "alt": "Circular patterns and a curved vault cut into pale stone.",
+          "caption": "Circular patterns and a curved vault cut into pale stone.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-carved-room.webp",
+          "alt": "Doorways and pillars cut directly into a rock face.",
+          "caption": "Doorways and pillars cut directly into a rock face.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme valleys, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-light-opening.webp",
+          "alt": "Daylight entering a small opening above a dark stone chamber.",
+          "caption": "Daylight entering a small opening above a dark stone chamber.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme valleys, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-street-dog.webp",
+          "alt": "A street dog pausing beside parked vans on a quiet road.",
+          "caption": "A street dog pausing beside parked vans on a quiet road.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/cappadocia-dervishes.webp",
+          "alt": "Whirling dervishes moving beneath a glowing circular ceiling.",
+          "caption": "Whirling dervishes moving beneath a glowing circular ceiling.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-06",
+          "location": "Cappadocia · evening performance"
+        },
+        {
+          "src": "/photos/turkey/2025-05-06-goreme/goreme-sunset.webp",
+          "alt": "The town and its rock formations at sunset as the lights come on.",
+          "caption": "The town and its rock formations at sunset as the lights come on.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-06",
+          "location": "Göreme sunset viewpoint"
+        }
+      ]
+    },
+    {
+      "title": "Derinkuyu & Ihlara",
+      "date": "2025-05-07",
+      "location": "Göreme · Uçhisar · Derinkuyu · Ihlara Valley",
+      "paragraphs": [
+        "Morning balloons give way to underground passages, distant snowy peaks, and rock-cut rooms. The later photographs follow the green valley and the river beneath its cliffs."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/goreme-balloon-morning.webp",
+          "alt": "Balloons rising above the town and its rocky skyline in morning light.",
+          "caption": "Balloons rising above the town and its rocky skyline in morning light.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Göreme, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/pigeon-valley.webp",
+          "alt": "Green trees and pale eroded ridges below the hilltop settlement.",
+          "caption": "Green trees and pale eroded ridges below the hilltop settlement.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Pigeon Valley, Uçhisar"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/pigeon-valley-pottery.webp",
+          "alt": "Clay pots arranged on a small decorative tree beside the valley.",
+          "caption": "Clay pots arranged on a small decorative tree beside the valley.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Pigeon Valley viewpoint"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/pigeon-valley-stall.webp",
+          "alt": "A colourful souvenir stall with pottery and small ornaments.",
+          "caption": "A colourful souvenir stall with pottery and small ornaments.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Pigeon Valley viewpoint"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/derinkuyu-storage-jar.webp",
+          "alt": "A clay storage jar set into a recess in an underground chamber.",
+          "caption": "A clay storage jar set into a recess in an underground chamber.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-07",
+          "location": "Derinkuyu Underground City"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/hasan-mountain-view.webp",
+          "alt": "Snow-covered mountain peaks beyond green fields and village buildings.",
+          "caption": "Snow-covered mountain peaks beyond green fields and village buildings.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Aksaray countryside"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/selime-rock-cut-rooms.webp",
+          "alt": "Pointed rock formations containing old carved rooms and doorways.",
+          "caption": "Pointed rock formations containing old carved rooms and doorways.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Selime Monastery area"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/ihlara-church-fresco.webp",
+          "alt": "Faded painted figures and patterns on a curved church ceiling.",
+          "caption": "Faded painted figures and patterns on a curved church ceiling.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-07",
+          "location": "Ihlara Valley · rock-cut church"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/ihlara-carved-interior.webp",
+          "alt": "A narrow carved interior with stone steps and architectural details.",
+          "caption": "A narrow carved interior with stone steps and architectural details.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-07",
+          "location": "Ihlara Valley · rock-cut church"
+        },
+        {
+          "src": "/photos/turkey/2025-05-07-derinkuyu-ihlara/ihlara-green-valley.webp",
+          "alt": "A green river valley seen from the rocky cliffs above.",
+          "caption": "A green river valley seen from the rocky cliffs above.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-07",
+          "location": "Ihlara Valley"
+        }
+      ]
+    },
+    {
+      "title": "Uçhisar & Avanos",
+      "date": "2025-05-08",
+      "location": "Uçhisar · Avanos · Göreme",
+      "paragraphs": [
+        "A last look across the town and valleys of Uçhisar, then the red roofs, minarets, and riverside paths of Avanos. A narrow suspension bridge carries the walk across the river."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-08-uchisar-avanos/uchisar-town-view.webp",
+          "alt": "The town and its rock-cut houses seen from above.",
+          "caption": "The town and its rock-cut houses seen from above.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-08",
+          "location": "Uçhisar Castle"
+        },
+        {
+          "src": "/photos/turkey/2025-05-08-uchisar-avanos/uchisar-valley-overlook.webp",
+          "alt": "The town and layered valleys under a soft grey sky.",
+          "caption": "The town and layered valleys under a soft grey sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-08",
+          "location": "Uçhisar, Cappadocia"
+        },
+        {
+          "src": "/photos/turkey/2025-05-08-uchisar-avanos/avanos-rooftops.webp",
+          "alt": "Red roofs and the river landscape beneath a broad blue sky.",
+          "caption": "Red roofs and the river landscape beneath a broad blue sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-08",
+          "location": "Avanos old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-08-uchisar-avanos/avanos-red-bus.webp",
+          "alt": "A red bus decorated with Turkish flags beside an old house.",
+          "caption": "A red bus decorated with Turkish flags beside an old house.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-08",
+          "location": "Avanos old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-08-uchisar-avanos/avanos-mosque-view.webp",
+          "alt": "Twin minarets rising above the town and surrounding countryside.",
+          "caption": "Twin minarets rising above the town and surrounding countryside.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-08",
+          "location": "Avanos old town"
+        },
+        {
+          "src": "/photos/turkey/2025-05-08-uchisar-avanos/avanos-bridge-walk.webp",
+          "alt": "Two visitors walking away along the narrow suspension bridge.",
+          "caption": "Two visitors walking away along the narrow suspension bridge.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-08",
+          "location": "Avanos"
+        }
+      ]
+    },
+    {
+      "title": "Kadıköy to Beyoğlu",
+      "date": "2025-05-09",
+      "location": "İstanbul · Kadıköy · Ortaköy · Galata · Beyoğlu",
+      "paragraphs": [
+        "Back in İstanbul, the frames move between ferry quays, street art, bookstalls, and painted mosque ceilings. Galata opens onto the city from above; trams, food counters, and a steaming corn cart carry the journey into evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/kadikoy-ferry.webp",
+          "alt": "The broad bow of a passenger ferry moored at the quay.",
+          "caption": "The broad bow of a passenger ferry moored at the quay.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Kadıköy waterfront, İstanbul",
+          "wide": true
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/kadikoy-tram.webp",
+          "alt": "A red heritage tram passing shops and a busy street corner.",
+          "caption": "A red heritage tram passing shops and a busy street corner.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Kadıköy, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/kadikoy-market-street.webp",
+          "alt": "A sunny pedestrian street lined with shops, cafés, and stalls.",
+          "caption": "A sunny pedestrian street lined with shops, cafés, and stalls.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Kadıköy, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/kadikoy-street-art.webp",
+          "alt": "A colourful wall mural above small pavement tables and chairs.",
+          "caption": "A colourful wall mural above small pavement tables and chairs.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Kadıköy, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/kadikoy-bookstall.webp",
+          "alt": "Books stacked across a pavement stall outside a small shop.",
+          "caption": "Books stacked across a pavement stall outside a small shop.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Kadıköy, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/kadikoy-church.webp",
+          "alt": "A painted church entrance framed by murals and leafy trees.",
+          "caption": "A painted church entrance framed by murals and leafy trees.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Surp Takavor Armenian Church, Kadıköy"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/ortakoy-painted-domes.webp",
+          "alt": "Pale painted domes with gold and blue floral decoration.",
+          "caption": "Pale painted domes with gold and blue floral decoration.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Ortaköy Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/istanbul-pavement-crow.webp",
+          "alt": "A crow standing in a patch of dappled light on the pavement.",
+          "caption": "A crow standing in a patch of dappled light on the pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/ortakoy-garden-fountain.webp",
+          "alt": "A garden fountain framed by flowers, with a visitor facing away.",
+          "caption": "A garden fountain framed by flowers, with a visitor facing away.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Ortaköy, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/gulls-over-istanbul.webp",
+          "alt": "Two gulls gliding across a softly clouded sky.",
+          "caption": "Two gulls gliding across a softly clouded sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/column-of-constantine.webp",
+          "alt": "The ancient Column of Constantine above the tram wires.",
+          "caption": "The ancient Column of Constantine above the tram wires.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Çemberlitaş, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/galata-rooftops.webp",
+          "alt": "Dense rooftops and narrow streets seen from the tower above.",
+          "caption": "Dense rooftops and narrow streets seen from the tower above.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Galata Tower, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/golden-horn-from-galata.webp",
+          "alt": "The historic peninsula and boats along the opposite waterfront.",
+          "caption": "The historic peninsula and boats along the opposite waterfront.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Galata Tower, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/galata-stone-passage.webp",
+          "alt": "A quiet brick-vaulted passage ending at a tall narrow window.",
+          "caption": "A quiet brick-vaulted passage ending at a tall narrow window.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Galata Tower, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/galata-tower-evening.webp",
+          "alt": "The round tower and its pointed roof against the evening sky.",
+          "caption": "The round tower and its pointed roof against the evening sky.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Galata, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/heritage-tram-platform.webp",
+          "alt": "A red heritage tram beside an empty platform.",
+          "caption": "A red heritage tram beside an empty platform.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Beyoğlu, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/beyoglu-sweet-shop.webp",
+          "alt": "Pastries and sweets displayed beneath bright shop lights.",
+          "caption": "Pastries and sweets displayed beneath bright shop lights.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Beyoğlu, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/beyoglu-doner-counter.webp",
+          "alt": "A cook working beside a tall rotating döner spit.",
+          "caption": "A cook working beside a tall rotating döner spit.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Beyoğlu, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/istanbul-stuffed-mussel.webp",
+          "alt": "A freshly opened stuffed mussel held above the pavement.",
+          "caption": "A freshly opened stuffed mussel held above the pavement.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-09",
+          "location": "Beyoğlu, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/taksim-mosque-night.webp",
+          "alt": "The mosque and its minarets illuminated beneath a cloudy night sky.",
+          "caption": "The mosque and its minarets illuminated beneath a cloudy night sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Taksim Square, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-09-istanbul/taksim-corn-cart.webp",
+          "alt": "Steam rising from a warmly lit corn cart after dark.",
+          "caption": "Steam rising from a warmly lit corn cart after dark.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-09",
+          "location": "Taksim Square, İstanbul"
+        }
+      ]
+    },
+    {
+      "title": "Bazaars & the Golden Horn",
+      "date": "2025-05-10",
+      "location": "İstanbul · Grand Bazaar · Süleymaniye · Eminönü",
+      "paragraphs": [
+        "Market colour and small craft details lead into the quiet spaces of Süleymaniye. The journey returns to the bazaar lanes and the water, with the historic skyline in the last frames."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/grand-bazaar-sweets.webp",
+          "alt": "Colourful sweets, dried fruit, and tea displayed at a market stall.",
+          "caption": "Colourful sweets, dried fruit, and tea displayed at a market stall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Grand Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/grand-bazaar-vaulted-lane.webp",
+          "alt": "Visitors browsing beneath the painted vaults of a long bazaar lane.",
+          "caption": "Visitors browsing beneath the painted vaults of a long bazaar lane.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Grand Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/bazaar-crystal-display.webp",
+          "alt": "Large amethyst crystals and polished stones at a bazaar shop.",
+          "caption": "Large amethyst crystals and polished stones at a bazaar shop.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Grand Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/grand-bazaar-miniatures.webp",
+          "alt": "Framed miniatures and calligraphy beside a busy shopkeeper.",
+          "caption": "Framed miniatures and calligraphy beside a busy shopkeeper.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Grand Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/grand-bazaar-tea-shop.webp",
+          "alt": "A brightly lit tea and spice shop filled with colourful displays.",
+          "caption": "A brightly lit tea and spice shop filled with colourful displays.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Grand Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/grand-bazaar-ceramics.webp",
+          "alt": "Plates, bowls, and patterned tiles around a small ceramic shop entrance.",
+          "caption": "Plates, bowls, and patterned tiles around a small ceramic shop entrance.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Grand Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-tombs.webp",
+          "alt": "Covered tombs beneath tiled walls and arched windows.",
+          "caption": "Covered tombs beneath tiled walls and arched windows.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye complex, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-prayer-hall.webp",
+          "alt": "Hanging lamps and striped arches above the red-carpeted prayer hall.",
+          "caption": "Hanging lamps and striped arches above the red-carpeted prayer hall.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-windows.webp",
+          "alt": "Stained-glass windows and hanging lamps inside the mosque.",
+          "caption": "Stained-glass windows and hanging lamps inside the mosque.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-dome.webp",
+          "alt": "The patterned dome and red-striped arches seen from below.",
+          "caption": "The patterned dome and red-striped arches seen from below.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-courtyard-arcade.webp",
+          "alt": "A long courtyard arcade beneath a row of small lead-covered domes.",
+          "caption": "A long courtyard arcade beneath a row of small lead-covered domes.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-gateway.webp",
+          "alt": "A tall marble gateway framing the courtyard beyond.",
+          "caption": "A tall marble gateway framing the courtyard beyond.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-exterior.webp",
+          "alt": "Stone walls, domes, and slender minarets beneath the spring sky.",
+          "caption": "Stone walls, domes, and slender minarets beneath the spring sky.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-courtyard.webp",
+          "alt": "The mosque facade and a slender minaret seen from the courtyard.",
+          "caption": "The mosque facade and a slender minaret seen from the courtyard.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye Mosque, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/suleymaniye-harbour-view.webp",
+          "alt": "Lead-covered domes and the harbour stretching toward the distant hills.",
+          "caption": "Lead-covered domes and the harbour stretching toward the distant hills.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Süleymaniye, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/eminonu-market-lane.webp",
+          "alt": "A crowded shopping lane beneath orange awnings.",
+          "caption": "A crowded shopping lane beneath orange awnings.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Eminönü, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/spice-bazaar-delights.webp",
+          "alt": "Stacks of Turkish delight and small containers in a bright market stall.",
+          "caption": "Stacks of Turkish delight and small containers in a bright market stall.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Spice Bazaar, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/eminonu-courtyard.webp",
+          "alt": "Two figures at a small sculpted table beneath a leafy courtyard tree.",
+          "caption": "Two figures at a small sculpted table beneath a leafy courtyard tree.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Eminönü, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/eminonu-waterfront.webp",
+          "alt": "Historic waterfront buildings and mosque domes seen across the water.",
+          "caption": "Historic waterfront buildings and mosque domes seen across the water.",
+          "width": 2000,
+          "height": 1506,
+          "capturedOn": "2025-05-10",
+          "location": "Eminönü waterfront, İstanbul"
+        },
+        {
+          "src": "/photos/turkey/2025-05-10-istanbul/waterfront-walkway.webp",
+          "alt": "A shaded walkway framing a view of the water and historic skyline.",
+          "caption": "A shaded walkway framing a view of the water and historic skyline.",
+          "width": 1506,
+          "height": 2000,
+          "capturedOn": "2025-05-10",
+          "location": "Golden Horn waterfront, İstanbul"
+        }
+      ]
+    }
+  ],
+  "showChapterIndex": false
+}
