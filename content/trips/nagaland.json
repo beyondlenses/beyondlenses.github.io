@@ -1,0 +1,1720 @@
+{
+  "slug": "nagaland",
+  "title": "Nagaland",
+  "subtitle": "Hornbill Festival at Kisama, two days on the Dzükou trail, and walks through Kohima, Dzüleke and Khonoma.",
+  "country": "India",
+  "location": "Dimapur · Kisama · Dzükou · Kohima · Dzüleke · Khonoma",
+  "category": "Festival, valleys and village walks",
+  "order": 17,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2023-12-08",
+  "endDate": "2023-12-13",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/nagaland/2023-12-11-dzukou-morning/morning-folds-of-dzukou.webp",
+    "alt": "Morning sunlight across the folded green hills of Dzükou Valley beneath a clear blue sky.",
+    "caption": "Morning sunlight across the folded green hills of Dzükou Valley beneath a clear blue sky.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2023-12-11",
+    "location": "Dzükou Valley"
+  },
+  "chapters": [
+    {
+      "title": "First afternoon in Dimapur",
+      "date": "2023-12-08",
+      "location": "Dimapur",
+      "paragraphs": [
+        "An airport welcome leads into painted walls, busy streets and old brickwork. The afternoon ends with rice and small bowls of accompaniments."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/welcome-to-nagaland.webp",
+          "alt": "A colourful welcome to Nagaland above the airport baggage belt.",
+          "caption": "A colourful welcome to Nagaland above the airport baggage belt.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur Airport"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/painted-mask.webp",
+          "alt": "A brightly painted mask design spreading across a roadside wall.",
+          "caption": "A brightly painted mask design spreading across a roadside wall.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/through-the-auto-rickshaw.webp",
+          "alt": "Traffic and a pedestrian seen through the yellow frame of an auto-rickshaw.",
+          "caption": "Traffic and a pedestrian seen through the yellow frame of an auto-rickshaw.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/dimapur-station.webp",
+          "alt": "Cars waiting outside the arched entrance of Dimapur railway station.",
+          "caption": "Cars waiting outside the arched entrance of Dimapur railway station.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/flowering-tree-by-the-road.webp",
+          "alt": "A flowering tree above a small roadside building and bamboo fence.",
+          "caption": "A flowering tree above a small roadside building and bamboo fence.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/old-brick-gateway.webp",
+          "alt": "An old brick gateway with carved panels behind an iron fence.",
+          "caption": "An old brick gateway with carved panels behind an iron fence.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-08-dimapur/rice-and-accompaniments.webp",
+          "alt": "Rice on a banana leaf with small bowls of accompaniments on a metal tray.",
+          "caption": "Rice on a banana leaf with small bowls of accompaniments on a metal tray.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-08",
+          "location": "Dimapur"
+        }
+      ]
+    },
+    {
+      "title": "Into the hills",
+      "date": "2023-12-09",
+      "location": "Dimapur–Kohima road · Kohima",
+      "paragraphs": [
+        "Flower pots brighten a roadside market. Painted shutters and a small porch mark a stop in Kohima."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-09-road-to-kigwema/flowers-at-the-market.webp",
+          "alt": "Potted flowers outside a roadside farmers' market.",
+          "caption": "Potted flowers outside a roadside farmers' market.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Dimapur–Kohima road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-road-to-kigwema/painted-shutters-and-a-porch.webp",
+          "alt": "Painted shutters and potted plants beside a small street-side porch.",
+          "caption": "Painted shutters and potted plants beside a small street-side porch.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-09",
+          "location": "Kohima"
+        }
+      ]
+    },
+    {
+      "title": "Gardens around Kigwema",
+      "date": "2023-12-09",
+      "location": "Kigwema",
+      "paragraphs": [
+        "Flowers and planted terraces surround the homestay. The walk continues along the village road towards a broad view of the hills."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/flowers-between-the-walls.webp",
+          "alt": "Flowers filling a narrow passage beside a pale wooden house.",
+          "caption": "Flowers filling a narrow passage beside a pale wooden house.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/plants-above-the-yellow-flowers.webp",
+          "alt": "A covered wooden terrace lined with pots above a bed of yellow flowers.",
+          "caption": "A covered wooden terrace lined with pots above a bed of yellow flowers.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/homestay-in-the-garden.webp",
+          "alt": "A grey homestay house behind red and yellow garden flowers.",
+          "caption": "A grey homestay house behind red and yellow garden flowers.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/red-peppers-in-a-pot.webp",
+          "alt": "Red peppers hanging from a potted plant among green leaves.",
+          "caption": "Red peppers hanging from a potted plant among green leaves.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/small-flower-pots.webp",
+          "alt": "Small pots of white and yellow flowers beside a garden path.",
+          "caption": "Small pots of white and yellow flowers beside a garden path.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/courtyard-and-steps.webp",
+          "alt": "Visitors beside steps overlooking a small courtyard and planted edges.",
+          "caption": "Visitors beside steps overlooking a small courtyard and planted edges.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/walking-through-the-village.webp",
+          "alt": "Walkers following a village road between stone walls and gardens.",
+          "caption": "Walkers following a village road between stone walls and gardens.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kigwema/hills-below-the-clouds.webp",
+          "alt": "Forested hills and scattered fields beneath low grey clouds.",
+          "caption": "Forested hills and scattered fields beneath low grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kigwema",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Among the morungs at Kisama",
+      "date": "2023-12-09",
+      "location": "Kisama Heritage Village",
+      "paragraphs": [
+        "Wristbands, woven baskets and steep thatched roofs lead into the festival grounds. Performances fill the green arena, while groups gather in the lanes between the morungs."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/festival-wristbands.webp",
+          "alt": "A circle of hands showing festival wristbands.",
+          "caption": "A circle of hands showing festival wristbands.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/woven-baskets.webp",
+          "alt": "Woven baskets hanging in a vertical display beside the market.",
+          "caption": "Woven baskets hanging in a vertical display beside the market.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/shops-under-angular-roofs.webp",
+          "alt": "Visitors and small shops beneath steep angular roofs.",
+          "caption": "Visitors and small shops beneath steep angular roofs.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/gateway-to-the-stalls.webp",
+          "alt": "A visitor beneath a painted gateway leading towards red-roofed stalls.",
+          "caption": "A visitor beneath a painted gateway leading towards red-roofed stalls.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/red-market-canopies.webp",
+          "alt": "Rows of red market canopies following a curving lane below the hillside.",
+          "caption": "Rows of red market canopies following a curving lane below the hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/wood-and-bamboo-facade.webp",
+          "alt": "A wooden and bamboo façade above a gathering of festival visitors.",
+          "caption": "A wooden and bamboo façade above a gathering of festival visitors.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/thatched-morung.webp",
+          "alt": "Visitors outside a steep thatched morung with a painted post at its entrance.",
+          "caption": "Visitors outside a steep thatched morung with a painted post at its entrance.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/smoke-above-the-thatch.webp",
+          "alt": "Smoke drifting around carved roof details and a thatched ridge.",
+          "caption": "Smoke drifting around carved roof details and a thatched ridge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/festival-arena.webp",
+          "alt": "Spectators around a green arena beneath the large festival stage.",
+          "caption": "Spectators around a green arena beneath the large festival stage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/horns-across-the-arena.webp",
+          "alt": "Performers holding long horns across the green festival ground.",
+          "caption": "Performers holding long horns across the green festival ground.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/gathering-beside-the-morungs.webp",
+          "alt": "Performers in red clothing and tall headdresses gathered beside the morungs.",
+          "caption": "Performers in red clothing and tall headdresses gathered beside the morungs.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/headdresses-in-the-crowd.webp",
+          "alt": "Tall black and white headdresses seen above a group gathered in a circle.",
+          "caption": "Tall black and white headdresses seen above a group gathered in a circle.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-festival-grounds/decorated-gable.webp",
+          "alt": "Visitors beneath a decorated wooden gable and carved entrance.",
+          "caption": "Visitors beneath a decorated wooden gable and carved entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        }
+      ]
+    },
+    {
+      "title": "Food and a gallery pause",
+      "date": "2023-12-09",
+      "location": "Kisama Heritage Village",
+      "paragraphs": [
+        "A drink outside a morung is followed by framed artwork and a small bowl of food."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-food-and-art/a-drink-outside-the-morung.webp",
+          "alt": "A visitor holding a bamboo cup outside a decorated morung.",
+          "caption": "A visitor holding a bamboo cup outside a decorated morung.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-food-and-art/pictures-in-the-gallery.webp",
+          "alt": "Framed paintings and patterned artwork on a gallery wall.",
+          "caption": "Framed paintings and patterned artwork on a gallery wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-food-and-art/bowl-at-the-festival.webp",
+          "alt": "A small bowl of food with two wooden utensils on a red table.",
+          "caption": "A small bowl of food with two wooden utensils on a red table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        }
+      ]
+    },
+    {
+      "title": "The festival after dark",
+      "date": "2023-12-09",
+      "location": "Kisama Heritage Village",
+      "paragraphs": [
+        "Cups meet under the street lights before the concert. The walk out passes beneath the lit Window to Nagaland gateway."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-after-dark/cups-under-the-lights.webp",
+          "alt": "Two cups held together above a lively street after dark.",
+          "caption": "Two cups held together above a lively street after dark.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-after-dark/concert-lights.webp",
+          "alt": "Purple beams and bright screens lighting the festival concert stage.",
+          "caption": "Purple beams and bright screens lighting the festival concert stage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-09-kisama-after-dark/window-to-nagaland.webp",
+          "alt": "Visitors walking beneath the Window to Nagaland gateway at night.",
+          "caption": "Visitors walking beneath the Window to Nagaland gateway at night.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-09",
+          "location": "Kisama Heritage Village"
+        }
+      ]
+    },
+    {
+      "title": "Climbing through the forest",
+      "date": "2023-12-10",
+      "location": "Dzükou Valley approach trail",
+      "paragraphs": [
+        "Cloud moves between the mountains before the climb. The route rises through dense forest and emerges beside a narrow passage cut through rock."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/cloud-between-the-mountains.webp",
+          "alt": "Low cloud drifting between forested mountains above roadside vegetation.",
+          "caption": "Low cloud drifting between forested mountains above roadside vegetation.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/forest-road.webp",
+          "alt": "A narrow dirt road winding through dense forest beside a small roof.",
+          "caption": "A narrow dirt road winding through dense forest beside a small roof.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/at-the-trailhead.webp",
+          "alt": "A trekker with a large backpack beside a small hut at the forest trailhead.",
+          "caption": "A trekker with a large backpack beside a small hut at the forest trailhead.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/climbing-the-stone-path.webp",
+          "alt": "A walker climbing a steep stone path through the forest.",
+          "caption": "A walker climbing a steep stone path through the forest.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/green-forest-floor.webp",
+          "alt": "Tall branching trees above a green forest floor.",
+          "caption": "Tall branching trees above a green forest floor.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/steep-forest-trail.webp",
+          "alt": "A walker on a steep rocky trail beneath dense trees.",
+          "caption": "A walker on a steep rocky trail beneath dense trees.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/valley-conservation-sign.webp",
+          "alt": "A blue conservation sign beside the upper trail.",
+          "caption": "A blue conservation sign beside the upper trail.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/cloud-at-the-ridge.webp",
+          "alt": "Cloud rising past the edge of a mountain ridge.",
+          "caption": "Cloud rising past the edge of a mountain ridge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ascent/passage-through-the-rock.webp",
+          "alt": "A narrow rocky passage opening towards blue sky and cloud.",
+          "caption": "A narrow rocky passage opening towards blue sky and cloud.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley approach trail"
+        }
+      ]
+    },
+    {
+      "title": "Between the green slopes",
+      "date": "2023-12-10",
+      "location": "Dzükou Valley trail",
+      "paragraphs": [
+        "The path follows bamboo-covered slopes, with bare trunks along the ridges. The light changes between clear sky and low cloud."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ridge-trail/backpack-above-the-valley.webp",
+          "alt": "A trekker looking across a green valley from the narrow path.",
+          "caption": "A trekker looking across a green valley from the narrow path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ridge-trail/clouds-over-the-folds.webp",
+          "alt": "White clouds above the folded green slopes of the valley.",
+          "caption": "White clouds above the folded green slopes of the valley.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ridge-trail/following-the-hillside-path.webp",
+          "alt": "A trekker following a narrow path through hillside bamboo.",
+          "caption": "A trekker following a narrow path through hillside bamboo.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ridge-trail/bare-trunks-on-the-slope.webp",
+          "alt": "Bare dark trunks standing among green vegetation on a sunny slope.",
+          "caption": "Bare dark trunks standing among green vegetation on a sunny slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ridge-trail/rounded-hills-in-cloud.webp",
+          "alt": "Rounded green hills beneath a low overcast sky.",
+          "caption": "Rounded green hills beneath a low overcast sky.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley trail",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-10-dzukou-ridge-trail/path-through-the-bamboo.webp",
+          "alt": "A trekker on a narrow path enclosed by tall bamboo.",
+          "caption": "A trekker on a narrow path enclosed by tall bamboo.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-10",
+          "location": "Dzükou Valley trail"
+        }
+      ]
+    },
+    {
+      "title": "Frost at the campsite",
+      "date": "2023-12-11",
+      "location": "Dzükou Valley campsite",
+      "paragraphs": [
+        "Frost covers the open ground in the first sunlight. Tents and small buildings stand at the edge of the bamboo."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-camp/sunlight-on-the-frost.webp",
+          "alt": "Morning sunlight falling across frost-covered ground and a net at the campsite.",
+          "caption": "Morning sunlight falling across frost-covered ground and a net at the campsite.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley campsite"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-camp/red-tent-in-the-morning.webp",
+          "alt": "A red tent on frosty ground beside a tree and small camp buildings.",
+          "caption": "A red tent on frosty ground beside a tree and small camp buildings.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley campsite"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-camp/setting-out-from-camp.webp",
+          "alt": "Walkers gathered outside a small campsite building in the morning sun.",
+          "caption": "Walkers gathered outside a small campsite building in the morning sun.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley campsite"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-camp/camp-buildings.webp",
+          "alt": "Small camp buildings and a spreading tree beneath clear blue sky.",
+          "caption": "Small camp buildings and a spreading tree beneath clear blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley campsite"
+        }
+      ]
+    },
+    {
+      "title": "Morning in the valley",
+      "date": "2023-12-11",
+      "location": "Dzükou Valley",
+      "paragraphs": [
+        "The trail drops between the hills into an open meadow. Rocky edges, bamboo thickets and a large outcrop interrupt the rounded slopes."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/walker-on-the-rocky-path.webp",
+          "alt": "A walker on a rocky path above the bamboo-covered slopes.",
+          "caption": "A walker on a rocky path above the bamboo-covered slopes.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/the-open-valley.webp",
+          "alt": "A broad open valley below a long ridge of closely folded hills.",
+          "caption": "A broad open valley below a long ridge of closely folded hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/through-the-bamboo.webp",
+          "alt": "Walkers following a narrow path between tall bamboo.",
+          "caption": "Walkers following a narrow path between tall bamboo.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/down-the-rocky-steps.webp",
+          "alt": "Trekkers descending rocky steps between green slopes.",
+          "caption": "Trekkers descending rocky steps between green slopes.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/rock-above-the-gorge.webp",
+          "alt": "A rocky edge above a deeply shaded gorge and distant rolling hills.",
+          "caption": "A rocky edge above a deeply shaded gorge and distant rolling hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/meadow-below-the-ridge.webp",
+          "alt": "An open meadow and low bamboo below a long ridge.",
+          "caption": "An open meadow and low bamboo below a long ridge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-morning/the-large-outcrop.webp",
+          "alt": "Visitors resting beside a large rock outcrop, with one person standing above.",
+          "caption": "Visitors resting beside a large rock outcrop, with one person standing above.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley"
+        }
+      ]
+    },
+    {
+      "title": "Across the valley and back",
+      "date": "2023-12-11",
+      "location": "Dzükou Valley and return trail",
+      "paragraphs": [
+        "Walkers cross the pale grass before the path rises again. Bare branches and shifting cloud shadows give way to a wider mountain view on the return."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/walkers-in-the-grass.webp",
+          "alt": "Walkers following a faint path through pale grass below rounded hills.",
+          "caption": "Walkers following a faint path through pale grass below rounded hills.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/bare-branches-against-blue.webp",
+          "alt": "Bare dark branches rising above bamboo against a bright blue sky.",
+          "caption": "Bare dark branches rising above bamboo against a bright blue sky.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/green-hills-and-white-cloud.webp",
+          "alt": "Rounded green hills beneath a bank of white cloud.",
+          "caption": "Rounded green hills beneath a bank of white cloud.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/a-rest-on-the-grass.webp",
+          "alt": "Walkers resting on the grass at the edge of the campsite.",
+          "caption": "Walkers resting on the grass at the edge of the campsite.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/back-on-the-hillside-trail.webp",
+          "alt": "A trekker following the hillside trail through low bamboo.",
+          "caption": "A trekker following the hillside trail through low bamboo.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/cloud-shadows-in-the-valley.webp",
+          "alt": "Cloud shadows falling across deep folds in the green hills.",
+          "caption": "Cloud shadows falling across deep folds in the green hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/green-backpack-on-the-trail.webp",
+          "alt": "A trekker carrying a bright green backpack along the bamboo-lined trail.",
+          "caption": "A trekker carrying a bright green backpack along the bamboo-lined trail.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-11-dzukou-return/mountains-beyond-the-trail.webp",
+          "alt": "Layers of forested mountains and cloud beyond the upper trail.",
+          "caption": "Layers of forested mountains and cloud beyond the upper trail.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-11",
+          "location": "Dzükou Valley and return trail",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Churches above Kohima",
+      "date": "2023-12-12",
+      "location": "Kohima",
+      "paragraphs": [
+        "Church roofs rise above the city. Inside the cathedral, stained glass lights the altar and rows of pews; outside, the hillside opens towards the rooftops."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/red-roof-and-bell-tower.webp",
+          "alt": "A red-roofed church and a narrow bell tower above city buildings.",
+          "caption": "A red-roofed church and a narrow bell tower above city buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/cathedral-aisle.webp",
+          "alt": "The cathedral aisle leading between pews towards the altar and stained glass.",
+          "caption": "The cathedral aisle leading between pews towards the altar and stained glass.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Cathedral of Mary Help of Christians, Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/stained-glass-window.webp",
+          "alt": "A narrow stained-glass window lighting a dark interior corner.",
+          "caption": "A narrow stained-glass window lighting a dark interior corner.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Cathedral of Mary Help of Christians, Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/light-across-the-pews.webp",
+          "alt": "Coloured light and the steel roof structure above rows of cathedral pews.",
+          "caption": "Coloured light and the steel roof structure above rows of cathedral pews.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Cathedral of Mary Help of Christians, Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/cathedral-model.webp",
+          "alt": "A small model of the cathedral and its grounds on a red base.",
+          "caption": "A small model of the cathedral and its grounds on a red base.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Cathedral of Mary Help of Christians, Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/cathedral-entrance.webp",
+          "alt": "Red steps and blue window panels beneath the cathedral's angular roof.",
+          "caption": "Red steps and blue window panels beneath the cathedral's angular roof.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Cathedral of Mary Help of Christians, Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/kohima-from-above.webp",
+          "alt": "Kohima's closely packed buildings spreading across the hills below clear sky.",
+          "caption": "Kohima's closely packed buildings spreading across the hills below clear sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/cathedral-and-lawn.webp",
+          "alt": "The cathedral's broad angular façade beyond an open lawn in bright sunlight.",
+          "caption": "The cathedral's broad angular façade beyond an open lawn in bright sunlight.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Cathedral of Mary Help of Christians, Kohima"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-churches/painted-street-wall.webp",
+          "alt": "Painted panels along a Kohima street below houses and overhead wires.",
+          "caption": "Painted panels along a Kohima street below houses and overhead wires.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima"
+        }
+      ]
+    },
+    {
+      "title": "Paths through the cemetery",
+      "date": "2023-12-12",
+      "location": "Kohima War Cemetery",
+      "paragraphs": [
+        "Stone markers follow the lawns and terraces. Steps, memorial panels and flower-lined paths overlook the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/curving-row-of-markers.webp",
+          "alt": "A curving row of stone grave markers beside a green cemetery lawn.",
+          "caption": "A curving row of stone grave markers beside a green cemetery lawn.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/inscribed-stone.webp",
+          "alt": "An inscribed memorial stone set into a wall beneath trees.",
+          "caption": "An inscribed memorial stone set into a wall beneath trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/cemetery-above-the-city.webp",
+          "alt": "Cemetery terraces overlooking Kohima's buildings and distant hills.",
+          "caption": "Cemetery terraces overlooking Kohima's buildings and distant hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/markers-in-the-grass.webp",
+          "alt": "Low stone grave markers among grass and small flower beds.",
+          "caption": "Low stone grave markers among grass and small flower beds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/cross-above-the-path.webp",
+          "alt": "A tall white cross above cemetery paths and rows of markers.",
+          "caption": "A tall white cross above cemetery paths and rows of markers.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/memorial-panels.webp",
+          "alt": "Dark memorial panels and pale stone columns beneath the trees.",
+          "caption": "Dark memorial panels and pale stone columns beneath the trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/steps-through-the-terraces.webp",
+          "alt": "Broad steps descending through the cemetery terraces towards a white cross.",
+          "caption": "Broad steps descending through the cemetery terraces towards a white cross.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-kohima-war-cemetery/yellow-flowers-along-the-path.webp",
+          "alt": "Yellow flowers lining a narrow path beside the cemetery lawn.",
+          "caption": "Yellow flowers lining a narrow path beside the cemetery lawn.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Kohima War Cemetery"
+        }
+      ]
+    },
+    {
+      "title": "The road towards Dzüleke",
+      "date": "2023-12-12",
+      "location": "Khonoma–Dzüleke road",
+      "paragraphs": [
+        "Roadside viewpoints look over forested valleys and terraces. Small buildings, flowers and a village church appear between the wooded slopes."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/memorial-at-the-viewpoint.webp",
+          "alt": "A tall stone memorial beside a small pavilion at a roadside viewpoint.",
+          "caption": "A tall stone memorial beside a small pavilion at a roadside viewpoint.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/horned-pavilion.webp",
+          "alt": "A small round pavilion with carved posts and a horn-shaped roof ornament.",
+          "caption": "A small round pavilion with carved posts and a horn-shaped roof ornament.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/terraces-among-the-trees.webp",
+          "alt": "Terraced fields on a hillside surrounded by dense green trees.",
+          "caption": "Terraced fields on a hillside surrounded by dense green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/figure-above-the-stone.webp",
+          "alt": "A small standing figure above an inscribed stone pedestal.",
+          "caption": "A small standing figure above an inscribed stone pedestal.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/welcome-to-khonoma.webp",
+          "alt": "A weathered welcome to Khonoma sign beneath blue sky.",
+          "caption": "A weathered welcome to Khonoma sign beneath blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/village-on-the-ridge.webp",
+          "alt": "A village following a ridge between forested mountain slopes.",
+          "caption": "A village following a ridge between forested mountain slopes.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/red-roofed-shelter.webp",
+          "alt": "A small red-roofed shelter beside the mountain road.",
+          "caption": "A small red-roofed shelter beside the mountain road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/small-timber-building.webp",
+          "alt": "A small timber building beside an open patch of ground and mountain views.",
+          "caption": "A small timber building beside an open patch of ground and mountain views.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/pale-purple-flower-heads.webp",
+          "alt": "Pale purple flower heads above green leaves with mountains behind.",
+          "caption": "Pale purple flower heads above green leaves with mountains behind.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/path-beside-the-fields.webp",
+          "alt": "A dirt path beside fields enclosed by forested hills.",
+          "caption": "A dirt path beside fields enclosed by forested hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/steps-up-the-hillside.webp",
+          "alt": "Stone steps climbing a planted hillside beside a yellow sign.",
+          "caption": "Stone steps climbing a planted hillside beside a yellow sign.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/blue-roofed-church.webp",
+          "alt": "A yellow church with a blue roof below a wooded hillside.",
+          "caption": "A yellow church with a blue roof below a wooded hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-road-to-dzuleke/timber-fronted-building.webp",
+          "alt": "A timber-fronted village building above a short flight of stone steps.",
+          "caption": "A timber-fronted village building above a short flight of stone steps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        }
+      ]
+    },
+    {
+      "title": "A walk through Dzüleke",
+      "date": "2023-12-12",
+      "location": "Dzüleke",
+      "paragraphs": [
+        "Stone steps connect homes, lanes and small gardens. The walk passes laundry on a wall, a stream below the village and chickens beside a timber shelter."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/roofs-along-the-slope.webp",
+          "alt": "Small corrugated roofs and timber buildings along a steep village slope.",
+          "caption": "Small corrugated roofs and timber buildings along a steep village slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/steps-between-the-walls.webp",
+          "alt": "A walker climbing a long flight of steps between tall retaining walls.",
+          "caption": "A walker climbing a long flight of steps between tall retaining walls.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/road-around-the-hill.webp",
+          "alt": "A narrow road curving around a densely wooded hillside.",
+          "caption": "A narrow road curving around a densely wooded hillside.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/laundry-beside-the-lane.webp",
+          "alt": "Laundry drying along a wall beside a curving village lane.",
+          "caption": "Laundry drying along a wall beside a curving village lane.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/red-roofed-gateway.webp",
+          "alt": "A simple red-roofed gateway beside the village road.",
+          "caption": "A simple red-roofed gateway beside the village road.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/houses-among-the-greenery.webp",
+          "alt": "Small houses and corrugated roofs among dense green planting.",
+          "caption": "Small houses and corrugated roofs among dense green planting.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/bridge-on-the-village-road.webp",
+          "alt": "A small bridge and trees along the village road.",
+          "caption": "A small bridge and trees along the village road.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/stream-below-the-village.webp",
+          "alt": "A stream curving beside an open grassy field below the wooded hillside.",
+          "caption": "A stream curving beside an open grassy field below the wooded hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/tree-and-the-blue-roof.webp",
+          "alt": "A bare tree beside timber buildings with a blue church roof beyond.",
+          "caption": "A bare tree beside timber buildings with a blue church roof beyond.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-dzuleke/chickens-by-the-shelter.webp",
+          "alt": "Chickens crossing open ground beside a rough timber shelter.",
+          "caption": "Chickens crossing open ground beside a rough timber shelter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Dzüleke"
+        }
+      ]
+    },
+    {
+      "title": "A roadside pause",
+      "date": "2023-12-12",
+      "location": "Khonoma–Dzüleke road",
+      "paragraphs": [
+        "A stone courtyard offers a stop above the valley. People gather beside the shelter, and a small stall displays produce and drinks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-12-return-to-khonoma/stone-courtyard-and-memorial.webp",
+          "alt": "A tall memorial and low stone seats above a mountain view.",
+          "caption": "A tall memorial and low stone seats above a mountain view.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-return-to-khonoma/game-in-the-courtyard.webp",
+          "alt": "People playing a board game in a sunlit roadside courtyard.",
+          "caption": "People playing a board game in a sunlit roadside courtyard.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-return-to-khonoma/forested-valley.webp",
+          "alt": "Forested slopes and distant blue ridges beneath small white clouds.",
+          "caption": "Forested slopes and distant blue ridges beneath small white clouds.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-return-to-khonoma/roadside-produce-stall.webp",
+          "alt": "Produce and bottled drinks at a small roadside stall.",
+          "caption": "Produce and bottled drinks at a small roadside stall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-return-to-khonoma/quiet-bend-in-the-road.webp",
+          "alt": "A quiet road bending between wooded slopes.",
+          "caption": "A quiet road bending between wooded slopes.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma–Dzüleke road"
+        }
+      ]
+    },
+    {
+      "title": "An evening walk in Khonoma",
+      "date": "2023-12-12",
+      "location": "Khonoma",
+      "paragraphs": [
+        "Red flowers brighten the homestay entrance before a meal. The village walk follows steep steps, timber porches and the fort doorway as daylight fades."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/red-flowers-at-the-door.webp",
+          "alt": "Rows of red flowers in white pots beside a turquoise doorway.",
+          "caption": "Rows of red flowers in white pots beside a turquoise doorway.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/a-meal-by-the-window.webp",
+          "alt": "A visitor eating beside a bright window at a wooden table.",
+          "caption": "A visitor eating beside a bright window at a wooden table.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/timber-porch-above-the-roofs.webp",
+          "alt": "A carved timber porch above village rooftops and wooded hills.",
+          "caption": "A carved timber porch above village rooftops and wooded hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/steep-village-steps.webp",
+          "alt": "Steep steps between stone walls and village houses.",
+          "caption": "Steep steps between stone walls and village houses.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/fort-door-and-flowers.webp",
+          "alt": "A wooden door and pots of red flowers in the stone façade of Khonoma Fort.",
+          "caption": "A wooden door and pots of red flowers in the stone façade of Khonoma Fort.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma Fort"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/rooftops-at-dusk.webp",
+          "alt": "Khonoma rooftops above a broad valley beneath pale evening cloud.",
+          "caption": "Khonoma rooftops above a broad valley beneath pale evening cloud.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-12-khonoma-evening/bamboo-framed-doorway.webp",
+          "alt": "A wooden doorway framed with green bamboo beside an inscribed stone panel.",
+          "caption": "A wooden doorway framed with green bamboo beside an inscribed stone panel.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-12",
+          "location": "Khonoma"
+        }
+      ]
+    },
+    {
+      "title": "Morning light in Khonoma",
+      "date": "2023-12-13",
+      "location": "Khonoma",
+      "paragraphs": [
+        "Morning cloud catches the light above the rooftops. Stone façades, a community building and displayed objects line the first village walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/stone-building-in-the-morning.webp",
+          "alt": "A stone building with a broad sloping base beneath morning clouds.",
+          "caption": "A stone building with a broad sloping base beneath morning clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/clouds-above-the-rooftops.webp",
+          "alt": "Warm morning clouds above Khonoma's rooftops and the forested valley.",
+          "caption": "Warm morning clouds above Khonoma's rooftops and the forested valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/sunlight-on-the-hillside.webp",
+          "alt": "Morning sunlight catching a green hillside above the village walls.",
+          "caption": "Morning sunlight catching a green hillside above the village walls.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/khonoma-fort.webp",
+          "alt": "The stone façade and wooden door of Khonoma Fort beneath morning clouds.",
+          "caption": "The stone façade and wooden door of Khonoma Fort beneath morning clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma Fort"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/gabled-village-building.webp",
+          "alt": "A gabled village building with timber posts, orange walls and flower pots.",
+          "caption": "A gabled village building with timber posts, orange walls and flower pots.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/horned-skulls-on-the-wall.webp",
+          "alt": "Horned skulls displayed beneath the roof of a timber-lined building.",
+          "caption": "Horned skulls displayed beneath the roof of a timber-lined building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/spears-and-decorated-sheaths.webp",
+          "alt": "Spears and decorated sheaths displayed along an interior wall.",
+          "caption": "Spears and decorated sheaths displayed along an interior wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/roofs-below-the-sunlit-hill.webp",
+          "alt": "Corrugated village rooftops below a sunlit green hillside.",
+          "caption": "Corrugated village rooftops below a sunlit green hillside.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/between-the-stone-walls.webp",
+          "alt": "Walkers following a narrow lane beside a high stone wall.",
+          "caption": "Walkers following a narrow lane beside a high stone wall.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/white-railed-terrace.webp",
+          "alt": "A white-railed terrace and painted doorway above a stone-paved platform.",
+          "caption": "A white-railed terrace and painted doorway above a stone-paved platform.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-morning/terraces-below-the-mountains.webp",
+          "alt": "Terraced fields below forested mountains, with village houses in the foreground.",
+          "caption": "Terraced fields below forested mountains, with village houses in the foreground.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Lanes and doorways",
+      "date": "2023-12-13",
+      "location": "Khonoma",
+      "paragraphs": [
+        "Flower-lined steps and small gateways lead between the houses. Carved and painted doorways offer closer details along the route."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-lanes/flower-lined-steps.webp",
+          "alt": "Stone steps climbing beside yellow flowers above the village rooftops.",
+          "caption": "Stone steps climbing beside yellow flowers above the village rooftops.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-lanes/flowering-gateway.webp",
+          "alt": "A flowering wooden gateway framing a small house and village path.",
+          "caption": "A flowering wooden gateway framing a small house and village path.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-lanes/carved-timber-door.webp",
+          "alt": "A weathered carved timber door beside plants and a stone wall.",
+          "caption": "A weathered carved timber door beside plants and a stone wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-lanes/painted-doorway.webp",
+          "alt": "A visitor beside a painted animal-face design on a doorway.",
+          "caption": "A visitor beside a painted animal-face design on a doorway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-lanes/blue-house-and-red-flowers.webp",
+          "alt": "A blue wooden house with red flower pots below a sunlit mountainside.",
+          "caption": "A blue wooden house with red flower pots below a sunlit mountainside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        }
+      ]
+    },
+    {
+      "title": "Between the terraces",
+      "date": "2023-12-13",
+      "location": "Khonoma fields",
+      "paragraphs": [
+        "The path descends to fields, stone boundaries and running water. A basket carrier follows the narrow route between the terraces."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/terraces-under-the-mountains.webp",
+          "alt": "Broad terraced fields beneath wooded mountains and low cloud.",
+          "caption": "Broad terraced fields beneath wooded mountains and low cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/green-crop-bed.webp",
+          "alt": "A bright green crop bed beside trees and a narrow field path.",
+          "caption": "A bright green crop bed beside trees and a narrow field path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/plants-on-the-stone-boundary.webp",
+          "alt": "Green plants covering a stone boundary between terraces.",
+          "caption": "Green plants covering a stone boundary between terraces.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/curving-fields.webp",
+          "alt": "Curving fields and narrow paths below the hillside village.",
+          "caption": "Curving fields and narrow paths below the hillside village.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields",
+          "wide": true
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/bridge-among-the-fields.webp",
+          "alt": "A visitor on a small bridge among fields below the sunlit village.",
+          "caption": "A visitor on a small bridge among fields below the sunlit village.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/water-between-the-stones.webp",
+          "alt": "Water flowing over stones beside the fields.",
+          "caption": "Water flowing over stones beside the fields.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/bare-trees-above-the-terraces.webp",
+          "alt": "Bare trees above stone-edged terraces with cloud over the mountains.",
+          "caption": "Bare trees above stone-edged terraces with cloud over the mountains.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/curves-in-the-terraces.webp",
+          "alt": "Curving field terraces beneath trees and blue sky.",
+          "caption": "Curving field terraces beneath trees and blue sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/basket-on-the-field-path.webp",
+          "alt": "A person carrying a large woven basket along a narrow stone path between fields.",
+          "caption": "A person carrying a large woven basket along a narrow stone path between fields.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-fields/sunlight-across-the-fields.webp",
+          "alt": "Sunlight falling across curving fields below a wooded ridge.",
+          "caption": "Sunlight falling across curving fields below a wooded ridge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma fields",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Back through the village",
+      "date": "2023-12-13",
+      "location": "Khonoma",
+      "paragraphs": [
+        "Flowers and a stone water point line the way back. A café pause brings a bowl of noodles, a window view and a blue wooden shopfront."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/pink-flowers-beside-the-path.webp",
+          "alt": "Pale pink flowers beside a stone path and village buildings.",
+          "caption": "Pale pink flowers beside a stone path and village buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/village-courtyard.webp",
+          "alt": "Houses around an open village courtyard beneath blue sky and cloud.",
+          "caption": "Houses around an open village courtyard beneath blue sky and cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/lettering-on-the-cafe-wall.webp",
+          "alt": "Painted lettering about Wi-Fi and conversation on a white café wall.",
+          "caption": "Painted lettering about Wi-Fi and conversation on a white café wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Ükü Café, Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/pause-by-the-window.webp",
+          "alt": "A visitor sitting beside a café window and a worn wooden table.",
+          "caption": "A visitor sitting beside a café window and a worn wooden table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Ükü Café, Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/stone-water-point.webp",
+          "alt": "A stone water point beneath a corrugated cover beside village buildings.",
+          "caption": "A stone water point beneath a corrugated cover beside village buildings.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/noodles-by-the-window.webp",
+          "alt": "A bowl of noodles held beside a window overlooking village houses.",
+          "caption": "A bowl of noodles held beside a window overlooking village houses.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2023-12-13",
+          "location": "Ükü Café, Khonoma"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-khonoma-cafe/blue-cafe-shopfront.webp",
+          "alt": "The blue wooden shopfront and small flower pots at Ükü Café.",
+          "caption": "The blue wooden shopfront and small flower pots at Ükü Café.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Ükü Café, Khonoma"
+        }
+      ]
+    },
+    {
+      "title": "Down towards Dimapur",
+      "date": "2023-12-13",
+      "location": "Khonoma–Dimapur road · Dimapur",
+      "paragraphs": [
+        "Pineapples fill a roadside stall on the way down. The last stop is the airport terminal in Dimapur."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/nagaland/2023-12-13-road-to-dimapur/pineapples-at-the-roadside.webp",
+          "alt": "Ripe pineapples stacked in a roadside stall.",
+          "caption": "Ripe pineapples stacked in a roadside stall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2023-12-13",
+          "location": "Khonoma–Dimapur road"
+        },
+        {
+          "src": "/photos/nagaland/2023-12-13-road-to-dimapur/dimapur-airport.webp",
+          "alt": "The Dimapur airport terminal with a bus and vehicles outside.",
+          "caption": "The Dimapur airport terminal with a bus and vehicles outside.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-12-13",
+          "location": "Dimapur Airport"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Nagaland",
+    "latitude": 25.66,
+    "longitude": 94.1,
+    "labelPosition": [
+      920,
+      260
+    ]
+  }
+}

@@ -12,6 +12,9 @@ daily sections from **26 April to 10 May 2025**, with date and location labels.
 **The long road to Spiti** contains **151 original photographs** in nine daily
 sections from **15–23 September 2026**, following the journey through Shimla,
 Kinnaur, Spiti, Chandratal, and Manali.
+**Nagaland** contains **158 original photographs** in 22 dated sections from
+**8–13 December 2023**, covering Dimapur, Kigwema, Kisama, Dzükou Valley,
+Kohima, Dzüleke and Khonoma.
 **Australia** contains **130 original photographs** in 13 dated sections from
 **10–18 November 2025**, covering Melbourne, Williamstown, St Kilda,
 Westerfolds Park, and the Great Ocean Road.
@@ -48,7 +51,7 @@ The Canada collections contain **373 original photographs**:
 
 **Dubai** adds **94 original photographs** from **28 December 2023**, covering
 Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek. The site contains
-**18 albums across 14 countries**.
+**19 albums across 14 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -670,6 +673,67 @@ The R2 upload transferred no files because the sandbox blocked its DNS socket.
 Interactive desktop/mobile gallery and photo-viewer review remains pending;
 the sandbox blocks the local preview server and Chrome sockets. Use
 `npm run dev` in an environment that permits them after uploading.
+
+## Nagaland selections
+
+**Nagaland** adds 158 photographs in 22 sections, following the camera-local
+dates **8–13 December 2023**. The route covers Dimapur, Kigwema and Hornbill
+Festival at Kisama, the Dzükou Valley trek, Kohima's churches and war cemetery,
+the road to Dzüleke, and village lanes and terraces around Khonoma. The album
+appears beside Spiti in India's atlas view, with its own Nagaland marker.
+
+All **1,505 JPEG-format stills** were fully decoded and reviewed in 19
+chronological contact sheets. The opening 120 images were also reviewed in a
+separate sheet. Larger reviews compared **314 candidates**; three cover
+candidates were checked at 1600 pixels. Every source image decodes successfully.
+The collection contains 1,480 `.jpg` files and 25 files named `.CR2` that actually
+contain JPEG data. Those 25 files and their corresponding Canon `.JPG` portraits
+record 25 July 2023; the posed sequence is omitted without inventing a December
+date or developing RAW images. All source names and contents remain intact.
+The 237 videos remain outside the still-photo album.
+
+Selected dates retain original camera-local EXIF times, with +05:30 offsets
+where recorded. Unoffset phone clocks are preserved without assuming the
+cameras were synchronized. Undated shared copies, screenshots, private travel
+documents, repeated scenes and weaker frames are omitted. Visible signs and
+landmarks, capture order and consistent GPS establish locations. Some GPS tags
+jump away from the continuous photographed route; conflicting fixes are
+disregarded, and uncertain stops use the broader Khonoma–Dzüleke road label.
+No itinerary or completed source archive was present, so validation covers the
+existing extracted originals rather than a ZIP archive.
+
+The morning Dzükou Valley cover appears once, outside the gallery. Source
+hashes, explicit exclusions, complete omissions, capture-date evidence, daily
+counts and people scenes are recorded in the selection manifest. Only selected
+WebP derivatives go to `public/photos/nagaland/` and R2; local exports remain
+ignored by Git. Original framing and colour are preserved, orientation is
+corrected, and EXIF/XMP is stripped.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/nagaland.json --source ../dumps/nagaland
+npm run photos:plan -- nagaland
+npm run photos:upload -- nagaland
+npm run photos:check -- nagaland
+npm test
+npm run build
+```
+
+Validation checked all 158 original hashes, local capture dates and offsets,
+decoded exports, dimensions, preserved framing and colour profiles, stripped
+EXIF/XMP, unique sources, single cover use, exclusions, complete omissions and
+manifest counts. No selected original hash is repeated in another album.
+The upload plan contains exactly **158 WebP files, totalling 90.3 MiB**.
+Site tests pass and the build produces **26 pages and 19 stories**, including
+the four existing Ontario redirect pages. World and India atlas artwork was
+rendered and visually checked. Representative exports opened include the
+cover, `headdresses-in-the-crowd.webp`, `cathedral-aisle.webp`,
+`basket-on-the-field-path.webp` and `noodles-by-the-window.webp`.
+
+The R2 upload attempt transferred no files because the sandbox blocked its DNS
+socket. **Run the upload and check commands above with network access before
+pushing.** Interactive desktop/mobile gallery and photo-viewer review remains
+pending because this sandbox blocks the preview server and Chrome sockets;
+use `npm run dev` in an environment that permits them after uploading.
 
 ## Publish at beyondlenses.github.io
 
