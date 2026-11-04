@@ -36,10 +36,12 @@ await writeFile(output, svg);
 console.log(`Generated ${output} (${Math.round(Buffer.byteLength(svg) / 1024)} KiB).`);
 if (process.argv[3]) {
   const countries = JSON.parse(await readFile(process.argv[3], 'utf8'));
+  const indiaOutline = JSON.parse(await readFile(new URL('../content/maps/india-outline.geojson', import.meta.url), 'utf8'));
   const symbols = Object.values(atlasCountries).map(({ id, code }) => {
     const feature = countries.features.find(({ properties }) => properties.ADM0_A3 === code);
     if (!feature) throw new Error(`Missing country geometry: ${code}`);
-    return `<g id="${id}" fill-rule="evenodd">${paths(feature.geometry)}</g>`;
+    const geometry = id === 'india' ? indiaOutline.geometry : feature.geometry;
+    return `<g id="${id}" fill-rule="evenodd">${paths(geometry)}</g>`;
   }).join('');
   const countrySvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><title>Country outlines, Natural Earth, public domain</title><defs>${symbols}</defs></svg>\n`;
   const countryOutput = fileURLToPath(new URL('../public/images/atlas-countries.svg', import.meta.url));

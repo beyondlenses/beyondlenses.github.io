@@ -101,12 +101,16 @@ export function validateContent(site, trips) {
   }
 }
 
+export function latestPhotoDate(trip) {
+  return allPhotos(trip).reduce((latest, photo) => photo.capturedOn > latest ? photo.capturedOn : latest, '') || trip.endDate || '';
+}
+
 export async function loadContent(projectRoot = root) {
   const site = JSON.parse(await readFile(path.join(projectRoot, 'content/site.json'), 'utf8'));
   const files = (await readdir(path.join(projectRoot, 'content/trips'))).filter((file) => file.endsWith('.json')).sort();
   const trips = await Promise.all(files.map(async (file) => JSON.parse(await readFile(path.join(projectRoot, 'content/trips', file), 'utf8'))));
   validateContent(site, trips);
-  trips.sort((a, b) => a.order - b.order || a.slug.localeCompare(b.slug));
+  trips.sort((a, b) => latestPhotoDate(b).localeCompare(latestPhotoDate(a)) || a.order - b.order || a.slug.localeCompare(b.slug));
   for (const image of trips.filter((trip) => !usesR2(trip)).flatMap(allPhotos)) {
     const filename = path.join(projectRoot, 'public', image.src);
     if (!(await stat(filename).catch(() => null))?.isFile()) throw new Error(`Missing photograph: public${image.src}`);

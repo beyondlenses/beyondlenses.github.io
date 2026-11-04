@@ -1,0 +1,2129 @@
+{
+  "slug": "singapore",
+  "photoStorage": "r2",
+  "title": "Singapore",
+  "subtitle": "River walks and shophouses, gardens and hilltop paths, campus days and evenings by the water.",
+  "country": "Singapore",
+  "location": "Marina Bay · Chinatown · Kent Ridge · Southern Islands",
+  "category": "Days in the garden city",
+  "order": 18,
+  "demo": false,
+  "startDate": "2019-07-15",
+  "endDate": "2023-10-18",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/singapore/2019-08-11-marina-bay/skyline-across-marina-bay.webp",
+    "alt": "Singapore’s waterfront towers and the Merlion across the blue-green water of Marina Bay.",
+    "caption": "Singapore’s waterfront towers and the Merlion across the blue-green water of Marina Bay.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2019-08-11",
+    "location": "Marina Bay"
+  },
+  "chapters": [
+    {
+      "title": "A shaded path on campus",
+      "date": "2019-07-15",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "A brick path follows the green hillside above the campus road. The trees are the first of many familiar landmarks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-15-kent-ridge/hillside-campus-path.webp",
+          "alt": "A brick footpath beneath spreading trees, with a campus road below.",
+          "caption": "A brick footpath beneath spreading trees, with a campus road below.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-15",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "Morning along the Singapore River",
+      "date": "2019-07-16",
+      "location": "Singapore River · Civic District",
+      "paragraphs": [
+        "The river walk passes painted underpasses, quiet shophouses and white bridges. Bronze figures and flower-lined paths lead towards the Fullerton waterfront."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/morning-river-and-bridge.webp",
+          "alt": "Pale riverside buildings and a low bridge reflected in the Singapore River.",
+          "caption": "Pale riverside buildings and a low bridge reflected in the Singapore River.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Clarke Quay"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/mural-in-the-underpass.webp",
+          "alt": "A long painted mural beside a tiled pedestrian underpass.",
+          "caption": "A long painted mural beside a tiled pedestrian underpass.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Singapore River"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/bronze-figure-by-the-river.webp",
+          "alt": "A seated bronze figure beside flowers, with a road bridge and white building across the water.",
+          "caption": "A seated bronze figure beside flowers, with a road bridge and white building across the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Singapore River"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/white-arch-and-riverside-railings.webp",
+          "alt": "A white arched bridge beside a shaded riverside path.",
+          "caption": "A white arched bridge beside a shaded riverside path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Elgin Bridge"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/quiet-shophouse-walk.webp",
+          "alt": "A pedestrian walking between riverside shophouses and a planted brick path.",
+          "caption": "A pedestrian walking between riverside shophouses and a planted brick path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Boat Quay"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/suspension-bridge-entrance.webp",
+          "alt": "The white entrance of a suspension footbridge framed by a tree and city buildings.",
+          "caption": "The white entrance of a suspension footbridge framed by a tree and city buildings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-16",
+          "location": "Cavenagh Bridge"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/clock-tower-through-the-trees.webp",
+          "alt": "A white clock tower and classical façade beyond a monument and green lawn.",
+          "caption": "A white clock tower and classical façade beyond a monument and green lawn.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Victoria Theatre and Victoria Concert Hall"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/bronze-river-traders.webp",
+          "alt": "Bronze figures carrying a pole and baskets beside the river railings.",
+          "caption": "Bronze figures carrying a pole and baskets beside the river railings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Singapore River"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/flowers-by-the-fullerton.webp",
+          "alt": "Hanging flowers, palms and a black lamp beside the Fullerton’s stone façade.",
+          "caption": "Hanging flowers, palms and a black lamp beside the Fullerton’s stone façade.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Fullerton waterfront"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/boys-above-the-water.webp",
+          "alt": "Bronze boys poised above the river beside the stone wall of the Fullerton.",
+          "caption": "Bronze boys poised above the river beside the stone wall of the Fullerton.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Fullerton waterfront"
+        },
+        {
+          "src": "/photos/singapore/2019-07-16-singapore-river/lamps-and-quayside-roofs.webp",
+          "alt": "A black riverside lamp framing low red-roofed buildings across the water.",
+          "caption": "A black riverside lamp framing low red-roofed buildings across the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-16",
+          "location": "Boat Quay",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Meals on blue trays",
+      "date": "2019-07-17",
+      "location": "Kent Ridge · Clementi",
+      "paragraphs": [
+        "Noodles, rice and soup fill the space between walks. Each tray is a small record of an ordinary day."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-17-kent-ridge/noodles-on-a-blue-table.webp",
+          "alt": "Noodles, sliced fish cake and vegetables on a white plate against a blue table.",
+          "caption": "Noodles, sliced fish cake and vegetables on a white plate against a blue table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-17",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-07-17-kent-ridge/sizzling-fish-and-rice.webp",
+          "alt": "Fish on a hot plate with purple rice, soup and pickles on a blue tray.",
+          "caption": "Fish on a hot plate with purple rice, soup and pickles on a blue tray.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-17",
+          "location": "Singapore"
+        },
+        {
+          "src": "/photos/singapore/2019-07-17-kent-ridge/noodles-and-clear-soup.webp",
+          "alt": "A red bowl of noodles beside a metal bowl of clear soup on a canteen tray.",
+          "caption": "A red bowl of noodles beside a metal bowl of clear soup on a canteen tray.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-17",
+          "location": "Clementi"
+        }
+      ]
+    },
+    {
+      "title": "Hearts in the neighbourhood",
+      "date": "2019-07-20",
+      "location": "Clementi",
+      "paragraphs": [
+        "Painted hearts and animal shapes brighten a planted path in front of the housing blocks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-20-clementi/painted-hearts-by-the-path.webp",
+          "alt": "Brightly painted hearts and animal shapes beside a path and yellow-trimmed housing blocks.",
+          "caption": "Brightly painted hearts and animal shapes beside a path and yellow-trimmed housing blocks.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-20",
+          "location": "Clementi"
+        }
+      ]
+    },
+    {
+      "title": "Chinatown into the evening",
+      "date": "2019-07-27",
+      "location": "Chinatown",
+      "paragraphs": [
+        "A small pavilion leads into streets of shophouses, comic figurines and painted stories. Food Street fills with people before the temple lights take over after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/pavilion-and-curving-hedges.webp",
+          "alt": "A red pavilion with a green tiled roof above curving hedges.",
+          "caption": "A red pavilion with a green tiled roof above curving hedges.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/down-the-market-stairs.webp",
+          "alt": "Visitors descending a covered staircase into a busy Chinatown street.",
+          "caption": "Visitors descending a covered staircase into a busy Chinatown street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/shophouses-at-blue-hour.webp",
+          "alt": "A crowded shopping street beneath lanterns and a pale blue evening sky.",
+          "caption": "A crowded shopping street beneath lanterns and a pale blue evening sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/the-tintin-shop.webp",
+          "alt": "An orange Tintin Shop sign outside a white shophouse on a busy pavement.",
+          "caption": "An orange Tintin Shop sign outside a white shophouse on a busy pavement.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/comic-figures-on-the-shelves.webp",
+          "alt": "Colourful comic figurines, mugs and books displayed on white shop shelves.",
+          "caption": "Colourful comic figurines, mugs and books displayed on white shop shelves.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/painted-street-vendor.webp",
+          "alt": "A mural of a street vendor and children beneath a painted umbrella.",
+          "caption": "A mural of a street vendor and children beneath a painted umbrella.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/beneath-the-food-street-roof.webp",
+          "alt": "Diners and visitors beneath the glass roof of Chinatown Food Street.",
+          "caption": "Diners and visitors beneath the glass roof of Chinatown Food Street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/egg-tart-in-the-crowd.webp",
+          "alt": "A small yellow egg tart held in a clear wrapper among a crowd.",
+          "caption": "A small yellow egg tart held in a clear wrapper among a crowd.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/supper-stall-lights.webp",
+          "alt": "An illuminated food stall beneath pastel shophouses and a glass canopy.",
+          "caption": "An illuminated food stall beneath pastel shophouses and a glass canopy.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/a-singlish-phrase.webp",
+          "alt": "A printed display explaining the phrase “liak boh kiu”.",
+          "caption": "A printed display explaining the phrase “liak boh kiu”.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/food-festival-crowd.webp",
+          "alt": "A crowd beneath red lanterns and a Fifty Cents Fest sign.",
+          "caption": "A crowd beneath red lanterns and a Fifty Cents Fest sign.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Chinatown",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/temple-after-dark.webp",
+          "alt": "The illuminated red façade and tiered roof of a temple at night.",
+          "caption": "The illuminated red façade and tiered roof of a temple at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-27",
+          "location": "Buddha Tooth Relic Temple, Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2019-07-27-chinatown/temple-door-guardian.webp",
+          "alt": "A stone guardian beside a red temple door and hanging fabric.",
+          "caption": "A stone guardian beside a red temple door and hanging fabric.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-27",
+          "location": "Buddha Tooth Relic Temple, Chinatown"
+        }
+      ]
+    },
+    {
+      "title": "Colours of Little India",
+      "date": "2019-07-28",
+      "location": "Little India",
+      "paragraphs": [
+        "Evening traffic moves past bright shutters, market stalls and long rows of shophouses. Painted figures and a geometric face cover the side walls."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/evening-street-and-taxis.webp",
+          "alt": "Taxis and pedestrians beside low shophouses in the evening.",
+          "caption": "Taxis and pedestrians beside low shophouses in the evening.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/market-under-striped-awnings.webp",
+          "alt": "A busy shopfront beneath striped awnings and brightly coloured upper windows.",
+          "caption": "A busy shopfront beneath striped awnings and brightly coloured upper windows.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/red-and-blue-corner-house.webp",
+          "alt": "A vivid red and blue corner building with yellow shutters.",
+          "caption": "A vivid red and blue corner building with yellow shutters.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/market-entrance-at-dusk.webp",
+          "alt": "Pedestrians outside a market building with a red roof and green-trimmed windows.",
+          "caption": "Pedestrians outside a market building with a red roof and green-trimmed windows.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/mural-on-the-purple-wall.webp",
+          "alt": "Painted figures covering the purple side wall of a corner shophouse.",
+          "caption": "Painted figures covering the purple side wall of a corner shophouse.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/long-row-of-shophouses.webp",
+          "alt": "Cars parked beside a long row of narrow shops and upper-floor shutters.",
+          "caption": "Cars parked beside a long row of narrow shops and upper-floor shutters.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-little-india/geometric-face-mural.webp",
+          "alt": "A large multicoloured geometric face painted around small shuttered windows.",
+          "caption": "A large multicoloured geometric face painted around small shuttered windows.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-28",
+          "location": "Little India"
+        }
+      ]
+    },
+    {
+      "title": "The bay after dark",
+      "date": "2019-07-28",
+      "location": "Gardens by the Bay · Marina Bay Sands",
+      "paragraphs": [
+        "A bright pedestrian passage gives way to illuminated palms and blue Supertrees. Across the water, the Flyer and the long shopping arcades keep the evening going."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-28-gardens-marina-bay/colours-in-the-passage.webp",
+          "alt": "Colourful wall patterns and pedestrians in a long bright underground passage.",
+          "caption": "Colourful wall patterns and pedestrians in a long bright underground passage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Marina Bay"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-gardens-marina-bay/silver-palms-after-dark.webp",
+          "alt": "Palm trunks and fan-shaped leaves illuminated against the night sky.",
+          "caption": "Palm trunks and fan-shaped leaves illuminated against the night sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Gardens by the Bay"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-gardens-marina-bay/blue-supertrees-and-reflections.webp",
+          "alt": "Blue-lit Supertrees above dark trees and reflections in the water.",
+          "caption": "Blue-lit Supertrees above dark trees and reflections in the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Gardens by the Bay",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-gardens-marina-bay/flyer-through-the-leaves.webp",
+          "alt": "The illuminated Singapore Flyer and its reflection framed by dark leaves.",
+          "caption": "The illuminated Singapore Flyer and its reflection framed by dark leaves.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-28",
+          "location": "Marina Bay"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-gardens-marina-bay/glowing-circle-in-the-mall.webp",
+          "alt": "A circular blue light display surrounded by visitors and shop balconies.",
+          "caption": "A circular blue light display surrounded by visitors and shop balconies.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-28",
+          "location": "Marina Bay Sands"
+        },
+        {
+          "src": "/photos/singapore/2019-07-28-gardens-marina-bay/arched-shopping-atrium.webp",
+          "alt": "A tall arched glass roof above a long illuminated shopping atrium.",
+          "caption": "A tall arched glass roof above a long illuminated shopping atrium.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-28",
+          "location": "Marina Bay Sands"
+        }
+      ]
+    },
+    {
+      "title": "Trees between the buildings",
+      "date": "2019-07-29",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "Large branches stretch above the buildings. Fern-covered trunks and a winding garden path fill the valley between them."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-07-29-kent-ridge/branches-above-the-building.webp",
+          "alt": "A large branching tree growing beside a white campus building.",
+          "caption": "A large branching tree growing beside a white campus building.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-29",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-07-29-kent-ridge/ferns-on-the-trunk.webp",
+          "alt": "A tree trunk covered in ferns above a winding garden path.",
+          "caption": "A tree trunk covered in ferns above a winding garden path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-07-29",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-07-29-kent-ridge/paths-through-the-campus-garden.webp",
+          "alt": "Narrow paths winding between spreading trees on a landscaped slope.",
+          "caption": "Narrow paths winding between spreading trees on a landscaped slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-07-29",
+          "location": "NUS, Kent Ridge",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Bugis and the Rochor streets",
+      "date": "2019-08-03",
+      "location": "Bugis · Rochor",
+      "paragraphs": [
+        "The walk moves from white arcades to the canal and pastel shophouses. A tall folded façade catches the last light above the older roofs."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-08-03-bugis-rochor/white-arcades-at-the-junction.webp",
+          "alt": "White arcaded buildings with red roofs beside a road junction.",
+          "caption": "White arcaded buildings with red roofs beside a road junction.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-03",
+          "location": "Bugis"
+        },
+        {
+          "src": "/photos/singapore/2019-08-03-bugis-rochor/ice-cream-in-a-wafer.webp",
+          "alt": "A block of ice cream held between thin wafers on a busy pavement.",
+          "caption": "A block of ice cream held between thin wafers on a busy pavement.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-03",
+          "location": "Bugis"
+        },
+        {
+          "src": "/photos/singapore/2019-08-03-bugis-rochor/canal-at-evening.webp",
+          "alt": "A planted canal walkway leading towards a bridge and taller buildings.",
+          "caption": "A planted canal walkway leading towards a bridge and taller buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-03",
+          "location": "Rochor Canal"
+        },
+        {
+          "src": "/photos/singapore/2019-08-03-bugis-rochor/pastel-shophouses-and-yellow-lines.webp",
+          "alt": "Pastel shophouses across a road marked with bright yellow lines.",
+          "caption": "Pastel shophouses across a road marked with bright yellow lines.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-03",
+          "location": "Rochor"
+        },
+        {
+          "src": "/photos/singapore/2019-08-03-bugis-rochor/folded-facade-at-dusk.webp",
+          "alt": "A tall building with a folded metal façade rising above low shophouses.",
+          "caption": "A tall building with a folded metal façade rising above low shophouses.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-03",
+          "location": "Rochor"
+        }
+      ]
+    },
+    {
+      "title": "West Coast in the morning",
+      "date": "2019-08-04",
+      "location": "West Coast Park · Kent Ridge",
+      "paragraphs": [
+        "Cranes and working boats sit beyond the low-tide shore. Boardwalks turn inland through the trees, and later there are durians at a fruit stall."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-08-04-west-coast/low-tide-and-harbour-cranes.webp",
+          "alt": "Cranes, working boats and a rig beyond a rocky shoreline at low tide.",
+          "caption": "Cranes, working boats and a rig beyond a rocky shoreline at low tide.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-04",
+          "location": "West Coast Park",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2019-08-04-west-coast/morning-boardwalk.webp",
+          "alt": "A straight wooden boardwalk leading between trees and grass.",
+          "caption": "A straight wooden boardwalk leading between trees and grass.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-04",
+          "location": "West Coast Park"
+        },
+        {
+          "src": "/photos/singapore/2019-08-04-west-coast/narrow-bridge-through-the-trees.webp",
+          "alt": "A narrow wooden bridge disappearing into dense tropical greenery.",
+          "caption": "A narrow wooden bridge disappearing into dense tropical greenery.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-04",
+          "location": "West Coast Park"
+        },
+        {
+          "src": "/photos/singapore/2019-08-04-west-coast/branches-above-the-boardwalk.webp",
+          "alt": "Large trees and hanging plants beside a railing-lined boardwalk.",
+          "caption": "Large trees and hanging plants beside a railing-lined boardwalk.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-04",
+          "location": "West Coast Park"
+        },
+        {
+          "src": "/photos/singapore/2019-08-04-west-coast/curve-beneath-the-trees.webp",
+          "alt": "An empty paved path curving beneath tall trees and lamps.",
+          "caption": "An empty paved path curving beneath tall trees and lamps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-04",
+          "location": "West Coast Park"
+        },
+        {
+          "src": "/photos/singapore/2019-08-04-west-coast/durians-at-the-stall.webp",
+          "alt": "Durians stacked in black crates at a fruit stall.",
+          "caption": "Durians stacked in black crates at a fruit stall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-04",
+          "location": "Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "The Centre for Ethnobotany",
+      "date": "2019-08-10",
+      "location": "Singapore Botanic Gardens",
+      "paragraphs": [
+        "Decorated hats and woven objects sit behind glass. Outside, the lit entrance reads Centre for Ethnobotany."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-08-10-botanic-gardens/decorated-hats-behind-glass.webp",
+          "alt": "Decorated woven hats and patterned objects in a glass display case.",
+          "caption": "Decorated woven hats and patterned objects in a glass display case.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-10",
+          "location": "Centre for Ethnobotany, Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-10-botanic-gardens/ethnobotany-centre-at-night.webp",
+          "alt": "The illuminated entrance to the Centre for Ethnobotany beneath a dark blue sky.",
+          "caption": "The illuminated entrance to the Centre for Ethnobotany beneath a dark blue sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-10",
+          "location": "Centre for Ethnobotany, Singapore Botanic Gardens"
+        }
+      ]
+    },
+    {
+      "title": "A waterfront afternoon of music",
+      "date": "2019-08-11",
+      "location": "Marina Bay · Esplanade",
+      "paragraphs": [
+        "The Merlion and waterfront crowds lead into the Esplanade. The afternoon moves between visual art, acoustic guitars, a concert hall and an outdoor stage lit purple after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/riders-by-the-waterfront.webp",
+          "alt": "Two motorcycle riders and a crowd beside the shaded waterfront.",
+          "caption": "Two motorcycle riders and a crowd beside the shaded waterfront.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Marina Bay"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/merlion-above-the-crowd.webp",
+          "alt": "The white Merlion spraying water above visitors, with the Esplanade behind.",
+          "caption": "The white Merlion spraying water above visitors, with the Esplanade behind.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Merlion Park"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/sands-across-the-water.webp",
+          "alt": "Marina Bay Sands and the crowded waterfront seen across the bay.",
+          "caption": "Marina Bay Sands and the crowded waterfront seen across the bay.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Marina Bay"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/stage-open-to-the-bay.webp",
+          "alt": "An outdoor performance stage and its white canopy overlooking the water.",
+          "caption": "An outdoor performance stage and its white canopy overlooking the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/drawn-figures-in-the-foyer.webp",
+          "alt": "Black-and-white figure cutouts arranged in an exhibition inside a bright foyer.",
+          "caption": "Black-and-white figure cutouts arranged in an exhibition inside a bright foyer.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/fish-on-a-dark-wall.webp",
+          "alt": "A swarm of small white fish shapes on a tall dark exhibition wall.",
+          "caption": "A swarm of small white fish shapes on a tall dark exhibition wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/acoustic-guitars-on-stage.webp",
+          "alt": "Two seated musicians playing acoustic guitars on a small indoor stage.",
+          "caption": "Two seated musicians playing acoustic guitars on a small indoor stage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/concert-hall-and-orchestra.webp",
+          "alt": "An orchestra beneath a large circular wooden canopy in the concert hall.",
+          "caption": "An orchestra beneath a large circular wooden canopy in the concert hall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Esplanade Concert Hall",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2019-08-11-marina-bay-esplanade/purple-lights-by-the-bay.webp",
+          "alt": "Musicians on a purple-lit outdoor stage with city lights across the water.",
+          "caption": "Musicians on a purple-lit outdoor stage with city lights across the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-11",
+          "location": "Esplanade"
+        }
+      ]
+    },
+    {
+      "title": "An afternoon in the Botanic Gardens",
+      "date": "2019-08-25",
+      "location": "Singapore Botanic Gardens",
+      "paragraphs": [
+        "Paths wind between roots, palms and dense planting before opening beside the water. Walkers follow the shade around the lawns."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/curving-garden-ramp.webp",
+          "alt": "A sloping garden path and metal handrail beneath dense foliage.",
+          "caption": "A sloping garden path and metal handrail beneath dense foliage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/path-beside-the-tall-leaves.webp",
+          "alt": "A dark path curving beside tall tropical plants and a garden lamp.",
+          "caption": "A dark path curving beside tall tropical plants and a garden lamp.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/hanging-roots-by-the-path.webp",
+          "alt": "Long hanging roots and thin trunks beside a garden path.",
+          "caption": "Long hanging roots and thin trunks beside a garden path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/palm-framed-walk.webp",
+          "alt": "A walkway framed by palms and bright green planting.",
+          "caption": "A walkway framed by palms and bright green planting.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/bend-in-the-garden-path.webp",
+          "alt": "A bend in the path surrounded by layered green foliage.",
+          "caption": "A bend in the path surrounded by layered green foliage.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/tree-and-garden-pavilion.webp",
+          "alt": "A tall tree and lamp above fallen leaves, with a shaded pavilion behind.",
+          "caption": "A tall tree and lamp above fallen leaves, with a shaded pavilion behind.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/fruit-hanging-from-the-palms.webp",
+          "alt": "Tall palms with hanging bunches of dark fruit above dense undergrowth.",
+          "caption": "Tall palms with hanging bunches of dark fruit above dense undergrowth.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/still-water-and-shoreline.webp",
+          "alt": "Trees reflected in still water beside a pale curving shoreline.",
+          "caption": "Trees reflected in still water beside a pale curving shoreline.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2019-08-25-botanic-gardens/walking-beside-the-lawns.webp",
+          "alt": "Visitors following a shaded path beside a dry lawn and tall trees.",
+          "caption": "Visitors following a shaded path beside a dry lawn and tall trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-08-25",
+          "location": "Singapore Botanic Gardens"
+        }
+      ]
+    },
+    {
+      "title": "A neighbourhood square and a window",
+      "date": "2019-09-08",
+      "location": "Clementi · Singapore",
+      "paragraphs": [
+        "A painted figure stands above a sunny neighbourhood square. Later, repeating circles in a window frame the shutters across the street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-09-08-singapore/figure-in-the-neighbourhood-square.webp",
+          "alt": "A colourful standing figure above a pedestal in a tree-lined neighbourhood square.",
+          "caption": "A colourful standing figure above a pedestal in a tree-lined neighbourhood square.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-09-08",
+          "location": "Clementi"
+        },
+        {
+          "src": "/photos/singapore/2019-09-08-singapore/circles-in-the-window.webp",
+          "alt": "Circular window grilles framing pale shophouse windows across a narrow street.",
+          "caption": "Circular window grilles framing pale shophouse windows across a narrow street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-09-08",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "Lunch and the train",
+      "date": "2019-10-05",
+      "location": "Clementi · Buona Vista",
+      "paragraphs": [
+        "Lunch comes with two bowls of chilli and a cup of tea. The next views are platform beams and a green-tinted window above a lawn."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-10-05-clementi-buona-vista/lunch-on-the-green-table.webp",
+          "alt": "Fried pieces topped with egg, two bowls of chilli and tea on a green table.",
+          "caption": "Fried pieces topped with egg, two bowls of chilli and tea on a green table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-05",
+          "location": "Singapore"
+        },
+        {
+          "src": "/photos/singapore/2019-10-05-clementi-buona-vista/beams-above-the-platform.webp",
+          "alt": "Blue beams, roof slats and platform doors at an elevated train station.",
+          "caption": "Blue beams, roof slats and platform doors at an elevated train station.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-05",
+          "location": "Clementi MRT"
+        },
+        {
+          "src": "/photos/singapore/2019-10-05-clementi-buona-vista/green-window-above-the-lawn.webp",
+          "alt": "A green-tinted window framing a lawn and modern buildings.",
+          "caption": "A green-tinted window framing a lawn and modern buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-05",
+          "location": "Buona Vista"
+        }
+      ]
+    },
+    {
+      "title": "Breakfast before the journey",
+      "date": "2019-10-12",
+      "location": "Kranji",
+      "paragraphs": [
+        "Toast, eggs and tea begin the morning. Outside, low sunlight falls across trees and an open lawn."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-10-12-kranji/toast-eggs-and-tea.webp",
+          "alt": "Toast, two eggs and milky tea arranged on a dark breakfast tray.",
+          "caption": "Toast, two eggs and milky tea arranged on a dark breakfast tray.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Kranji"
+        },
+        {
+          "src": "/photos/singapore/2019-10-12-kranji/morning-light-across-the-lawn.webp",
+          "alt": "Low sunlight reaching through trees beside an open lawn and paved road.",
+          "caption": "Low sunlight reaching through trees beside an open lawn and paved road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2019-10-12",
+          "location": "Kranji"
+        }
+      ]
+    },
+    {
+      "title": "Gardens inside the airport",
+      "date": "2019-12-05",
+      "location": "Changi Airport",
+      "paragraphs": [
+        "Orchids and a planted pond fill the terminal. Beyond the windows, aircraft wait beside a rooftop sunflower garden."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/orchids-in-the-terminal.webp",
+          "alt": "Orchids and tropical planting beneath blue decorations in a busy terminal.",
+          "caption": "Orchids and tropical planting beneath blue decorations in a busy terminal.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-05",
+          "location": "Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/aircraft-at-the-gate.webp",
+          "alt": "A Singapore Airlines aircraft parked beside ground equipment beyond the terminal window.",
+          "caption": "A Singapore Airlines aircraft parked beside ground equipment beyond the terminal window.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-05",
+          "location": "Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/rooftop-sunflower-garden.webp",
+          "alt": "Yellow sunflowers and curved metal fixtures in a rooftop airport garden.",
+          "caption": "Yellow sunflowers and curved metal fixtures in a rooftop airport garden.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-05",
+          "location": "Sunflower Garden, Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/pond-below-the-orchids.webp",
+          "alt": "A planted indoor pond, orchids and small wooden bridges viewed from above.",
+          "caption": "A planted indoor pond, orchids and small wooden bridges viewed from above.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-05",
+          "location": "Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/nine-circular-panels.webp",
+          "alt": "Nine circular patterned panels set into a red-framed artwork on a stone wall.",
+          "caption": "Nine circular patterned panels set into a red-framed artwork on a stone wall.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-05",
+          "location": "Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/flowers-on-the-living-wall.webp",
+          "alt": "A freestanding living wall covered with leaves and small flowers.",
+          "caption": "A freestanding living wall covered with leaves and small flowers.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-05",
+          "location": "Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2019-12-05-changi-airport/figures-in-the-glass.webp",
+          "alt": "White line drawings of people and a wheel across a reflective glass installation.",
+          "caption": "White line drawings of people and a wheel across a reflective glass installation.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-05",
+          "location": "Changi Airport"
+        }
+      ]
+    },
+    {
+      "title": "December in the Civic District",
+      "date": "2019-12-22",
+      "location": "Civic District · Esplanade · Clementi",
+      "paragraphs": [
+        "Christmas decorations and evening clouds frame the walk towards the bay. Inside the Esplanade, painted musicians, projected streets and hanging lines fill the passages; supper finishes back in Clementi."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/christmas-tree-and-city-tower.webp",
+          "alt": "A decorated Christmas tree beneath a tall city building.",
+          "caption": "A decorated Christmas tree beneath a tall city building.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-22",
+          "location": "Civic District"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/pale-facade-at-dusk.webp",
+          "alt": "A pale classical façade at a road junction beneath sunset clouds.",
+          "caption": "A pale classical façade at a road junction beneath sunset clouds.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-22",
+          "location": "Capitol, Civic District"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/cathedral-spire-at-sunset.webp",
+          "alt": "A white cathedral spire silhouetted between trees beneath golden clouds.",
+          "caption": "A white cathedral spire silhouetted between trees beneath golden clouds.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-22",
+          "location": "St Andrew’s Cathedral"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/esplanade-across-the-road.webp",
+          "alt": "Traffic passing the Esplanade with Marina Bay Sands visible beyond the trees.",
+          "caption": "Traffic passing the Esplanade with Marina Bay Sands visible beyond the trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-22",
+          "location": "Civic District"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/openwork-tower-at-dusk.webp",
+          "alt": "A tall openwork structure beside the road and city buildings at dusk.",
+          "caption": "A tall openwork structure beside the road and city buildings at dusk.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-22",
+          "location": "Marina Bay"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/painted-musicians-in-the-passage.webp",
+          "alt": "A row of painted musicians on a salmon-coloured wall in a pedestrian passage.",
+          "caption": "A row of painted musicians on a salmon-coloured wall in a pedestrian passage.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-22",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/projected-street-in-the-corridor.webp",
+          "alt": "A street scene projected along the wall of a long columned corridor.",
+          "caption": "A street scene projected along the wall of a long columned corridor.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-22",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/hanging-lines-over-the-steps.webp",
+          "alt": "A suspended arrangement of thin white lines above broad indoor steps.",
+          "caption": "A suspended arrangement of thin white lines above broad indoor steps.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-22",
+          "location": "Esplanade"
+        },
+        {
+          "src": "/photos/singapore/2019-12-22-civic-district-esplanade/ingredients-around-the-hotpot.webp",
+          "alt": "Small bowls of ingredients arranged around a tabletop hotpot.",
+          "caption": "Small bowls of ingredients arranged around a tabletop hotpot.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-22",
+          "location": "Clementi"
+        }
+      ]
+    },
+    {
+      "title": "An eclipse on the campus field",
+      "date": "2019-12-26",
+      "location": "NUS multipurpose field, Kent Ridge",
+      "paragraphs": [
+        "Visitors gather on the field with viewing equipment and cameras. Between the clouds, the Sun becomes a bright crescent in the viewing optics."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/first-bright-crescent.webp",
+          "alt": "A large orange crescent of the partially eclipsed Sun seen through circular viewing optics.",
+          "caption": "A large orange crescent of the partially eclipsed Sun seen through circular viewing optics.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/gathering-on-the-field.webp",
+          "alt": "A crowd gathering on a grassy university field beneath a blue sky.",
+          "caption": "A crowd gathering on a grassy university field beneath a blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/watching-the-sky.webp",
+          "alt": "Visitors looking upwards beside a tripod on the campus field.",
+          "caption": "Visitors looking upwards beside a tripod on the campus field.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/eclipse-sky-through-the-clouds.webp",
+          "alt": "Dark clouds surrounding a bright patch of sky during the eclipse.",
+          "caption": "Dark clouds surrounding a bright patch of sky during the eclipse.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/cameras-raised-on-the-field.webp",
+          "alt": "A crowd raising phones and cameras towards the sky in front of campus buildings.",
+          "caption": "A crowd raising phones and cameras towards the sky in front of campus buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/a-thinner-crescent.webp",
+          "alt": "A thin bright solar crescent surrounded by reflections in circular viewing optics.",
+          "caption": "A thin bright solar crescent surrounded by reflections in circular viewing optics.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2019-12-26-nus-eclipse/telescope-and-screen.webp",
+          "alt": "Visitors beside a telescope and a small display screen on the grass.",
+          "caption": "Visitors beside a telescope and a small display screen on the grass.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2019-12-26",
+          "location": "NUS multipurpose field, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "Red and gold in Jurong East",
+      "date": "2019-12-29",
+      "location": "Jurong East",
+      "paragraphs": [
+        "A temporary stall glows with red lanterns, gold ornaments and hanging decorations."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-12-29-jurong-east/red-and-gold-market-stall.webp",
+          "alt": "Shoppers passing a brightly lit stall filled with red and gold decorations.",
+          "caption": "Shoppers passing a brightly lit stall filled with red and gold decorations.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-29",
+          "location": "Jurong East"
+        }
+      ]
+    },
+    {
+      "title": "New Year lights at Clarke Quay",
+      "date": "2019-12-31",
+      "location": "Clarke Quay",
+      "paragraphs": [
+        "Pink and turquoise lines cross the canopy above the evening crowd."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2019-12-31-clarke-quay/neon-canopy-at-new-year.webp",
+          "alt": "Pink and turquoise lights above a crowded New Year stage at Clarke Quay.",
+          "caption": "Pink and turquoise lights above a crowded New Year stage at Clarke Quay.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2019-12-31",
+          "location": "Clarke Quay"
+        }
+      ]
+    },
+    {
+      "title": "A Sunday across the island",
+      "date": "2020-01-19",
+      "location": "Bukit Panjang · Singapore River",
+      "paragraphs": [
+        "An elevated railway, a plate of prata and a quiet stretch of river mark different stops in the day."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-01-19-singapore/train-line-over-the-junction.webp",
+          "alt": "An elevated railway passing a busy junction beneath a bright blue sky.",
+          "caption": "An elevated railway passing a busy junction beneath a bright blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-01-19",
+          "location": "Bukit Panjang"
+        },
+        {
+          "src": "/photos/singapore/2020-01-19-singapore/prata-and-curry.webp",
+          "alt": "Two plates of prata with curry and a glass mug on a canteen table.",
+          "caption": "Two plates of prata with curry and a glass mug on a canteen table.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-01-19",
+          "location": "Singapore"
+        },
+        {
+          "src": "/photos/singapore/2020-01-19-singapore/quiet-riverside-path.webp",
+          "alt": "A calm stretch of river beside trees and a black-railed footpath.",
+          "caption": "A calm stretch of river beside trees and a black-railed footpath.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-01-19",
+          "location": "Singapore River"
+        }
+      ]
+    },
+    {
+      "title": "A rainbow over the port",
+      "date": "2020-04-13",
+      "location": "Kent Ridge · West Coast",
+      "paragraphs": [
+        "Two pale rainbow arcs rise above the port cranes after rain."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-04-13-kent-ridge/double-rainbow-above-the-cranes.webp",
+          "alt": "A double rainbow above port cranes, rooftops and green trees.",
+          "caption": "A double rainbow above port cranes, rooftops and green trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-04-13",
+          "location": "Kent Ridge · West Coast"
+        }
+      ]
+    },
+    {
+      "title": "Early on Mount Faber",
+      "date": "2020-07-05",
+      "location": "Marang Trail · Mount Faber",
+      "paragraphs": [
+        "The walk begins while the path lights are still on. A pavilion and planted paths lead to views of cable cars, high-rise buildings and the port in the dawn light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/marang-trail-at-first-light.webp",
+          "alt": "Lit wooden steps marked Marang Trail descending beneath a dark canopy.",
+          "caption": "Lit wooden steps marked Marang Trail descending beneath a dark canopy.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Marang Trail"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/entrance-to-faber-walk.webp",
+          "alt": "The words Welcome to Faber Walk at the steps of a pale garden pavilion.",
+          "caption": "The words Welcome to Faber Walk at the steps of a pale garden pavilion.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/red-pavilion-in-the-garden.webp",
+          "alt": "A brick path leading through flowering plants towards a small red-roofed pavilion.",
+          "caption": "A brick path leading through flowering plants towards a small red-roofed pavilion.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/cable-cars-above-the-trees.webp",
+          "alt": "Cable cars and a tall support tower beyond treetops in the pale morning light.",
+          "caption": "Cable cars and a tall support tower beyond treetops in the pale morning light.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/dawn-above-the-city.webp",
+          "alt": "City buildings and distant port cranes beneath clouds edged with dawn colour.",
+          "caption": "City buildings and distant port cranes beneath clouds edged with dawn colour.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/flowers-along-the-path.webp",
+          "alt": "Flowering plants and tall trees beside a narrow hilltop path.",
+          "caption": "Flowering plants and tall trees beside a narrow hilltop path.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/merlion-in-the-hilltop-garden.webp",
+          "alt": "A small white Merlion statue in a hedge-lined hilltop garden.",
+          "caption": "A small white Merlion statue in a hedge-lined hilltop garden.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/towers-beyond-the-canopy.webp",
+          "alt": "Two tall curved towers beyond a broad green canopy and harbour.",
+          "caption": "Two tall curved towers beyond a broad green canopy and harbour.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-mount-faber/bend-in-the-hill-road.webp",
+          "alt": "A sharp road bend marked with black and yellow arrows beneath dense trees.",
+          "caption": "A sharp road bend marked with black and yellow arrows beneath dense trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Mount Faber"
+        }
+      ]
+    },
+    {
+      "title": "Bridges, gardens and the ridge",
+      "date": "2020-07-05",
+      "location": "Henderson Waves · HortPark · Kent Ridge Park",
+      "paragraphs": [
+        "The route crosses Henderson Waves and follows metal walkways through the trees. A garden lawn, a scarecrow and a quiet pond come before the last shaded paths."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/henderson-waves-in-morning-light.webp",
+          "alt": "A wooden pedestrian bridge with pale wave-shaped ribs above the forest.",
+          "caption": "A wooden pedestrian bridge with pale wave-shaped ribs above the forest.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Henderson Waves",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/forest-from-the-wave-bridge.webp",
+          "alt": "The curved bridge railing beside treetops and a wooded hillside.",
+          "caption": "The curved bridge railing beside treetops and a wooded hillside.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Henderson Waves"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/stairs-over-the-forest.webp",
+          "alt": "A metal stairway and elevated walkway suspended among dense trees.",
+          "caption": "A metal stairway and elevated walkway suspended among dense trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Southern Ridges Forest Walk"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/curve-of-the-forest-walk.webp",
+          "alt": "An elevated metal walkway curving through the green canopy.",
+          "caption": "An elevated metal walkway curving through the green canopy.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Southern Ridges Forest Walk"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/road-below-the-walk.webp",
+          "alt": "A narrow road winding below green slopes and trees.",
+          "caption": "A narrow road winding below green slopes and trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-05",
+          "location": "Alexandra Road"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/lawn-at-the-garden-centre.webp",
+          "alt": "A green lawn framed by flowering plants and a low garden building.",
+          "caption": "A green lawn framed by flowering plants and a low garden building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "HortPark"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/scarecrow-among-the-plants.webp",
+          "alt": "A straw-hatted scarecrow standing in a planted garden bed.",
+          "caption": "A straw-hatted scarecrow standing in a planted garden bed.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-05",
+          "location": "HortPark"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/green-ridges-and-a-winding-path.webp",
+          "alt": "A winding path below layered green treetops and distant buildings.",
+          "caption": "A winding path below layered green treetops and distant buildings.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-05",
+          "location": "Kent Ridge Park"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/bench-beside-the-pond.webp",
+          "alt": "A wooden bench overlooking a quiet pond surrounded by dense trees.",
+          "caption": "A wooden bench overlooking a quiet pond surrounded by dense trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-05",
+          "location": "Kent Ridge Park"
+        },
+        {
+          "src": "/photos/singapore/2020-07-05-southern-ridges/last-shaded-path.webp",
+          "alt": "A lamp beside a narrow paved path enclosed by trees and shrubs.",
+          "caption": "A lamp beside a narrow paved path enclosed by trees and shrubs.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-05",
+          "location": "Kent Ridge Park"
+        }
+      ]
+    },
+    {
+      "title": "Blue sky over Kent Ridge",
+      "date": "2020-07-17",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "A clear afternoon picks out the branches, tall trees and red-painted bus lane."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-07-17-kent-ridge/branches-against-blue-sky.webp",
+          "alt": "Fine spreading branches and green leaves against a deep blue sky.",
+          "caption": "Fine spreading branches and green leaves against a deep blue sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-07-17",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2020-07-17-kent-ridge/tall-trees-and-white-clouds.webp",
+          "alt": "Tall dark green trees framing white clouds above a low hedge.",
+          "caption": "Tall dark green trees framing white clouds above a low hedge.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-17",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2020-07-17-kent-ridge/red-bus-lane-beneath-the-trees.webp",
+          "alt": "A red-painted bus lane curving beneath green trees and a blue sky.",
+          "caption": "A red-painted bus lane curving beneath green trees and a blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-07-17",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "City art and a campus path",
+      "date": "2020-08-05",
+      "location": "Civic District · Kent Ridge",
+      "paragraphs": [
+        "The city skyline rises behind an open field. Portrait-filled surfaces beside the path give way to a smaller green walk back on campus."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-08-05-civic-district-kent-ridge/skyline-beyond-the-field.webp",
+          "alt": "Office towers beyond an open field beneath a grey sky.",
+          "caption": "Office towers beyond an open field beneath a grey sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-08-05",
+          "location": "Civic District"
+        },
+        {
+          "src": "/photos/singapore/2020-08-05-civic-district-kent-ridge/portraits-on-the-yellow-surface.webp",
+          "alt": "A broad yellow surface covered with many small drawn portraits.",
+          "caption": "A broad yellow surface covered with many small drawn portraits.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-08-05",
+          "location": "Esplanade Park"
+        },
+        {
+          "src": "/photos/singapore/2020-08-05-civic-district-kent-ridge/painted-faces-above-the-greenery.webp",
+          "alt": "A colourful portrait-filled painted surface above a concrete wall and green trees.",
+          "caption": "A colourful portrait-filled painted surface above a concrete wall and green trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-08-05",
+          "location": "Esplanade Park"
+        },
+        {
+          "src": "/photos/singapore/2020-08-05-civic-district-kent-ridge/narrow-campus-garden-path.webp",
+          "alt": "A narrow concrete path winding uphill beneath trees and dense planting.",
+          "caption": "A narrow concrete path winding uphill beneath trees and dense planting.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2020-08-05",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "Sheltered spaces on campus",
+      "date": "2020-08-07",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "Yellow ceilings and tiled floors frame a long passage. Outside, a tree grows through the shade of a garden pergola."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-08-07-kent-ridge/yellow-ceiling-and-campus-steps.webp",
+          "alt": "A covered campus passage with a yellow ceiling, tiled floor and steps.",
+          "caption": "A covered campus passage with a yellow ceiling, tiled floor and steps.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-08-07",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2020-08-07-kent-ridge/tree-beneath-the-pergola.webp",
+          "alt": "A tree, wooden seating and a pergola beside a white wall marked Creating Connections.",
+          "caption": "A tree, wooden seating and a pergola beside a white wall marked Creating Connections.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-08-07",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "A familiar red roof",
+      "date": "2020-08-08",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "A low red-roofed hall sits beneath spreading roadside trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2020-08-08-kent-ridge/hall-beneath-the-red-roof.webp",
+          "alt": "A low hall with a red tiled roof beside a curving road and green railings.",
+          "caption": "A low hall with a red tiled roof beside a curving road and green railings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2020-08-08",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "Back on campus",
+      "date": "2022-09-15",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "A blue canteen table and a quiet timber-ceilinged passage mark the return."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2022-09-15-kent-ridge/steamed-egg-and-rice.webp",
+          "alt": "A round bowl of steamed egg beside white rice and chilli on a blue canteen table.",
+          "caption": "A round bowl of steamed egg beside white rice and chilli on a blue canteen table.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-09-15",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2022-09-15-kent-ridge/quiet-timber-ceilinged-passage.webp",
+          "alt": "A wide empty campus passage beneath a slatted timber ceiling.",
+          "caption": "A wide empty campus passage beneath a slatted timber ceiling.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-09-15",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "Small wheels and supper",
+      "date": "2022-09-17",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "Children ride small glowing vehicles through the covered space. Supper is waiting on another canteen tray."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2022-09-17-kent-ridge/glowing-wheels-under-the-roof.webp",
+          "alt": "Children riding small blue-lit vehicles through a covered campus space.",
+          "caption": "Children riding small blue-lit vehicles through a covered campus space.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-09-17",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2022-09-17-kent-ridge/supper-on-a-black-tray.webp",
+          "alt": "Vegetables, fries, meat, mashed potato and soup arranged on a black tray.",
+          "caption": "Vegetables, fries, meat, mashed potato and soup arranged on a black tray.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-09-17",
+          "location": "NUS, Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "Rain, shelter and green hills",
+      "date": "2022-09-18",
+      "location": "NUS, Kent Ridge",
+      "paragraphs": [
+        "Heavy rain blurs the buildings beyond the awning. Sheltered steps lead back to tiled courtyards and the wooded hillside."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2022-09-18-kent-ridge/rain-beyond-the-awning.webp",
+          "alt": "Heavy rain falling beyond a scalloped awning, with buildings fading into the downpour.",
+          "caption": "Heavy rain falling beyond a scalloped awning, with buildings fading into the downpour.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-09-18",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2022-09-18-kent-ridge/sheltered-steps-and-green-slope.webp",
+          "alt": "Covered steps beside a green slope and a column with a colourful sticker.",
+          "caption": "Covered steps beside a green slope and a column with a colourful sticker.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-09-18",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2022-09-18-kent-ridge/patterned-courtyard.webp",
+          "alt": "Grey and white courtyard tiles around a planted bed beneath an overcast sky.",
+          "caption": "Grey and white courtyard tiles around a planted bed beneath an overcast sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-09-18",
+          "location": "NUS, Kent Ridge"
+        },
+        {
+          "src": "/photos/singapore/2022-09-18-kent-ridge/forested-campus-hillside.webp",
+          "alt": "Dense green trees covering a campus hillside beside paths and low buildings.",
+          "caption": "Dense green trees covering a campus hillside beside paths and low buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-09-18",
+          "location": "NUS, Kent Ridge",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Another arrival, another breakfast",
+      "date": "2023-07-31",
+      "location": "Changi Airport · Singapore",
+      "paragraphs": [
+        "A patterned ceiling fills the terminal view. Toast, soft eggs and coffee follow at a table in the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-07-31-changi-singapore/patterned-terminal-ceiling.webp",
+          "alt": "Repeating angular ceiling panels above a busy airport seating area.",
+          "caption": "Repeating angular ceiling panels above a busy airport seating area.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-07-31",
+          "location": "Changi Airport"
+        },
+        {
+          "src": "/photos/singapore/2023-07-31-changi-singapore/toast-soft-eggs-and-coffee.webp",
+          "alt": "Toast, soft eggs and a cup of coffee on a red breakfast tray.",
+          "caption": "Toast, soft eggs and a cup of coffee on a red breakfast tray.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-07-31",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "A pink drink at the table",
+      "date": "2023-08-10",
+      "location": "Singapore",
+      "paragraphs": [
+        "A tall glass of iced pink drink sits among the stacked chairs of an open-air eating area."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-08-10-singapore/pink-drink-in-a-glass-mug.webp",
+          "alt": "An iced pink drink in a glass mug on a table beside stacked chairs.",
+          "caption": "An iced pink drink in a glass mug on a table beside stacked chairs.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-08-10",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "A road beneath the canopy",
+      "date": "2023-08-13",
+      "location": "Kent Ridge",
+      "paragraphs": [
+        "From above, the road almost disappears beneath the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-08-13-kent-ridge/road-under-spreading-trees.webp",
+          "alt": "A road with painted arrows passing beneath large spreading trees.",
+          "caption": "A road with painted arrows passing beneath large spreading trees.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-08-13",
+          "location": "Kent Ridge"
+        }
+      ]
+    },
+    {
+      "title": "A colourful lunch",
+      "date": "2023-08-16",
+      "location": "Singapore",
+      "paragraphs": [
+        "Rice, prawns and several small servings fill a white plate."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-08-16-singapore/rice-prawns-and-curry.webp",
+          "alt": "White rice surrounded by prawns, vegetables and small servings of curry on a white plate.",
+          "caption": "White rice surrounded by prawns, vegetables and small servings of curry on a white plate.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-08-16",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "A stage beneath the clouds",
+      "date": "2023-09-22",
+      "location": "Singapore",
+      "paragraphs": [
+        "A festival stage waits at the far side of the lawn under heavy afternoon clouds."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-22-singapore/festival-stage-on-the-lawn.webp",
+          "alt": "A large festival stage and purple lights beyond a green lawn beneath grey clouds.",
+          "caption": "A large festival stage and purple lights beyond a green lawn beneath grey clouds.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-22",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "An afternoon on the southern islands",
+      "date": "2023-09-23",
+      "location": "Southern Islands · Marina South Pier",
+      "paragraphs": [
+        "Trees and quiet paths lead towards a sheltered beach with boats at anchor. The return ferry passes the island jetty before the city skyline comes back into view."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/trees-on-the-island-lawn.webp",
+          "alt": "Tall trees casting shade over grass near the island shore.",
+          "caption": "Tall trees casting shade over grass near the island shore.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands"
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/walker-on-the-forest-path.webp",
+          "alt": "A walker with a blue backpack on a narrow path beneath dense green vegetation.",
+          "caption": "A walker with a blue backpack on a narrow path beneath dense green vegetation.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands"
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/curve-across-the-island-lawn.webp",
+          "alt": "A smooth path curving across a wide green lawn between trees.",
+          "caption": "A smooth path curving across a wide green lawn between trees.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands"
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/boats-off-the-pale-beach.webp",
+          "alt": "White boats anchored in calm blue-green water beyond a pale sandy beach.",
+          "caption": "White boats anchored in calm blue-green water beyond a pale sandy beach.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands",
+          "wide": true
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/tree-and-white-bird-shapes.webp",
+          "alt": "A supported young tree surrounded by white bird-shaped decorations on a coastal lawn.",
+          "caption": "A supported young tree surrounded by white bird-shaped decorations on a coastal lawn.",
+          "width": 1502,
+          "height": 2000,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands"
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/path-around-the-bay.webp",
+          "alt": "A quiet coastal path curving beside pale sand and a wooded bay.",
+          "caption": "A quiet coastal path curving beside pale sand and a wooded bay.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands"
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/leaving-the-island-jetty.webp",
+          "alt": "An island jetty and small roofed shelter seen from the back of a boat.",
+          "caption": "An island jetty and small roofed shelter seen from the back of a boat.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Southern Islands"
+        },
+        {
+          "src": "/photos/singapore/2023-09-23-southern-islands/returning-to-marina-south-pier.webp",
+          "alt": "The ferry terminal and distant city skyline seen across the water from a boat.",
+          "caption": "The ferry terminal and distant city skyline seen across the water from a boat.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-23",
+          "location": "Marina South Pier"
+        }
+      ]
+    },
+    {
+      "title": "Storm clouds over the coast",
+      "date": "2023-09-24",
+      "location": "West Coast",
+      "paragraphs": [
+        "Low dark clouds gather over small boats, cranes and the working waterfront."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-24-west-coast/storm-clouds-over-the-boats.webp",
+          "alt": "A broad bank of dark storm clouds above small boats and the working waterfront.",
+          "caption": "A broad bank of dark storm clouds above small boats and the working waterfront.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-24",
+          "location": "West Coast"
+        }
+      ]
+    },
+    {
+      "title": "Boats and port cranes",
+      "date": "2023-09-25",
+      "location": "West Coast",
+      "paragraphs": [
+        "Small boats rest along the shore beneath the much taller cranes beyond."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-25-west-coast/small-boats-beneath-the-cranes.webp",
+          "alt": "Small boats moored beside a rocky shore with rows of port cranes beyond.",
+          "caption": "Small boats moored beside a rocky shore with rows of port cranes beyond.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-25",
+          "location": "West Coast"
+        }
+      ]
+    },
+    {
+      "title": "The harbour at sunset",
+      "date": "2023-09-28",
+      "location": "West Coast",
+      "paragraphs": [
+        "The crane becomes a dark outline as the sky changes from gold to pink. Small boats sit almost still in the coloured water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-28-west-coast/crane-in-the-golden-light.webp",
+          "alt": "A crane and working barge silhouetted against a pale golden evening sky.",
+          "caption": "A crane and working barge silhouetted against a pale golden evening sky.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-28",
+          "location": "West Coast"
+        },
+        {
+          "src": "/photos/singapore/2023-09-28-west-coast/pink-sky-over-the-anchorage.webp",
+          "alt": "Small boats on calm water beneath a broad pink and purple sunset.",
+          "caption": "Small boats on calm water beneath a broad pink and purple sunset.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-28",
+          "location": "West Coast",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Chinatown and a city bench",
+      "date": "2023-09-29",
+      "location": "Chinatown · Raffles Place",
+      "paragraphs": [
+        "Festival decorations hang above Chinatown’s traffic. A bronze reader occupies a bench beneath the glass canopy of a city square."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-29-chinatown-raffles-place/festival-decorations-above-chinatown.webp",
+          "alt": "Colourful festival decorations above traffic and pastel shophouses.",
+          "caption": "Colourful festival decorations above traffic and pastel shophouses.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-29",
+          "location": "Chinatown"
+        },
+        {
+          "src": "/photos/singapore/2023-09-29-chinatown-raffles-place/bronze-reader-on-the-bench.webp",
+          "alt": "A seated bronze reader on a bench beneath a glass canopy in a city square.",
+          "caption": "A seated bronze reader on a bench beneath a glass canopy in a city square.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-29",
+          "location": "Raffles Place"
+        }
+      ]
+    },
+    {
+      "title": "A playground under the trees",
+      "date": "2023-09-30",
+      "location": "Singapore",
+      "paragraphs": [
+        "Children climb a tall rope pyramid beneath a wide tree canopy."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-09-30-singapore/rope-pyramid-and-tree-canopy.webp",
+          "alt": "Children around a tall rope climbing pyramid beneath large trees in a neighbourhood park.",
+          "caption": "Children around a tall rope climbing pyramid beneath large trees in a neighbourhood park.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-09-30",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "Bicycles at the shore",
+      "date": "2023-10-02",
+      "location": "West Coast",
+      "paragraphs": [
+        "A line of green bicycles faces the water and distant cranes in the soft evening light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-10-02-west-coast/bicycles-facing-the-water.webp",
+          "alt": "Green shared bicycles lined up beside the coast with people seated near the water.",
+          "caption": "Green shared bicycles lined up beside the coast with people seated near the water.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-10-02",
+          "location": "West Coast"
+        }
+      ]
+    },
+    {
+      "title": "A chess table in the shade",
+      "date": "2023-10-13",
+      "location": "Singapore",
+      "paragraphs": [
+        "A stone chess table and round seats sit just inside the shade, facing a green lawn and spreading trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-10-13-singapore/stone-chess-table.webp",
+          "alt": "A stone chess table and round stools beneath a shelter beside a tree-lined lawn.",
+          "caption": "A stone chess table and round stools beneath a shelter beside a tree-lined lawn.",
+          "width": 2000,
+          "height": 2000,
+          "capturedOn": "2023-10-13",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "Chairs after dark",
+      "date": "2023-10-17",
+      "location": "Singapore",
+      "paragraphs": [
+        "Four wooden chairs wait against a patterned wall beneath green window grilles."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-10-17-singapore/four-chairs-by-the-green-windows.webp",
+          "alt": "Four wooden chairs casting shadows against a tiled wall beneath green window grilles.",
+          "caption": "Four wooden chairs casting shadows against a tiled wall beneath green window grilles.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-10-17",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "title": "Rice and curry",
+      "date": "2023-10-18",
+      "location": "Singapore",
+      "paragraphs": [
+        "The last table in this collection has a mound of rice and a metal bowl of curry."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/singapore/2023-10-18-singapore/rice-and-a-bowl-of-curry.webp",
+          "alt": "White rice on a dark tray beside a metal bowl of curry at an eating-house table.",
+          "caption": "White rice on a dark tray beside a metal bowl of curry at an eating-house table.",
+          "width": 2000,
+          "height": 1502,
+          "capturedOn": "2023-10-18",
+          "location": "Singapore"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Singapore",
+    "latitude": 1.29,
+    "longitude": 103.85,
+    "labelPosition": [
+      820,
+      360
+    ]
+  }
+}

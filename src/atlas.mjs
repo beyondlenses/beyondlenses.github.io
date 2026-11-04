@@ -18,10 +18,11 @@ export const atlasCountries = {
   Canada: { id: 'canada', label: 'Canada', code: 'CAN', longitude: -104, latitude: 57, labelPosition: [292, 78], bounds: [-130, 39, -47, 60] },
   Japan: { id: 'japan', label: 'Japan', code: 'JPN', longitude: 138, latitude: 37, labelPosition: [1050, 208], bounds: [128, 29, 147, 46] },
   Turkey: { id: 'turkey', label: 'Turkey', code: 'TUR', longitude: 35, latitude: 39, labelPosition: [704, 225], bounds: [25, 35, 46, 43] },
-  India: { id: 'india', label: 'India', code: 'IND', longitude: 79, latitude: 23, labelPosition: [832, 263], bounds: [67, 5, 99, 37] },
+  India: { id: 'india', label: 'India', code: 'IND', longitude: 79, latitude: 23, labelPosition: [832, 263], bounds: [67, 5, 99, 38] },
   Australia: { id: 'australia', label: 'Australia', code: 'AUS', longitude: 134, latitude: -25, labelPosition: [1010, 477], bounds: [110, -45, 155, -9] },
   'United Kingdom': { id: 'united-kingdom', label: 'Britain (UK)', code: 'GBR', longitude: -2.5, latitude: 54.5, labelPosition: [570, 65], bounds: [-11, 49, 3, 61] },
   Malaysia: { id: 'malaysia', label: 'Malaysia', code: 'MYS', longitude: 102, latitude: 4, labelPosition: [990, 315], bounds: [98, 0, 105, 8] },
+  Singapore: { id: 'singapore', label: 'Singapore', code: 'SGP', longitude: 103.82, latitude: 1.35, labelPosition: [1040, 359], bounds: [103.55, 1.1, 104.15, 1.5] },
   Germany: { id: 'germany', label: 'Germany', code: 'DEU', longitude: 10.5, latitude: 51, labelPosition: [650, 140], bounds: [5.5, 47, 15.5, 55.5] },
   France: { id: 'france', label: 'France', code: 'FRA', longitude: 2.5, latitude: 46.6, labelPosition: [465, 165], bounds: [-5.5, 41, 9.7, 51.5] },
   Portugal: { id: 'portugal', label: 'Portugal', code: 'PRT', longitude: -8, latitude: 39.6, labelPosition: [455, 225], bounds: [-10, 36.5, -6, 42.5] },
@@ -32,8 +33,8 @@ export const atlasCountries = {
 };
 
 const continentCountries = {
-  Asia: ['India', 'Japan', 'Malaysia', 'Vietnam', 'United Arab Emirates'],
-  Europe: ['United Kingdom', 'Germany', 'France', 'Portugal', 'Finland', 'Turkey'],
+  Asia: ['India', 'Japan', 'Malaysia', 'Singapore', 'Vietnam', 'United Arab Emirates', 'Turkey'],
+  Europe: ['United Kingdom', 'Germany', 'France', 'Portugal', 'Finland'],
   'North America': ['Canada', 'United States'],
   Oceania: ['Australia'],
 };
@@ -44,13 +45,22 @@ export function continentForCountry(country) {
 
 const europeMap = {
   id: 'europe', label: 'Europe', longitude: 15, latitude: 53,
-  labelPosition: [605, 100], bounds: [-12, 33, 46, 71],
+  labelPosition: [605, 100], bounds: [-12, 35, 34, 71],
 };
 
 const europeAlbumLabels = {
   britain: [310, 230], germany: [570, 290], france: [320, 350],
-  portugal: [175, 455], finland: [775, 100], turkey: [990, 470],
+  portugal: [175, 455], finland: [775, 100],
 };
+
+const atlasRegions = [
+  { ...europeMap, countries: continentCountries.Europe, albumLabelPositions: europeAlbumLabels },
+  {
+    id: 'asia-south-east', label: 'Asia South-east', countries: ['Singapore', 'Vietnam', 'Malaysia'],
+    longitude: 105, latitude: 11, labelPosition: [1000, 305], bounds: [97, -1, 120, 25],
+    albumLabelPositions: { vietnam: [800, 160], malaysia: [420, 455], singapore: [800, 525] },
+  },
+];
 
 export function fitAtlasBounds([west, south, east, north]) {
   const points = [];
@@ -68,9 +78,10 @@ export function fitAtlasBounds([west, south, east, north]) {
 export function groupAtlasCountries(trips) {
   const groups = new Map();
   for (const trip of trips) {
-    const name = continentForCountry(trip.country) === 'Europe' ? 'Europe' : trip.country;
+    const region = atlasRegions.find(({ countries }) => countries.includes(trip.country));
+    const name = region?.label || trip.country;
     if (!groups.has(name)) {
-      const config = name === 'Europe' ? europeMap : atlasCountries[trip.country] || {
+      const config = region || atlasCountries[trip.country] || {
         id: trip.country.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
         label: trip.country, longitude: trip.mapLocation.longitude, latitude: trip.mapLocation.latitude,
       };
@@ -85,7 +96,7 @@ export function groupAtlasCountries(trips) {
     const outlineIds = [...new Set(country.trips.map((trip) => atlasCountries[trip.country]?.id).filter(Boolean))];
     return {
       ...country, outlineIds, view: fitAtlasBounds(bounds),
-      albumLabelPositions: country.id === 'europe' ? europeAlbumLabels : {},
+      albumLabelPositions: country.albumLabelPositions || {},
       aliases: outlineIds.filter((id) => id !== country.id),
     };
   });

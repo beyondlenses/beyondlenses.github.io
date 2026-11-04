@@ -6,8 +6,10 @@ chapter-based trip pages, a keyboard-accessible photo viewer, photo credits,
 social preview metadata, and a sitemap. Works on mobile and without JavaScript;
 JavaScript adds linked map highlights, filters, the viewer, and reading progress.
 
-The Japan album contains **37 curated original photographs** in six chapters.
-**tesekkuler turkey** contains **189 original photographs** organized into 15
+The Japan album contains **37 curated original photographs** in six chapters,
+captured **4–8 February 2026**. All 37 dates were read from the original photos'
+camera-local EXIF timestamps (+09:00) and their source hashes were verified.
+**Turkey, from coast to Cappadocia** contains **189 original photographs** organized into 15
 daily sections from **26 April to 10 May 2025**, with date and location labels.
 **The long road to Spiti** contains **151 original photographs** in nine daily
 sections from **15–23 September 2026**, following the journey through Shimla,
@@ -15,22 +17,22 @@ Kinnaur, Spiti, Chandratal, and Manali.
 **Nagaland** contains **158 original photographs** in 22 dated sections from
 **8–13 December 2023**, covering Dimapur, Kigwema, Kisama, Dzükou Valley,
 Kohima, Dzüleke and Khonoma.
-**Australia** contains **130 original photographs** in 13 dated sections from
+**Along the coast of Victoria** contains **130 original photographs** in 13 dated sections from
 **10–18 November 2025**, covering Melbourne, Williamstown, St Kilda,
 Westerfolds Park, and the Great Ocean Road.
-**Britain (UK)** contains **176 original photographs** in 17 dated sections from
+**Britain, from stone to skyline** contains **176 original photographs** in 17 dated sections from
 **10–18 August 2025**, following Glasgow, Edinburgh, and London.
-**Malaysia** contains **113 original photographs** in ten dated sections from
+**Malaysia, beyond the city lights** contains **113 original photographs** in ten dated sections from
 **12 October–25 November 2019**, covering Melaka, Kuala Lumpur and Batu Caves,
 George Town, Penang National Park, Penang Hill, and Langkawi.
 The Europe collections add **187 original photographs**, grouped by country:
 
 | Album | Photographs | Dates | Places |
 | --- | ---: | --- | --- |
-| Germany | 15 | 25–26 April 2024 | Dagstuhl and Saarbrücken |
-| France | 76 | 26–27 April 2024 | Lorraine, Metz and Paris |
-| Portugal | 61 | 17–27 July 2026 | Lisbon |
-| Finland | 35 | 28–30 July 2026 | Helsinki |
+| Spring days in Saarland | 15 | 25–26 April 2024 | Dagstuhl and Saarbrücken |
+| France, between rain and light | 76 | 26–27 April 2024 | Lorraine, Metz and Paris |
+| Lisbon, in the evening light | 61 | 17–27 July 2026 | Lisbon |
+| Summer light in Helsinki | 35 | 28–30 July 2026 | Helsinki |
 
 The Atlanta, California and Vietnam collections add **340 original photographs**:
 
@@ -38,7 +40,7 @@ The Atlanta, California and Vietnam collections add **340 original photographs**
 | --- | ---: | --- | --- |
 | Atlanta | 97 | 23 August–23 December 2025 | Georgia Tech, Sweet Auburn, downtown and Piedmont Park |
 | California | 97 | 8 April–7 May 2023 | Berkeley, Sibley, San Francisco, Sausalito and Bolinas |
-| Vietnam | 146 | 27 May–1 June 2023 | Mỹ Sơn, Hội An, Huế, Ninh Bình, Sa Pa and Hà Nội |
+| Vietnam, from lanterns to terraces | 146 | 27 May–1 June 2023 | Mỹ Sơn, Hội An, Huế, Ninh Bình, Sa Pa and Hà Nội |
 
 The Canada collections contain **373 original photographs**:
 
@@ -50,8 +52,11 @@ The Canada collections contain **373 original photographs**:
 | Vancouver | 63 | 21–26 February 2024 |
 
 **Dubai** adds **94 original photographs** from **28 December 2023**, covering
-Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek. The site contains
-**19 albums across 14 countries**.
+Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek.
+**Singapore** adds **175 original photographs** in **47 dated sections** from
+**15 July 2019–18 October 2023**, covering river walks, Chinatown, Little India,
+the Botanic Gardens, campus life, the Southern Ridges and coastal visits.
+The site contains **20 albums across 15 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -104,19 +109,61 @@ been removed. Selecting a destination zooms the map, reveals its clickable
 album locations and shows the album cover cards. **World map** and **Escape**
 return to the overview and restore keyboard focus.
 
+Albums appear newest first by the latest selected photograph's `capturedOn`
+date, including the cover, throughout the journal, each map destination's
+album list, and next-story links. The trip's `endDate` is the fallback when no
+photographs have capture dates. Numerical `order`, then slug, resolve ties;
+albums without either date follow dated albums. Japan sorts under February
+2026, using its latest selected photo from **8 February 2026**. File modification
+times and upload times do not determine the order.
+
 Europe is one map destination, combining the outlines and albums for Britain,
-Germany, France, Portugal, Finland and Turkey. This is a browsing group only;
+Germany, France, Portugal and Finland. Turkey has its own country destination,
+zoom frame and album panel, and appears under Asia in the journal filters.
+Europe is a browsing group only;
 individual country albums and country labels remain intact. Old European
 country map hashes open the Europe view when JavaScript is available. The
 filters under **Elsewhere, remembered** list continents: North America, Europe,
 Asia and Oceania, plus All places.
 
-Canada’s view frames Vancouver and its eastern destinations; Malaysia’s view
-frames the peninsula. On narrow screens the labelled map scrolls horizontally,
+Singapore, Vietnam and Malaysia share one **Asia South-east** map destination,
+with three country outlines, individual album markers and one album panel.
+The panel preserves newest-photo-first order. Old individual country map hashes
+open this regional view when JavaScript is available; country labels and
+album URLs remain intact.
+
+Canada’s view frames Vancouver and its eastern destinations. On narrow
+screens the labelled map scrolls horizontally,
 and album cards stack below it. Hovering or focusing an album highlights its map
 marker and cover card together. Reduced motion preferences disable the
 transition. Without JavaScript, map links jump to the corresponding collection
 of album cards below the world map.
+
+India is drawn as one uniform area, including its full northern extent.
+Its mainland and supplementary northern polygons are dissolved into one
+continuous exterior outline. The checked-in
+`content/maps/india-territories.geojson` contains the relevant polygons from
+Natural Earth 5.1.2’s public-domain
+[50m disputed areas](https://github.com/nvkelso/natural-earth-vector/blob/v5.1.2/geojson/ne_50m_admin_0_breakaway_disputed_areas.geojson).
+`scripts/merge-india-outline.py` merges these polygons with the main India
+geometry into `content/maps/india-outline.geojson`. It requires Python and
+Shapely only when updating this derived geometry; the normal site build and
+atlas exporter use the checked-in outline. Every part of India uses the same
+fill, border and destination link.
+
+Country-only album headings now use titles drawn from their journeys:
+
+| Album | Title |
+| --- | --- |
+| Australia | Along the coast of Victoria |
+| Britain | Britain, from stone to skyline |
+| Malaysia | Malaysia, beyond the city lights |
+| Germany | Spring days in Saarland |
+| France | France, between rain and light |
+| Portugal | Lisbon, in the evening light |
+| Finland | Summer light in Helsinki |
+| Vietnam | Vietnam, from lanterns to terraces |
+| Turkey | Turkey, from coast to Cappadocia |
 
 Every trip has a `mapLocation` with a short `label`, representative `latitude`
 and `longitude`, and optional `labelPosition: [x, y]` for its callout in the
@@ -139,6 +186,7 @@ and the [projection formula](https://github.com/d3/d3-geo/blob/main/src/projecti
 To regenerate the assets, download those GeoJSON files outside the repository:
 
 ```sh
+python3 scripts/merge-india-outline.py /path/to/ne_50m_admin_0_countries.geojson
 node scripts/generate-atlas.mjs /path/to/ne_50m_land.geojson /path/to/ne_50m_admin_0_countries.geojson /path/to/ne_50m_lakes.geojson
 npm test
 npm run build
@@ -148,6 +196,12 @@ World, Canada and Malaysia map artwork was rendered and visually checked.
 Tests cover country selection, zoom frames, country-specific album links,
 single-album countries, country switching, World map and Escape controls,
 focus restoration, hash links, modified clicks, highlights and local assets.
+The separate Turkey destination and expanded India outline were checked with
+`npm test`, `npm run build`, and rendered world, Europe, Turkey and India SVG
+previews, followed by updated India and Asia South-east previews. The India
+checks cover every supplementary polygon's projected extent and confirm the
+mainland and northern territories share a single exterior path. A live browser check
+was blocked by the workspace's socket restrictions.
 Interactive browser preview remains unavailable in the sandbox; use
 `npm run dev` for the desktop and mobile browser review.
 
@@ -198,7 +252,8 @@ selection, people, date/location, and album layout preferences.
    New exports stay local and are uploaded to R2 rather than added to Git.
 2. Copy an existing file in `content/trips/`. Set a unique lowercase `slug`,
    `title`, `subtitle`, `country`, `location`, `category`, and numerical `order`.
-   Lower `order` values appear first. The slug determines `/stories/<slug>/`.
+   Albums sort by their latest selected photo date, newest first; lower `order`
+   values resolve equal dates. The slug determines `/stories/<slug>/`.
    Add its `mapLocation` label and coordinates as described above.
 3. Set `demo` to `false` and `photoStorage` to `r2`. Replace the cover and chapter photographs with paths
    such as `/photos/japan/kyoto-evening.webp`; paths are relative to `public/`.
@@ -734,6 +789,62 @@ socket. **Run the upload and check commands above with network access before
 pushing.** Interactive desktop/mobile gallery and photo-viewer review remains
 pending because this sandbox blocks the preview server and Chrome sockets;
 use `npm run dev` in an environment that permits them after uploading.
+
+## Singapore collection
+
+The Singapore album uses `content/trips/singapore.json` and
+`content/selections/singapore.json`, with originals in `../dumps/singapore/`.
+All **604 still images** were reviewed in thirteen contact sheets; **200
+candidates**, including two burst/panorama alternatives, received larger review.
+The selection contains **175 photographs**, including the Marina Bay cover
+once, and **174 gallery images** in **47 chronological sections**. The **429
+omissions** and **21 videos** are recorded separately. No archive extraction
+was needed.
+
+Each selected photo has camera-local EXIF date evidence, a source SHA-256,
+location, caption, export path and selection reason. Pixel timestamps retain
+their recorded `+08:00` offset; older camera offsets remain unspecified.
+The December 2019 decoration stall is labelled Jurong East, and the January
+2020 elevated railway is labelled Bukit Panjang, following the original GPS.
+The 2023 ferry sequence keeps the broader Southern Islands label. The manifest
+links official location references, lists people scenes for review and explicitly
+excludes both travel-document photographs. Undated shared copies, private
+records, weak frames and repeated views stay outside the album.
+
+Singapore has a Natural Earth outline and an album marker in the homepage
+atlas, and appears under the Asia filter. The chapter index is hidden; dates and
+locations remain within the sections and photo labels. WebP exports preserve
+the full frame, colour and corrected orientation, at quality 84 and up to 2000
+pixels on the long edge, or 2400 for the cover. EXIF/XMP is omitted.
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/singapore.json --source ../dumps/singapore
+npm run photos:plan -- singapore
+npm run photos:upload -- singapore
+npm run photos:check -- singapore
+npm test
+npm run build
+npm run dev
+```
+
+Validation verified all **175 original hashes**, capture dates, recorded offsets,
+decoded exports, dimensions, orientation, colour profiles and stripped EXIF/XMP.
+Sources and exports are unique, no selected hash occurs in another album, the
+cover appears once, and daily/chapter counts and the complete omission list
+match the album. The upload plan contains exactly **175 WebP files, 59.3 MiB**.
+Site tests pass and the build produces **27 pages and 20 stories**. Single-photo
+sections display “1 photograph”.
+
+The cover, `blue-supertrees-and-reflections.webp`, `a-thinner-crescent.webp`,
+`henderson-waves-in-morning-light.webp` and `boats-off-the-pale-beach.webp` were
+reopened after export. World and Southeast Asia map artwork was rendered and
+visually checked. Interactive desktop/mobile and photo-viewer review remains
+pending because the sandbox blocks the preview server and Chrome sockets.
+
+Local exports are ignored by Git and are not bundled in `dist/`. The upload
+attempt transferred no files, and the remote check also failed because this
+sandbox blocks R2 DNS sockets. **Run the upload and check commands above with
+network access before pushing the album changes.**
 
 ## Publish at beyondlenses.github.io
 

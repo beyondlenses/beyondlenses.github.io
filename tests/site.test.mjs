@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { cp, mkdir, mkdtemp, readFile, readdir, rm, stat, writeFile } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import { build, loadContent, root, validateContent } from '../scripts/build.mjs';
+import { build, latestPhotoDate, loadContent, root, validateContent } from '../scripts/build.mjs';
 import { escapeHtml, formatDate, renderHome, renderStory } from '../src/templates.mjs';
 import { allPhotos } from '../src/templates.mjs';
 import { planPhotoUpload } from '../scripts/upload-photos.mjs';
@@ -15,6 +15,44 @@ const fresh = () => structuredClone(content);
 test('all trip content is valid without a featured story setting', () => {
   assert.doesNotThrow(() => validateContent(content.site, content.trips));
   assert.equal(content.site.featuredTrip, undefined);
+});
+
+test('albums use the latest selected photo date throughout the journal and map panels', () => {
+  assert.deepEqual(content.trips.slice(0, 4).map(({ slug }) => slug), ['spiti', 'finland', 'portugal', 'japan']);
+  const dates = content.trips.map((trip) => allPhotos(trip).map(({ capturedOn }) => capturedOn).filter(Boolean).sort().at(-1));
+  assert.ok(dates.every(Boolean));
+  assert.deepEqual(dates, [...dates].sort().reverse());
+  const home = renderHome(content.site, content.trips);
+  const journal = home.split('<div class="story-grid">')[1].split('</section>')[0];
+  assert.deepEqual([...journal.matchAll(/class="card-link" href="\/stories\/([^/]+)\//g)].map((match) => match[1]), content.trips.map(({ slug }) => slug));
+  for (const country of groupAtlasCountries(content.trips)) {
+    const panel = home.split(`id="atlas-country-${country.id}"`)[1].split('</section>')[0];
+    assert.deepEqual([...panel.matchAll(/data-atlas-album="([^"]+)"/g)].map((match) => match[1]), content.trips.filter((trip) => country.trips.includes(trip)).map(({ slug }) => slug));
+  }
+});
+
+test('photo recency includes the cover and uses trip dates only for undated photos', () => {
+  const trip = structuredClone(content.trips.find(({ slug }) => slug === 'japan'));
+  trip.endDate = '2026-02-28';
+  assert.equal(latestPhotoDate(trip), '2026-02-08');
+  trip.cover.capturedOn = '2026-02-10';
+  assert.equal(latestPhotoDate(trip), '2026-02-10');
+  for (const photo of allPhotos(trip)) delete photo.capturedOn;
+  assert.equal(latestPhotoDate(trip), '2026-02-28');
+  delete trip.endDate;
+  assert.equal(latestPhotoDate(trip), '');
+});
+
+test('Japan dates match the selected original-photo manifest in February 2026', async () => {
+  const trip = content.trips.find(({ slug }) => slug === 'japan');
+  const manifest = JSON.parse(await readFile(path.join(root, 'content/selections/japan.json'), 'utf8'));
+  const dates = new Map(manifest.photos.map(({ src, capturedOn }) => [src, capturedOn]));
+  assert.equal(trip.startDate, '2026-02-04');
+  assert.equal(trip.endDate, '2026-02-08');
+  assert.equal(allPhotos(trip).length, 37);
+  for (const photo of allPhotos(trip)) assert.equal(photo.capturedOn, dates.get(photo.src));
+  const story = renderStory(content.site, trip);
+  assert.ok(story.includes('<time datetime="2026-02-08">8 Feb 2026</time>'));
 });
 
 test('the homepage opens with the map and groups Europe without combining its country albums', () => {
@@ -31,7 +69,12 @@ test('the homepage opens with the map and groups Europe without combining its co
   assert.equal((world.match(/class="atlas-location"/g) || []).length, groups.length);
   assert.ok(!world.includes('/stories/'));
   const europe = groups.find((group) => group.id === 'europe');
-  assert.deepEqual(europe.trips.map((trip) => trip.slug).sort(), ['britain', 'finland', 'france', 'germany', 'portugal', 'turkey']);
+  assert.deepEqual(europe.trips.map((trip) => trip.slug).sort(), ['britain', 'finland', 'france', 'germany', 'portugal']);
+  const turkey = groups.find((group) => group.id === 'turkey');
+  assert.deepEqual(turkey.trips.map((trip) => trip.slug), ['turkey']);
+  assert.deepEqual(turkey.outlineIds, ['turkey']);
+  assert.ok(!europe.aliases.includes('turkey'));
+  assert.equal(continentForCountry('Turkey'), 'Asia');
   for (const id of europe.outlineIds) {
     assert.ok(map.includes(`/images/atlas-countries.svg#${id}`));
     assert.ok(!world.includes(`href="#atlas-country-${id}"`));
@@ -49,6 +92,62 @@ test('the homepage opens with the map and groups Europe without combining its co
       assert.ok(map.includes(`aria-label="${escapeHtml(trip.mapLocation.label)}: ${escapeHtml(trip.title)}"`));
     }
   }
+});
+
+test('India uses one continuous mainland outline including all supplementary territories', async () => {
+  const india = groupAtlasCountries(content.trips).find((group) => group.id === 'india');
+  assert.deepEqual(india.outlineIds, ['india']);
+  const home = renderHome(content.site, content.trips);
+  const area = home.match(/<a class="atlas-country-area"[^>]*data-atlas-country="india"[\s\S]*?<\/a>/)[0];
+  assert.equal((area.match(/<use /g) || []).length, 1);
+  assert.ok(area.includes('href="/images/atlas-countries.svg#india"'));
+  assert.ok(!home.includes('atlas-claimed') && !home.includes('Territory claimed but not controlled'));
+  const territories = JSON.parse(await readFile(path.join(root, 'content/maps/india-territories.geojson'), 'utf8'));
+  const outlines = await readFile(path.join(root, 'public/images/atlas-countries.svg'), 'utf8');
+  assert.ok(!outlines.includes('id="india-claimed"'));
+  const indiaSvg = outlines.split('<g id="india"')[1].split('</g>')[0];
+  const rings = [...indiaSvg.matchAll(/d="([^"]+)"/g)].map((match) => {
+    assert.equal((match[1].match(/M/g) || []).length, 1, 'No internal seam rings');
+    return [...match[1].matchAll(/([\d.-]+),([\d.-]+)/g)].map((point) => [Number(point[1]), Number(point[2])]);
+  });
+  const contains = (ring, [x, y]) => {
+    let inside = false;
+    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      const [xi, yi] = ring[i], [xj, yj] = ring[j];
+      if ((yi > y) !== (yj > y) && x < (xj - xi) * (y - yi) / (yj - yi) + xi) inside = !inside;
+    }
+    return inside;
+  };
+  const locations = [[79, 23], [94.1, 25.7], [74.31, 35.92], [73.47, 34.37], [79, 35], [76.7, 36.1], [77.15, 35.4]];
+  assert.ok(rings.some((ring) => locations.every(([longitude, latitude]) => contains(ring, projectLocation(longitude, latitude)))), 'Mainland, northeast and northern territories share a single exterior path');
+  for (const { properties, geometry } of territories.features) {
+    const polygons = geometry.type === 'Polygon' ? [geometry.coordinates] : geometry.coordinates;
+    for (const [longitude, latitude] of polygons.flat(2)) {
+      const [x, y] = projectLocation(longitude, latitude);
+      const px = x * india.view.scale + india.view.x, py = y * india.view.scale + india.view.y;
+      assert.ok(px >= 0 && px <= 1200 && py >= 0 && py <= 600, `${properties.name} remains inside India's view`);
+    }
+  }
+});
+
+test('Asia South-east groups Singapore, Vietnam and Malaysia while preserving country links', () => {
+  const trips = [
+    { country: 'Singapore', slug: 'singapore', mapLocation: { longitude: 103.85, latitude: 1.29 } },
+    { country: 'Vietnam', slug: 'vietnam', mapLocation: { longitude: 108.22, latitude: 16.06 } },
+    { country: 'Malaysia', slug: 'malaysia', mapLocation: { longitude: 101.69, latitude: 3.14 } },
+  ];
+  const groups = groupAtlasCountries(trips);
+  assert.equal(groups.length, 1);
+  const region = groups[0];
+  assert.equal(region.id, 'asia-south-east');
+  assert.equal(region.label, 'Asia South-east');
+  assert.deepEqual(region.trips, trips);
+  assert.deepEqual(region.outlineIds, ['singapore', 'vietnam', 'malaysia']);
+  assert.deepEqual(region.aliases, ['singapore', 'vietnam', 'malaysia']);
+  const home = renderHome(content.site, content.trips);
+  assert.ok(home.includes('href="#atlas-country-asia-south-east"'));
+  assert.ok(home.includes('data-atlas-label="Asia South-east"'));
+  for (const { slug } of trips) assert.ok(!home.includes(`id="atlas-country-${slug}"`));
 });
 
 test('the journal offers continent filters while cards retain their country labels', () => {
@@ -200,6 +299,7 @@ test('photos cannot be classified under a different day or out-of-order chapter'
   trip.startDate = '2025-04-26';
   trip.endDate = '2025-05-10';
   trip.chapters[0].date = '2025-04-27';
+  for (const photo of trip.chapters[0].photos) photo.capturedOn = '2025-04-27';
   trip.chapters[0].photos[0].capturedOn = '2025-04-28';
   assert.throws(() => validateContent(site, trips), /photograph date does not match/);
   trip.chapters[0].photos[0].capturedOn = '2025-04-27';
@@ -213,7 +313,7 @@ test('published original-photo albums reject repeated photographs', () => {
   const { site, trips } = fresh();
   const trip = trips[0];
   trip.demo = false;
-  trip.chapters[0].photos.push(structuredClone(trip.cover));
+  trip.chapters[0].photos.push(structuredClone(trip.chapters[0].photos[0]));
   assert.throws(() => validateContent(site, trips), /repeated photograph/);
 });
 
@@ -324,7 +424,7 @@ test('unused photographs and private reference images are not published', async 
   const projectRoot = await mkdtemp(path.join(os.tmpdir(), 'beyondlenses-selection-'));
   t.after(() => rm(projectRoot, { recursive: true, force: true }));
   const { site, trips } = fresh();
-  const trip = trips[0];
+  const trip = trips.find((trip) => trip.photoStorage !== 'r2');
   trip.chapters = [trip.chapters[0]];
   trip.chapters[0].photos = [trip.chapters[0].photos[0]];
   await mkdir(path.join(projectRoot, 'content/trips'), { recursive: true });
