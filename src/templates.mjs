@@ -1,4 +1,5 @@
 import { resolveTripPhotos } from './photos.mjs';
+import { packGallery, galleryRowStyle } from './gallery-layout.js';
 import { projectLocation, atlasSize, groupAtlasCountries, continentForCountry } from './atlas.mjs';
 
 export const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({
@@ -65,6 +66,7 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/assets/styles.css">
   <script src="/assets/main.js" defer></script>
+  ${bodyClass === 'story-page' ? '<script src="/assets/gallery.js" type="module"></script>' : ''}
 </head>
 <body class="${bodyClass}">
   <a class="skip-link" href="#main">Skip to content</a>
@@ -184,6 +186,13 @@ function galleryPhoto(image) {
   return `<figure class="${classes}"><a class="gallery-photo" href="${e(image.src)}" data-photo data-caption="${e(viewerCaption)}" aria-label="Enlarge: ${e(image.alt)}">${photo(image)}<span class="enlarge-mark" aria-hidden="true">↗</span></a><figcaption><span class="caption-copy"><span>${e(image.caption || '')}</span>${image.capturedOn || image.location ? `<span class="photo-context">${photoContext(image)}</span>` : ''}</span>${credit(image)}</figcaption></figure>`;
 }
 
+function gallery(chapter) {
+  if (chapter.layout === 'full') return `<div class="gallery gallery-full wrap">${chapter.photos.map(galleryPhoto).join('')}</div>`;
+  const width = 1200;
+  const rows = packGallery(chapter.photos, { width }).map((row) => `<div class="gallery-row${row.indices.length === 1 ? ' gallery-row-single' : ''}" style="${galleryRowStyle(row, width)}">${row.indices.map((index) => galleryPhoto(chapter.photos[index])).join('')}</div>`).join('');
+  return `<div class="gallery gallery-packed wrap" data-packed-gallery>${rows}</div>`;
+}
+
 export function renderStory(site, trip, nextTrip) {
   trip = resolveTripPhotos(site, trip);
   nextTrip = resolveTripPhotos(site, nextTrip);
@@ -195,7 +204,7 @@ export function renderStory(site, trip, nextTrip) {
         <div class="story-cover wrap">${photo(trip.cover, { lazy: false })}<div class="cover-credit">${trip.cover.capturedOn || trip.cover.location ? `<span class="photo-context">${photoContext(trip.cover)}</span>` : ''}${credit(trip.cover)}</div></div>
         ${trip.demo ? '<aside class="demo-notice prose">You’re viewing a sample story with stock photography. Personal photographs and field notes will make their home here.</aside>' : ''}
         ${trip.showChapterIndex === false ? '' : `<nav id="chapters" class="chapter-nav wrap${trip.chapters.some((chapter) => chapter.date) ? ' chapter-nav-dated' : ''}" aria-label="Chapters">${trip.chapters.map((chapter, index) => `<a href="#chapter-${index + 1}">${chapter.date ? `<span class="chapter-nav-date">${time(chapter.date, { year: false })}</span>` : number(index + 1)} <span>${e(chapter.title)}</span></a>`).join('')}</nav>`}
-        ${trip.chapters.map((chapter, index) => `<section class="chapter" id="chapter-${index + 1}"><div class="prose"><p class="eyebrow">${number(index + 1)} — ${e(chapter.location || 'Field notes')}</p><h2>${e(chapter.title)}</h2>${chapter.date ? `<p class="chapter-date">${time(chapter.date)} <span aria-hidden="true">·</span> ${chapter.photos.length} ${chapter.photos.length === 1 ? 'photograph' : 'photographs'}</p>` : ''}${chapter.paragraphs.map((paragraph) => `<p>${e(paragraph)}</p>`).join('')}</div><div class="gallery gallery-${e(chapter.layout)} wrap">${chapter.photos.map(galleryPhoto).join('')}</div>${chapter.date && trip.showChapterIndex !== false ? '<div class="chapter-return wrap"><a href="#chapters">Back to the day index ↑</a></div>' : ''}</section>`).join('')}
+        ${trip.chapters.map((chapter, index) => `<section class="chapter" id="chapter-${index + 1}"><div class="prose"><p class="eyebrow">${number(index + 1)} — ${e(chapter.location || 'Field notes')}</p><h2>${e(chapter.title)}</h2>${chapter.date ? `<p class="chapter-date">${time(chapter.date)} <span aria-hidden="true">·</span> ${chapter.photos.length} ${chapter.photos.length === 1 ? 'photograph' : 'photographs'}</p>` : ''}${chapter.paragraphs.map((paragraph) => `<p>${e(paragraph)}</p>`).join('')}</div>${gallery(chapter)}${chapter.date && trip.showChapterIndex !== false ? '<div class="chapter-return wrap"><a href="#chapters">Back to the day index ↑</a></div>' : ''}</section>`).join('')}
         <div class="story-end prose"><span aria-hidden="true">✳</span><p>Until the next journey.</p><a class="text-link" href="/#journal">Back to all stories ${arrow}</a></div>
       </article>
       ${nextTrip ? `<section class="next-story wrap"><p class="eyebrow">Keep wandering</p><a href="${tripPath(nextTrip)}"><div>${photo(nextTrip.cover)}</div><span><span class="eyebrow">${e(nextTrip.country)}</span><h2>${e(nextTrip.title)}</h2><span class="text-link">Read the next story ${arrow}</span></span></a></section>` : ''}

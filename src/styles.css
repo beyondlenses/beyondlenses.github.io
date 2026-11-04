@@ -7,6 +7,7 @@
   --sage: #e2e5da;
   --serif: Georgia, 'Times New Roman', serif;
   --sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --photo-height-limit: max(1px, calc(100svh - 140px));
 }
 
 * { box-sizing: border-box; }
@@ -145,7 +146,7 @@ em { font-weight: 400; }
 .story-intro h1 { font: 400 clamp(52px, 7vw, 98px)/1.1 var(--serif); letter-spacing: -.055em; margin-block: 24px 17px; }
 .story-subtitle { color: var(--muted); font: italic 21px/1.6 var(--serif); }
 .story-details { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px 28px; font-size: 10px; margin-top: 30px; text-transform: uppercase; letter-spacing: .09em; }
-.story-cover > img { height: auto; }
+.story-cover > img { width: auto; max-width: 100%; height: auto; max-height: var(--photo-height-limit); margin-inline: auto; }
 .cover-credit { display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: end; margin-top: 12px; }
 .photo-credit { font-size: 9px; color: var(--muted); }
 .photo-credit a { text-decoration: underline; text-underline-offset: 3px; }
@@ -166,16 +167,17 @@ em { font-weight: 400; }
 .chapter-return { display: flex; justify-content: end; margin-top: 22px; }
 .chapter-return a { padding-block: 10px; font-size: 11px; color: var(--muted); text-decoration: underline; text-underline-offset: 5px; }
 .gallery { display: grid; gap: 28px; margin-top: 45px; }
-.gallery-pair { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-.gallery-three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-.gallery-editorial { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 40px 28px; }
-.gallery-editorial > .photo-wide { grid-column: 1 / -1; }
-.gallery-editorial > .photo-wide.photo-portrait { width: min(100%, 650px); justify-self: center; }
-.gallery-editorial .gallery-photo img { height: auto; }
+.gallery-packed { grid-template-columns: minmax(0, 1fr); gap: 28px 24px; }
+.gallery-row { display: grid; grid-template-columns: var(--row-columns); width: var(--row-width, 100%); gap: 28px 24px; margin-inline: auto; align-items: start; }
+.gallery-row, .gallery-row.gallery-row-single { width: min(var(--row-width, 100%), calc(var(--photo-height-limit) * var(--row-ratio) + var(--row-gaps))); }
+.gallery-row > figure { min-width: 0; }
+.gallery-packed .gallery-photo { background: transparent; }
+.gallery-packed .gallery-photo img { height: auto; max-height: var(--photo-height-limit); object-fit: contain; }
+.gallery-full .gallery-photo { width: fit-content; max-width: 100%; margin-inline: auto; }
+.gallery-full .gallery-photo img { width: auto; max-width: 100%; height: auto; max-height: var(--photo-height-limit); object-fit: contain; }
+.gallery-packed figcaption { overflow-wrap: anywhere; }
 .gallery-photo { position: relative; display: block; overflow: hidden; background: var(--sage); }
 .gallery-photo img { object-fit: cover; }
-.gallery-pair .gallery-photo img { aspect-ratio: .85; }
-.gallery-three .gallery-photo img { aspect-ratio: .8; }
 .enlarge-mark { position: absolute; bottom: 16px; right: 16px; display: grid; place-items: center; width: 32px; height: 32px; background: var(--paper); border-radius: 50%; opacity: 0; transition: opacity .2s; }
 .gallery-photo:hover .enlarge-mark, .gallery-photo:focus-visible .enlarge-mark { opacity: 1; }
 figcaption { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 20px; padding-top: 12px; font-size: 11px; color: var(--muted); }
@@ -283,8 +285,8 @@ figcaption { display: flex; flex-wrap: wrap; align-items: baseline; justify-cont
   .chapter { margin-top: 55px; }
   .chapter .prose > p:not(.eyebrow) { font-size: 14px; }
   .gallery { margin-top: 32px; gap: 30px; }
-  .gallery-pair, .gallery-three, .gallery-editorial { grid-template-columns: 1fr; }
-  .gallery-pair .gallery-photo img, .gallery-three .gallery-photo img { aspect-ratio: auto; }
+  .gallery-packed { gap: 28px 24px; }
+  .gallery-row { grid-template-columns: minmax(0, 1fr); width: 100%; }
   .enlarge-mark { opacity: 1; }
   .story-end { padding-block: 55px; }
   .next-story > a { grid-template-columns: 1fr; gap: 25px; }

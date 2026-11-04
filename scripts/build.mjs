@@ -132,7 +132,7 @@ export async function build({ projectRoot = root, output = path.join(projectRoot
     await mkdir(path.dirname(destination), { recursive: true });
     await cp(path.join(publicRoot, source), destination);
   }
-  for (const filename of ['styles.css', 'main.js']) await cp(path.join(projectRoot, 'src', filename), path.join(output, 'assets', filename));
+  for (const filename of ['styles.css', 'main.js', 'gallery.js', 'gallery-layout.js']) await cp(path.join(projectRoot, 'src', filename), path.join(output, 'assets', filename));
   await writeFile(path.join(output, '.nojekyll'), '');
   const pages = new Map([
     ['index.html', renderHome(site, trips)],

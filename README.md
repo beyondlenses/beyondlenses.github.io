@@ -94,6 +94,8 @@ src/
   atlas.mjs              Shared map projection for coastlines and album locations
   styles.css             Responsive editorial design
   main.js                Progressive browser interactions
+  gallery-layout.js      Shared photo row-packing algorithm
+  gallery.js             Repack galleries for their container and screen height
   photos.mjs             Resolve R2 image URLs for rendering
 scripts/                 Dependency-free build and local preview server
 tests/                   Node.js tests
@@ -205,6 +207,37 @@ was blocked by the workspace's socket restrictions.
 Interactive browser preview remains unavailable in the sandbox; use
 `npm run dev` for the desktop and mobile browser review.
 
+## Gallery packing and photo size
+
+Editorial galleries use justified rows instead of fixed two-column slots.
+`src/gallery-layout.js` uses dynamic programming to choose row breaks across
+the whole chapter. It balances image heights, avoids isolated final photos,
+and keeps the original sequence. Portraits and landscapes in a row share an
+image height, with widths proportional to their original aspect ratios.
+Captions remain beneath their own photographs in normal document flow.
+Existing `wide` flags are prominence hints; `layout: "full"` retains individual
+full rows. Small screens use one photo per row.
+
+The static build includes packed rows, so galleries also work without
+JavaScript. `src/gallery.js` repacks the same figure nodes on container or
+window resize, preserving keyboard focus and photo-viewer order. Measurements
+are batched before DOM writes and lazy-loaded images retain their dimensions.
+Covers and gallery photographs are limited to the small viewport height minus
+140 pixels, leaving room for captions. Row widths shrink together when that
+height limit applies. Portraits remain fully visible without cropping, including
+on short landscape screens; the CSS height cap also applies without JavaScript.
+
+Validation covers all **299 packed chapters** at seven gallery widths and seven
+screen shapes, including phone landscape. The Bugis example packs as three
+photos followed by two, with no empty half row. Photo composites were reviewed
+for Singapore, Turkey, Japan, Spiti, Vietnam and Toronto at 350, 696 and 1328
+pixel gallery widths. Resize tests cover height-only changes, focus restoration,
+node identity and repeated observer notifications. `npm test` and
+`npm run build` validate the generated pages and assets. These composites are
+layout proofs rather than browser screenshots: Chrome cannot run in this
+sandbox because socket operations are blocked. Use `npm run dev` for an
+interactive browser review.
+
 ## Cloudflare R2 photographs
 
 The configured rclone remote is `r2:beyondlenses`. Public images use
@@ -262,9 +295,9 @@ selection, people, date/location, and album layout preferences.
    `creditUrl`, `license`, and `licenseUrl` fields when replacing a photograph
    with your own. Retain those fields for any stock photographs you keep.
 4. Each chapter needs a `title`, a `paragraphs` array, a `layout` (`full`, `pair`,
-   `three`, or `editorial`), and a `photos` array. The `editorial` layout preserves
-   the original framing in two columns; set a photo’s `wide` to `true` to span
-   both columns. Paragraphs and captions are plain text.
+   `three`, or `editorial`), and a `photos` array. The `editorial` layout packs
+   original frames into balanced rows; `wide: true` favors a more prominent
+   placement. Use `full` for individual rows. Paragraphs and captions are plain text.
    `cover.position` optionally controls cropping, for example `center 55%`.
 5. Create `content/selections/<slug>.json` with the source mappings and approved
    photo paths. Upload with `npm run photos:upload -- <slug>`. Update
