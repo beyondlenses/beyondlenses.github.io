@@ -375,10 +375,11 @@ async function r2Fixture(t, { exports = false } = {}) {
   await writeFile(path.join(projectRoot, 'content/trips/selected.json'), JSON.stringify(trip));
   const manifest = { photos: allPhotos(trip).map(({ src }) => ({ src })) };
   await writeFile(path.join(projectRoot, 'content/selections', `${trip.slug}.json`), JSON.stringify(manifest));
+  // Upload planning checks paths and sizes; ignored R2 exports are absent in CI.
   if (exports) for (const photo of allPhotos(trip)) {
     const destination = path.join(projectRoot, 'public', photo.src);
     await mkdir(path.dirname(destination), { recursive: true });
-    await cp(path.join(root, 'public', photo.src), destination);
+    await writeFile(destination, 'selected WebP fixture');
   }
   await writeFile(path.join(projectRoot, 'public/photos/unselected.webp'), 'not selected');
   await writeFile(path.join(projectRoot, 'public/photos/do-not-add-this-persons-photo.webp'), 'private reference');
