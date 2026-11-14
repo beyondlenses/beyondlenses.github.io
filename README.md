@@ -56,7 +56,10 @@ Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek.
 **Singapore** adds **175 original photographs** in **47 dated sections** from
 **15 July 2019–18 October 2023**, covering river walks, Chinatown, Little India,
 the Botanic Gardens, campus life, the Southern Ridges and coastal visits.
-The site contains **20 albums across 15 countries**.
+**chhattishgadh** adds **134 original photographs** in **22 dated sections** from
+**4–8 January 2026**, following Visakhapatnam and Araku into Bastar,
+Kanger Valley, Dantewada, Barsur and Chitrakote.
+The site contains **21 albums across 15 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -905,3 +908,52 @@ This project targets an account site at `/`; it is not configured for a project
 site under a repository subpath. No custom-domain `CNAME` is needed.
 See [GitHub’s Pages instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 and [custom workflow guide](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+
+## Chhattishgadh album
+
+The requested **chhattishgadh** album contains **134 photographs** in **22 dated
+sections**, captured **4–8 January 2026**. It follows Visakhapatnam, the train to
+Araku, Chaparai, Araku Pinery, Padmapuram, the museums and coffee trail, Borra
+Caves, Tirathgarh and Kanger Valley, Dantewada, Barsur, Saathdhara and Chitrakote.
+The album has its own marker in India's atlas view. The Chitrakote rainbow cover
+appears once, outside the gallery; the chapter index is hidden.
+
+Originals remain in `../dump/chhattisgadh/` (note the different source-folder
+spelling). All **1,678 entries** were inventoried, including the repaired files.
+All **1,677 nonempty images** fully decoded and received chronological visual
+review in 48 contact sheets. The remaining empty `IMG_3833.HEIC`, two frames
+with visible green decoding blocks, unrelated screenshots, private documents
+and payment graphics are excluded. No ZIP archive was used. Of 137 shortlisted
+frames, 135 received larger review and 134 were selected. Daily totals are
+15, 41, 35, 32 and 11, including the cover on 8 January.
+
+The manifest records source hashes, complete omissions, capture dates and
++05:30 offsets, location evidence, export settings, and people selections for
+later review. Uncertain stops retain broad Araku Valley or Bastar labels.
+Only selected WebP derivatives belong in R2; the originals and review sheets
+remain outside the site. The exporter now supports HEIC using the optional
+`pillow-heif` package alongside Pillow. To recreate the exports:
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/chhattishgadh.json --source ../dump/chhattisgadh
+npm run photos:plan -- chhattishgadh
+npm run photos:upload -- chhattishgadh
+npm run photos:check -- chhattishgadh
+```
+
+All 134 original hashes, local dates, chronological sections, export dimensions,
+framing, retained colour profiles, stripped EXIF/XMP, source uniqueness,
+cover use and manifest counts were verified. Representative exports opened
+include `rainbow-over-chitrakote.webp`, `waves-in-the-dark.webp`,
+`wooden-bridge-through-bamboo.webp` and `hanging-limestone-formations.webp`.
+The upload plan contains exactly **134 WebP files, totalling 82.1 MiB**.
+`npm test` passes; `npm run build` generates **28 pages and 21 stories**.
+
+The R2 upload attempt transferred no files because this sandbox blocks DNS
+sockets. **Run the upload and checksum-check commands successfully before
+pushing.** Interactive desktop/mobile review remains pending: the sandbox
+also blocks the preview server's socket. Run `npm run dev` in an environment
+that permits local preview. Album content, the selection manifest, exporter
+support and documentation are prepared for the owner to commit and push;
+WebP exports remain ignored by Git.

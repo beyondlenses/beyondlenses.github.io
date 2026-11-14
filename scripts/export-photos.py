@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Recreate web photographs from a reviewed selection; requires Pillow."""
+"""Recreate web photographs; requires Pillow and pillow-heif for HEIC sources."""
 
 import argparse
 import hashlib
@@ -13,6 +13,13 @@ def export(selection_path, source_directory):
     project = Path(__file__).resolve().parent.parent
     source_directory = source_directory.resolve()
     selection = json.loads(selection_path.read_text(encoding='utf-8'))
+    if any(Path(photo['source']).suffix.lower() in {'.heic', '.heif'}
+           for photo in selection['photos']):
+        try:
+            from pillow_heif import register_heif_opener
+        except ImportError as error:
+            raise RuntimeError('HEIC exports require pillow-heif: python3 -m pip install pillow-heif') from error
+        register_heif_opener()
     sources, destinations = set(), set()
     prepared = []
 

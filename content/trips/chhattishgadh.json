@@ -1,0 +1,1485 @@
+{
+  "slug": "chhattishgadh",
+  "title": "chhattishgadh",
+  "subtitle": "From the coast at Visakhapatnam and the hills of Araku to forest paths, stone temples and the waterfalls of Bastar.",
+  "country": "India",
+  "location": "Visakhapatnam · Araku · Kanger Valley · Dantewada · Barsur · Chitrakote",
+  "category": "Coast, forests and waterfalls",
+  "order": 21,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2026-01-04",
+  "endDate": "2026-01-08",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/rainbow-over-chitrakote.webp",
+    "alt": "A rainbow in the spray below Chitrakote Falls, with layered cliffs above the green river.",
+    "caption": "A rainbow in the spray below Chitrakote Falls, with layered cliffs above the green river.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2026-01-08",
+    "location": "Chitrakote Falls"
+  },
+  "chapters": [
+    {
+      "title": "Rock arches and the afternoon sea",
+      "date": "2026-01-04",
+      "location": "Mangamaripeta · Rushikonda, Visakhapatnam",
+      "paragraphs": [
+        "The journey begins on the coast, among weathered rocks and sandy hollows. Further south, a paraglider crosses the afternoon sky and shallow water gathers around barnacle-covered stones."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-rocky-coast/rocky-shore-at-mangamaripeta.webp",
+          "alt": "Visitors walking among dark rocks and sandy hollows beside the sea.",
+          "caption": "Visitors walking among dark rocks and sandy hollows beside the sea.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Mangamaripeta, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-rocky-coast/natural-rock-arch.webp",
+          "alt": "Visitors beneath a low natural rock arch on the sandy shore.",
+          "caption": "Visitors beneath a low natural rock arch on the sandy shore.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Mangamaripeta, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-rocky-coast/sand-between-the-rocks.webp",
+          "alt": "Smooth sand filling a hollow between weathered coastal rocks.",
+          "caption": "Smooth sand filling a hollow between weathered coastal rocks.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-04",
+          "location": "Mangamaripeta, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-rocky-coast/paraglider-over-rushikonda.webp",
+          "alt": "A paraglider near the afternoon sun above a hill and beachgoers at Rushikonda.",
+          "caption": "A paraglider near the afternoon sun above a hill and beachgoers at Rushikonda.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Rushikonda, Visakhapatnam",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-rocky-coast/rushikonda-tide-pools.webp",
+          "alt": "Shallow pools and algae-covered rocks beside the sea at Rushikonda.",
+          "caption": "Shallow pools and algae-covered rocks beside the sea at Rushikonda.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Rushikonda, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-rocky-coast/barnacles-on-the-coastal-rock.webp",
+          "alt": "Pale barnacles scattered across the orange-brown edge of a coastal rock.",
+          "caption": "Pale barnacles scattered across the orange-brown edge of a coastal rock.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-04",
+          "location": "Rushikonda, Visakhapatnam"
+        }
+      ]
+    },
+    {
+      "title": "Along the seafront",
+      "date": "2026-01-04",
+      "location": "Tenneti Park, Visakhapatnam",
+      "paragraphs": [
+        "A viewpoint opens over the curving beach. Scooters line the promenade, and large Vizag letters stand above the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-tenneti-park/beach-from-tenneti-park.webp",
+          "alt": "A curving sandy beach and white surf below the coastal viewpoint.",
+          "caption": "A curving sandy beach and white surf below the coastal viewpoint.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Tenneti Park, Visakhapatnam",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-tenneti-park/seafront-promenade.webp",
+          "alt": "Visitors and parked scooters along a paved seafront promenade.",
+          "caption": "Visitors and parked scooters along a paved seafront promenade.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-04",
+          "location": "Tenneti Park, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-tenneti-park/vizag-by-the-sea.webp",
+          "alt": "A traveller beside the I Love Vizag sign above the sea.",
+          "caption": "A traveller beside the I Love Vizag sign above the sea.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Tenneti Park, Visakhapatnam"
+        }
+      ]
+    },
+    {
+      "title": "Fish tanks and the beach after dark",
+      "date": "2026-01-04",
+      "location": "Visakhapatnam · RK Beach",
+      "paragraphs": [
+        "Blue-lit aquarium tanks give way to grilled fish, beach stalls and waves in the dark. The evening ends with two cups of filter coffee."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-after-dark/turtles-at-the-aquarium.webp",
+          "alt": "Several turtles resting beside shallow water inside an aquarium enclosure.",
+          "caption": "Several turtles resting beside shallow water inside an aquarium enclosure.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Aquarium, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-after-dark/fish-in-a-blue-tank.webp",
+          "alt": "Two long patterned fish in a blue-lit aquarium tank.",
+          "caption": "Two long patterned fish in a blue-lit aquarium tank.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "Aquarium, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-after-dark/grilled-fish-by-the-beach.webp",
+          "alt": "A grilled whole fish with onion slices and red sauce on a leaf plate.",
+          "caption": "A grilled whole fish with onion slices and red sauce on a leaf plate.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-04",
+          "location": "RK Beach, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-after-dark/beach-stalls-after-dark.webp",
+          "alt": "Visitors and bright stalls beside the beach beneath a dark sky.",
+          "caption": "Visitors and bright stalls beside the beach beneath a dark sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "RK Beach, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-after-dark/waves-in-the-dark.webp",
+          "alt": "White waves washing onto the sandy beach at night.",
+          "caption": "White waves washing onto the sandy beach at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-04",
+          "location": "RK Beach, Visakhapatnam"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-04-vizag-after-dark/filter-coffee-at-night.webp",
+          "alt": "Two cups of filter coffee below a brightly lit coffee-stall sign.",
+          "caption": "Two cups of filter coffee below a brightly lit coffee-stall sign.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-04",
+          "location": "Beach Road, Visakhapatnam"
+        }
+      ]
+    },
+    {
+      "title": "By train into the hills",
+      "date": "2026-01-05",
+      "location": "Visakhapatnam–Araku railway",
+      "paragraphs": [
+        "The station is busy before dawn. Red seats and large windows frame fields, hazy hills, flowering plants and long curves of railway track."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/visakhapatnam-before-dawn.webp",
+          "alt": "Passengers outside Visakhapatnam railway station before dawn.",
+          "caption": "Passengers outside Visakhapatnam railway station before dawn.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam railway station"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/train-waiting-at-the-platform.webp",
+          "alt": "A passenger beside the blue-and-yellow train at the platform.",
+          "caption": "A passenger beside the blue-and-yellow train at the platform.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam railway station"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/red-seats-and-glass-roof.webp",
+          "alt": "Red seats and large roof windows inside the train carriage.",
+          "caption": "Red seats and large roof windows inside the train carriage.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam–Araku railway"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/fields-from-the-train.webp",
+          "alt": "Green fields, palms and hazy hills seen through a train window.",
+          "caption": "Green fields, palms and hazy hills seen through a train window.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam–Araku railway"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/rails-into-the-haze.webp",
+          "alt": "Railway tracks and overhead wires stretching towards a hazy morning sun.",
+          "caption": "Railway tracks and overhead wires stretching towards a hazy morning sun.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam–Araku railway"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/watching-the-tracks.webp",
+          "alt": "A traveller looking through a large train window towards the railway tracks.",
+          "caption": "A traveller looking through a large train window towards the railway tracks.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam–Araku railway"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/flowers-beside-the-line.webp",
+          "alt": "Orange and pink flowering plants beside the railway, seen through glass.",
+          "caption": "Orange and pink flowering plants beside the railway, seen through glass.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam–Araku railway"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-train-to-araku/curve-through-araku.webp",
+          "alt": "A broad curve of railway track leading towards palms and hills, seen from the train.",
+          "caption": "A broad curve of railway track leading towards palms and hills, seen from the train.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Visakhapatnam–Araku railway",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Across the stone at Chaparai",
+      "date": "2026-01-05",
+      "location": "Chaparai, Araku Valley",
+      "paragraphs": [
+        "A large sign marks the cascade. Visitors gather along pools and shallow channels where the water crosses broad sheets of rock."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-chaparai/chaparai-cascade-sign.webp",
+          "alt": "The Chaparai The Cascade sign beneath a red-roofed entrance.",
+          "caption": "The Chaparai The Cascade sign beneath a red-roofed entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Chaparai, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-chaparai/pink-beside-the-pool.webp",
+          "alt": "A traveller in a bright pink outfit standing beside the pool at Chaparai.",
+          "caption": "A traveller in a bright pink outfit standing beside the pool at Chaparai.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Chaparai, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-chaparai/pools-and-rocky-riverbanks.webp",
+          "alt": "Visitors beside pools and broad rocky banks at Chaparai.",
+          "caption": "Visitors beside pools and broad rocky banks at Chaparai.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Chaparai, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-chaparai/chaparai-shallow-cascades.webp",
+          "alt": "Visitors beside shallow cascades flowing over a broad rock slope.",
+          "caption": "Visitors beside shallow cascades flowing over a broad rock slope.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Chaparai, Araku Valley",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Trees and fields around the pinery",
+      "date": "2026-01-05",
+      "location": "Araku Pinery",
+      "paragraphs": [
+        "A small pavilion stands among tall straight trees. Beyond the grove are planted fields, a reflective pool and a wooden platform built around a tree."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/pavilion-among-the-trees.webp",
+          "alt": "A small red-roofed pavilion among tall trees on red earth.",
+          "caption": "A small red-roofed pavilion among tall trees on red earth.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/straight-trunks-and-long-shadows.webp",
+          "alt": "Tall straight tree trunks casting long shadows across the ground.",
+          "caption": "Tall straight tree trunks casting long shadows across the ground.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/furrows-beside-the-grove.webp",
+          "alt": "Neat planted furrows beside a grove of tall trees.",
+          "caption": "Neat planted furrows beside a grove of tall trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/field-and-reflecting-water.webp",
+          "alt": "Fields and reflective water below trees and a distant ridge.",
+          "caption": "Fields and reflective water below trees and a distant ridge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/tree-against-the-afternoon-sun.webp",
+          "alt": "A backlit tree beside reflective water with a ridge beyond.",
+          "caption": "A backlit tree beside reflective water with a ridge beyond.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/platform-around-the-tree.webp",
+          "alt": "A traveller sitting on a wooden platform built around a tall tree.",
+          "caption": "A traveller sitting on a wooden platform built around a tall tree.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/silhouette-on-the-platform.webp",
+          "alt": "A seated silhouette on a tree platform against the bright sky and distant hills.",
+          "caption": "A seated silhouette on a tree platform against the bright sky and distant hills.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-pinery/araku-pinery-gateway.webp",
+          "alt": "The wooden Araku Pinery gateway beneath tall trees.",
+          "caption": "The wooden Araku Pinery gateway beneath tall trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Pinery"
+        }
+      ]
+    },
+    {
+      "title": "Flowers and bamboo paths",
+      "date": "2026-01-05",
+      "location": "Padmapuram Botanical Garden, Araku",
+      "paragraphs": [
+        "Flower pots, palms and clipped shrubs fill the garden. Bamboo shades the paths and small wooden bridges, with branching trees and sculpted stumps along the way."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/padmapuram-entrance.webp",
+          "alt": "A patterned arch marking the entrance to Padmapuram Botanical Garden.",
+          "caption": "A patterned arch marking the entrance to Padmapuram Botanical Garden.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/rows-of-potted-flowers.webp",
+          "alt": "Pots of white, yellow and pink flowers beside a painted garden wall.",
+          "caption": "Pots of white, yellow and pink flowers beside a painted garden wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/statue-beneath-the-palms.webp",
+          "alt": "A golden seated statue surrounded by flowers beneath tall palms.",
+          "caption": "A golden seated statue surrounded by flowers beneath tall palms.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/clipped-shrubs-and-flower-beds.webp",
+          "alt": "Clipped shrubs and flower beds beside a garden lawn.",
+          "caption": "Clipped shrubs and flower beds beside a garden lawn.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/sculpted-stump-fountain.webp",
+          "alt": "A sculpted tree-stump fountain in a small circular basin.",
+          "caption": "A sculpted tree-stump fountain in a small circular basin.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/bamboo-lined-path.webp",
+          "alt": "A pale path curving between bamboo and shaded garden trees.",
+          "caption": "A pale path curving between bamboo and shaded garden trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/tangled-garden-branches.webp",
+          "alt": "Spreading tangled branches above the shaded garden floor.",
+          "caption": "Spreading tangled branches above the shaded garden floor.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/wooden-bridge-through-bamboo.webp",
+          "alt": "A narrow wooden bridge beneath a dense stand of bamboo.",
+          "caption": "A narrow wooden bridge beneath a dense stand of bamboo.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-padmapuram-garden/flowers-around-the-lawn.webp",
+          "alt": "Colourful potted flowers bordering a lawn beneath palms and trees.",
+          "caption": "Colourful potted flowers bordering a lawn beneath palms and trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Padmapuram Botanical Garden, Araku"
+        }
+      ]
+    },
+    {
+      "title": "Museums and a coffee stop",
+      "date": "2026-01-05",
+      "location": "Araku",
+      "paragraphs": [
+        "A chocolate shop and cups of coffee lead into museum displays of pottery, baskets, seeds and model village scenes. Painted arches and a red wall mark the walk back outside after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/chocolate-shop-front.webp",
+          "alt": "Visitors at a colourful shopfront marked Chocolate Factory.",
+          "caption": "Visitors at a colourful shopfront marked Chocolate Factory.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Chocolate shop, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/cacao-tree-display.webp",
+          "alt": "A model cacao tree displayed inside a shop.",
+          "caption": "A model cacao tree displayed inside a shop.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Chocolate shop, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/coffee-counter.webp",
+          "alt": "Coffee equipment and a display counter beneath coffee-bean decorations.",
+          "caption": "Coffee equipment and a display counter beneath coffee-bean decorations.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Chocolate shop, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/cups-at-the-coffee-stop.webp",
+          "alt": "Two cups and a small piece of chocolate on a tray at a coffee counter.",
+          "caption": "Two cups and a small piece of chocolate on a tray at a coffee counter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Chocolate shop, Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/pottery-display.webp",
+          "alt": "Pottery and a model village interior inside the museum.",
+          "caption": "Pottery and a model village interior inside the museum.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/painted-museum-arches.webp",
+          "alt": "Red-and-white painted arches framing a museum corridor.",
+          "caption": "Red-and-white painted arches framing a museum corridor.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/woodland-diorama.webp",
+          "alt": "Life-size figures arranged before a painted woodland backdrop in the museum.",
+          "caption": "Life-size figures arranged before a painted woodland backdrop in the museum.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/baskets-and-tools.webp",
+          "alt": "Baskets, tools and other objects displayed around a model tree.",
+          "caption": "Baskets, tools and other objects displayed around a model tree.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/model-workshop.webp",
+          "alt": "Life-size figures and pottery in a model workshop display.",
+          "caption": "Life-size figures and pottery in a model workshop display.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/seeds-on-display.webp",
+          "alt": "Labelled bowls of seeds and grains arranged in rows in a museum display.",
+          "caption": "Labelled bowls of seeds and grains arranged in rows in a museum display.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/painted-red-wall-at-night.webp",
+          "alt": "A red wall with painted figures illuminated beside trees at night.",
+          "caption": "A red wall with painted figures illuminated beside trees at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Araku Tribal Museum"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-05-araku-museums/coffee-museum-after-dark.webp",
+          "alt": "A flower-covered entrance marked Coffee Museum, illuminated after dark.",
+          "caption": "A flower-covered entrance marked Coffee Museum, illuminated after dark.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-05",
+          "location": "Coffee Museum, Araku"
+        }
+      ]
+    },
+    {
+      "title": "Before the mist clears",
+      "date": "2026-01-06",
+      "location": "Araku Valley",
+      "paragraphs": [
+        "Visitors gather on the hillside before daylight. An auto-rickshaw and roadside stalls emerge from the morning mist as the light grows."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-morning-mist/waiting-in-the-blue-mist.webp",
+          "alt": "Visitors gathered on a dark hillside in blue predawn mist.",
+          "caption": "Visitors gathered on a dark hillside in blue predawn mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-morning-mist/rickshaw-in-the-mist.webp",
+          "alt": "A yellow-and-black auto-rickshaw on red earth in thick morning mist.",
+          "caption": "A yellow-and-black auto-rickshaw on red earth in thick morning mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-morning-mist/morning-stalls-in-the-mist.webp",
+          "alt": "People sitting beside small roadside stalls under a hazy morning sun.",
+          "caption": "People sitting beside small roadside stalls under a hazy morning sun.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Araku Valley"
+        }
+      ]
+    },
+    {
+      "title": "Under the coffee-trail canopy",
+      "date": "2026-01-06",
+      "location": "Sunkarametta Coffee Trail, Araku Valley",
+      "paragraphs": [
+        "Stone steps lead onto a wooden walkway between tall trees and climbing vines. Leaves catch the light above small shelters and a hanging woven seat."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/canopy-walk-steps.webp",
+          "alt": "Stone steps beneath the wooden Canopy Walk gateway in the forest.",
+          "caption": "Stone steps beneath the wooden Canopy Walk gateway in the forest.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/pause-on-the-walkway.webp",
+          "alt": "A traveller in a yellow sweater beside the wooden forest walkway.",
+          "caption": "A traveller in a yellow sweater beside the wooden forest walkway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/vines-against-the-sky.webp",
+          "alt": "Vine-covered tree trunks rising towards a patch of bright sky.",
+          "caption": "Vine-covered tree trunks rising towards a patch of bright sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/wooden-walkway-through-the-trees.webp",
+          "alt": "Wooden steps and railings winding between tall trees and dense greenery.",
+          "caption": "Wooden steps and railings winding between tall trees and dense greenery.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/sunlit-climbing-leaves.webp",
+          "alt": "Sunlight passing through green leaves climbing a tree trunk.",
+          "caption": "Sunlight passing through green leaves climbing a tree trunk.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/looking-up-the-trunk.webp",
+          "alt": "A pale tree trunk stretching into branches against the blue sky.",
+          "caption": "A pale tree trunk stretching into branches against the blue sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/woven-seat-in-the-trees.webp",
+          "alt": "A woven hanging seat suspended between trees beside the trail.",
+          "caption": "A woven hanging seat suspended between trees beside the trail.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/shelter-under-the-canopy.webp",
+          "alt": "A small gabled shelter beneath tall vine-covered trees.",
+          "caption": "A small gabled shelter beneath tall vine-covered trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/painted-forest-gateway.webp",
+          "alt": "A visitor passing a painted gateway shaped like tree trunks.",
+          "caption": "A visitor passing a painted gateway shaped like tree trunks.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-sunkarametta-coffee-trail/coffee-trail-sign.webp",
+          "alt": "The Sunkarametta Coffee Trail sign among sunlit trees.",
+          "caption": "The Sunkarametta Coffee Trail sign among sunlit trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Sunkarametta Coffee Trail, Araku Valley"
+        }
+      ]
+    },
+    {
+      "title": "Above the valley",
+      "date": "2026-01-06",
+      "location": "Araku Valley road",
+      "paragraphs": [
+        "The trees open onto wooded ridges and distant fields. A roadside papaya tree stands above a small wet field."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-hill-road/valley-through-the-trees.webp",
+          "alt": "Hazy mountain ridges and scattered fields beyond the treetops.",
+          "caption": "Hazy mountain ridges and scattered fields beyond the treetops.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Araku Valley road",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-hill-road/forested-ridge.webp",
+          "alt": "A long wooded ridge beneath thin white clouds.",
+          "caption": "A long wooded ridge beneath thin white clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Araku Valley road"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-hill-road/papayas-beside-the-field.webp",
+          "alt": "A fruiting papaya tree beside a small waterlogged field and wooded hillside.",
+          "caption": "A fruiting papaya tree beside a small waterlogged field and wooded hillside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Araku Valley road"
+        }
+      ]
+    },
+    {
+      "title": "Water over broad stone",
+      "date": "2026-01-06",
+      "location": "Ananthagiri Waterfalls",
+      "paragraphs": [
+        "A stepped path descends towards water spreading across a broad sloping rock face. Close views of the cascades give way to the climb back and a plate of food at a roadside stall."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-ananthagiri-waterfalls/path-to-the-cascades.webp",
+          "alt": "A zigzag path descending towards white cascades on a rocky hillside.",
+          "caption": "A zigzag path descending towards white cascades on a rocky hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Ananthagiri Waterfalls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-ananthagiri-waterfalls/water-across-the-rock-face.webp",
+          "alt": "Visitors at the foot of water spreading across a broad sloping rock face.",
+          "caption": "Visitors at the foot of water spreading across a broad sloping rock face.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Ananthagiri Waterfalls",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-ananthagiri-waterfalls/together-by-the-cascades.webp",
+          "alt": "Two travellers standing beside the cascades at Ananthagiri.",
+          "caption": "Two travellers standing beside the cascades at Ananthagiri.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Ananthagiri Waterfalls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-ananthagiri-waterfalls/cascades-and-the-pool.webp",
+          "alt": "Water falling over successive rock ledges into a small pool.",
+          "caption": "Water falling over successive rock ledges into a small pool.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Ananthagiri Waterfalls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-ananthagiri-waterfalls/steps-back-up-the-hill.webp",
+          "alt": "Visitors climbing a long flight of steps between trees and railings.",
+          "caption": "Visitors climbing a long flight of steps between trees and railings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Ananthagiri Waterfalls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-ananthagiri-waterfalls/lunch-on-a-leaf-plate.webp",
+          "alt": "A leaf plate of fried food with onion and lime at a wooden roadside stall.",
+          "caption": "A leaf plate of fried food with onion and lime at a wooden roadside stall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Ananthagiri Waterfalls"
+        }
+      ]
+    },
+    {
+      "title": "Inside Borra Caves",
+      "date": "2026-01-06",
+      "location": "Borra Caves",
+      "paragraphs": [
+        "Stairs descend from the trees into a broad limestone chamber. Daylight from the opening meets coloured lights along rock walls, narrow paths and hanging formations."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/shaded-approach.webp",
+          "alt": "Visitors descending a shaded path beneath trees towards the caves.",
+          "caption": "Visitors descending a shaded path beneath trees towards the caves.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/descending-into-borra.webp",
+          "alt": "Visitors on a zigzag stairway beneath the broad rock mouth of Borra Caves.",
+          "caption": "Visitors on a zigzag stairway beneath the broad rock mouth of Borra Caves.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/daylight-through-the-opening.webp",
+          "alt": "Daylight and green branches framed by the cave opening above a stairway.",
+          "caption": "Daylight and green branches framed by the cave opening above a stairway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/colours-on-the-cave-walls.webp",
+          "alt": "Blue and red lights illuminating a tall limestone chamber above visitors.",
+          "caption": "Blue and red lights illuminating a tall limestone chamber above visitors.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/red-lit-rock-arch.webp",
+          "alt": "Red and purple light across an irregular rock arch inside the caves.",
+          "caption": "Red and purple light across an irregular rock arch inside the caves.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/path-in-purple-light.webp",
+          "alt": "A narrow cave walkway beneath a purple-lit ceiling.",
+          "caption": "A narrow cave walkway beneath a purple-lit ceiling.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/hanging-limestone-formations.webp",
+          "alt": "Hanging limestone formations illuminated in pink, yellow and green.",
+          "caption": "Hanging limestone formations illuminated in pink, yellow and green.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/layers-in-the-rock.webp",
+          "alt": "Layered cave walls lit in purple, red and yellow.",
+          "caption": "Layered cave walls lit in purple, red and yellow.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/walkers-in-the-cave-passage.webp",
+          "alt": "Two visitors walking along a narrow passage between sculpted cave walls.",
+          "caption": "Two visitors walking along a narrow passage between sculpted cave walls.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-borra-caves/folds-of-limestone.webp",
+          "alt": "Pale rippled limestone formations with dark hollows and green staining.",
+          "caption": "Pale rippled limestone formations with dark hollows and green staining.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Borra Caves"
+        }
+      ]
+    },
+    {
+      "title": "Evening at Araku station",
+      "date": "2026-01-06",
+      "location": "Araku",
+      "paragraphs": [
+        "The evening sun drops behind a roadside tree. At Araku station, parallel tracks lead towards hills beneath a pink sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-evening/sunset-behind-the-roadside-tree.webp",
+          "alt": "The setting sun shining through a roadside tree with hills in the distance.",
+          "caption": "The setting sun shining through a roadside tree with hills in the distance.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2026-01-06",
+          "location": "Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-evening/araku-station-platform.webp",
+          "alt": "The yellow Araku station sign above a quiet railway platform.",
+          "caption": "The yellow Araku station sign above a quiet railway platform.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-06",
+          "location": "Araku"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-06-araku-evening/tracks-towards-the-evening-hills.webp",
+          "alt": "Parallel railway tracks leading towards hills under a pale pink evening sky.",
+          "caption": "Parallel railway tracks leading towards hills under a pale pink evening sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-06",
+          "location": "Araku",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Down to Tirathgarh Falls",
+      "date": "2026-01-07",
+      "location": "Tirathgarh Falls, Kanger Valley National Park",
+      "paragraphs": [
+        "A shaded grove and a long stairway lead to the waterfall. Water runs down the cliff beside a pool, small shrines and the rocky gorge."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/morning-light-in-the-grove.webp",
+          "alt": "Morning sunlight filtering through trees beside a small building.",
+          "caption": "Morning sunlight filtering through trees beside a small building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/tirathgarh-from-above.webp",
+          "alt": "Tirathgarh Falls dropping down a tall rocky cliff into a green pool.",
+          "caption": "Tirathgarh Falls dropping down a tall rocky cliff into a green pool.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/stairs-into-the-gorge.webp",
+          "alt": "Visitors descending concrete steps into the wooded gorge.",
+          "caption": "Visitors descending concrete steps into the wooded gorge.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/waterfall-and-green-pool.webp",
+          "alt": "White water descending the layered cliff towards a green pool at Tirathgarh.",
+          "caption": "White water descending the layered cliff towards a green pool at Tirathgarh.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/travellers-below-the-falls.webp",
+          "alt": "Two travellers standing on rocks beneath Tirathgarh Falls.",
+          "caption": "Two travellers standing on rocks beneath Tirathgarh Falls.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/shrine-beside-the-rocks.webp",
+          "alt": "A small shrine with a low roof beside trees and the rocky gorge.",
+          "caption": "A small shrine with a low roof beside trees and the rocky gorge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/stone-shrine-detail.webp",
+          "alt": "A small stone lingam in a recessed shrine beside the path.",
+          "caption": "A small stone lingam in a recessed shrine beside the path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/opposite-wall-of-the-gorge.webp",
+          "alt": "A sunlit layered cliff above a shaded pool across the gorge.",
+          "caption": "A sunlit layered cliff above a shaded pool across the gorge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-tirathgarh/breakfast-after-the-walk.webp",
+          "alt": "A metal plate of fried breakfast snacks with red chutney.",
+          "caption": "A metal plate of fried breakfast snacks with red chutney.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Tirathgarh Falls, Kanger Valley National Park"
+        }
+      ]
+    },
+    {
+      "title": "Forest roads and parked jeeps",
+      "date": "2026-01-07",
+      "location": "Kanger Valley National Park",
+      "paragraphs": [
+        "The park entrance stands beneath the trees. Green jeeps wait beside a red-earth road, with dappled light across the forest floor."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-kanger-valley/kanger-valley-entrance.webp",
+          "alt": "A visitor beneath the Kanger Valley National Park arch beside green jeeps.",
+          "caption": "A visitor beneath the Kanger Valley National Park arch beside green jeeps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-kanger-valley/jeeps-in-the-shade.webp",
+          "alt": "Green open-top jeeps parked beneath tall forest trees.",
+          "caption": "Green open-top jeeps parked beneath tall forest trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-kanger-valley/red-earth-forest-road.webp",
+          "alt": "A red-earth road running between tall trees in dappled sunlight.",
+          "caption": "A red-earth road running between tall trees in dappled sunlight.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Kanger Valley National Park"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-kanger-valley/light-across-the-forest-floor.webp",
+          "alt": "Sunlight and shadows across dry leaves beneath straight forest trunks.",
+          "caption": "Sunlight and shadows across dry leaves beneath straight forest trunks.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Kanger Valley National Park"
+        }
+      ]
+    },
+    {
+      "title": "Around the Danteshwari temple",
+      "date": "2026-01-07",
+      "location": "Danteshwari Temple, Dantewada",
+      "paragraphs": [
+        "A pale entrance opens into the temple grounds. Timber screens, stone pillars and a tall Hanuman statue mark the walk through the courtyard."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-dantewada/temple-entrance-gate.webp",
+          "alt": "Visitors passing through a pale gateway into the temple grounds.",
+          "caption": "Visitors passing through a pale gateway into the temple grounds.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Danteshwari Temple, Dantewada"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-dantewada/timber-screened-temple.webp",
+          "alt": "The slatted wooden front of Danteshwari Temple beneath a tiled roof and red flag.",
+          "caption": "The slatted wooden front of Danteshwari Temple beneath a tiled roof and red flag.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Danteshwari Temple, Dantewada"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-dantewada/pillared-temple-hall.webp",
+          "alt": "Visitors beneath carved stone pillars in the temple hall.",
+          "caption": "Visitors beneath carved stone pillars in the temple hall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Danteshwari Temple, Dantewada"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-dantewada/hanuman-above-the-courtyard.webp",
+          "alt": "A tall painted Hanuman statue against a clear blue sky.",
+          "caption": "A tall painted Hanuman statue against a clear blue sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Danteshwari Temple, Dantewada"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-dantewada/courtyard-and-palm.webp",
+          "alt": "A tall palm rising above a pale gateway across the temple courtyard.",
+          "caption": "A tall palm rising above a pale gateway across the temple courtyard.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Danteshwari Temple, Dantewada"
+        }
+      ]
+    },
+    {
+      "title": "Stone halls of Barsur",
+      "date": "2026-01-07",
+      "location": "Barsur",
+      "paragraphs": [
+        "Carved pillars and stone Nandi figures fill a shaded temple hall. Nearby, large Ganesha sculptures sit beneath a shelter and the Mama-Bhanja temple rises above its stone path."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/nandi-in-the-stone-hall.webp",
+          "alt": "Stone Nandi figures facing a dark doorway beneath a carved temple ceiling.",
+          "caption": "Stone Nandi figures facing a dark doorway beneath a carved temple ceiling.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/pillars-and-openings.webp",
+          "alt": "Rows of carved stone pillars around Nandi figures in an open temple hall.",
+          "caption": "Rows of carved stone pillars around Nandi figures in an open temple hall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/carved-pillar-detail.webp",
+          "alt": "Carved pillars framing the openings of a shaded stone temple hall.",
+          "caption": "Carved pillars framing the openings of a shaded stone temple hall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/temple-in-afternoon-light.webp",
+          "alt": "A low stone temple on a raised platform in strong afternoon light.",
+          "caption": "A low stone temple on a raised platform in strong afternoon light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/ganesha-sculptures.webp",
+          "alt": "Two large stone Ganesha sculptures beneath a protective shelter.",
+          "caption": "Two large stone Ganesha sculptures beneath a protective shelter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/mama-bhanja-temple.webp",
+          "alt": "The tall stone tower of Mama-Bhanja temple above a paved courtyard.",
+          "caption": "The tall stone tower of Mama-Bhanja temple above a paved courtyard.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-barsur-temples/stone-doorway.webp",
+          "alt": "A carved stone doorway opening into a small dark chamber.",
+          "caption": "A carved stone doorway opening into a small dark chamber.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-07",
+          "location": "Barsur"
+        }
+      ]
+    },
+    {
+      "title": "Across the rocks at Saathdhara",
+      "date": "2026-01-07",
+      "location": "Bodhghat Saathdhara, near Barsur",
+      "paragraphs": [
+        "The river runs between broad shelves of dark rock. Small rapids connect the pools, while visitors make their way along the exposed stone."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-saathdhara/river-and-rock-shelves.webp",
+          "alt": "Visitors walking across broad rock shelves beside the river.",
+          "caption": "Visitors walking across broad rock shelves beside the river.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Bodhghat Saathdhara, near Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-saathdhara/small-river-rapids.webp",
+          "alt": "White rapids running between dark rocks and wooded riverbanks.",
+          "caption": "White rapids running between dark rocks and wooded riverbanks.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Bodhghat Saathdhara, near Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-saathdhara/crossing-beside-the-rapids.webp",
+          "alt": "Visitors crossing a rocky ledge beside a narrow stretch of white water.",
+          "caption": "Visitors crossing a rocky ledge beside a narrow stretch of white water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Bodhghat Saathdhara, near Barsur"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-saathdhara/pool-between-rocky-banks.webp",
+          "alt": "A deep blue-green river pool between rugged rocks and wooded hills.",
+          "caption": "A deep blue-green river pool between rugged rocks and wooded hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Bodhghat Saathdhara, near Barsur",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Gorge and evening light",
+      "date": "2026-01-07",
+      "location": "Bastar · Chitrakote",
+      "paragraphs": [
+        "Dry grass edges a deep forested gorge. Later, warm evening light reaches the cliff at Chitrakote Falls."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-bastar-evening/gorge-beyond-the-dry-grass.webp",
+          "alt": "Dry grass and rock at the edge of a broad forested gorge.",
+          "caption": "Dry grass and rock at the edge of a broad forested gorge.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Bastar gorge"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-bastar-evening/late-light-on-the-plateau.webp",
+          "alt": "Dry grass, flat rocks and scattered trees in late afternoon light.",
+          "caption": "Dry grass, flat rocks and scattered trees in late afternoon light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Bastar plateau"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-07-bastar-evening/evening-at-chitrakote.webp",
+          "alt": "Chitrakote Falls and an orange-lit cliff beyond trees and a foreground railing.",
+          "caption": "Chitrakote Falls and an orange-lit cliff beyond trees and a foreground railing.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-07",
+          "location": "Chitrakote Falls",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A quiet morning above the river",
+      "date": "2026-01-08",
+      "location": "Chitrakote",
+      "paragraphs": [
+        "Morning haze hangs behind a small pavilion above the river. Painted figures line a veranda beneath deep tiled eaves."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-morning/pavilion-in-the-morning-haze.webp",
+          "alt": "A small pavilion above the misty river in early morning light.",
+          "caption": "A small pavilion above the misty river in early morning light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-morning/painted-walls-and-tiled-roof.webp",
+          "alt": "A long building with a tiled roof and small painted figures along its white walls.",
+          "caption": "A long building with a tiled roof and small painted figures along its white walls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-morning/shadows-along-the-veranda.webp",
+          "alt": "Roof shadows crossing a veranda beside white walls painted with black figures.",
+          "caption": "Roof shadows crossing a veranda beside white walls painted with black figures.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote"
+        }
+      ]
+    },
+    {
+      "title": "Along the edge of Chitrakote",
+      "date": "2026-01-08",
+      "location": "Chitrakote Falls",
+      "paragraphs": [
+        "The view changes from the high riverbank to the water below. Stone steps descend towards the falls, boats move across the pool and the walk ends with rice and curry."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/river-below-the-viewpoint.webp",
+          "alt": "The green river and a rocky landing below a wooded bank, seen from above.",
+          "caption": "The green river and a rocky landing below a wooded bank, seen from above.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/falls-through-the-trees.webp",
+          "alt": "The broad face of Chitrakote Falls beyond bright green trees.",
+          "caption": "The broad face of Chitrakote Falls beyond bright green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/stone-stairway-to-chitrakote.webp",
+          "alt": "A stone stairway and yellow Chitrakote sign beneath overhanging trees.",
+          "caption": "A stone stairway and yellow Chitrakote sign beneath overhanging trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/falls-from-the-riverbank.webp",
+          "alt": "Chitrakote Falls dropping into the river beyond rippling green water.",
+          "caption": "Chitrakote Falls dropping into the river beyond rippling green water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls",
+          "wide": true
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/boat-across-the-river.webp",
+          "alt": "A small boat crossing the river below a layered rocky bank.",
+          "caption": "A small boat crossing the river below a layered rocky bank.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/resting-beside-the-water.webp",
+          "alt": "Two travellers sitting on rocks and looking across the river towards the falls.",
+          "caption": "Two travellers sitting on rocks and looking across the river towards the falls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls"
+        },
+        {
+          "src": "/photos/chhattishgadh/2026-01-08-chitrakote-falls/rice-and-curry.webp",
+          "alt": "Plates of rice and curry with onion slices on a red table.",
+          "caption": "Plates of rice and curry with onion slices on a red table.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2026-01-08",
+          "location": "Chitrakote Falls"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Chhattishgadh",
+    "latitude": 19.2,
+    "longitude": 81.7,
+    "labelPosition": [
+      560,
+      420
+    ]
+  }
+}
