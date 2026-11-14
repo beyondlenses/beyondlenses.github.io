@@ -18,7 +18,7 @@ test('all trip content is valid without a featured story setting', () => {
 });
 
 test('albums use the latest selected photo date throughout the journal and map panels', () => {
-  assert.deepEqual(content.trips.slice(0, 4).map(({ slug }) => slug), ['spiti', 'finland', 'portugal', 'japan']);
+  assert.deepEqual(content.trips.slice(0, 4).map(({ slug }) => slug), ['spiti', 'finland', 'portugal', 'darjeeling' ]);
   const dates = content.trips.map((trip) => allPhotos(trip).map(({ capturedOn }) => capturedOn).filter(Boolean).sort().at(-1));
   assert.ok(dates.every(Boolean));
   assert.deepEqual(dates, [...dates].sort().reverse());
