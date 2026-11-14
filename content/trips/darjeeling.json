@@ -1,0 +1,936 @@
+{
+  "slug": "darjeeling",
+  "title": "Darjeeling",
+  "subtitle": "Tea above green slopes, streets lost in cloud, a clearing at the Peace Pagoda and walks beneath tall trees.",
+  "country": "India",
+  "location": "Darjeeling · Margaret’s Deck · Ghum · Chowrasta",
+  "category": "Tea gardens and misty streets",
+  "order": 24,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2026-06-26",
+  "endDate": "2026-06-28",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/darjeeling/2026-06-26-darjeeling/evening-clouds-below-the-town.webp",
+    "alt": "Layers of cloud below hillside buildings beneath a blue-grey evening sky.",
+    "caption": "Layers of cloud below hillside buildings beneath a blue-grey evening sky.",
+    "width": 2400,
+    "height": 1351,
+    "capturedOn": "2026-06-26",
+    "location": "Darjeeling"
+  },
+  "chapters": [
+    {
+      "title": "Into the cloud",
+      "date": "2026-06-26",
+      "location": "Road to Darjeeling",
+      "paragraphs": [
+        "The approach winds past forested slopes and small roadside shops hung with colourful flags."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-road-to-darjeeling/forest-vanishing-into-cloud.webp",
+          "alt": "Forested hills fading into thick cloud beside the road.",
+          "caption": "Forested hills fading into thick cloud beside the road.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Road to Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-road-to-darjeeling/flags-at-the-roadside-shop.webp",
+          "alt": "Colourful flags hanging outside a small hillside shop.",
+          "caption": "Colourful flags hanging outside a small hillside shop.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Road to Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "Tea above the slopes",
+      "date": "2026-06-26",
+      "location": "Margaret’s Deck",
+      "paragraphs": [
+        "Green slopes spread below the balcony. Inside, tea, a baked tart and plant-filled corners make a quiet stop along the hill road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/tea-room-in-stone-and-green.webp",
+          "alt": "The Margaret’s Deck sign on a stone wall decorated with green plants.",
+          "caption": "The Margaret’s Deck sign on a stone wall decorated with green plants.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/tea-slopes-under-cloud.webp",
+          "alt": "Green tea slopes and scattered houses beneath low clouds.",
+          "caption": "Green tea slopes and scattered houses beneath low clouds.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck",
+          "wide": true
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/flags-above-the-tea-room.webp",
+          "alt": "Colourful flags hanging above the tables and wooden floor of a tea room.",
+          "caption": "Colourful flags hanging above the tables and wooden floor of a tea room.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/leaves-in-the-window-light.webp",
+          "alt": "Textured green leaves lit beside a window.",
+          "caption": "Textured green leaves lit beside a window.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/a-pause-above-the-tea-garden.webp",
+          "alt": "Two travellers standing together on a balcony above the green tea slopes.",
+          "caption": "Two travellers standing together on a balcony above the green tea slopes.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/pouring-the-first-cup.webp",
+          "alt": "Tea being poured from a white pot into a small cup.",
+          "caption": "Tea being poured from a white pot into a small cup.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/golden-tart-at-the-tea-table.webp",
+          "alt": "A sliced golden baked tart on a green patterned tabletop.",
+          "caption": "A sliced golden baked tart on a green patterned tabletop.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-margarets-deck/tea-history-on-the-wall.webp",
+          "alt": "Framed tea history displays beside a wooden doorway.",
+          "caption": "Framed tea history displays beside a wooden doorway.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Margaret’s Deck"
+        }
+      ]
+    },
+    {
+      "title": "Tracks beside the hill road",
+      "date": "2026-06-26",
+      "location": "Hill railway road · Ghum",
+      "paragraphs": [
+        "Narrow railway tracks run beside buildings and the road before a blue train and the station entrance emerge from the fog at Ghum."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-hill-railway-road/red-station-beside-the-road.webp",
+          "alt": "A red railway station building beside narrow tracks and the hillside road.",
+          "caption": "A red railway station building beside narrow tracks and the hillside road.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Hill railway road toward Ghum"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-hill-railway-road/houses-on-the-green-hillside.webp",
+          "alt": "Colourful hillside buildings among dense trees.",
+          "caption": "Colourful hillside buildings among dense trees.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Hill railway road toward Ghum"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-ghum/a-train-in-the-fog.webp",
+          "alt": "A small blue train beside a platform disappearing into fog.",
+          "caption": "A small blue train beside a platform disappearing into fog.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Ghum station"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-ghum/station-entrance-in-low-cloud.webp",
+          "alt": "The curved station entrance and people gathered beneath it in the mist.",
+          "caption": "The curved station entrance and people gathered beneath it in the mist.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Ghum station"
+        }
+      ]
+    },
+    {
+      "title": "An afternoon around town",
+      "date": "2026-06-26",
+      "location": "Darjeeling · Chowrasta",
+      "paragraphs": [
+        "Flags cross the streets above shopfronts, the square disappears into mist, and lunch arrives on a metal tray."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/rooftops-from-the-window.webp",
+          "alt": "Closely packed rooftops and hillside buildings below a cloudy sky.",
+          "caption": "Closely packed rooftops and hillside buildings below a cloudy sky.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling",
+          "wide": true
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/flags-above-the-town-street.webp",
+          "alt": "Strings of colourful flags above a narrow town street.",
+          "caption": "Strings of colourful flags above a narrow town street.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/hope-outside-glenarys.webp",
+          "alt": "Bright HOPE lettering outside Glenary’s with national flags below.",
+          "caption": "Bright HOPE lettering outside Glenary’s with national flags below.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/green-shopfront-in-the-mist.webp",
+          "alt": "A green shopfront with pale windows beside a wet pedestrian street.",
+          "caption": "A green shopfront with pale windows beside a wet pedestrian street.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-chowrasta/the-square-in-the-clouds.webp",
+          "alt": "Tall trees and people around a broad town square in thick mist.",
+          "caption": "Tall trees and people around a broad town square in thick mist.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Chowrasta, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-chowrasta/rainbow-umbrella-in-the-square.webp",
+          "alt": "A traveller with a rainbow umbrella on rain-darkened paving.",
+          "caption": "A traveller with a rainbow umbrella on rain-darkened paving.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Chowrasta, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/golden-rider-above-the-street.webp",
+          "alt": "A gold-coloured equestrian statue above steps beside the hillside street.",
+          "caption": "A gold-coloured equestrian statue above steps beside the hillside street.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/rice-and-curries-on-a-metal-tray.webp",
+          "alt": "Rice and small bowls of curries arranged on a metal lunch tray.",
+          "caption": "Rice and small bowls of curries arranged on a metal lunch tray.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "Lanes, flowers and hillside houses",
+      "date": "2026-06-26",
+      "location": "Darjeeling",
+      "paragraphs": [
+        "Wet lanes pass flower shops and hydrangeas, with tightly packed houses rising on the slopes beyond."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/flowers-at-the-small-shop.webp",
+          "alt": "Buckets of bright flowers outside a small shop.",
+          "caption": "Buckets of bright flowers outside a small shop.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/a-quiet-wet-lane.webp",
+          "alt": "A narrow wet lane between a mossy wall and hillside buildings.",
+          "caption": "A narrow wet lane between a mossy wall and hillside buildings.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/blue-and-white-hydrangeas.webp",
+          "alt": "Blue and white hydrangea flowers among glossy green leaves.",
+          "caption": "Blue and white hydrangea flowers among glossy green leaves.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/town-folded-into-the-hills.webp",
+          "alt": "A dense hillside town surrounded by trees and low cloud.",
+          "caption": "A dense hillside town surrounded by trees and low cloud.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A clearing at the Peace Pagoda",
+      "date": "2026-06-26",
+      "location": "Peace Pagoda, Darjeeling",
+      "paragraphs": [
+        "Fern-covered walls and tall trees line the approach. The white pagoda sits above the steps, and late light breaks through the clouds."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/ferns-along-the-road.webp",
+          "alt": "A wall covered with long green ferns beside a wet road and parked cars.",
+          "caption": "A wall covered with long green ferns beside a wet road and parked cars.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/succulents-by-the-door.webp",
+          "alt": "Small potted succulents on a doorstep beside a weathered wall.",
+          "caption": "Small potted succulents on a doorstep beside a weathered wall.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/tall-trees-on-the-approach.webp",
+          "alt": "Tall straight trees lining the narrow road toward the Peace Pagoda.",
+          "caption": "Tall straight trees lining the narrow road toward the Peace Pagoda.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/light-through-patterned-windows.webp",
+          "alt": "Patterned windows lighting a quiet wooden interior.",
+          "caption": "Patterned windows lighting a quiet wooden interior.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/white-pagoda-among-the-trees.webp",
+          "alt": "A white pagoda framed by deep green trees above steps and railings.",
+          "caption": "A white pagoda framed by deep green trees above steps and railings.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling",
+          "wide": true
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/sunlight-breaking-through-cloud.webp",
+          "alt": "Sunlight breaking through layered clouds above dark tree silhouettes.",
+          "caption": "Sunlight breaking through layered clouds above dark tree silhouettes.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/afternoon-light-on-the-trees.webp",
+          "alt": "Warm afternoon light falling across dense green trees and a pale retaining wall.",
+          "caption": "Warm afternoon light falling across dense green trees and a pale retaining wall.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-peace-pagoda/a-tree-beyond-the-balustrade.webp",
+          "alt": "A traveller standing by a white balustrade beneath a broad green tree.",
+          "caption": "A traveller standing by a white balustrade beneath a broad green tree.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Peace Pagoda area, Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "Clouds below the town",
+      "date": "2026-06-26",
+      "location": "Darjeeling",
+      "paragraphs": [
+        "Evening cloud fills the valley below the houses. A roadside shelter, dinner and the illuminated clock tower finish the day."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/clouds-filling-the-valley.webp",
+          "alt": "A bank of clouds filling the valley beyond red rooftops.",
+          "caption": "A bank of clouds filling the valley beyond red rooftops.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/a-shelter-above-the-valley.webp",
+          "alt": "A traveller seated in a roofed roadside shelter above the misty valley.",
+          "caption": "A traveller seated in a roofed roadside shelter above the misty valley.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/dumplings-and-soup.webp",
+          "alt": "A steamed dumpling and small bowls of soup and vegetables on a dinner table.",
+          "caption": "A steamed dumpling and small bowls of soup and vegetables on a dinner table.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-26-darjeeling/blue-light-on-the-clock-tower.webp",
+          "alt": "A clock tower illuminated in blue above the town street at night.",
+          "caption": "A clock tower illuminated in blue above the town street at night.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-26",
+          "location": "Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "Morning fog and a cafe table",
+      "date": "2026-06-27",
+      "location": "Darjeeling",
+      "paragraphs": [
+        "Wires and buildings fade into the fog along a narrow lane. Breakfast brings amber tea, toast and banana-topped pancakes."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/the-lane-disappears.webp",
+          "alt": "A narrow wet lane and overhead wires disappearing into dense morning fog.",
+          "caption": "A narrow wet lane and overhead wires disappearing into dense morning fog.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/umbrella-in-the-morning-fog.webp",
+          "alt": "A traveller holding a rainbow umbrella in a narrow foggy lane.",
+          "caption": "A traveller holding a rainbow umbrella in a narrow foggy lane.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/tea-on-the-currency-table.webp",
+          "alt": "A glass of amber tea beside white cups on a tabletop covered with banknotes.",
+          "caption": "A glass of amber tea beside white cups on a tabletop covered with banknotes.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/toast-and-banana-pancakes.webp",
+          "alt": "Toast and banana-topped pancakes on a breakfast table.",
+          "caption": "Toast and banana-topped pancakes on a breakfast table.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/the-small-cafe-interior.webp",
+          "alt": "A small cafe interior with wall decorations and a sunlit arched window.",
+          "caption": "A small cafe interior with wall decorations and a sunlit arched window.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "From the square to the forest road",
+      "date": "2026-06-27",
+      "location": "Chowrasta · Darjeeling",
+      "paragraphs": [
+        "Pigeons gather near the shops, red canopies shelter stalls, and a wet tree-lined path leads toward the zoo."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-chowrasta/pigeons-on-the-square.webp",
+          "alt": "Pigeons gathered on the paving beside shops in the town square.",
+          "caption": "Pigeons gathered on the paving beside shops in the town square.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Chowrasta, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-chowrasta/red-canopies-and-breakfast-stalls.webp",
+          "alt": "Food stalls beneath bright red canopies beside the square.",
+          "caption": "Food stalls beneath bright red canopies beside the square.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Chowrasta, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/pink-bells-among-the-leaves.webp",
+          "alt": "Pale pink bell-shaped flowers among green leaves.",
+          "caption": "Pale pink bell-shaped flowers among green leaves.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/a-walk-under-the-trees.webp",
+          "alt": "A wet path running between green trees and mossy stone walls.",
+          "caption": "A wet path running between green trees and mossy stone walls.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/the-zoo-gateway.webp",
+          "alt": "Visitors gathered outside the decorated zoo entrance.",
+          "caption": "Visitors gathered outside the decorated zoo entrance.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        }
+      ]
+    },
+    {
+      "title": "Animals among the trees",
+      "date": "2026-06-27",
+      "location": "Padmaja Naidu Himalayan Zoological Park",
+      "paragraphs": [
+        "A red panda, brightly patterned birds and hoofed animals appear among green enclosures. Mist settles over the visitor paths and tall trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/red-panda-on-the-log.webp",
+          "alt": "A red panda walking along a log among green plants in its zoo enclosure.",
+          "caption": "A red panda walking along a log among green plants in its zoo enclosure.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/bright-feathers-in-the-aviary.webp",
+          "alt": "A bird with bright patterned plumage resting on the ground in an aviary.",
+          "caption": "A bird with bright patterned plumage resting on the ground in an aviary.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/parakeet-beside-the-branch.webp",
+          "alt": "A green parakeet perched beside a branch in an aviary.",
+          "caption": "A green parakeet perched beside a branch in an aviary.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/trees-above-the-enclosures.webp",
+          "alt": "Tall trees and mossy branches above the zoo paths.",
+          "caption": "Tall trees and mossy branches above the zoo paths.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/green-habitat-under-the-trees.webp",
+          "alt": "A planted zoo enclosure with mossy slopes, logs and tall trees.",
+          "caption": "A planted zoo enclosure with mossy slopes, logs and tall trees.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/resting-in-the-enclosure.webp",
+          "alt": "Hoofed animals resting on the ground beside a moss-covered wall.",
+          "caption": "Hoofed animals resting on the ground beside a moss-covered wall.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/a-takin-on-the-slope.webp",
+          "alt": "A large shaggy takin standing on a sloping patch of earth in its enclosure.",
+          "caption": "A large shaggy takin standing on a sloping patch of earth in its enclosure.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/visitors-in-the-forest-mist.webp",
+          "alt": "Visitors walking along a zoo path beneath tall trees fading into mist.",
+          "caption": "Visitors walking along a zoo path beneath tall trees fading into mist.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        }
+      ]
+    },
+    {
+      "title": "The mountaineering institute",
+      "date": "2026-06-27",
+      "location": "Himalayan Mountaineering Institute",
+      "paragraphs": [
+        "A watchtower and climber statue stand beneath misty branches, while potted succulents brighten the institute courtyard."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-himalayan-mountaineering-institute/watchtower-in-the-mist.webp",
+          "alt": "A dark wooden watchtower among tall trees in thick mist.",
+          "caption": "A dark wooden watchtower among tall trees in thick mist.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Himalayan Mountaineering Institute"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-himalayan-mountaineering-institute/climber-silhouette-under-the-trees.webp",
+          "alt": "A climber statue silhouetted below misty forest branches.",
+          "caption": "A climber statue silhouetted below misty forest branches.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Himalayan Mountaineering Institute"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-himalayan-mountaineering-institute/institute-courtyard.webp",
+          "alt": "The pale yellow Himalayan Mountaineering Institute building around an open courtyard.",
+          "caption": "The pale yellow Himalayan Mountaineering Institute building around an open courtyard.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Himalayan Mountaineering Institute"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-himalayan-mountaineering-institute/succulents-in-tall-pots.webp",
+          "alt": "Green rosette succulents arranged in tall decorated pots.",
+          "caption": "Green rosette succulents arranged in tall decorated pots.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Himalayan Mountaineering Institute"
+        }
+      ]
+    },
+    {
+      "title": "Forest and natural history",
+      "date": "2026-06-27",
+      "location": "Darjeeling zoo · Bengal Natural History Museum",
+      "paragraphs": [
+        "Green woodland surrounds a museum visit, with butterfly cabinets and natural history displays indoors."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/layered-green-forest.webp",
+          "alt": "Slender trees and layered green foliage below the zoo path.",
+          "caption": "Slender trees and layered green foliage below the zoo path.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/butterflies-behind-glass.webp",
+          "alt": "Rows of butterfly specimens displayed in lit museum cabinets.",
+          "caption": "Rows of butterfly specimens displayed in lit museum cabinets.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling-zoo/natural-history-displays.webp",
+          "alt": "Natural history display cases around a tiled museum room.",
+          "caption": "Natural history display cases around a tiled museum room.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Padmaja Naidu Himalayan Zoological Park"
+        }
+      ]
+    },
+    {
+      "title": "Tea beside the evening rooftops",
+      "date": "2026-06-27",
+      "location": "Darjeeling",
+      "paragraphs": [
+        "Painted doors lead to another tea stop as cloud hangs over the town and cafe reflections gather in the window."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/red-doors-and-stained-glass.webp",
+          "alt": "Red wooden doors with patterned glass panels.",
+          "caption": "Red wooden doors with patterned glass panels.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/town-beneath-the-evening-clouds.webp",
+          "alt": "Colourful hillside rooftops below layered evening clouds.",
+          "caption": "Colourful hillside rooftops below layered evening clouds.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling",
+          "wide": true
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/tea-and-cake-by-the-window.webp",
+          "alt": "Tea and small cakes beside a window reflecting the cafe interior over the town at dusk.",
+          "caption": "Tea and small cakes beside a window reflecting the cafe interior over the town at dusk.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "Walking after dark",
+      "date": "2026-06-27",
+      "location": "Darjeeling",
+      "paragraphs": [
+        "Moonlight breaks through cloud above the trees. Lamps light the hillside paths and people continue through the town’s open shops."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/moon-behind-the-clouds.webp",
+          "alt": "The moon glowing behind clouds above dark tree silhouettes.",
+          "caption": "The moon glowing behind clouds above dark tree silhouettes.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/walking-together-under-the-lamp.webp",
+          "alt": "Two travellers walking together beneath a street lamp on a dark hillside path.",
+          "caption": "Two travellers walking together beneath a street lamp on a dark hillside path.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/flags-and-lights-after-dark.webp",
+          "alt": "People walking beneath flags and shop lights after dark.",
+          "caption": "People walking beneath flags and shop lights after dark.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-27-darjeeling/shops-open-at-night.webp",
+          "alt": "People browsing brightly lit shops along a pedestrian street at night.",
+          "caption": "People browsing brightly lit shops along a pedestrian street at night.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-27",
+          "location": "Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "A last morning in the mist",
+      "date": "2026-06-28",
+      "location": "Darjeeling · Chowrasta",
+      "paragraphs": [
+        "Cloud lies beyond the rooftops at first light. Later, fog returns to the square and the quiet paths beneath the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/cloud-sea-beyond-the-roofs.webp",
+          "alt": "A sea of clouds beyond the town rooftops in soft morning light.",
+          "caption": "A sea of clouds beyond the town rooftops in soft morning light.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling",
+          "wide": true
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/morning-tea-at-the-window.webp",
+          "alt": "A traveller drinking tea beside a window overlooking the rooftops.",
+          "caption": "A traveller drinking tea beside a window overlooking the rooftops.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/walking-into-the-fog.webp",
+          "alt": "People walking along a wet street beneath tangled wires in thick fog.",
+          "caption": "People walking along a wet street beneath tangled wires in thick fog.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-chowrasta/flags-in-the-morning-mist.webp",
+          "alt": "People crossing a misty square beneath strings of colourful flags.",
+          "caption": "People crossing a misty square beneath strings of colourful flags.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-28",
+          "location": "Chowrasta, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/the-shelter-around-the-bend.webp",
+          "alt": "A wet hillside road curving past a roofed shelter and misty trees.",
+          "caption": "A wet hillside road curving past a roofed shelter and misty trees.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/branches-in-the-cloud.webp",
+          "alt": "Dark tree branches fading into white mist above green plants.",
+          "caption": "Dark tree branches fading into white mist above green plants.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/walking-back-under-the-trees.webp",
+          "alt": "A traveller walking along a wet road beneath tall trees.",
+          "caption": "A traveller walking along a wet road beneath tall trees.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        }
+      ]
+    },
+    {
+      "title": "Breakfast before leaving",
+      "date": "2026-06-28",
+      "location": "Chowrasta · Darjeeling",
+      "paragraphs": [
+        "Colourful flags, a red breakfast table and a final look along the street close the visit."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/darjeeling/2026-06-28-chowrasta/colours-around-the-square.webp",
+          "alt": "Colourful flags and painted walls around a town square after rain.",
+          "caption": "Colourful flags and painted walls around a town square after rain.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-28",
+          "location": "Chowrasta, Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/breakfast-on-the-red-table.webp",
+          "alt": "Toast, eggs and accompaniments on a red breakfast table.",
+          "caption": "Toast, eggs and accompaniments on a red breakfast table.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        },
+        {
+          "src": "/photos/darjeeling/2026-06-28-darjeeling/a-last-look-along-the-street.webp",
+          "alt": "People walking past small shops and flags on a town street.",
+          "caption": "People walking past small shops and flags on a town street.",
+          "width": 1124,
+          "height": 2000,
+          "capturedOn": "2026-06-28",
+          "location": "Darjeeling"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Darjeeling",
+    "latitude": 27.04,
+    "longitude": 88.26,
+    "labelPosition": [
+      885,
+      310
+    ]
+  }
+}

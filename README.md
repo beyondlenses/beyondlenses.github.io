@@ -59,7 +59,7 @@ the Botanic Gardens, campus life, the Southern Ridges and coastal visits.
 **Andhra Pradesh and Chhattisgarh** adds **134 original photographs** in **22 dated sections** from
 **4–8 January 2026**, following Visakhapatnam and Araku into Bastar,
 Kanger Valley, Dantewada, Barsur and Chitrakote.
-The site contains **21 albums across 15 countries**.
+The site contains **22 albums across 15 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -964,3 +964,57 @@ The owner subsequently ran `photos:check -- chhattishgadh` successfully:
 The uploader now uses `--s3-no-head` during copying to avoid the unsupported
 version-specific HEAD request made by older rclone builds. Its separate full
 checksum check remains required and must pass before upload reports success.
+
+
+## Maharashtra in Monsoon album
+
+**Maharashtra in Monsoon** contains **277 photographs** in **52 dated sections**,
+captured **24 August–2 September 2024**. The route follows Pune, Panchgani,
+Mahabaleshwar, Lonavala, Karla Caves, Lohagad Fort, Bhaja, Mulshi, Tamhini,
+Matheran and Mumbai. Its Lohagad valley cover appears once, outside the gallery.
+The album uses the editorial layout, hides the chapter index, and adds a
+Maharashtra marker to India's atlas view. The URL slug remains `maharashtra`.
+
+All **3,900 source photographs** in `../dump/maharashtra/` fully decoded and
+received visual review in **61 chronological contact sheets**. The 3,900 hidden
+AppleDouble sidecars are metadata files and are ignored. No empty or undecodable
+photographs remain. There are **51 additional exact byte copies**, with further
+visually repeated bursts compared individually. Of 283 shortlisted frames,
+281 received larger review and 277 were retained. The final selections were
+checked in 31 larger sheets, with four additional individual checks; the cover
+was opened separately and its full WebP export reviewed. Pre-trip, Kolkata and
+return-flight images, repeated portraits, weak views and accidental frames are
+omitted. No archive extraction was needed; all originals remain untouched.
+
+The manifest records every selection and omission, original SHA-256 hashes,
+local EXIF dates and +05:30 offsets, daily and section counts, location evidence,
+export settings and people selections for later owner review. Uncertain stops
+retain broad Mulshi and Tamhini labels. Daily totals, including the cover, are
+**37, 25, 37, 21, 49, 27, 29, 20, 29 and 3**.
+
+The selected WebP exports total **157.3 MiB**. They preserve framing and corrected
+orientation, use quality 84 and a 2,000-pixel long edge (2,400 for the cover),
+retain all 276 source ICC profiles, and omit EXIF/XMP. All 277 source hashes,
+export dimensions and aspect ratios, dates, chronology, manifest counts,
+source/content uniqueness and the upload allowlist were checked. Representative
+exports reviewed include `fort-walls-above-the-monsoon-valley.webp`,
+`pillars-and-the-ribbed-ceiling.webp`, `red-path-under-the-tree-canopy.webp`
+and `the-taj-palace-lit-at-night.webp`.
+
+To recreate the derivatives, use Python with Pillow and `pillow-heif` installed:
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/maharashtra.json --source ../dump/maharashtra
+npm run photos:plan -- maharashtra
+npm run photos:upload -- maharashtra
+npm run photos:check -- maharashtra
+```
+
+`npm test` and `npm run build` pass; the build produces **29 pages and 22 stories**.
+The R2 upload attempt transferred no files because this sandbox blocks DNS
+sockets. **Upload and checksum-check successfully before pushing the album.**
+Interactive desktop/mobile review is also blocked here: the preview server
+cannot open its socket, and headless Chrome cannot create its crash-reporting
+socket. Run `npm run dev` locally to inspect the cover, galleries and viewer.
+Album content, the selection manifest and documentation are staged for the
+owner to commit and push; local WebP exports remain ignored by Git.

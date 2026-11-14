@@ -1,0 +1,3122 @@
+{
+  "slug": "maharashtra",
+  "title": "Maharashtra in Monsoon",
+  "subtitle": "Rain-soaked Pune, green cliffs and cave temples, forest paths through Matheran, and the streets and sea of Mumbai.",
+  "country": "India",
+  "location": "Pune · Panchgani · Mahabaleshwar · Lonavala · Mulshi · Tamhini · Matheran · Mumbai",
+  "category": "Monsoon hills and city streets",
+  "order": 22,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2024-08-24",
+  "endDate": "2024-09-02",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/maharashtra/2024-08-28-lohagad-fort/fort-walls-above-the-monsoon-valley.webp",
+    "alt": "Dark fort walls and stairways above vivid green fields, a lake and low monsoon clouds.",
+    "caption": "Dark fort walls and stairways above vivid green fields, a lake and low monsoon clouds.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2024-08-28",
+    "location": "Lohagad Fort"
+  },
+  "chapters": [
+    {
+      "title": "Pune in the rain",
+      "date": "2024-08-24",
+      "location": "Pune",
+      "paragraphs": [
+        "Breakfast comes on metal trays, followed by a rickshaw ride through rain-streaked streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-breakfast/breakfast-on-metal-trays.webp",
+          "alt": "Breakfast on metal trays with small bowls of accompaniments and cups of tea.",
+          "caption": "Breakfast on metal trays with small bowls of accompaniments and cups of tea.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-old-city/rain-from-the-rickshaw.webp",
+          "alt": "A wet city street seen through the frame of an auto-rickshaw.",
+          "caption": "A wet city street seen through the frame of an auto-rickshaw.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        }
+      ]
+    },
+    {
+      "title": "Inside Shaniwar Wada",
+      "date": "2024-08-24",
+      "location": "Shaniwar Wada, Pune",
+      "paragraphs": [
+        "Wet paths cross the green foundations inside the fort walls. From the upper arches, the gardens open out beneath a grey sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/fort-walls-in-the-rain.webp",
+          "alt": "The massive walls of Shaniwar Wada beside a rain-soaked street.",
+          "caption": "The massive walls of Shaniwar Wada beside a rain-soaked street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/looking-through-the-arches.webp",
+          "alt": "A traveller looking out through carved wooden arches towards the gardens.",
+          "caption": "A traveller looking out through carved wooden arches towards the gardens.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/gardens-from-above.webp",
+          "alt": "Formal gardens and stone foundations inside Shaniwar Wada.",
+          "caption": "Formal gardens and stone foundations inside Shaniwar Wada.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/rainy-garden-paths.webp",
+          "alt": "Visitors walking along geometric stone paths between green garden beds.",
+          "caption": "Visitors walking along geometric stone paths between green garden beds.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/green-foundations-and-gateway.webp",
+          "alt": "Grass-covered foundations leading towards a dark arch in a brick wall.",
+          "caption": "Grass-covered foundations leading towards a dark arch in a brick wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/wet-path-under-the-trees.webp",
+          "alt": "A rain-darkened stone path between trees and low ruined walls.",
+          "caption": "A rain-darkened stone path between trees and low ruined walls.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-shaniwar-wada/shaniwar-wada-gateway.webp",
+          "alt": "Visitors beneath the tall gateway and rounded stone bastions of Shaniwar Wada.",
+          "caption": "Visitors beneath the tall gateway and rounded stone bastions of Shaniwar Wada.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Shaniwar Wada, Pune",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Through the old city",
+      "date": "2024-08-24",
+      "location": "Pune · Lal Mahal · Raja Dinkar Kelkar Museum",
+      "paragraphs": [
+        "Stone facades, Lal Mahal and a temple spire line the old-city walk. Lunch and the museum entrance add smaller stops along the way."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-old-city/arched-street-facade.webp",
+          "alt": "A long stone street facade with arched windows above parked motorbikes.",
+          "caption": "A long stone street facade with arched windows above parked motorbikes.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-lal-mahal/lal-mahal-sign.webp",
+          "alt": "The red Lal Mahal lettering set into a dark stone wall.",
+          "caption": "The red Lal Mahal lettering set into a dark stone wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Lal Mahal, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-lal-mahal/statue-beneath-the-arch.webp",
+          "alt": "A golden seated statue beneath a scalloped arch inside Lal Mahal.",
+          "caption": "A golden seated statue beneath a scalloped arch inside Lal Mahal.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Lal Mahal, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-lal-mahal/red-and-white-palace.webp",
+          "alt": "The red-and-white facade and tiled roof of Lal Mahal above its entrance.",
+          "caption": "The red-and-white facade and tiled roof of Lal Mahal above its entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Lal Mahal, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-old-city/temple-spire-over-the-street.webp",
+          "alt": "A richly decorated temple spire above red awnings and street-side buildings.",
+          "caption": "A richly decorated temple spire above red awnings and street-side buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Dagdusheth Halwai Ganpati Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-lunch/thali-and-flatbread.webp",
+          "alt": "A metal thali with flatbread, rice and small bowls of curries.",
+          "caption": "A metal thali with flatbread, rice and small bowls of curries.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-old-city/red-museum-entrance.webp",
+          "alt": "Visitors beneath a dark carved gateway in a red-painted building.",
+          "caption": "Visitors beneath a dark carved gateway in a red-painted building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Raja Dinkar Kelkar Museum, Pune"
+        }
+      ]
+    },
+    {
+      "title": "White arches and wet gardens",
+      "date": "2024-08-24",
+      "location": "Aga Khan Palace, Pune",
+      "paragraphs": [
+        "White colonnades lead past museum rooms and out to the gardens. Red leaves and rain-darkened paving bring colour to the palace grounds."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/rainy-approach-to-the-palace.webp",
+          "alt": "Umbrellas on the broad wet approach to Aga Khan Palace.",
+          "caption": "Umbrellas on the broad wet approach to Aga Khan Palace.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/white-arches-and-red-steps.webp",
+          "alt": "White arches, carved columns and balustrades above red stone steps.",
+          "caption": "White arches, carved columns and balustrades above red stone steps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/gandhi-gallery.webp",
+          "alt": "A seated Gandhi figure and information panels inside the palace museum.",
+          "caption": "A seated Gandhi figure and information panels inside the palace museum.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/bronze-figures-in-the-gallery.webp",
+          "alt": "Bronze figures displayed in a bright museum gallery.",
+          "caption": "Bronze figures displayed in a bright museum gallery.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/doorway-to-the-garden.webp",
+          "alt": "A dark arched doorway framing the green garden outside.",
+          "caption": "A dark arched doorway framing the green garden outside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/objects-in-the-display-case.webp",
+          "alt": "Cups, cutlery and other small objects inside a glass museum display.",
+          "caption": "Cups, cutlery and other small objects inside a glass museum display.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/garden-from-the-veranda.webp",
+          "alt": "Curved paths and bright red planting beds in the palace garden.",
+          "caption": "Curved paths and bright red planting beds in the palace garden.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/receding-white-arches.webp",
+          "alt": "A long shaded corridor of white arches and stone floor slabs.",
+          "caption": "A long shaded corridor of white arches and stone floor slabs.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/red-leaves-after-the-rain.webp",
+          "alt": "A tree with red and green leaves above rain-darkened paving.",
+          "caption": "A tree with red and green leaves above rain-darkened paving.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/memorials-under-the-tree.webp",
+          "alt": "Stone memorials beneath a broad spreading tree in the garden.",
+          "caption": "Stone memorials beneath a broad spreading tree in the garden.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-aga-khan-palace/aga-khan-palace-from-the-lawn.webp",
+          "alt": "The white arcaded facade of Aga Khan Palace across green lawns.",
+          "caption": "The white arcaded facade of Aga Khan Palace across green lawns.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Aga Khan Palace, Pune",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Stone rooms beneath the city",
+      "date": "2024-08-24",
+      "location": "Pataleshwar · Jangali Maharaj Temple, Pune",
+      "paragraphs": [
+        "Temple gateways stand close to the street. Inside the rock-cut chambers, daylight falls between heavy stone columns."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/temple-gateway-in-the-city.webp",
+          "alt": "An ochre temple gateway beneath trees beside a busy street.",
+          "caption": "An ochre temple gateway beneath trees beside a busy street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/jangali-maharaj-entrance.webp",
+          "alt": "A white arched entrance marked for Jangali Maharaj Temple.",
+          "caption": "A white arched entrance marked for Jangali Maharaj Temple.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/circular-stone-pavilion.webp",
+          "alt": "A low circular stone pavilion beside the cave temple.",
+          "caption": "A low circular stone pavilion beside the cave temple.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/rock-cut-chambers.webp",
+          "alt": "Rock-cut chambers and stone ledges inside the cave complex.",
+          "caption": "Rock-cut chambers and stone ledges inside the cave complex.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/shrine-in-the-dark-stone.webp",
+          "alt": "A small illuminated shrine at the end of a dark stone chamber.",
+          "caption": "A small illuminated shrine at the end of a dark stone chamber.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/light-between-the-columns.webp",
+          "alt": "Sunlight and shadow between rows of rough stone columns.",
+          "caption": "Sunlight and shadow between rows of rough stone columns.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pataleshwar/garlands-under-colourful-umbrellas.webp",
+          "alt": "Flower garlands and offerings at a stall under colourful umbrellas.",
+          "caption": "Flower garlands and offerings at a stall under colourful umbrellas.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Pataleshwar · Jangali Maharaj Temple, Pune"
+        }
+      ]
+    },
+    {
+      "title": "Pune after dark",
+      "date": "2024-08-24",
+      "location": "Pune",
+      "paragraphs": [
+        "The restaurant frontage glows against a wet street. A bowl of curry and bread rolls ends the day."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-evening/restaurant-at-night.webp",
+          "alt": "Customers outside a brightly lit red restaurant at night.",
+          "caption": "Customers outside a brightly lit red restaurant at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-evening/curry-and-bread-rolls.webp",
+          "alt": "A bowl of curry and two bread rolls on a metal plate.",
+          "caption": "A bowl of curry and two bread rolls on a metal plate.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-24-pune-evening/wet-street-after-dark.webp",
+          "alt": "Reflections on a wet city street beneath trees and bright lights.",
+          "caption": "Reflections on a wet city street beneath trees and bright lights.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-24",
+          "location": "Pune"
+        }
+      ]
+    },
+    {
+      "title": "On the road to the hills",
+      "date": "2024-08-25",
+      "location": "Pune–Panchgani road",
+      "paragraphs": [
+        "Vada pav, green fields and low clouds mark the journey out of the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-25-road-to-panchgani/vada-pav-on-the-road.webp",
+          "alt": "Hands holding bread rolls filled with fried potato patties during the journey.",
+          "caption": "Hands holding bread rolls filled with fried potato patties during the journey.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Pune–Panchgani road"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-road-to-panchgani/green-valley-under-heavy-clouds.webp",
+          "alt": "Green fields and distant hills beneath heavy grey clouds.",
+          "caption": "Green fields and distant hills beneath heavy grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Pune–Panchgani road",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-road-to-panchgani/fields-beside-the-hill-road.webp",
+          "alt": "Lush green fields and scattered trees below a wooded hillside.",
+          "caption": "Lush green fields and scattered trees below a wooded hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Pune–Panchgani road"
+        }
+      ]
+    },
+    {
+      "title": "Panchgani between clouds",
+      "date": "2024-08-25",
+      "location": "Panchgani",
+      "paragraphs": [
+        "Rain gathers on the viewpoints above the water and green hills. A small temple courtyard offers a quieter stop between the lookouts."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-viewpoints/umbrellas-in-the-rain.webp",
+          "alt": "Umbrellas above visitors on a rain-soaked path towards the viewpoint.",
+          "caption": "Umbrellas above visitors on a rain-soaked path towards the viewpoint.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-viewpoints/valley-between-the-tree-trunks.webp",
+          "alt": "Distant houses and a green valley framed by tall tree trunks.",
+          "caption": "Distant houses and a green valley framed by tall tree trunks.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-viewpoints/travellers-at-the-viewpoint.webp",
+          "alt": "Two travellers beside the railing above the misty valley.",
+          "caption": "Two travellers beside the railing above the misty valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-viewpoints/water-beyond-the-green-hills.webp",
+          "alt": "A wide stretch of water beyond densely green hills and low grey clouds.",
+          "caption": "A wide stretch of water beyond densely green hills and low grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-viewpoints/corn-stall-at-the-viewpoint.webp",
+          "alt": "A customer beside a stall decorated with a giant yellow corn cob.",
+          "caption": "A customer beside a stall decorated with a giant yellow corn cob.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-viewpoints/looking-out-over-the-valley.webp",
+          "alt": "Two travellers looking out over the valley from a shaded shelter.",
+          "caption": "Two travellers looking out over the valley from a shaded shelter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-temple/pillar-in-the-temple-courtyard.webp",
+          "alt": "A tall dark stone pillar beneath a spreading tree in a wet temple courtyard.",
+          "caption": "A tall dark stone pillar beneath a spreading tree in a wet temple courtyard.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-temple/reflections-under-scalloped-windows.webp",
+          "alt": "Scalloped windows reflected on the smooth floor of a small temple hall.",
+          "caption": "Scalloped windows reflected on the smooth floor of a small temple hall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        }
+      ]
+    },
+    {
+      "title": "Across Table Land",
+      "date": "2024-08-25",
+      "location": "Table Land, Panchgani",
+      "paragraphs": [
+        "Pools reflect the clouded sky on the plateau. A narrow trail drops toward the caves, where tables sit beneath the rock overhang."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-roads/wet-road-through-the-trees.webp",
+          "alt": "A scooter on a wet road beneath dense green trees, seen from a vehicle.",
+          "caption": "A scooter on a wet road beneath dense green trees, seen from a vehicle.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/dog-beside-the-path.webp",
+          "alt": "A tan dog looking towards the camera beside a wet path.",
+          "caption": "A tan dog looking towards the camera beside a wet path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/grassy-edge-of-the-plateau.webp",
+          "alt": "Fresh grass along the exposed rocky edge of the plateau beneath a grey sky.",
+          "caption": "Fresh grass along the exposed rocky edge of the plateau beneath a grey sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/water-on-the-plateau.webp",
+          "alt": "Pools of water on the broad rocky plateau beneath heavy clouds.",
+          "caption": "Pools of water on the broad rocky plateau beneath heavy clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/painted-figures-in-the-rock.webp",
+          "alt": "Painted religious figures in a sheltered recess in the rock.",
+          "caption": "Painted religious figures in a sheltered recess in the rock.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/cafe-inside-the-cave.webp",
+          "alt": "Visitors and low stone tables inside a warmly lit cave cafe.",
+          "caption": "Visitors and low stone tables inside a warmly lit cave cafe.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/daylight-at-the-cave-mouth.webp",
+          "alt": "Daylight at the cave mouth beyond low tables and visitors.",
+          "caption": "Daylight at the cave mouth beyond low tables and visitors.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/greenery-beside-the-narrow-trail.webp",
+          "alt": "A narrow red-earth trail between dense rain-wet leaves.",
+          "caption": "A narrow red-earth trail between dense rain-wet leaves.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/cleft-in-the-red-rock.webp",
+          "alt": "A deep cleft between red rock walls covered with greenery.",
+          "caption": "A deep cleft between red rock walls covered with greenery.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/cave-restaurant-gateway.webp",
+          "alt": "Visitors beneath the cave restaurant gateway above the valley.",
+          "caption": "Visitors beneath the cave restaurant gateway above the valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/wet-stone-under-the-clouds.webp",
+          "alt": "Rain-darkened stone and a railing beneath broad grey clouds.",
+          "caption": "Rain-darkened stone and a railing beneath broad grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-table-land/path-across-the-wet-plateau.webp",
+          "alt": "Visitors following a puddled path between red posts across the plateau.",
+          "caption": "Visitors following a puddled path between red posts across the plateau.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-25",
+          "location": "Table Land, Panchgani"
+        }
+      ]
+    },
+    {
+      "title": "Evening in the mist",
+      "date": "2024-08-25",
+      "location": "Panchgani",
+      "paragraphs": [
+        "Mist fills the view beyond the terrace, before warm lights pick out the roofline after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-evening/chairs-in-the-evening-mist.webp",
+          "alt": "Empty black chairs on a terrace looking into thick grey mist.",
+          "caption": "Empty black chairs on a terrace looking into thick grey mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-25-panchgani-evening/lights-along-the-roofline.webp",
+          "alt": "Warm lights tracing a stone wall and roofline after dark.",
+          "caption": "Warm lights tracing a stone wall and roofline after dark.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-25",
+          "location": "Panchgani"
+        }
+      ]
+    },
+    {
+      "title": "Morning above the valley",
+      "date": "2024-08-26",
+      "location": "Panchgani · road to Mahabaleshwar",
+      "paragraphs": [
+        "A balcony table looks out over the valley. Further along the road, a white waterfall cuts down a green hillside."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-26-panchgani-morning/morning-on-the-balcony.webp",
+          "alt": "Two travellers at a small balcony table above the green valley and water.",
+          "caption": "Two travellers at a small balcony table above the green valley and water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Panchgani"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-road/waterfall-on-the-green-hillside.webp",
+          "alt": "A long white waterfall descending a steep green hillside.",
+          "caption": "A long white waterfall descending a steep green hillside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Mahabaleshwar"
+        }
+      ]
+    },
+    {
+      "title": "Cliffs beneath the clouds",
+      "date": "2024-08-26",
+      "location": "Kate’s Point, Mahabaleshwar",
+      "paragraphs": [
+        "Green cliffs fall toward water winding through the valley. Waterfalls, wet paths and a monkey above the viewpoint sign fill the morning walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/green-cliff-in-breaking-light.webp",
+          "alt": "A green cliff above a deep forested valley beneath grey clouds.",
+          "caption": "A green cliff above a deep forested valley beneath grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/water-and-the-dam-wall.webp",
+          "alt": "A long dam wall across water beneath green ridges and rain clouds.",
+          "caption": "A long dam wall across water beneath green ridges and rain clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/grass-on-the-cliff-face.webp",
+          "alt": "Bright green grass covering the steep folds of a rocky cliff.",
+          "caption": "Bright green grass covering the steep folds of a rocky cliff.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/water-winding-between-the-hills.webp",
+          "alt": "Water winding between forested green hills beneath low clouds.",
+          "caption": "Water winding between forested green hills beneath low clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/waterfall-below-the-lookout.webp",
+          "alt": "A white waterfall dropping past dark rock and vivid green slopes.",
+          "caption": "A white waterfall dropping past dark rock and vivid green slopes.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/monkey-above-kates-point-sign.webp",
+          "alt": "A monkey perched on a stone wall above the Kate’s Point sign.",
+          "caption": "A monkey perched on a stone wall above the Kate’s Point sign.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/trees-around-the-rainy-courtyard.webp",
+          "alt": "Broad trees around a rain-soaked paved viewpoint with visitors and stalls.",
+          "caption": "Broad trees around a rain-soaked paved viewpoint with visitors and stalls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/wet-path-beneath-the-trees.webp",
+          "alt": "A rain-darkened paved path winding beneath overhanging trees.",
+          "caption": "A rain-darkened paved path winding beneath overhanging trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/lookout-on-the-green-cliff.webp",
+          "alt": "Visitors standing at the railing above a sheer green cliff.",
+          "caption": "Visitors standing at the railing above a sheer green cliff.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/together-above-the-valley.webp",
+          "alt": "Four travellers beside the viewpoint railing above a green valley.",
+          "caption": "Four travellers beside the viewpoint railing above a green valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-viewpoints/steps-through-the-trees.webp",
+          "alt": "Wet stone steps climbing between dense trees and a low wall.",
+          "caption": "Wet stone steps climbing between dense trees and a low wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Kate’s Point, Mahabaleshwar"
+        }
+      ]
+    },
+    {
+      "title": "Rain on the temple stone",
+      "date": "2024-08-26",
+      "location": "Old Mahabaleshwar",
+      "paragraphs": [
+        "The temples sit in mist. Inside, water, carved arches and dark stone walls lead to an open courtyard with moss along the roofline."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/steps-into-the-temple.webp",
+          "alt": "Wet steps leading beneath a red temple sign in the mist.",
+          "caption": "Wet steps leading beneath a red temple sign in the mist.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Old Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/stone-temple-in-the-mist.webp",
+          "alt": "A dark stone temple beside a pale rain-soaked walkway in thick mist.",
+          "caption": "A dark stone temple beside a pale rain-soaked walkway in thick mist.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Old Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/water-in-the-temple-courtyard.webp",
+          "alt": "A sunken water tank surrounded by dark stone arches and shrine railings.",
+          "caption": "A sunken water tank surrounded by dark stone arches and shrine railings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Panchganga Temple, Old Mahabaleshwar",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/arches-around-the-water.webp",
+          "alt": "A row of carved stone arches beside the temple water tank.",
+          "caption": "A row of carved stone arches beside the temple water tank.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Panchganga Temple, Old Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/rivers-on-the-stone-wall.webp",
+          "alt": "Plaques naming rivers along the dark stone wall inside the temple.",
+          "caption": "Plaques naming rivers along the dark stone wall inside the temple.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Panchganga Temple, Old Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/brass-and-stone-in-the-shrine.webp",
+          "alt": "A brass Nandi figure facing a small shrine beneath scalloped stone arches.",
+          "caption": "A brass Nandi figure facing a small shrine beneath scalloped stone arches.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Old Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/green-on-the-old-stone-temple.webp",
+          "alt": "Moss and small plants covering the stepped roof and walls of a low stone temple.",
+          "caption": "Moss and small plants covering the stepped roof and walls of a low stone temple.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Krishnabai Temple, Old Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/rain-in-the-stone-courtyard.webp",
+          "alt": "Rain-darkened steps and a small tank inside a moss-covered stone temple.",
+          "caption": "Rain-darkened steps and a small tank inside a moss-covered stone temple.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Krishnabai Temple, Old Mahabaleshwar",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-old-mahabaleshwar/carved-pillars-and-the-open-courtyard.webp",
+          "alt": "Carved stone pillars framing the open courtyard and mossy roofline.",
+          "caption": "Carved stone pillars framing the open courtyard and mossy roofline.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Krishnabai Temple, Old Mahabaleshwar"
+        }
+      ]
+    },
+    {
+      "title": "Paths disappearing into fog",
+      "date": "2024-08-26",
+      "location": "Lodwick Point, Mahabaleshwar",
+      "paragraphs": [
+        "Rain brightens the brick path beneath the trees. Near the memorial column, the railing disappears into fog."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-forest/red-bench-in-the-mist.webp",
+          "alt": "A red stone bench at the end of a wet path beneath misty trees.",
+          "caption": "A red stone bench at the end of a wet path beneath misty trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Lodwick Point trail, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-forest/brick-path-into-the-mist.webp",
+          "alt": "A rain-soaked brick path disappearing into dense mist and green trees.",
+          "caption": "A rain-soaked brick path disappearing into dense mist and green trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Lodwick Point trail, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-forest/raincoat-and-a-rainbow-umbrella.webp",
+          "alt": "A traveller in a pale raincoat beneath a rainbow-coloured umbrella on a misty brick path.",
+          "caption": "A traveller in a pale raincoat beneath a rainbow-coloured umbrella on a misty brick path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Lodwick Point trail, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-lodwick-point/column-in-the-fog.webp",
+          "alt": "A tall stone memorial column rising above a railing in thick fog.",
+          "caption": "A tall stone memorial column rising above a railing in thick fog.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Lodwick Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-lodwick-point/bare-branches-in-the-mist.webp",
+          "alt": "The bare branches of a small tree against pale fog and wet greenery.",
+          "caption": "The bare branches of a small tree against pale fog and wet greenery.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Lodwick Point, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-lodwick-point/railings-disappear-into-fog.webp",
+          "alt": "A wet path and iron railings fading into thick hilltop fog.",
+          "caption": "A wet path and iron railings fading into thick hilltop fog.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Lodwick Point, Mahabaleshwar"
+        }
+      ]
+    },
+    {
+      "title": "By the lake and running water",
+      "date": "2024-08-26",
+      "location": "Mahabaleshwar",
+      "paragraphs": [
+        "Roadside stalls and a red-roofed lakeside shelter give way to rushing water and a small arched footbridge."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-lakeside/a-roadside-drink-stall.webp",
+          "alt": "A vendor serving a customer at a small roadside drink stall.",
+          "caption": "A vendor serving a customer at a small roadside drink stall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Venna Lake area, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-lakeside/shelter-by-the-rainy-lake.webp",
+          "alt": "People under a red-roofed shelter beside the misty lake.",
+          "caption": "People under a red-roofed shelter beside the misty lake.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Venna Lake area, Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-road/walking-the-wet-road.webp",
+          "alt": "People walking along a wet tree-lined road, some in bright orange clothing.",
+          "caption": "People walking along a wet tree-lined road, some in bright orange clothing.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-river/white-water-beside-the-path.webp",
+          "alt": "Fast white water flowing beside a narrow path and metal railing.",
+          "caption": "Fast white water flowing beside a narrow path and metal railing.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-river/arched-footbridge-over-the-water.webp",
+          "alt": "A small arched footbridge over a rushing stream beneath dense green trees.",
+          "caption": "A small arched footbridge over a rushing stream beneath dense green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Mahabaleshwar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-river/rushing-water-below-the-bridge.webp",
+          "alt": "Water blurring into white ribbons between rocks below a footbridge.",
+          "caption": "Water blurring into white ribbons between rocks below a footbridge.",
+          "width": 2000,
+          "height": 1501,
+          "capturedOn": "2024-08-26",
+          "location": "Mahabaleshwar",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mahabaleshwar-river/snack-beside-the-stream.webp",
+          "alt": "A bowl of fried snacks beside the rushing stream and pedestrian bridge.",
+          "caption": "A bowl of fried snacks beside the rushing stream and pedestrian bridge.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-26",
+          "location": "Mahabaleshwar"
+        }
+      ]
+    },
+    {
+      "title": "A garden and a factory window",
+      "date": "2024-08-26",
+      "location": "Mapro Garden, Gureghar",
+      "paragraphs": [
+        "Bright planting borders the garden path. Behind the factory glass, workers prepare flatbreads."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-26-mapro-garden/greenery-around-the-garden-path.webp",
+          "alt": "Bright green planted beds and trees beside a curving garden path.",
+          "caption": "Bright green planted beds and trees beside a curving garden path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Mapro Garden, Gureghar"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-26-mapro-garden/behind-the-factory-glass.webp",
+          "alt": "Workers preparing flatbreads behind the glass of a factory display.",
+          "caption": "Workers preparing flatbreads behind the glass of a factory display.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-26",
+          "location": "Mapro Garden, Gureghar"
+        }
+      ]
+    },
+    {
+      "title": "By local train",
+      "date": "2024-08-27",
+      "location": "Pune–Lonavala railway",
+      "paragraphs": [
+        "The station roof gives way to a carriage full of hand straps and passengers. Green fields pass the open doorway."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-27-pune-to-lonavala/under-the-station-roof.webp",
+          "alt": "Travellers on the platform beneath the broad station roof.",
+          "caption": "Travellers on the platform beneath the broad station roof.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Pune–Lonavala railway"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-pune-to-lonavala/inside-the-local-train.webp",
+          "alt": "Passengers beneath rows of hand straps inside a local train.",
+          "caption": "Passengers beneath rows of hand straps inside a local train.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Pune–Lonavala railway"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-pune-to-lonavala/fields-through-the-train-door.webp",
+          "alt": "Bright green fields and grey clouds framed by the open train doorway.",
+          "caption": "Bright green fields and grey clouds framed by the open train doorway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Pune–Lonavala railway"
+        }
+      ]
+    },
+    {
+      "title": "Waterfalls beside Lonavala",
+      "date": "2024-08-27",
+      "location": "Lonavala",
+      "paragraphs": [
+        "A long row of stone arches stands beside the wet road. Nearby, visitors in raincoats gather below waterfalls on the green hillside."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-waterfalls/arches-beside-the-road.webp",
+          "alt": "A long stone structure with rounded arches beside a rain-soaked road.",
+          "caption": "A long stone structure with rounded arches beside a rain-soaked road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-waterfalls/raincoat-beneath-the-waterfall.webp",
+          "alt": "A traveller in a pale raincoat among the rocks below a broad white waterfall.",
+          "caption": "A traveller in a pale raincoat among the rocks below a broad white waterfall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-waterfalls/waterfall-and-the-green-hillside.webp",
+          "alt": "Visitors and small shelters beneath a waterfall on a green hillside.",
+          "caption": "Visitors and small shelters beneath a waterfall on a green hillside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        }
+      ]
+    },
+    {
+      "title": "Water over the rocks",
+      "date": "2024-08-27",
+      "location": "Lonavala · Bhushi Dam area",
+      "paragraphs": [
+        "Water spreads over dark rocks below the dam. Beyond the cascades, the reservoir sits between green banks and a low stone bridge."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-dam/white-water-over-the-rocks.webp",
+          "alt": "Water cascading over dark rocks below a busy lakeside dam.",
+          "caption": "Water cascading over dark rocks below a busy lakeside dam.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Bhushi Dam area, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-dam/yellow-raincoat-by-the-cascade.webp",
+          "alt": "A traveller in a yellow raincoat sitting beside the cascading water.",
+          "caption": "A traveller in a yellow raincoat sitting beside the cascading water.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Bhushi Dam area, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-lake/green-banks-and-the-old-bridge.webp",
+          "alt": "A low stone bridge and green banks beside a reservoir under heavy clouds.",
+          "caption": "A low stone bridge and green banks beside a reservoir under heavy clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Roads through the green hills",
+      "date": "2024-08-27",
+      "location": "Lonavala · Khandala",
+      "paragraphs": [
+        "A highway curves between steep hills and cloud. Monkeys sit on the lookout railing, while bright raincoats move along the wet road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-roads/highway-through-the-mist.webp",
+          "alt": "A divided highway curving between steep green hills into the mist.",
+          "caption": "A divided highway curving between steep green hills into the mist.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-viewpoints/monkeys-on-the-railing.webp",
+          "alt": "Two monkeys sitting on a lookout railing above a misty green valley.",
+          "caption": "Two monkeys sitting on a lookout railing above a misty green valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Khandala, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-viewpoints/watching-the-road-through-the-hills.webp",
+          "alt": "Two travellers looking from a railing toward the highway winding through green hills.",
+          "caption": "Two travellers looking from a railing toward the highway winding through green hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Khandala, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-roads/gateway-in-the-fog.webp",
+          "alt": "A pink and white gateway at the roadside in soft grey fog.",
+          "caption": "A pink and white gateway at the roadside in soft grey fog.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-roads/viaduct-across-the-valley.webp",
+          "alt": "A high road viaduct crossing a forested valley beneath misty hills.",
+          "caption": "A high road viaduct crossing a forested valley beneath misty hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-roads/bright-raincoats-on-the-road.webp",
+          "alt": "A group in brightly coloured raincoats walking beside the wet road.",
+          "caption": "A group in brightly coloured raincoats walking beside the wet road.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        }
+      ]
+    },
+    {
+      "title": "Temples and an evening stop",
+      "date": "2024-08-27",
+      "location": "Lonavala",
+      "paragraphs": [
+        "Drums and hanging balloons bring colour to the temple visit. Patterned steps, a bright shrine and a pink facade lead into the evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-temples/drums-under-the-shelter.webp",
+          "alt": "Young drummers with large white drums under a stone shelter.",
+          "caption": "Young drummers with large white drums under a stone shelter.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-temples/hanging-balloons-between-the-trees.webp",
+          "alt": "People hanging a line of orange and yellow balloons between trees.",
+          "caption": "People hanging a line of orange and yellow balloons between trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-temples/patterned-steps-to-the-temple.webp",
+          "alt": "Visitors climbing broad white and brown patterned steps inside the temple.",
+          "caption": "Visitors climbing broad white and brown patterned steps inside the temple.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-temples/golden-shrine-and-red-pillars.webp",
+          "alt": "A golden shrine behind a railing and red pillars, with a seated attendant.",
+          "caption": "A golden shrine behind a railing and red pillars, with a seated attendant.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-temples/pink-facade-and-palms.webp",
+          "alt": "A pink multi-storey facade with scalloped arches behind tall palms.",
+          "caption": "A pink multi-storey facade with scalloped arches behind tall palms.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-27-lonavala-evening/strawberry-ice-cream.webp",
+          "alt": "A tall glass of pink ice cream, fruit and cream on a restaurant table.",
+          "caption": "A tall glass of pink ice cream, fruit and cream on a restaurant table.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-27",
+          "location": "Lonavala"
+        }
+      ]
+    },
+    {
+      "title": "Light inside Karla Caves",
+      "date": "2024-08-28",
+      "location": "Karla Caves, Lonavala",
+      "paragraphs": [
+        "Wet steps climb to the cave courtyard. Inside, rows of pillars rise toward a ribbed ceiling, and daylight enters through the great arched window."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-28-lonavala-morning/tea-beside-the-rain.webp",
+          "alt": "Two cups and a flask on a ledge beside rain and green trees.",
+          "caption": "Two cups and a flask on a ledge beside rain and green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lonavala-cave-trail/climbing-the-stone-steps.webp",
+          "alt": "Raincoated walkers climbing steep stone steps through bright green hillside plants.",
+          "caption": "Raincoated walkers climbing steep stone steps through bright green hillside plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves trail, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/waterfall-beside-the-cave-trail.webp",
+          "alt": "Water flowing down smooth rock beneath trees beside the cave trail.",
+          "caption": "Water flowing down smooth rock beneath trees beside the cave trail.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/caves-cut-into-the-cliff.webp",
+          "alt": "Rows of cave openings cut into a broad rock face above a visitor courtyard.",
+          "caption": "Rows of cave openings cut into a broad rock face above a visitor courtyard.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/temple-roof-beneath-the-rock.webp",
+          "alt": "A small orange temple roof beneath a high dark rock overhang.",
+          "caption": "A small orange temple roof beneath a high dark rock overhang.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/carved-entrance-and-the-great-window.webp",
+          "alt": "Stone reliefs and a broad arched window above the cave entrance.",
+          "caption": "Stone reliefs and a broad arched window above the cave entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/yellow-raincoat-beneath-the-carvings.webp",
+          "alt": "A traveller in a yellow raincoat below large stone carvings at the cave entrance.",
+          "caption": "A traveller in a yellow raincoat below large stone carvings at the cave entrance.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/pillars-and-the-ribbed-ceiling.webp",
+          "alt": "Rows of stone pillars beneath a high ribbed ceiling inside the cave hall.",
+          "caption": "Rows of stone pillars beneath a high ribbed ceiling inside the cave hall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/light-from-the-high-window.webp",
+          "alt": "Daylight through the high arched window falling onto the stone cave floor.",
+          "caption": "Daylight through the high arched window falling onto the stone cave floor.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/between-the-dark-columns.webp",
+          "alt": "A traveller framed between dark columns beside a row of carved pillars.",
+          "caption": "A traveller framed between dark columns beside a row of carved pillars.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/door-and-windows-in-the-rock.webp",
+          "alt": "A barred doorway and two square windows lighting a wet rock-cut chamber.",
+          "caption": "A barred doorway and two square windows lighting a wet rock-cut chamber.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/narrow-passage-through-the-stone.webp",
+          "alt": "A narrow uneven passage cut through brown stone, lit from the far end.",
+          "caption": "A narrow uneven passage cut through brown stone, lit from the far end.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/shelter-under-the-rock-overhang.webp",
+          "alt": "The broad rock overhang above a cave terrace and metal visitor railings.",
+          "caption": "The broad rock overhang above a cave terrace and metal visitor railings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/green-valley-below-the-caves.webp",
+          "alt": "Small houses and green fields spread across the valley below the cave hillside.",
+          "caption": "Small houses and green fields spread across the valley below the cave hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-karla-caves/descending-above-the-valley.webp",
+          "alt": "Two raincoated walkers descending stone steps above the green valley and houses.",
+          "caption": "Two raincoated walkers descending stone steps above the green valley and houses.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Karla Caves, Lonavala"
+        }
+      ]
+    },
+    {
+      "title": "The climb to Lohagad",
+      "date": "2024-08-28",
+      "location": "Lohagad trail",
+      "paragraphs": [
+        "The path climbs through trees above fields and water. Higher up, the fort wall rises straight from the green-covered rock."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-28-lonavala-hills/a-peak-beyond-the-wet-road.webp",
+          "alt": "A rocky green peak rising beyond a wet road and small roadside buildings.",
+          "caption": "A rocky green peak rising beyond a wet road and small roadside buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lonavala–Lohagad road"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-trail/cloud-on-the-high-cliffs.webp",
+          "alt": "Low cloud brushing green cliffs above the roadside trees and shelters.",
+          "caption": "Low cloud brushing green cliffs above the roadside trees and shelters.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad trail"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-trail/steps-through-the-trees.webp",
+          "alt": "Wet stone steps climbing beneath trees beside a metal railing.",
+          "caption": "Wet stone steps climbing beneath trees beside a metal railing.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad trail"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-trail/wet-path-around-the-hillside.webp",
+          "alt": "A paved hillside path bordered by stone walls, trees and bright green plants.",
+          "caption": "A paved hillside path bordered by stone walls, trees and bright green plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad trail"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-trail/patchwork-fields-below-the-trail.webp",
+          "alt": "Patchwork green fields and pale water below the misty hillside.",
+          "caption": "Patchwork green fields and pale water below the misty hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad trail",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-trail/fort-wall-above-the-cliff.webp",
+          "alt": "A sheer grey fort wall above rocky cliffs and dense green plants.",
+          "caption": "A sheer grey fort wall above rocky cliffs and dense green plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad trail"
+        }
+      ]
+    },
+    {
+      "title": "Lohagad in the monsoon",
+      "date": "2024-08-28",
+      "location": "Lohagad Fort",
+      "paragraphs": [
+        "Rain darkens the gateways, cannons and stone steps. The plateau fades into fog before the clouds lift over the valley below."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/cannons-under-the-fort-walls.webp",
+          "alt": "Small cannons on a stone platform below the tall mossy fort walls.",
+          "caption": "Small cannons on a stone platform below the tall mossy fort walls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/stairway-to-the-fort-gateway.webp",
+          "alt": "Steep stone steps rising to a gateway between dark fort walls and green rock.",
+          "caption": "Steep stone steps rising to a gateway between dark fort walls and green rock.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/small-room-in-the-fort-wall.webp",
+          "alt": "A small dark doorway in a rain-soaked stone building inside the fort.",
+          "caption": "A small dark doorway in a rain-soaked stone building inside the fort.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/raincoats-under-the-gateway.webp",
+          "alt": "Two raincoated walkers climbing wet steps beneath a dark stone gateway.",
+          "caption": "Two raincoated walkers climbing wet steps beneath a dark stone gateway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/orange-benches-against-the-stone.webp",
+          "alt": "Orange benches against rain-darkened stone walls beside an arched doorway.",
+          "caption": "Orange benches against rain-darkened stone walls beside an arched doorway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/iron-ring-on-the-old-door.webp",
+          "alt": "An iron ring and projecting fittings on a heavy weathered fort door.",
+          "caption": "An iron ring and projecting fittings on a heavy weathered fort door.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/small-stone-building-on-the-plateau.webp",
+          "alt": "A small dark stone building with a rounded mossy roof on the green fort plateau.",
+          "caption": "A small dark stone building with a rounded mossy roof on the green fort plateau.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/nandi-facing-the-shrine.webp",
+          "alt": "A black Nandi figure facing a small stone shrine across a rain-soaked terrace.",
+          "caption": "A black Nandi figure facing a small stone shrine across a rain-soaked terrace.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/water-cistern-in-the-fog.webp",
+          "alt": "A broad rock-cut water cistern below the fog-covered plateau.",
+          "caption": "A broad rock-cut water cistern below the fog-covered plateau.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-lohagad-fort/passage-between-the-wall-and-the-cliff.webp",
+          "alt": "A rounded dark fort wall rising from green-covered rock.",
+          "caption": "A rounded dark fort wall rising from green-covered rock.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad Fort"
+        }
+      ]
+    },
+    {
+      "title": "Waterfalls and Bhaja Caves",
+      "date": "2024-08-28",
+      "location": "Bhaja village · Bhaja Caves",
+      "paragraphs": [
+        "Dogs rest below the waterfall and goats wander across the wet village road. Above the stalls, stone steps climb to the cave halls and their views across the fields."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-28-lonavala-hill-road/bend-in-the-green-hill-road.webp",
+          "alt": "A narrow road bending through dense green plants beneath dark clouds.",
+          "caption": "A narrow road bending through dense green plants beneath dark clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lohagad–Bhaja road"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-waterfall/dogs-below-the-waterfall.webp",
+          "alt": "Dogs resting below a stepped cascade and a waterfall on the green hillside.",
+          "caption": "Dogs resting below a stepped cascade and a waterfall on the green hillside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja waterfall"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-village/goats-on-the-rainy-road.webp",
+          "alt": "Goats crossing a wet village road beside small shops.",
+          "caption": "Goats crossing a wet village road beside small shops.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja village"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-village/hot-noodles-by-the-road.webp",
+          "alt": "A bowl of noodles on an orange saucer beside the rain-soaked road.",
+          "caption": "A bowl of noodles on an orange saucer beside the rain-soaked road.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja village"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-village/stalls-below-the-green-hillside.webp",
+          "alt": "Brightly covered roadside stalls beneath a sunny green hillside.",
+          "caption": "Brightly covered roadside stalls beneath a sunny green hillside.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja village"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-caves/stone-stairs-into-the-trees.webp",
+          "alt": "A long stone stairway climbing into trees on a bright green hillside.",
+          "caption": "A long stone stairway climbing into trees on a bright green hillside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja Caves"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-caves/arched-entrance-to-the-cave-hall.webp",
+          "alt": "A tall arched cave entrance framing the ribbed ceiling and dark hall within.",
+          "caption": "A tall arched cave entrance framing the ribbed ceiling and dark hall within.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja Caves"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-caves/pillars-along-the-rock-cut-room.webp",
+          "alt": "A row of square rock-cut pillars beside the rough stone floor.",
+          "caption": "A row of square rock-cut pillars beside the rough stone floor.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja Caves"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-caves/valley-through-the-cave-window.webp",
+          "alt": "A broad opening in the dark cave wall framing green fields and distant hills.",
+          "caption": "A broad opening in the dark cave wall framing green fields and distant hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja Caves",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-bhaja-caves/cave-balconies-and-the-great-arch.webp",
+          "alt": "Rock-cut balconies and a large arched hall entrance above stone steps.",
+          "caption": "Rock-cut balconies and a large arched hall entrance above stone steps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Bhaja Caves"
+        }
+      ]
+    },
+    {
+      "title": "Evening light on the road",
+      "date": "2024-08-28",
+      "location": "Lonavala–Mulshi road",
+      "paragraphs": [
+        "The road runs between green hills and water. Sunbeams briefly break through the clouds above the lake."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-28-road-to-mulshi/sunbeams-over-the-lake.webp",
+          "alt": "Sunbeams breaking through grey clouds above a lake and a dark hill.",
+          "caption": "Sunbeams breaking through grey clouds above a lake and a dark hill.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Lonavala–Mulshi road",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-road-to-mulshi/quiet-road-through-green-fields.webp",
+          "alt": "A narrow road winding through green fields toward cloud-covered hills.",
+          "caption": "A narrow road winding through green fields toward cloud-covered hills.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Lonavala–Mulshi road"
+        }
+      ]
+    },
+    {
+      "title": "Warm windows after dark",
+      "date": "2024-08-28",
+      "location": "Mulshi area",
+      "paragraphs": [
+        "An arched window frames the trees at dusk. Later, lamps light the garden steps and a small table beneath the stone arch."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-28-mulshi-evening/arched-window-at-dusk.webp",
+          "alt": "A round dining table and white chairs beneath a broad stone arched window at dusk.",
+          "caption": "A round dining table and white chairs beneath a broad stone arched window at dusk.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-28",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-mulshi-evening/lit-steps-between-the-plants.webp",
+          "alt": "Warm lamps lighting stone steps between dense garden plants at night.",
+          "caption": "Warm lamps lighting stone steps between dense garden plants at night.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-mulshi-evening/windows-glowing-in-the-dark.webp",
+          "alt": "Warm arched windows glowing in a steep-roofed stone building after dark.",
+          "caption": "Warm arched windows glowing in a steep-roofed stone building after dark.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-mulshi-evening/cake-at-the-window-table.webp",
+          "alt": "Chocolate cake on a floral tablecloth, with a cat beneath the warmly lit arched window.",
+          "caption": "Chocolate cake on a floral tablecloth, with a cat beneath the warmly lit arched window.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-28-mulshi-evening/cake-on-the-veranda.webp",
+          "alt": "Four travellers with a cake on the warmly lit stone veranda.",
+          "caption": "Four travellers with a cake on the warmly lit stone veranda.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-28",
+          "location": "Mulshi area"
+        }
+      ]
+    },
+    {
+      "title": "Morning beneath the stone arches",
+      "date": "2024-08-29",
+      "location": "Mulshi area",
+      "paragraphs": [
+        "Tea beneath the broad stone arch begins the morning. The house and veranda sit among trees and dense green garden plants."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-mulshi-morning/morning-tea-under-the-arch.webp",
+          "alt": "Two travellers sharing tea beneath a broad stone arch overlooking green trees.",
+          "caption": "Two travellers sharing tea beneath a broad stone arch overlooking green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-mulshi-morning/stone-house-among-the-trees.webp",
+          "alt": "A steep-roofed stone house surrounded by trees and lush garden plants.",
+          "caption": "A steep-roofed stone house surrounded by trees and lush garden plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-mulshi-morning/swing-on-the-stone-veranda.webp",
+          "alt": "A cushioned wooden swing on the stone veranda beside an arched opening.",
+          "caption": "A cushioned wooden swing on the stone veranda beside an arched opening.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Mulshi area"
+        }
+      ]
+    },
+    {
+      "title": "Lakeside roads and open views",
+      "date": "2024-08-29",
+      "location": "Mulshi–Tamhini road",
+      "paragraphs": [
+        "High water reaches the trees beside the road. Further on, the valley opens out beneath shifting clouds and patches of sunlight."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-mulshi-lakeside/tree-in-the-high-water.webp",
+          "alt": "A leafy tree standing in high water beside green hills under low clouds.",
+          "caption": "A leafy tree standing in high water beside green hills under low clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Mulshi area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-mulshi-tamhini-road/sunlit-fields-under-a-clouded-sky.webp",
+          "alt": "Patches of sunlight on green fields spread across a broad valley.",
+          "caption": "Patches of sunlight on green fields spread across a broad valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Mulshi–Tamhini road",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-mulshi-tamhini-road/road-beneath-a-rocky-peak.webp",
+          "alt": "A road curving below a steep green hill with a small rocky summit.",
+          "caption": "A road curving below a steep green hill with a small rocky summit.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Mulshi–Tamhini road"
+        }
+      ]
+    },
+    {
+      "title": "Green tracks and a waterfall stop",
+      "date": "2024-08-29",
+      "location": "Tamhini area",
+      "paragraphs": [
+        "A waterfall descends the rocky hillside. Red earth tracks cross fields that turn vivid green beneath the dark ridgeline."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-waterfalls/a-small-figure-below-the-falls.webp",
+          "alt": "A traveller standing below white water flowing down a broad rocky hillside.",
+          "caption": "A traveller standing below white water flowing down a broad rocky hillside.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-landscape/red-earth-and-green-hills.webp",
+          "alt": "A red earth track running between green fields and dark forested hills.",
+          "caption": "A red earth track running between green fields and dark forested hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-landscape/bright-green-beneath-the-storm.webp",
+          "alt": "Vivid green grass and a muddy track below dark cloud-covered ridges.",
+          "caption": "Vivid green grass and a muddy track below dark cloud-covered ridges.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Between the river rocks",
+      "date": "2024-08-29",
+      "location": "Tamhini area",
+      "paragraphs": [
+        "Smooth boulders divide the river into pools and narrow passages. The path back leads through dense woods to an open meadow."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-river/rock-pools-beneath-the-trees.webp",
+          "alt": "Water and large smooth boulders beneath trees, with visitors further upstream.",
+          "caption": "Water and large smooth boulders beneath trees, with visitors further upstream.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-river/water-beneath-the-natural-rock-gap.webp",
+          "alt": "Green water running beneath a narrow natural gap between large smooth rocks.",
+          "caption": "Green water running beneath a narrow natural gap between large smooth rocks.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-river/path-through-the-green-woods.webp",
+          "alt": "A narrow earth path between dense green trees and tangled roots.",
+          "caption": "A narrow earth path between dense green trees and tangled roots.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-landscape/open-meadow-under-dark-clouds.webp",
+          "alt": "An open bright green meadow beneath thick grey clouds and distant hills.",
+          "caption": "An open bright green meadow beneath thick grey clouds and distant hills.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        }
+      ]
+    },
+    {
+      "title": "Waterfalls along the road",
+      "date": "2024-08-29",
+      "location": "Tamhini Ghat",
+      "paragraphs": [
+        "Waterfalls thread through the forest and down broad rock faces beside the road. Spray gathers among the stones at their feet."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-waterfalls/small-cascade-in-the-trees.webp",
+          "alt": "A small white cascade flowing between rounded rocks and dense forest plants.",
+          "caption": "A small white cascade flowing between rounded rocks and dense forest plants.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-waterfalls/falls-above-the-bend-in-the-road.webp",
+          "alt": "A road curving below a green hillside streaked with waterfalls.",
+          "caption": "A road curving below a green hillside streaked with waterfalls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-waterfalls/silver-streams-on-dark-rock.webp",
+          "alt": "Several thin white streams descending a broad dark rock face.",
+          "caption": "Several thin white streams descending a broad dark rock face.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-waterfalls/spray-at-the-foot-of-the-falls.webp",
+          "alt": "White spray breaking over rocks and concrete blocks at the foot of a waterfall.",
+          "caption": "White spray breaking over rocks and concrete blocks at the foot of a waterfall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-waterfalls/woodland-cascade-through-the-branches.webp",
+          "alt": "A slender waterfall among dark rocks and leafy branches in the forest.",
+          "caption": "A slender waterfall among dark rocks and leafy branches in the forest.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        }
+      ]
+    },
+    {
+      "title": "Meadows above the gorge",
+      "date": "2024-08-29",
+      "location": "Tamhini Ghat",
+      "paragraphs": [
+        "Bright grass covers the plateau beneath layered ridges. At the lookout, sheer cliffs fall into a deep forested gorge under low cloud."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-viewpoints/green-meadow-and-a-lone-tree.webp",
+          "alt": "A lone spreading tree on a bright green meadow below layered rocky hills.",
+          "caption": "A lone spreading tree on a bright green meadow below layered rocky hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-viewpoints/hills-framed-by-the-trees.webp",
+          "alt": "Green forested ridges and small waterfalls framed by leafy branches.",
+          "caption": "Green forested ridges and small waterfalls framed by leafy branches.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-viewpoints/sitting-above-the-green-valley.webp",
+          "alt": "Two travellers sitting beneath a tree looking across the green valley.",
+          "caption": "Two travellers sitting beneath a tree looking across the green valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-viewpoints/pools-on-the-green-plateau.webp",
+          "alt": "Shallow pools and dark rocks surrounded by lush green grass.",
+          "caption": "Shallow pools and dark rocks surrounded by lush green grass.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-gorge/mist-along-the-cliff-top.webp",
+          "alt": "Low mist along the top of a sheer green and grey cliff with thin waterfalls.",
+          "caption": "Low mist along the top of a sheer green and grey cliff with thin waterfalls.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-tamhini-gorge/deep-valley-under-the-clouds.webp",
+          "alt": "A deep forested gorge between steep cliffs beneath a low ceiling of cloud.",
+          "caption": "A deep forested gorge between steep cliffs beneath a low ceiling of cloud.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini area",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "A rainbow on the return road",
+      "date": "2024-08-29",
+      "location": "Tamhini–Lonavala road · Pawna Lake",
+      "paragraphs": [
+        "A full rainbow appears above the road. Golden light slips beneath the clouds before the dam and reservoir fade into blue evening light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-29-road-to-lonavala/rainbow-above-the-road.webp",
+          "alt": "A full rainbow above a rural roadside beneath dark clouds and a patch of blue sky.",
+          "caption": "A full rainbow above a rural roadside beneath dark clouds and a patch of blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini–Lonavala road",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-road-to-lonavala/last-gold-beneath-the-clouds.webp",
+          "alt": "A low patch of golden sunlight beneath dark clouds over a rural road.",
+          "caption": "A low patch of golden sunlight beneath dark clouds over a rural road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Tamhini–Lonavala road"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-29-pawna-lake/dam-and-water-in-blue-evening-light.webp",
+          "alt": "A long dam wall and reservoir above green hills in blue evening light.",
+          "caption": "A long dam wall and reservoir above green hills in blue evening light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-29",
+          "location": "Pawna Lake"
+        }
+      ]
+    },
+    {
+      "title": "On the way to Matheran",
+      "date": "2024-08-30",
+      "location": "Road to Matheran",
+      "paragraphs": [
+        "A waterfall descends the green hillside on the approach to Matheran."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-30-road-to-matheran/waterfall-among-the-green-slopes.webp",
+          "alt": "A waterfall descending several rocky ledges between vivid green hillside plants.",
+          "caption": "A waterfall descending several rocky ledges between vivid green hillside plants.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Road to Matheran"
+        }
+      ]
+    },
+    {
+      "title": "The little railway through the trees",
+      "date": "2024-08-30",
+      "location": "Aman Lodge–Matheran railway",
+      "paragraphs": [
+        "Narrow tracks wind through dense trees. The little train links rain-darkened platforms and small station buildings."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-railway/rails-through-the-forest.webp",
+          "alt": "Narrow railway tracks curving through dense trees on a damp hillside.",
+          "caption": "Narrow railway tracks curving through dense trees on a damp hillside.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Aman Lodge–Matheran railway"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-railway/rain-on-the-station-platform.webp",
+          "alt": "Rain-darkened tracks beside a small station platform under trees.",
+          "caption": "Rain-darkened tracks beside a small station platform under trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Aman Lodge–Matheran railway"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-railway/passengers-in-the-little-train.webp",
+          "alt": "Passengers seated close together inside a small open-sided train carriage.",
+          "caption": "Passengers seated close together inside a small open-sided train carriage.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Aman Lodge–Matheran railway"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-railway/following-the-rails-between-the-trees.webp",
+          "alt": "A view from the train along narrow tracks between trees and small station buildings.",
+          "caption": "A view from the train along narrow tracks between trees and small station buildings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Aman Lodge–Matheran railway"
+        }
+      ]
+    },
+    {
+      "title": "Into the market",
+      "date": "2024-08-30",
+      "location": "Matheran",
+      "paragraphs": [
+        "Dogs wait by the station shops and horses wear bright yellow rain covers. Beyond the stone arch, umbrellas move along the red-paved market lane."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-market/dogs-on-the-station-platform.webp",
+          "alt": "Dogs standing on the wet station platform beside small shops.",
+          "caption": "Dogs standing on the wet station platform beside small shops.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-market/rainy-market-street.webp",
+          "alt": "Umbrellas and small shops along a wet red-paved market street.",
+          "caption": "Umbrellas and small shops along a wet red-paved market street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-market/yellow-covers-on-the-horses.webp",
+          "alt": "Horses in yellow rain covers beside a busy wet market lane.",
+          "caption": "Horses in yellow rain covers beside a busy wet market lane.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-market/stone-arch-over-the-market-road.webp",
+          "alt": "A tall dark stone arch above a wet road lined with shops.",
+          "caption": "A tall dark stone arch above a wet road lined with shops.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        }
+      ]
+    },
+    {
+      "title": "Forest paths and valley views",
+      "date": "2024-08-30",
+      "location": "Matheran",
+      "paragraphs": [
+        "Wet paths run beneath twisting branches and roots. Open viewpoints look across green cliffs, thin waterfalls and water in the distance."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/mist-beyond-the-trees.webp",
+          "alt": "Tree trunks and wet foliage framing pale mist over the forested valley.",
+          "caption": "Tree trunks and wet foliage framing pale mist over the forested valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/red-path-under-the-tree-canopy.webp",
+          "alt": "A broad wet red-paved path beneath a canopy of twisting trees.",
+          "caption": "A broad wet red-paved path beneath a canopy of twisting trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/muddy-trail-under-the-trees.webp",
+          "alt": "An uneven muddy trail bordered by trees, roots and green hillside plants.",
+          "caption": "An uneven muddy trail bordered by trees, roots and green hillside plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/green-slope-into-the-mist.webp",
+          "alt": "A steep vivid green slope dropping toward mist-covered ridges.",
+          "caption": "A steep vivid green slope dropping toward mist-covered ridges.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/clouds-over-the-forested-valley.webp",
+          "alt": "Low clouds hanging over a broad green forested valley.",
+          "caption": "Low clouds hanging over a broad green forested valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/moss-covered-steps.webp",
+          "alt": "Wide stone steps covered with bright green moss beneath a small tree.",
+          "caption": "Wide stone steps covered with bright green moss beneath a small tree.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/waterfall-and-the-distant-water.webp",
+          "alt": "A slender waterfall on a forested cliff above distant water under grey clouds.",
+          "caption": "A slender waterfall on a forested cliff above distant water under grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/white-streams-on-the-long-cliff.webp",
+          "alt": "Long thin waterfalls descending a broad layered cliff across the green valley.",
+          "caption": "Long thin waterfalls descending a broad layered cliff across the green valley.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/people-on-the-rocky-lookout.webp",
+          "alt": "Visitors on a rocky promontory above the forested valley under broken cloud.",
+          "caption": "Visitors on a rocky promontory above the forested valley under broken cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/riders-on-the-forest-path.webp",
+          "alt": "Two horse riders following a narrow red-earth path through dense trees.",
+          "caption": "Two horse riders following a narrow red-earth path through dense trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/roots-beside-the-path.webp",
+          "alt": "Thick twisting tree roots beside a red-earth forest path.",
+          "caption": "Thick twisting tree roots beside a red-earth forest path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/light-through-the-wet-canopy.webp",
+          "alt": "A shaft of pale light through the dark wet tree canopy.",
+          "caption": "A shaft of pale light through the dark wet tree canopy.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/a-dog-on-the-muddy-path.webp",
+          "alt": "A traveller bending to pet a dog on the muddy forest path.",
+          "caption": "A traveller bending to pet a dog on the muddy forest path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        }
+      ]
+    },
+    {
+      "title": "Light between the ridges",
+      "date": "2024-08-30",
+      "location": "Matheran",
+      "paragraphs": [
+        "Clouds shift above layered cliffs and distant ridges. Back among the trees, covered handcarts pass along the red path."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/sunlight-on-the-layered-cliff.webp",
+          "alt": "Pale sunlight falling across green ledges on a steep layered cliff.",
+          "caption": "Pale sunlight falling across green ledges on a steep layered cliff.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-market/covered-handcarts-on-the-red-path.webp",
+          "alt": "People moving blue-covered handcarts along a wet red-paved path.",
+          "caption": "People moving blue-covered handcarts along a wet red-paved path.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-viewpoints/golden-light-between-the-ridges.webp",
+          "alt": "Soft golden light between dark mountain ridges and a steep rocky silhouette.",
+          "caption": "Soft golden light between dark mountain ridges and a steep rocky silhouette.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-forest/old-gate-in-the-forest.webp",
+          "alt": "An old iron gate between red stone pillars surrounded by trees and fallen leaves.",
+          "caption": "An old iron gate between red stone pillars surrounded by trees and fallen leaves.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        }
+      ]
+    },
+    {
+      "title": "The lake before nightfall",
+      "date": "2024-08-30",
+      "location": "Charlotte Lake · Matheran market",
+      "paragraphs": [
+        "Water spills over the dam wall beside the lake. A quiet pause by the water leads back to the market lights after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-30-charlotte-lake/water-over-the-lake-spillway.webp",
+          "alt": "Water spilling over a low dam wall into a broad rocky channel.",
+          "caption": "Water spilling over a low dam wall into a broad rocky channel.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Charlotte Lake, Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-charlotte-lake/resting-by-the-water-with-a-dog.webp",
+          "alt": "A traveller sitting beside the quiet lake with a dog nearby.",
+          "caption": "A traveller sitting beside the quiet lake with a dog nearby.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-30",
+          "location": "Charlotte Lake, Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-30-matheran-evening/market-lights-after-dark.webp",
+          "alt": "Small shops lighting a wet market street beneath dark trees.",
+          "caption": "Small shops lighting a wet market street beneath dark trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-30",
+          "location": "Matheran"
+        }
+      ]
+    },
+    {
+      "title": "A misty morning before leaving",
+      "date": "2024-08-31",
+      "location": "Matheran",
+      "paragraphs": [
+        "Morning mist settles on the red-paved streets and railway. Breakfast and a last look at the painted carriages come before the journey down from the hills."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-morning/mist-on-the-morning-street.webp",
+          "alt": "Bare branches above a red-paved street and shuttered shops in morning mist.",
+          "caption": "Bare branches above a red-paved street and shuttered shops in morning mist.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-morning/red-engine-in-the-rain.webp",
+          "alt": "A red and green engine beside wet tracks and trees at Matheran station.",
+          "caption": "A red and green engine beside wet tracks and trees at Matheran station.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-morning/walking-beside-the-rails.webp",
+          "alt": "Two travellers walking beside the narrow railway beneath tall trees.",
+          "caption": "Two travellers walking beside the narrow railway beneath tall trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-breakfast/breakfast-on-a-yellow-table.webp",
+          "alt": "Puffed bread, chutney and a yellow savoury dish on a metal plate.",
+          "caption": "Puffed bread, chutney and a yellow savoury dish on a metal plate.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-breakfast/jalebi-and-crisp-snacks.webp",
+          "alt": "Jalebi and pale crisp fried snacks on a metal plate.",
+          "caption": "Jalebi and pale crisp fried snacks on a metal plate.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-morning/animals-painted-on-the-carriage.webp",
+          "alt": "Painted wildlife illustrations along the green side of a small railway carriage.",
+          "caption": "Painted wildlife illustrations along the green side of a small railway carriage.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-matheran-departure/leaving-through-the-rainy-gateway.webp",
+          "alt": "Visitors and umbrellas beneath the yellow welcome gateway on a rain-soaked road.",
+          "caption": "Visitors and umbrellas beneath the yellow welcome gateway on a rain-soaked road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Matheran"
+        }
+      ]
+    },
+    {
+      "title": "Evening at the Gateway",
+      "date": "2024-08-31",
+      "location": "Gateway of India · Mumbai",
+      "paragraphs": [
+        "Stone facades give way to the harbour-side hotel and the Gateway. Pigeons rise above the arch as visitors gather in the evening light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-31-mumbai-streets/arched-corner-building.webp",
+          "alt": "A richly detailed stone corner building above taxis and a busy Mumbai street.",
+          "caption": "A richly detailed stone corner building above taxis and a busy Mumbai street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-gateway-of-india/the-taj-palace-facade.webp",
+          "alt": "The arched white and grey facade and red dome of the Taj Mahal Palace hotel.",
+          "caption": "The arched white and grey facade and red dome of the Taj Mahal Palace hotel.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Gateway of India, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-gateway-of-india/pigeons-above-the-gateway.webp",
+          "alt": "Pigeons taking flight above the Gateway of India in soft evening light.",
+          "caption": "Pigeons taking flight above the Gateway of India in soft evening light.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Gateway of India, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-gateway-of-india/gateway-and-the-evening-crowd.webp",
+          "alt": "The broad central arch of the Gateway of India above a busy gathering of visitors.",
+          "caption": "The broad central arch of the Gateway of India above a busy gathering of visitors.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Gateway of India, Mumbai",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-gateway-of-india/together-at-the-gateway.webp",
+          "alt": "Two travellers in front of the Gateway of India in the evening crowd.",
+          "caption": "Two travellers in front of the Gateway of India in the evening crowd.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Gateway of India, Mumbai"
+        }
+      ]
+    },
+    {
+      "title": "The city lights come on",
+      "date": "2024-08-31",
+      "location": "Mumbai",
+      "paragraphs": [
+        "Arched buildings and an aquarium facade line the streets. After dark, rooflines and passing double-decker bus catch the streetlights."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-31-mumbai-streets/stone-arches-beside-the-road.webp",
+          "alt": "A stone building with rows of arched windows beside a busy street.",
+          "caption": "A stone building with rows of arched windows beside a busy street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-mumbai-streets/aquarium-facade-on-the-corner.webp",
+          "alt": "The pale geometric facade and signs of Taraporevala Aquarium beside a city pavement.",
+          "caption": "The pale geometric facade and signs of Taraporevala Aquarium beside a city pavement.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Taraporevala Aquarium, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-mumbai-evening/rooflines-lit-against-the-night.webp",
+          "alt": "Illuminated rooflines behind trees and a busy street at night.",
+          "caption": "Illuminated rooflines behind trees and a busy street at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-mumbai-evening/double-decker-under-the-streetlights.webp",
+          "alt": "A double-decker bus with lit windows at a street junction after dark.",
+          "caption": "A double-decker bus with lit windows at a street junction after dark.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Mumbai"
+        }
+      ]
+    },
+    {
+      "title": "By the sea at night",
+      "date": "2024-08-31",
+      "location": "Marine Drive, Mumbai",
+      "paragraphs": [
+        "Waves break against the rocks beneath distant city lights. People sit along the sea wall or walk the broad promenade under high clouds."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-08-31-marine-drive/waves-and-the-distant-city-lights.webp",
+          "alt": "Waves breaking against foreground rocks below a distant line of city lights.",
+          "caption": "Waves breaking against foreground rocks below a distant line of city lights.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Marine Drive, Mumbai",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-marine-drive/watching-the-sea-after-dark.webp",
+          "alt": "People sitting on the sea wall beneath high clouds and distant city lights.",
+          "caption": "People sitting on the sea wall beneath high clouds and distant city lights.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Marine Drive, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-marine-drive/a-dog-resting-on-the-promenade.webp",
+          "alt": "A dog resting its head on the pavement beside people at the waterfront.",
+          "caption": "A dog resting its head on the pavement beside people at the waterfront.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-08-31",
+          "location": "Marine Drive, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-08-31-marine-drive/night-walk-along-the-promenade.webp",
+          "alt": "People walking along a broad waterfront promenade beside illuminated city buildings.",
+          "caption": "People walking along a broad waterfront promenade beside illuminated city buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-08-31",
+          "location": "Marine Drive, Mumbai"
+        }
+      ]
+    },
+    {
+      "title": "A morning by the harbour",
+      "date": "2024-09-01",
+      "location": "Colaba · Mumbai harbour",
+      "paragraphs": [
+        "A mint-green vintage car stands beneath older city facades. By the harbour, the long hotel frontage faces the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-morning/mint-green-car-on-the-street.webp",
+          "alt": "A mint-green vintage car parked beneath trees and older city facades.",
+          "caption": "A mint-green vintage car parked beneath trees and older city facades.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-harbour/the-taj-palace-across-the-water.webp",
+          "alt": "The long white and grey facade and red domes of the Taj Mahal Palace across harbour water.",
+          "caption": "The long white and grey facade and red domes of the Taj Mahal Palace across harbour water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai harbour"
+        }
+      ]
+    },
+    {
+      "title": "Facades and a cafe stop",
+      "date": "2024-09-01",
+      "location": "Fort, Mumbai",
+      "paragraphs": [
+        "Arches, green shop signs and a clock tower mark the city walk. A small cafe brings pastel colours, coffee and a chocolate bake."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/red-bus-beneath-the-trees.webp",
+          "alt": "A red double-decker bus and black-and-yellow taxis beneath leafy city trees.",
+          "caption": "A red double-decker bus and black-and-yellow taxis beneath leafy city trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/facades-across-the-wide-road.webp",
+          "alt": "Stone and white facades with arched ground floors across a broad city road.",
+          "caption": "Stone and white facades with arched ground floors across a broad city road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/jehangir-art-gallery-entrance.webp",
+          "alt": "The recessed entrance and signs of Jehangir Art Gallery beneath a white ceiling.",
+          "caption": "The recessed entrance and signs of Jehangir Art Gallery beneath a white ceiling.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/green-signs-and-stone-arches.webp",
+          "alt": "Green shop signs beneath arched windows on an ornate stone facade.",
+          "caption": "Green shop signs beneath arched windows on an ornate stone facade.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/clock-tower-between-the-palms.webp",
+          "alt": "A carved stone clock tower framed by palm fronds and bright sky.",
+          "caption": "A carved stone clock tower framed by palm fronds and bright sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/traffic-below-the-old-city-buildings.webp",
+          "alt": "Black-and-yellow taxis and buses below tall older city buildings.",
+          "caption": "Black-and-yellow taxis and buses below tall older city buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-fort/rounded-corner-facade.webp",
+          "alt": "A pale rounded corner building with a red dome above a shaded street.",
+          "caption": "A pale rounded corner building with a red dome above a shaded street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Fort, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-cafe/pastel-colours-on-the-stairway.webp",
+          "alt": "Pastel pink and green walls around a small wooden cafe stairway.",
+          "caption": "Pastel pink and green walls around a small wooden cafe stairway.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-cafe/coffee-and-a-chocolate-bake.webp",
+          "alt": "A cup of coffee beside a square chocolate bake with a pale topping on a white plate.",
+          "caption": "A cup of coffee beside a square chocolate bake with a pale topping on a white plate.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        }
+      ]
+    },
+    {
+      "title": "Along the causeway to Haji Ali",
+      "date": "2024-09-01",
+      "location": "Haji Ali Dargah, Mumbai",
+      "paragraphs": [
+        "The causeway leads through a crowd to white carved walls and a tall minaret. Beyond the shrine, waves meet dark rocks below the distant skyline."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-haji-ali/the-dargah-at-the-end-of-the-causeway.webp",
+          "alt": "Visitors on the rocky causeway leading to the white Haji Ali Dargah complex.",
+          "caption": "Visitors on the rocky causeway leading to the white Haji Ali Dargah complex.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Haji Ali Dargah, Mumbai",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-haji-ali/green-and-pink-around-the-shrine.webp",
+          "alt": "People beside a shrine decorated with green fabric, flowers and pink trim.",
+          "caption": "People beside a shrine decorated with green fabric, flowers and pink trim.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Haji Ali Dargah, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-haji-ali/waves-below-the-city-skyline.webp",
+          "alt": "Small waves breaking on dark shore rocks with the city skyline across the water.",
+          "caption": "Small waves breaking on dark shore rocks with the city skyline across the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Haji Ali Dargah, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-haji-ali/white-minaret-under-grey-clouds.webp",
+          "alt": "A white minaret and carved facade beneath a grey clouded sky.",
+          "caption": "A white minaret and carved facade beneath a grey clouded sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Haji Ali Dargah, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-haji-ali/carved-screens-and-white-stone.webp",
+          "alt": "Intricate white carved screens and stone details on the shrine exterior.",
+          "caption": "Intricate white carved screens and stone details on the shrine exterior.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Haji Ali Dargah, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-haji-ali/musicians-beneath-the-veranda.webp",
+          "alt": "Musicians seated with instruments beneath a white covered veranda.",
+          "caption": "Musicians seated with instruments beneath a white covered veranda.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Haji Ali Dargah, Mumbai"
+        }
+      ]
+    },
+    {
+      "title": "Bandra streets and the station",
+      "date": "2024-09-01",
+      "location": "Bandra, Mumbai",
+      "paragraphs": [
+        "A decorated procession vehicle passes along the street. At the station, red roofs and a broad metal canopy shelter the platforms."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-bandra-streets/bright-procession-on-the-street.webp",
+          "alt": "A brightly decorated procession vehicle and people beside a busy city street.",
+          "caption": "A brightly decorated procession vehicle and people beside a busy city street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Bandra, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-bandra-station/red-roofs-above-the-station-entrance.webp",
+          "alt": "Red tiled roofs and a small clock tower above a busy station entrance.",
+          "caption": "Red tiled roofs and a small clock tower above a busy station entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Bandra station, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-bandra-station/sweeping-roof-above-the-platforms.webp",
+          "alt": "A broad red-roofed metal canopy over busy railway platforms.",
+          "caption": "A broad red-roofed metal canopy over busy railway platforms.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Bandra station, Mumbai",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "From the beach to the city train",
+      "date": "2024-09-01",
+      "location": "Juhu Beach · Mumbai",
+      "paragraphs": [
+        "People gather along the sandy shore as clouds darken toward evening. The city train carries the journey back through Mumbai."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-juhu-beach/people-along-the-clouded-shore.webp",
+          "alt": "People gathered along a broad sandy shore beneath heavy grey clouds.",
+          "caption": "People gathered along a broad sandy shore beneath heavy grey clouds.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Juhu Beach, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-juhu-beach/lights-along-the-shore-at-dusk.webp",
+          "alt": "People along the shore beneath dark blue clouds and a line of city lights.",
+          "caption": "People along the shore beneath dark blue clouds and a line of city lights.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Juhu Beach, Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-local-train/inside-the-city-train.webp",
+          "alt": "Rows of seats and metal poles inside a brightly lit city train carriage.",
+          "caption": "Rows of seats and metal poles inside a brightly lit city train carriage.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai local train"
+        }
+      ]
+    },
+    {
+      "title": "Cake and the streets after dark",
+      "date": "2024-09-01",
+      "location": "Mumbai",
+      "paragraphs": [
+        "A red cake, framed photographs and wooden panelling fill the last cafe stop. Outside, white facades catch the light along a narrow night street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-evening-cafe/red-cake-on-a-metal-plate.webp",
+          "alt": "A red cake with white cream on a metal plate above a printed restaurant menu.",
+          "caption": "A red cake with white cream on a metal plate above a printed restaurant menu.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-evening-cafe/photographs-above-the-cafe-counter.webp",
+          "alt": "Rows of framed photographs above a busy cafe counter and wooden panelling.",
+          "caption": "Rows of framed photographs above a busy cafe counter and wooden panelling.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-night/white-facades-after-dark.webp",
+          "alt": "White building facades and parked vehicles along a narrow city street after dark.",
+          "caption": "White building facades and parked vehicles along a narrow city street after dark.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-night/the-taj-palace-lit-at-night.webp",
+          "alt": "The Taj Mahal Palace glowing with warm lights beneath a dark sky.",
+          "caption": "The Taj Mahal Palace glowing with warm lights beneath a dark sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai",
+          "wide": true
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-night/carriage-driver-after-dark.webp",
+          "alt": "A driver seated in a horse carriage beside taxis on a lit night street.",
+          "caption": "A driver seated in a horse carriage beside taxis on a lit night street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai"
+        }
+      ]
+    },
+    {
+      "title": "The airport before midnight",
+      "date": "2024-09-01",
+      "location": "Mumbai airport",
+      "paragraphs": [
+        "Green and red light colour the sculpted terminal columns as crowds move through the hall."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-01-mumbai-airport-night/coloured-lights-in-the-terminal.webp",
+          "alt": "Crowds beneath sculpted airport columns lit in green and red.",
+          "caption": "Crowds beneath sculpted airport columns lit in green and red.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-01",
+          "location": "Mumbai airport",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Colour before departure",
+      "date": "2024-09-02",
+      "location": "Mumbai airport",
+      "paragraphs": [
+        "Painted murals and oversized masks fill the terminal with colour. Outside, an aircraft waits on the floodlit apron."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/maharashtra/2024-09-02-mumbai-airport/colourful-mural-in-the-terminal.webp",
+          "alt": "A brightly coloured painted mural on a blue wall inside the airport.",
+          "caption": "A brightly coloured painted mural on a blue wall inside the airport.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-02",
+          "location": "Mumbai airport"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-02-mumbai-airport/masks-and-colour-in-the-airport.webp",
+          "alt": "Large painted masks and densely patterned colourful artwork inside the terminal.",
+          "caption": "Large painted masks and densely patterned colourful artwork inside the terminal.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-02",
+          "location": "Mumbai airport"
+        },
+        {
+          "src": "/photos/maharashtra/2024-09-02-mumbai-airport/aircraft-on-the-night-apron.webp",
+          "alt": "The nose of a white aircraft beside floodlights on the airport apron at night.",
+          "caption": "The nose of a white aircraft beside floodlights on the airport apron at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2024-09-02",
+          "location": "Mumbai airport"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Maharashtra",
+    "latitude": 18.9,
+    "longitude": 73.4,
+    "labelPosition": [
+      330,
+      470
+    ]
+  }
+}

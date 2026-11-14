@@ -1,0 +1,710 @@
+{
+  "slug": "sikkim",
+  "title": "Sikkim",
+  "subtitle": "Gangtok in the rain, prayer flags beside Tsomgo Lake, snow at Nathu La and the river road home.",
+  "country": "India",
+  "location": "Gangtok · Tsomgo Lake · Nathu La · Teesta Valley",
+  "category": "Mountain roads and lakes",
+  "order": 23,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2022-04-01",
+  "endDate": "2022-04-03",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/sikkim/2022-04-02-tsomgo-lake/prayer-flags-over-tsomgo-lake.webp",
+    "alt": "Bright prayer flags above still lake water and snow-streaked mountains beneath low cloud.",
+    "caption": "Bright prayer flags above still lake water and snow-streaked mountains beneath low cloud.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2022-04-02",
+    "location": "Tsomgo Lake"
+  },
+  "chapters": [
+    {
+      "title": "The road into the hills",
+      "date": "2022-04-01",
+      "location": "Teesta Valley · road to Gangtok",
+      "paragraphs": [
+        "The journey follows the river into forested hills, past small shops, colourful buildings and a roadside temple."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-01-road-to-gangtok/road-beneath-the-trees.webp",
+          "alt": "A straight road beneath tall green trees on the approach to the hills.",
+          "caption": "A straight road beneath tall green trees on the approach to the hills.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-01",
+          "location": "Road to Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-road-to-gangtok/small-roadside-shop.webp",
+          "alt": "A small yellow roadside shop crowded with hanging packets and bright signs.",
+          "caption": "A small yellow roadside shop crowded with hanging packets and bright signs.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-01",
+          "location": "Road to Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-teesta-valley-road/water-and-the-green-banks.webp",
+          "alt": "Muddy river water beside broad stony banks and green hills.",
+          "caption": "Muddy river water beside broad stony banks and green hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "Teesta Valley road"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-teesta-valley-road/colourful-buildings-beyond-the-bridge.webp",
+          "alt": "Black and yellow bridge railings beside brightly coloured hillside buildings.",
+          "caption": "Black and yellow bridge railings beside brightly coloured hillside buildings.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "Teesta Valley road"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-road-to-gangtok/street-in-the-hill-town.webp",
+          "alt": "A narrow street between hillside buildings and a yellow bus.",
+          "caption": "A narrow street between hillside buildings and a yellow bus.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "Road to Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-road-to-gangtok/bright-temple-beside-the-road.webp",
+          "alt": "A red and yellow temple facade with flags beside the hillside road.",
+          "caption": "A red and yellow temple facade with flags beside the hillside road.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "Road to Gangtok"
+        }
+      ]
+    },
+    {
+      "title": "Gangtok from the balcony",
+      "date": "2022-04-01",
+      "location": "Gangtok",
+      "paragraphs": [
+        "Buildings climb the hillside beneath an overcast evening sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-01-gangtok/buildings-stepping-down-the-hill.webp",
+          "alt": "Closely packed buildings stepping down a steep hillside into pale blue haze.",
+          "caption": "Closely packed buildings stepping down a steep hillside into pale blue haze.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "Gangtok",
+          "wide": true
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-gangtok/together-above-the-hillside-town.webp",
+          "alt": "Two travellers beside a balcony railing above the hillside town.",
+          "caption": "Two travellers beside a balcony railing above the hillside town.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "Gangtok"
+        }
+      ]
+    },
+    {
+      "title": "Cafe tables and evening streets",
+      "date": "2022-04-01",
+      "location": "MG Road, Gangtok",
+      "paragraphs": [
+        "A cafe stop gives way to bright shopfronts, market stalls and reflections on the wet pedestrian street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/lights-on-the-cafe-building.webp",
+          "alt": "Coloured lights and cafe signs above the busy evening street.",
+          "caption": "Coloured lights and cafe signs above the busy evening street.",
+          "width": 1334,
+          "height": 2000,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/cups-on-the-cafe-table.webp",
+          "alt": "Five glasses of warm and cold drinks on a cafe table.",
+          "caption": "Five glasses of warm and cold drinks on a cafe table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/wooden-walls-and-empty-tables.webp",
+          "alt": "Wooden walls, framed pictures and dark chairs inside the warmly lit cafe.",
+          "caption": "Wooden walls, framed pictures and dark chairs inside the warmly lit cafe.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/a-plate-at-the-cafe.webp",
+          "alt": "Eggs, toast, sausages and potatoes on a cafe plate.",
+          "caption": "Eggs, toast, sausages and potatoes on a cafe plate.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/muffin-on-a-white-plate.webp",
+          "alt": "A golden muffin on a small white plate at the table.",
+          "caption": "A golden muffin on a small white plate at the table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/shop-lights-on-wet-paving.webp",
+          "alt": "Bright shop lights reflected on the wet pedestrian street after dark.",
+          "caption": "Bright shop lights reflected on the wet pedestrian street after dark.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-01-mg-road/colours-at-the-market-stall.webp",
+          "alt": "Visitors browsing a stall filled with colourful hanging goods.",
+          "caption": "Visitors browsing a stall filled with colourful hanging goods.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-01",
+          "location": "MG Road, Gangtok"
+        }
+      ]
+    },
+    {
+      "title": "Up through the mountain cloud",
+      "date": "2022-04-02",
+      "location": "Gangtok · road to Tsomgo and Nathu La",
+      "paragraphs": [
+        "Morning clouds drift past the buildings. Higher along the road are prayer flags, a small cafe and dogs beside the mountain settlement."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-02-gangtok-morning/clouds-below-the-balcony.webp",
+          "alt": "Clouds drifting below the hillside buildings and trees in the morning.",
+          "caption": "Clouds drifting below the hillside buildings and trees in the morning.",
+          "width": 1334,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-gangtok-morning/camera-at-the-balcony.webp",
+          "alt": "A traveller photographing the hillside town from a balcony.",
+          "caption": "A traveller photographing the hillside town from a balcony.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-road-to-tsomgo/momos-on-the-mountain-road.webp",
+          "alt": "A bowl of pale dumplings with orange sauce held beside a misty mountain road.",
+          "caption": "A bowl of pale dumplings with orange sauce held beside a misty mountain road.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Road to Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-road-to-tsomgo/prayer-flags-across-the-road.webp",
+          "alt": "Lines of prayer flags over a misty mountain road beside a broad tree.",
+          "caption": "Lines of prayer flags over a misty mountain road beside a broad tree.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Road to Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-road-to-tsomgo/dog-among-the-stones.webp",
+          "alt": "A black and tan dog looking out from among pale roadside stones.",
+          "caption": "A black and tan dog looking out from among pale roadside stones.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Road to Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-road-to-tsomgo/a-dog-on-the-misty-road.webp",
+          "alt": "A dog on a damp road beside simple buildings beneath a cloud-covered mountain.",
+          "caption": "A dog on a damp road beside simple buildings beneath a cloud-covered mountain.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Road to Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-road-to-tsomgo/cups-on-the-checked-cloth.webp",
+          "alt": "Two cups on a blue-and-white checked tablecloth inside a small roadside cafe.",
+          "caption": "Two cups on a blue-and-white checked tablecloth inside a small roadside cafe.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Road to Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-road-to-nathu-la/lake-between-the-rocky-mountains.webp",
+          "alt": "A pale lake between bare rocky mountains beneath low cloud.",
+          "caption": "A pale lake between bare rocky mountains beneath low cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Road to Nathu La"
+        }
+      ]
+    },
+    {
+      "title": "Snow and low cloud at Nathu La",
+      "date": "2022-04-02",
+      "location": "Nathu La",
+      "paragraphs": [
+        "Lines of taxis curve around the snowy slopes, and visitors gather by the pass sign in thick cloud."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-02-nathu-la/taxis-on-the-snowy-road.webp",
+          "alt": "A line of taxis on a winding mountain road between banks of old snow.",
+          "caption": "A line of taxis on a winding mountain road between banks of old snow.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Nathu La"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-nathu-la/white-monument-under-blue-sky.webp",
+          "alt": "A white monument and visitors below a rocky ridge and a patch of blue sky.",
+          "caption": "A white monument and visitors below a rocky ridge and a patch of blue sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Nathu La"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-nathu-la/red-building-in-the-mist.webp",
+          "alt": "A red building and upright flags above patches of snow in thick mountain mist.",
+          "caption": "A red building and upright flags above patches of snow in thick mountain mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Nathu La"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-nathu-la/a-pause-in-the-snow.webp",
+          "alt": "A traveller sitting on a bank of snow beside a covered mountain walkway.",
+          "caption": "A traveller sitting on a bank of snow beside a covered mountain walkway.",
+          "width": 1126,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Nathu La"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-nathu-la/together-at-the-nathu-la-sign.webp",
+          "alt": "Two travellers beside the yellow welcome sign at Nathu La in the mist.",
+          "caption": "Two travellers beside the yellow welcome sign at Nathu La in the mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Nathu La"
+        }
+      ]
+    },
+    {
+      "title": "The shrine in the mist",
+      "date": "2022-04-02",
+      "location": "Baba Harbhajan Singh shrine area",
+      "paragraphs": [
+        "Hot noodles, hanging bells and red-roofed buildings mark a stop at the shrine before the return past snow-lined walkways."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-02-baba-harbhajan-shrine/painted-gateway-in-the-cloud.webp",
+          "alt": "A brightly painted gateway above cars beneath thick mountain cloud.",
+          "caption": "A brightly painted gateway above cars beneath thick mountain cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Baba Harbhajan Singh shrine area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-baba-harbhajan-shrine/hot-noodles-in-the-cold.webp",
+          "alt": "Five foil bowls of hot noodles during a mountain stop.",
+          "caption": "Five foil bowls of hot noodles during a mountain stop.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Baba Harbhajan Singh shrine area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-baba-harbhajan-shrine/golden-bust-on-the-plinth.webp",
+          "alt": "A golden bust on a dark stone plinth beside the shrine complex.",
+          "caption": "A golden bust on a dark stone plinth beside the shrine complex.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Baba Harbhajan Singh shrine area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-baba-harbhajan-shrine/flowers-around-the-shrine.webp",
+          "alt": "A garlanded statue in a small blue-walled shrine.",
+          "caption": "A garlanded statue in a small blue-walled shrine.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Baba Harbhajan Singh shrine area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-baba-harbhajan-shrine/bells-above-the-misty-courtyard.webp",
+          "alt": "Hanging bells above visitors and red-roofed pavilions in the mist.",
+          "caption": "Hanging bells above visitors and red-roofed pavilions in the mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Baba Harbhajan Singh shrine area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-baba-harbhajan-shrine/red-roofs-around-the-wet-courtyard.webp",
+          "alt": "Red-roofed pavilions around a wet shrine courtyard in mountain mist.",
+          "caption": "Red-roofed pavilions around a wet shrine courtyard in mountain mist.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Baba Harbhajan Singh shrine area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-mountain-road/snow-beside-the-covered-path.webp",
+          "alt": "Visitors under a long covered walkway beside rough banks of snow.",
+          "caption": "Visitors under a long covered walkway beside rough banks of snow.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Mountain road near Baba Harbhajan Singh shrine"
+        }
+      ]
+    },
+    {
+      "title": "Along Tsomgo Lake",
+      "date": "2022-04-02",
+      "location": "Tsomgo Lake",
+      "paragraphs": [
+        "Snow streaks the slopes above the dark water. Yaks wait beside the lakeside path and prayer wheels line a yellow wall."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-lake/bright-saddle-on-a-black-yak.webp",
+          "alt": "A black yak wearing an ornate saddle and bright red tassels beside the lake.",
+          "caption": "A black yak wearing an ornate saddle and bright red tassels beside the lake.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-lake/snow-streaks-above-the-water.webp",
+          "alt": "Thin strips of snow on dark mountain slopes above the still lake.",
+          "caption": "Thin strips of snow on dark mountain slopes above the still lake.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-lake/the-lake-beneath-the-rocky-ridge.webp",
+          "alt": "A long grey lake beneath rocky snow-streaked slopes fading into low clouds.",
+          "caption": "A long grey lake beneath rocky snow-streaked slopes fading into low clouds.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo Lake",
+          "wide": true
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-lake/friends-beside-the-lake.webp",
+          "alt": "Four travellers sitting together beside the mountain lake.",
+          "caption": "Four travellers sitting together beside the mountain lake.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-lake/yak-resting-by-the-path.webp",
+          "alt": "A black and white yak resting on the ground with bright red tassels on its horns.",
+          "caption": "A black and white yak resting on the ground with bright red tassels on its horns.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo Lake"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-lake/prayer-wheels-along-the-yellow-wall.webp",
+          "alt": "A row of prayer wheels along a bright yellow wall beside the lake.",
+          "caption": "A row of prayer wheels along a bright yellow wall beside the lake.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo Lake"
+        }
+      ]
+    },
+    {
+      "title": "Above the lake",
+      "date": "2022-04-02",
+      "location": "Tsomgo ropeway",
+      "paragraphs": [
+        "The cable car climbs through low cloud, opening views of the lake, its small settlement and the roads winding through the valley."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-ropeway/looking-out-from-the-cable-car.webp",
+          "alt": "Travellers looking through the windows of a small cable car above the lake.",
+          "caption": "Travellers looking through the windows of a small cable car above the lake.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo ropeway"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-ropeway/green-cabin-in-the-clouds.webp",
+          "alt": "A green cable car suspended above a rocky mountainside in low cloud.",
+          "caption": "A green cable car suspended above a rocky mountainside in low cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo ropeway"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-ropeway/friends-above-the-clouds.webp",
+          "alt": "Four travellers sitting together on a rocky ledge facing thick mountain mist.",
+          "caption": "Four travellers sitting together on a rocky ledge facing thick mountain mist.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo ropeway"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-ropeway/snow-among-the-high-rocks.webp",
+          "alt": "Patches of snow between rough high-altitude rocks fading into mist.",
+          "caption": "Patches of snow between rough high-altitude rocks fading into mist.",
+          "width": 1334,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo ropeway"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-ropeway/village-and-lake-from-above.webp",
+          "alt": "A small lakeside settlement below steep rocky hills and low clouds.",
+          "caption": "A small lakeside settlement below steep rocky hills and low clouds.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo ropeway",
+          "wide": true
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-tsomgo-ropeway/roads-winding-through-the-valley.webp",
+          "alt": "Mountain roads winding through a rocky valley below hanging cable lines.",
+          "caption": "Mountain roads winding through a rocky valley below hanging cable lines.",
+          "width": 2000,
+          "height": 1334,
+          "capturedOn": "2022-04-02",
+          "location": "Tsomgo ropeway"
+        }
+      ]
+    },
+    {
+      "title": "Back at the dinner table",
+      "date": "2022-04-02",
+      "location": "Gangtok",
+      "paragraphs": [
+        "A metal thali, a tall chocolate drink and a small rustic display close the mountain day."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-02-gangtok/rice-and-small-bowls.webp",
+          "alt": "Rice and small bowls of curries on a round metal dinner tray.",
+          "caption": "Rice and small bowls of curries on a round metal dinner tray.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-02",
+          "location": "Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-gangtok/chocolate-drink-at-dinner.webp",
+          "alt": "A tall chocolate drink topped with small chocolate pieces beside dinner dishes.",
+          "caption": "A tall chocolate drink topped with small chocolate pieces beside dinner dishes.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-02-gangtok/copper-and-wicker-by-the-table.webp",
+          "alt": "Copper vessels and woven baskets arranged beside a small indoor display.",
+          "caption": "Copper vessels and woven baskets arranged beside a small indoor display.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-02",
+          "location": "Gangtok"
+        }
+      ]
+    },
+    {
+      "title": "A rainy morning on MG Road",
+      "date": "2022-04-03",
+      "location": "MG Road, Gangtok",
+      "paragraphs": [
+        "Umbrellas pass between colourful buildings and street lamps reflected in the rain-darkened paving."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-03-mg-road/rain-around-the-street-statue.webp",
+          "alt": "A street statue and green planting beside the rain-darkened pedestrian street.",
+          "caption": "A street statue and green planting beside the rain-darkened pedestrian street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-03",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-mg-road/umbrellas-in-the-morning-rain.webp",
+          "alt": "People walking under umbrellas along the wet pedestrian street.",
+          "caption": "People walking under umbrellas along the wet pedestrian street.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-03",
+          "location": "MG Road, Gangtok"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-mg-road/reflections-under-the-street-lamps.webp",
+          "alt": "Colourful buildings and curved street lamps reflected in wet paving.",
+          "caption": "Colourful buildings and curved street lamps reflected in wet paving.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-03",
+          "location": "MG Road, Gangtok",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Back through the river valley",
+      "date": "2022-04-03",
+      "location": "Teesta Valley",
+      "paragraphs": [
+        "Forested hills and low cloud follow the road down. On the stony riverbank, inflatable rafts wait beside the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-03-teesta-valley/settlements-below-the-misty-hills.webp",
+          "alt": "Small buildings spread across a green valley beneath low cloud.",
+          "caption": "Small buildings spread across a green valley beneath low cloud.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-03",
+          "location": "Teesta Valley"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-teesta-valley/clouds-over-the-forest.webp",
+          "alt": "Low clouds drifting above densely wooded hills.",
+          "caption": "Low clouds drifting above densely wooded hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-03",
+          "location": "Teesta Valley"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-teesta-valley/rafts-on-the-riverbank.webp",
+          "alt": "Blue and red inflatable rafts resting on a rocky riverbank below forested hills.",
+          "caption": "Blue and red inflatable rafts resting on a rocky riverbank below forested hills.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-03",
+          "location": "Teesta Valley"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-teesta-valley/carrying-a-raft-to-the-water.webp",
+          "alt": "People carrying a red raft across a stony riverbank toward the water.",
+          "caption": "People carrying a red raft across a stony riverbank toward the water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-03",
+          "location": "Teesta Valley"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-teesta-valley/concrete-bridge-over-the-river.webp",
+          "alt": "A tall concrete bridge crossing a broad river between green hills.",
+          "caption": "A tall concrete bridge crossing a broad river between green hills.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-03",
+          "location": "Teesta Valley"
+        }
+      ]
+    },
+    {
+      "title": "Waiting for the train",
+      "date": "2022-04-03",
+      "location": "Siliguri area · New Jalpaiguri",
+      "paragraphs": [
+        "A brief pause by the station approach is followed by the busy platform at New Jalpaiguri."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/sikkim/2022-04-03-siliguri-area/a-dog-by-the-station.webp",
+          "alt": "A traveller bending down beside a small dog on a paved station approach.",
+          "caption": "A traveller bending down beside a small dog on a paved station approach.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-04-03",
+          "location": "Siliguri area"
+        },
+        {
+          "src": "/photos/sikkim/2022-04-03-new-jalpaiguri/waiting-on-the-platform.webp",
+          "alt": "Travellers waiting with their bags beneath a New Jalpaiguri platform sign.",
+          "caption": "Travellers waiting with their bags beneath a New Jalpaiguri platform sign.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-04-03",
+          "location": "New Jalpaiguri station"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Sikkim",
+    "latitude": 27.33,
+    "longitude": 88.61,
+    "labelPosition": [
+      885,
+      220
+    ]
+  }
+}
