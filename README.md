@@ -56,7 +56,7 @@ Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek.
 **Singapore** adds **175 original photographs** in **47 dated sections** from
 **15 July 2019–18 October 2023**, covering river walks, Chinatown, Little India,
 the Botanic Gardens, campus life, the Southern Ridges and coastal visits.
-**chhattishgadh** adds **134 original photographs** in **22 dated sections** from
+**Andhra Pradesh and Chhattisgarh** adds **134 original photographs** in **22 dated sections** from
 **4–8 January 2026**, following Visakhapatnam and Araku into Bastar,
 Kanger Valley, Dantewada, Barsur and Chitrakote.
 The site contains **21 albums across 15 countries**.
@@ -910,9 +910,9 @@ See [GitHub’s Pages instructions](https://docs.github.com/en/pages/getting-sta
 and [custom workflow guide](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
 
-## Chhattishgadh album
+## Andhra Pradesh and Chhattisgarh album
 
-The requested **chhattishgadh** album contains **134 photographs** in **22 dated
+The requested **Andhra Pradesh and Chhattisgarh** album contains **134 photographs** in **22 dated
 sections**, captured **4–8 January 2026**. It follows Visakhapatnam, the train to
 Araku, Chaparai, Araku Pinery, Padmapuram, the museums and coffee trail, Borra
 Caves, Tirathgarh and Kanger Valley, Dantewada, Barsur, Saathdhara and Chitrakote.
@@ -957,3 +957,10 @@ also blocks the preview server's socket. Run `npm run dev` in an environment
 that permits local preview. Album content, the selection manifest, exporter
 support and documentation are prepared for the owner to commit and push;
 WebP exports remain ignored by Git.
+
+
+The owner subsequently ran `photos:check -- chhattishgadh` successfully:
+**134 matching files and zero differences**. The album's R2 upload is verified.
+The uploader now uses `--s3-no-head` during copying to avoid the unsupported
+version-specific HEAD request made by older rclone builds. Its separate full
+checksum check remains required and must pass before upload reports success.

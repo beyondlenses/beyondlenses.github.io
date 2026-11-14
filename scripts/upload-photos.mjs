@@ -66,6 +66,9 @@ export async function uploadPhotos({ projectRoot = root, slugs = [], planOnly = 
     // currently selected WebP files, including each cover exactly once.
     await runRclone([
       'copy', plan.publicRoot, plan.remote, ...common, '--checksum',
+      // Older rclone versions HEAD the returned object version, which R2
+      // rejects with 501. The separate full checksum check below still runs.
+      '--s3-no-head',
       '--metadata-set', 'content-type=image/webp',
       '--metadata-set', 'cache-control=public,max-age=86400',
       '--stats', '10s', '--stats-one-line', '--stats-log-level', 'NOTICE',
