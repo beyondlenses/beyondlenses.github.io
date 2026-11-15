@@ -147,7 +147,7 @@ The panel preserves newest-photo-first order. Old individual country map hashes
 open this regional view when JavaScript is available; country labels and
 album URLs remain intact.
 
-Canada’s view frames Vancouver and its eastern destinations. On phones the world map fits the viewport and supports pinch zoom, panning
+Canada’s view frames Vancouver and its eastern destinations. On phones the world map opens at 150% zoom and supports pinch zoom, panning
 and Fit/reset controls. Compact album thumbnails with location names sit
 below the map. Hovering or focusing an album highlights its map
 marker and cover card together. Reduced motion preferences disable the
@@ -1120,7 +1120,7 @@ with a socket permission error and Chrome cannot open its crash-reporting
 socket. Run `npm run dev` locally to review the galleries, menus and viewer.
 
 
-The mobile homepage now shows the whole world map without sideways scrolling,
+The mobile homepage now opens with an enlarged world map inside its fixed frame,
 followed directly by a dense grid of album thumbnails and location labels.
 Five columns (four on the narrowest phones) replace the long full-card list.
 The full album names and locations remain available to assistive technology.
@@ -1129,8 +1129,11 @@ keeps focus on the visible album grid, and entering the compact layout clears
 any desktop continent filter so every album remains reachable.
 
 The map supports local two-finger pinch zoom, panning when zoomed, keyboard
-zoom/pan, zoom buttons and Fit. A normal one-finger swipe scrolls the page at
-the default zoom; dragging or pinching cannot accidentally open a destination.
+zoom/pan, zoom buttons and Fit. Mobile starts at 150% with one-finger panning;
+Fit reveals the whole world and allows normal one-finger page scrolling again.
+Desktop still starts with the whole world visible. Selecting a destination keeps
+its existing country framing; returning to the world restores the larger mobile
+view. Dragging or pinching cannot accidentally open a destination.
 The map also fits short landscape screens. Tests exercise the gesture controller,
 zoom anchoring and bounds, click suppression, keyboard/reset controls, mobile
 focus, compact album labels, directional arrow visibility and photo/caption

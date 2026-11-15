@@ -25,7 +25,11 @@ export function initializeAtlasZoom(root = document) {
   const map = atlas.querySelector('.atlas-map');
   const controls = [...atlas.querySelectorAll('[data-map-zoom]')];
   const status = atlas.querySelector('[data-map-zoom-status]');
-  let view = initialAtlasView();
+  const compact = globalThis.matchMedia?.('(max-width: 700px), (max-height: 500px) and (pointer: coarse)');
+  const openingView = () => compact?.matches && !atlas.classList.contains('is-country')
+    ? pinchAtlas(initialAtlasView(), 1.5, { x: .5, y: .5 })
+    : initialAtlasView();
+  let view = openingView();
   let gesture = null;
   let lastMove = 0;
   let pending = false;
@@ -40,7 +44,8 @@ export function initializeAtlasZoom(root = document) {
   const schedule = () => {
     if (!pending) { pending = true; requestAnimationFrame(paint); }
   };
-  const reset = () => { view = initialAtlasView(); schedule(); };
+  const reset = () => { view = openingView(); schedule(); };
+  compact?.addEventListener('change', reset);
   const point = (touch) => {
     const rect = map.getBoundingClientRect();
     // SVG meet scaling can leave side gutters on a short landscape phone.
