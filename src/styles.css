@@ -111,6 +111,10 @@ em { font-weight: 400; }
 .filters button { flex-shrink: 0; white-space: nowrap; appearance: none; border: 0; border-bottom: 2px solid transparent; background: transparent; padding: 0 0 15px; font-size: 12px; color: var(--muted); }
 .filters button[aria-pressed="true"] { color: var(--ink); border-color: var(--ink); }
 .filters sup { margin-left: 5px; font-size: 8px; }
+.album-regions { display: grid; gap: 64px; }
+.album-region-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 20px; border-bottom: 1px solid var(--line); padding-bottom: 14px; margin-bottom: 28px; }
+.album-region-heading h3 { font: 400 32px/1.2 var(--serif); letter-spacing: -.03em; }
+.album-region-heading > span { color: var(--muted); font-size: 11px; }
 .story-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 54px 32px; }
 .card-link { display: block; }
 .card-location, .atlas-zoom-controls { display: none; }
@@ -121,7 +125,7 @@ em { font-weight: 400; }
 .card-arrow { position: absolute; right: 16px; bottom: 16px; display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: var(--paper); }
 .card-arrow svg { width: 21px; height: 21px; }
 .card-meta { display: flex; justify-content: space-between; gap: 12px; margin-block: 20px 9px; font-size: 9px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.story-card h3 { font: 400 clamp(28px, 3vw, 42px)/1.2 var(--serif); letter-spacing: -.035em; }
+.story-card h4 { margin: 0; font: 400 clamp(28px, 3vw, 42px)/1.2 var(--serif); letter-spacing: -.035em; }
 .story-card p { color: var(--muted); font-size: 12px; margin-top: 9px; }
 .story-card .card-dates { font-size: 10px; margin-block: 0 12px; }
 .sample-note { margin-top: 45px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 11px; color: var(--muted); }
@@ -399,6 +403,10 @@ figcaption { display: flex; flex-wrap: wrap; align-items: baseline; justify-cont
   .atlas-footnote > span { display: none; }
   .home-page .journal { width: calc(100% - 24px); padding-block: 14px 26px; }
   .home-page .section-topline, .home-page .journal-heading, .home-page .filters { display: none; }
+  .home-page .album-regions { display: grid; gap: 18px; }
+  .home-page .album-region-heading { padding-bottom: 6px; margin-bottom: 9px; }
+  .home-page .album-region-heading h3 { font: 500 12px/1.4 var(--sans); letter-spacing: .06em; }
+  .home-page .album-region-heading > span { font-size: 10px; }
   .home-page .story-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px 6px; }
   .home-page .card-link { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 3px 0; min-height: 72px; }
   .home-page .card-image { flex: 0 0 42px; width: 42px; height: 42px; aspect-ratio: 1; border-radius: 50%; outline: 1px solid #9b443238; outline-offset: 2px; }

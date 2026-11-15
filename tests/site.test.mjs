@@ -17,14 +17,18 @@ test('all trip content is valid without a featured story setting', () => {
   assert.equal(content.site.featuredTrip, undefined);
 });
 
-test('albums use the latest selected photo date throughout the journal and map panels', () => {
+test('albums use the latest selected photo date within journal regions and map panels', () => {
   assert.deepEqual(content.trips.slice(0, 4).map(({ slug }) => slug), ['spiti', 'finland', 'portugal', 'darjeeling' ]);
   const dates = content.trips.map((trip) => allPhotos(trip).map(({ capturedOn }) => capturedOn).filter(Boolean).sort().at(-1));
   assert.ok(dates.every(Boolean));
   assert.deepEqual(dates, [...dates].sort().reverse());
   const home = renderHome(content.site, content.trips);
-  const journal = home.split(/<div class="story-grid"[^>]*>/)[1].split('</section>')[0];
-  assert.deepEqual([...journal.matchAll(/class="card-link" href="\/stories\/([^/]+)\//g)].map((match) => match[1]), content.trips.map(({ slug }) => slug));
+  const regions = [...home.matchAll(/<section class="album-region" data-album-region="([^"]+)"[\s\S]*?<\/section>/g)];
+  assert.equal(regions.length, 5);
+  for (const [html, region] of regions) {
+    const expected = content.trips.filter((trip) => (trip.country === 'India' ? 'India' : continentForCountry(trip.country)) === region);
+    assert.deepEqual([...html.matchAll(/class="card-link" href="\/stories\/([^/]+)\//g)].map((match) => match[1]), expected.map(({ slug }) => slug));
+  }
   for (const country of groupAtlasCountries(content.trips)) {
     const panel = home.split(`id="atlas-country-${country.id}"`)[1].split('</section>')[0];
     assert.deepEqual([...panel.matchAll(/data-atlas-album="([^"]+)"/g)].map((match) => match[1]), content.trips.filter((trip) => country.trips.includes(trip)).map(({ slug }) => slug));
@@ -150,16 +154,24 @@ test('Asia South-east groups Singapore, Vietnam and Malaysia while preserving co
   for (const { slug } of trips) assert.ok(!home.includes(`id="atlas-country-${slug}"`));
 });
 
-test('the journal offers continent filters while cards retain their country labels', () => {
+test('the journal separates India from Asia and groups albums under matching region filters', () => {
   const { site, trips } = fresh();
   const home = renderHome(site, trips);
   const filters = home.match(/<div class="filters"[\s\S]*?<\/div>/)[0];
-  const continents = new Set(trips.map((trip) => continentForCountry(trip.country)));
-  assert.ok(filters.includes('aria-label="Filter stories by continent"'));
-  assert.deepEqual([...filters.matchAll(/data-filter="([^"]+)"/g)].map((match) => match[1]), ['all', ...continents]);
+  const regions = ['India', 'Asia', 'Europe', 'North America', 'Oceania'];
+  assert.ok(filters.includes('aria-label="Filter stories by region"'));
+  assert.deepEqual([...filters.matchAll(/data-filter="([^"]+)"/g)].map((match) => match[1]), ['all', ...regions]);
+  assert.deepEqual([...home.matchAll(/data-album-region="([^"]+)"/g)].map((match) => match[1]), regions);
+  for (const region of regions) {
+    const section = home.split(`data-album-region="${region}"`)[1].split('</section>')[0];
+    const expected = trips.filter((trip) => (trip.country === 'India' ? 'India' : continentForCountry(trip.country)) === region);
+    assert.ok(filters.includes(`data-filter="${region}" aria-pressed="false">${region} <sup>${String(expected.length).padStart(2, '0')}</sup>`));
+    assert.equal((section.match(/class="card-link"/g) || []).length, expected.length);
+    for (const trip of trips) assert.equal(section.includes(`href="/stories/${trip.slug}/"`), expected.includes(trip));
+  }
   assert.ok(!home.includes('data-country='));
   for (const trip of trips) {
-    assert.ok(home.includes(`data-continent="${continentForCountry(trip.country)}"`));
+    assert.ok(home.includes(`data-continent="${trip.country === 'India' ? 'India' : continentForCountry(trip.country)}"`));
     assert.ok(home.includes(`/ ${escapeHtml(trip.country)}</span>`));
   }
 });

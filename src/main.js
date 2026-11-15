@@ -94,10 +94,12 @@ const filterBar = document.querySelector('.filters');
 if (filterBar) {
   filterBar.hidden = false;
   const cards = [...document.querySelectorAll('[data-continent]')];
+  const regions = [...document.querySelectorAll('[data-album-region]')];
   const status = document.querySelector('[data-filter-status]');
   const applyFilter = (continent) => {
     for (const item of filterBar.querySelectorAll('button')) item.setAttribute('aria-pressed', String(item.dataset.filter === continent));
     for (const card of cards) card.hidden = continent !== 'all' && card.dataset.continent !== continent;
+    for (const region of regions) region.hidden = continent !== 'all' && region.dataset.albumRegion !== continent;
     const count = cards.filter((card) => !card.hidden).length;
     status.textContent = `${count} ${count === 1 ? 'story' : 'stories'} shown${continent === 'all' ? '' : ` from ${continent}`}.`;
   };

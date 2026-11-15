@@ -119,7 +119,7 @@ album locations and shows the album cover cards. **World map** and **Escape**
 return to the overview and restore keyboard focus.
 
 Albums appear newest first by the latest selected photograph's `capturedOn`
-date, including the cover, throughout the journal, each map destination's
+date, including the cover, within each homepage region, each map destination's
 album list, and next-story links. The trip's `endDate` is the fallback when no
 photographs have capture dates. Numerical `order`, then slug, resolve ties;
 albums without either date follow dated albums. Japan sorts under February
@@ -132,8 +132,14 @@ zoom frame and album panel, and appears under Asia in the journal filters.
 Europe is a browsing group only;
 individual country albums and country labels remain intact. Old European
 country map hashes open the Europe view when JavaScript is available. The
-filters under **Elsewhere, remembered** list continents: North America, Europe,
-Asia and Oceania, plus All places.
+desktop filters under **Elsewhere, remembered** list India first, followed by
+Asia, Europe, North America and Oceania, plus All places. India is a separate
+browsing region and is excluded from the Asia filter. The desktop journal is
+split into matching sections with region headings and album counts. Filtering
+hides both the other sections and their albums. The compact mobile icon grid
+uses the same groups, with small region headings and album counts. India comes
+first, followed by Asia, Europe, North America and Oceania; albums remain newest
+first within each group.
 
 Singapore, Vietnam and Malaysia share one **Asia South-east** map destination,
 with three country outlines, individual album markers and one album panel.

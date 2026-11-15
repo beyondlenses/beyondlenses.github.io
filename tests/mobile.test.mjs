@@ -104,7 +104,7 @@ test('mobile photo frames follow the current aspect ratio within the screen heig
 test('home album shortcuts have concise location labels and accessible full names', async () => {
   const { site, trips } = await loadContent();
   const html = renderHome(site, trips);
-  const grid = html.split(/<div class="story-grid"[^>]*>/)[1].split('</section>')[0];
+  const grid = html.split('<div class="album-regions"')[1].split('<section class="about"')[0];
   assert.equal((grid.match(/class="card-location"/g) || []).length, trips.length);
   assert.ok(html.includes('id="album-grid" tabindex="-1"'));
   assert.ok(html.includes('aria-label="Map zoom"'));

@@ -98,14 +98,16 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
 </html>\n`;
 }
 
+const journalRegion = (trip) => trip.country === 'India' ? 'India' : continentForCountry(trip.country);
+
 function card(trip, index) {
-  return `<article class="story-card" data-continent="${e(continentForCountry(trip.country))}">
+  return `<article class="story-card" data-continent="${e(journalRegion(trip))}">
     <a class="card-link" href="${tripPath(trip)}" aria-label="${e(trip.title)} · ${e(trip.location)}">
       <div class="card-image">${photo(trip.cover)}<span class="image-label">${e(trip.category)}</span><span class="card-arrow">${arrow}</span></div>
       <span class="card-location">${e(trip.mapLocation.label)}</span>
       <div class="card-meta"><span>${number(index + 1)} / ${e(trip.country)}</span><span>${number(frameCount(trip))} frames${trip.demo ? ' · Sample story' : ''}</span></div>
       ${trip.startDate ? `<p class="card-dates">${dateRange(trip.startDate, trip.endDate)}</p>` : ''}
-      <h3>${e(trip.title)}</h3><p>${e(trip.subtitle)}</p>
+      <h4>${e(trip.title)}</h4><p>${e(trip.subtitle)}</p>
     </a>
   </article>`;
 }
@@ -170,7 +172,8 @@ function travelAtlas(trips) {
 
 export function renderHome(site, trips) {
   trips = trips.map((trip) => resolveTripPhotos(site, trip));
-  const continents = [...new Set(trips.map((trip) => continentForCountry(trip.country)))];
+  const regionOrder = ['India', 'Asia', 'Europe', 'North America', 'Oceania', 'South America', 'Africa', 'Antarctica', 'Other'];
+  const continents = regionOrder.filter((region) => trips.some((trip) => journalRegion(trip) === region));
   return page(site, {
     title: `${site.name} — A personal travel journal`, description: site.description, image: trips[0].cover.src, bodyClass: 'home-page', navigation: mobileNavigation(trips),
     body: `<main id="main">
@@ -179,9 +182,12 @@ export function renderHome(site, trips) {
       <section class="journal wrap" id="journal" aria-labelledby="journal-heading">
         <div class="section-topline"><p class="eyebrow">01 — The journal</p><span>${number(trips.length)} stories & counting</span></div>
         <div class="journal-heading"><h2 id="journal-heading">Elsewhere, <em>remembered.</em></h2><p>Some memories deserve<br>more than a camera roll.</p></div>
-        <div class="filters" aria-label="Filter stories by continent" hidden><button type="button" data-filter="all" aria-pressed="true">All places <sup>${number(trips.length)}</sup></button>${continents.map((continent) => `<button type="button" data-filter="${e(continent)}" aria-pressed="false">${e(continent)} <sup>${number(trips.filter((trip) => continentForCountry(trip.country) === continent).length)}</sup></button>`).join('')}</div>
+        <div class="filters" aria-label="Filter stories by region" hidden><button type="button" data-filter="all" aria-pressed="true">All places <sup>${number(trips.length)}</sup></button>${continents.map((continent) => `<button type="button" data-filter="${e(continent)}" aria-pressed="false">${e(continent)} <sup>${number(trips.filter((trip) => journalRegion(trip) === continent).length)}</sup></button>`).join('')}</div>
         <p class="sr-only" data-filter-status aria-live="polite"></p>
-        <div class="story-grid" id="album-grid" tabindex="-1">${trips.map(card).join('')}</div>
+        <div class="album-regions" id="album-grid" tabindex="-1">${continents.map((region, index) => {
+          const albums = trips.filter((trip) => journalRegion(trip) === region);
+          return `<section class="album-region" data-album-region="${e(region)}" aria-labelledby="album-region-${index}"><div class="album-region-heading"><h3 id="album-region-${index}">${e(region)}</h3><span>${albums.length} ${albums.length === 1 ? 'album' : 'albums'}</span></div><div class="story-grid">${albums.map((trip) => card(trip, trips.indexOf(trip))).join('')}</div></section>`;
+        }).join('')}</div>
         ${trips.some((trip) => trip.demo) ? '<p class="sample-note">Sample stories use stock photography. <a href="/credits/">See photo credits</a>.</p>' : ''}
       </section>
       <section class="about" id="about" aria-labelledby="about-heading"><div class="about-inner wrap">

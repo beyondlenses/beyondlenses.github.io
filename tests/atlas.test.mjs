@@ -107,27 +107,41 @@ test('album hover highlights its matching pin and cover card together', () => {
   assert.match(ui.caption.textContent, /Canada · 2 albums/);
 });
 
-test('continent filters show matching cards, update pressed states and restore all albums', () => {
-  const cards = ['Europe', 'North America', 'Europe', 'Asia'].map((continent) => ({ dataset: { continent }, hidden: false }));
-  const buttons = ['all', 'Europe', 'Asia'].map((filter) => ({ dataset: { filter }, attributes: {}, setAttribute(name, value) { this.attributes[name] = value; }, closest() { return this; } }));
+test('region filters hide whole sections, separate India from Asia and restore all albums on mobile', () => {
+  const cards = ['Europe', 'North America', 'Europe', 'Asia', 'India'].map((continent) => ({ dataset: { continent }, hidden: false }));
+  const regions = ['India', 'Asia', 'Europe', 'North America'].map((albumRegion) => ({ dataset: { albumRegion }, hidden: false }));
+  const buttons = ['all', 'Europe', 'Asia', 'India'].map((filter) => ({ dataset: { filter }, attributes: {}, setAttribute(name, value) { this.attributes[name] = value; }, closest() { return this; } }));
   const status = { textContent: '' };
   const bar = { hidden: true, querySelectorAll: () => buttons, addEventListener(name, handler) { this.click = handler; } };
   const document = {
     querySelector: (selector) => ({ '.filters': bar, '[data-filter-status]': status })[selector] || null,
-    querySelectorAll: (selector) => selector === '[data-continent]' ? cards : [],
+    querySelectorAll: (selector) => selector === '[data-continent]' ? cards : selector === '[data-album-region]' ? regions : [],
   };
-  vm.runInNewContext(source, { document });
+  const compact = { matches: false, addEventListener(name, handler) { this.change = handler; } };
+  vm.runInNewContext(source, { document, window: { matchMedia: () => compact } });
   assert.equal(bar.hidden, false);
   bar.click({ target: buttons[1] });
-  assert.deepEqual(cards.map((card) => card.hidden), [false, true, false, true]);
+  assert.deepEqual(cards.map((card) => card.hidden), [false, true, false, true, true]);
+  assert.deepEqual(regions.map((region) => region.hidden), [true, true, false, true]);
   assert.equal(buttons[1].attributes['aria-pressed'], 'true');
   assert.equal(status.textContent, '2 stories shown from Europe.');
   bar.click({ target: buttons[2] });
   assert.equal(status.textContent, '1 story shown from Asia.');
+  assert.deepEqual(cards.map((card) => card.hidden), [true, true, true, false, true]);
+  bar.click({ target: buttons[3] });
+  assert.equal(status.textContent, '1 story shown from India.');
+  assert.deepEqual(cards.map((card) => card.hidden), [true, true, true, true, false]);
   assert.equal(buttons[1].attributes['aria-pressed'], 'false');
   bar.click({ target: buttons[0] });
   assert.ok(cards.every((card) => !card.hidden));
-  assert.equal(status.textContent, '4 stories shown.');
+  assert.ok(regions.every((region) => !region.hidden));
+  assert.equal(status.textContent, '5 stories shown.');
+  bar.click({ target: buttons[3] });
+  compact.matches = true;
+  compact.change();
+  assert.ok(cards.every((card) => !card.hidden));
+  assert.ok(regions.every((region) => !region.hidden));
+  assert.equal(buttons[0].attributes['aria-pressed'], 'true');
 });
 
 
