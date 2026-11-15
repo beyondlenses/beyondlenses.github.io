@@ -23,7 +23,7 @@ test('albums use the latest selected photo date throughout the journal and map p
   assert.ok(dates.every(Boolean));
   assert.deepEqual(dates, [...dates].sort().reverse());
   const home = renderHome(content.site, content.trips);
-  const journal = home.split('<div class="story-grid">')[1].split('</section>')[0];
+  const journal = home.split(/<div class="story-grid"[^>]*>/)[1].split('</section>')[0];
   assert.deepEqual([...journal.matchAll(/class="card-link" href="\/stories\/([^/]+)\//g)].map((match) => match[1]), content.trips.map(({ slug }) => slug));
   for (const country of groupAtlasCountries(content.trips)) {
     const panel = home.split(`id="atlas-country-${country.id}"`)[1].split('</section>')[0];

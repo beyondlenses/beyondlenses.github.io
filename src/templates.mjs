@@ -44,13 +44,32 @@ function footer(site) {
   </footer>`;
 }
 
-function page(site, { title, description, path = '/', image, body, bodyClass = '', redirectTo }) {
+const navIcon = (paths) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
+
+function mobileNavigation(trips, { trip, nextTrip } = {}) {
+  const explore = navIcon('<circle cx="12" cy="12" r="9"/><path d="m16 8-2 6-6 2 2-6Z"/>');
+  const albums = navIcon('<rect x="4" y="5" width="16" height="16" rx="3"/><path d="M8 2h8M8 12h8M8 16h5"/>');
+  const sections = navIcon('<path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/>');
+  const forward = navIcon('<path d="M5 12h14m-6-6 6 6-6 6"/>');
+  const up = navIcon('<path d="M12 20V4m-6 6 6-6 6 6"/>');
+  const close = '<button class="drawer-close" type="button" data-close-drawer aria-label="Close menu">×</button>';
+  return `<nav class="mobile-nav" aria-label="Quick navigation">
+    <a href="/#atlas">${explore}<span>Explore</span></a>
+    <a href="/#journal"${trips.length ? ' data-open-drawer="album-drawer" aria-haspopup="dialog"' : ''}>${albums}<span>Albums</span></a>
+    ${trip ? `<a href="#chapter-1" data-open-drawer="section-drawer" aria-haspopup="dialog">${sections}<span>Sections</span></a>` : ''}
+    ${nextTrip ? `<a href="${tripPath(nextTrip)}" aria-label="Next album: ${e(nextTrip.title)}">${forward}<span>Next album</span></a>` : `<a href="#top">${up}<span>Top</span></a>`}
+  </nav>
+  ${trips.length ? `<dialog class="nav-drawer" id="album-drawer" aria-labelledby="album-drawer-title"><div class="drawer-heading"><div><p class="eyebrow">Keep wandering</p><h2 id="album-drawer-title">Choose an album.</h2></div>${close}</div><label class="album-search">Find a place or album<input type="search" placeholder="Where to next?" data-album-search autocomplete="off"></label><p class="sr-only" data-album-status aria-live="polite"></p><div class="drawer-albums">${trips.map((item) => `<a href="${tripPath(item)}" data-album-option data-search="${e(`${item.title} ${item.country} ${item.location}`.toLowerCase())}"${item.slug === trip?.slug ? ' aria-current="page"' : ''}>${photo(item.cover)}<span><strong>${e(item.title)}</strong><small>${e(item.country)}${item.startDate ? ` · ${formatDate(item.startDate)}` : ''}</small></span><span aria-hidden="true">${item.slug === trip?.slug ? '●' : '↗'}</span></a>`).join('')}</div><p class="drawer-empty" data-album-empty hidden>No albums found. Try another place.</p></dialog>` : ''}
+  ${trip ? `<dialog class="nav-drawer" id="section-drawer" aria-labelledby="section-drawer-title"><div class="drawer-heading"><div><p class="eyebrow">${e(trip.title)}</p><h2 id="section-drawer-title">A little further in.</h2></div>${close}</div><div class="drawer-sections">${trip.chapters.map((chapter, i) => `<a href="#chapter-${i + 1}"><span>${number(i + 1)}</span><span><strong>${e(chapter.title)}</strong><small>${chapter.date ? formatDate(chapter.date, { year: false }) + ' · ' : ''}${e(chapter.location || '')}</small></span><span aria-hidden="true">↓</span></a>`).join('')}</div></dialog>` : ''}`;
+}
+
+function page(site, { title, description, path = '/', image, body, bodyClass = '', redirectTo, navigation = mobileNavigation([]) }) {
   const canonical = `${site.url}${path}`;
   return `<!doctype html>
 <html lang="en" id="top">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#f5f3ed">
   <title>${e(title)}</title>
   <meta name="description" content="${e(description)}">
@@ -66,6 +85,7 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/assets/styles.css">
   <script src="/assets/main.js" defer></script>
+  <script src="/assets/mobile.js" type="module"></script>
   ${bodyClass === 'story-page' ? '<script src="/assets/gallery.js" type="module"></script>' : ''}
 </head>
 <body class="${bodyClass}">
@@ -73,14 +93,16 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
   ${header(bodyClass === 'home-page')}
   ${body}
   ${footer(site)}
+  ${navigation}
 </body>
 </html>\n`;
 }
 
 function card(trip, index) {
   return `<article class="story-card" data-continent="${e(continentForCountry(trip.country))}">
-    <a class="card-link" href="${tripPath(trip)}">
+    <a class="card-link" href="${tripPath(trip)}" aria-label="${e(trip.title)} · ${e(trip.location)}">
       <div class="card-image">${photo(trip.cover)}<span class="image-label">${e(trip.category)}</span><span class="card-arrow">${arrow}</span></div>
+      <span class="card-location">${e(trip.mapLocation.label)}</span>
       <div class="card-meta"><span>${number(index + 1)} / ${e(trip.country)}</span><span>${number(frameCount(trip))} frames${trip.demo ? ' · Sample story' : ''}</span></div>
       ${trip.startDate ? `<p class="card-dates">${dateRange(trip.startDate, trip.endDate)}</p>` : ''}
       <h3>${e(trip.title)}</h3><p>${e(trip.subtitle)}</p>
@@ -134,6 +156,7 @@ function travelAtlas(trips) {
           return atlasMarker({ href: tripPath(trip), label, badge: index + 1, x: x * country.view.scale + country.view.x, y: y * country.view.scale + country.view.y, position: country.albumLabelPositions[trip.slug] || labelPosition, attributes: `data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"`, description: `${label}: ${trip.title}` });
         }).join('')}</g>`).join('')}
       </svg></div>
+      <div class="atlas-zoom-controls" aria-label="Map zoom"><span>Pinch to explore</span><button type="button" data-map-zoom="out" aria-label="Zoom out on map">−</button><button type="button" data-map-zoom="in" aria-label="Zoom in on map">+</button><button type="button" data-map-zoom="reset" aria-label="Fit entire map">Fit</button><output class="sr-only" data-map-zoom-status aria-live="polite">Map zoom 100%</output></div>
       <p class="sr-only" data-atlas-caption>Select a destination to explore its albums.</p>
       <div class="atlas-country-panels">${countries.map((country) => `<section class="atlas-country-panel" id="atlas-country-${e(country.id)}" data-atlas-panel="${e(country.id)}" data-atlas-aliases="${e(country.aliases.join(' '))}" data-atlas-label="${e(country.label)}" data-atlas-count="${country.trips.length}" data-atlas-transform="matrix(${country.view.scale.toFixed(5)},0,0,${country.view.scale.toFixed(5)},${country.view.x.toFixed(3)},${country.view.y.toFixed(3)})" aria-labelledby="atlas-country-heading-${e(country.id)}">
         <div class="atlas-country-heading"><div><p class="eyebrow">${e(country.label)}</p><h3 id="atlas-country-heading-${e(country.id)}" tabindex="-1">Choose an <em>album.</em></h3></div><p>${countLabel(country.trips.length)} · ${country.trips.reduce((sum, trip) => sum + frameCount(trip), 0)} photographs</p></div>
@@ -149,7 +172,7 @@ export function renderHome(site, trips) {
   trips = trips.map((trip) => resolveTripPhotos(site, trip));
   const continents = [...new Set(trips.map((trip) => continentForCountry(trip.country)))];
   return page(site, {
-    title: `${site.name} — A personal travel journal`, description: site.description, image: trips[0].cover.src, bodyClass: 'home-page',
+    title: `${site.name} — A personal travel journal`, description: site.description, image: trips[0].cover.src, bodyClass: 'home-page', navigation: mobileNavigation(trips),
     body: `<main id="main">
       <h1 class="sr-only">${e(site.name)}</h1>
       ${travelAtlas(trips)}
@@ -158,7 +181,7 @@ export function renderHome(site, trips) {
         <div class="journal-heading"><h2 id="journal-heading">Elsewhere, <em>remembered.</em></h2><p>Some memories deserve<br>more than a camera roll.</p></div>
         <div class="filters" aria-label="Filter stories by continent" hidden><button type="button" data-filter="all" aria-pressed="true">All places <sup>${number(trips.length)}</sup></button>${continents.map((continent) => `<button type="button" data-filter="${e(continent)}" aria-pressed="false">${e(continent)} <sup>${number(trips.filter((trip) => continentForCountry(trip.country) === continent).length)}</sup></button>`).join('')}</div>
         <p class="sr-only" data-filter-status aria-live="polite"></p>
-        <div class="story-grid">${trips.map(card).join('')}</div>
+        <div class="story-grid" id="album-grid" tabindex="-1">${trips.map(card).join('')}</div>
         ${trips.some((trip) => trip.demo) ? '<p class="sample-note">Sample stories use stock photography. <a href="/credits/">See photo credits</a>.</p>' : ''}
       </section>
       <section class="about" id="about" aria-labelledby="about-heading"><div class="about-inner wrap">
@@ -183,28 +206,29 @@ const credit = (photo) => photo.credit ? `<span class="photo-credit">Photo: ${ph
 function galleryPhoto(image) {
   const classes = [image.wide ? 'photo-wide' : '', image.height > image.width ? 'photo-portrait' : ''].filter(Boolean).join(' ');
   const viewerCaption = [image.caption || image.alt, image.capturedOn ? formatDate(image.capturedOn) : '', image.location].filter(Boolean).join(' · ');
-  return `<figure class="${classes}"><a class="gallery-photo" href="${e(image.src)}" data-photo data-caption="${e(viewerCaption)}" aria-label="Enlarge: ${e(image.alt)}">${photo(image)}<span class="enlarge-mark" aria-hidden="true">↗</span></a><figcaption><span class="caption-copy"><span>${e(image.caption || '')}</span>${image.capturedOn || image.location ? `<span class="photo-context">${photoContext(image)}</span>` : ''}</span>${credit(image)}</figcaption></figure>`;
+  return `<figure class="${classes}" data-photo-location="${e(image.location || '')}" data-photo-date="${e(image.capturedOn || '')}"><a class="gallery-photo" href="${e(image.src)}" data-photo data-caption="${e(viewerCaption)}" aria-label="Enlarge: ${e(image.alt)}">${photo(image)}<span class="enlarge-mark" aria-hidden="true">↗</span></a><figcaption><span class="caption-copy"><span data-expandable>${e(image.caption || '')}</span>${image.capturedOn || image.location ? `<span class="photo-context">${photoContext(image)}</span>` : ''}</span>${credit(image)}</figcaption></figure>`;
 }
 
 function gallery(chapter) {
-  if (chapter.layout === 'full') return `<div class="gallery gallery-full wrap">${chapter.photos.map(galleryPhoto).join('')}</div>`;
+  if (chapter.layout === 'full') return `<div class="gallery gallery-full wrap" data-full-gallery>${chapter.photos.map(galleryPhoto).join('')}</div>`;
   const width = 1200;
   const rows = packGallery(chapter.photos, { width }).map((row) => `<div class="gallery-row${row.indices.length === 1 ? ' gallery-row-single' : ''}" style="${galleryRowStyle(row, width)}">${row.indices.map((index) => galleryPhoto(chapter.photos[index])).join('')}</div>`).join('');
   return `<div class="gallery gallery-packed wrap" data-packed-gallery>${rows}</div>`;
 }
 
-export function renderStory(site, trip, nextTrip) {
+export function renderStory(site, trip, nextTrip, availableTrips = []) {
   trip = resolveTripPhotos(site, trip);
   nextTrip = resolveTripPhotos(site, nextTrip);
+  availableTrips = availableTrips.map((item) => resolveTripPhotos(site, item));
   return page(site, {
-    title: `${trip.title} — ${site.name}`, description: trip.subtitle, path: tripPath(trip), image: trip.cover.src, bodyClass: 'story-page',
+    title: `${trip.title} — ${site.name}`, description: trip.subtitle, path: tripPath(trip), image: trip.cover.src, bodyClass: 'story-page', navigation: mobileNavigation(availableTrips.length ? availableTrips : [trip, nextTrip].filter(Boolean), { trip, nextTrip }),
     body: `<div class="reading-progress" aria-hidden="true"></div><main id="main">
       <article>
         <header class="story-intro wrap"><a class="back-link" href="/#journal">← Back to the journal</a><p class="eyebrow">${e(trip.country)} <span aria-hidden="true">/</span> ${e(trip.category)}</p><h1>${e(trip.title)}</h1><p class="story-subtitle">${e(trip.subtitle)}</p><div class="story-details"><span>${e(trip.location)}</span>${trip.startDate ? `<span>${dateRange(trip.startDate, trip.endDate)}</span>` : ''}<span>${number(frameCount(trip))} photographs</span><span>${trip.demo ? 'Sample story' : 'A photo essay'}</span></div></header>
         <div class="story-cover wrap">${photo(trip.cover, { lazy: false })}<div class="cover-credit">${trip.cover.capturedOn || trip.cover.location ? `<span class="photo-context">${photoContext(trip.cover)}</span>` : ''}${credit(trip.cover)}</div></div>
         ${trip.demo ? '<aside class="demo-notice prose">You’re viewing a sample story with stock photography. Personal photographs and field notes will make their home here.</aside>' : ''}
         ${trip.showChapterIndex === false ? '' : `<nav id="chapters" class="chapter-nav wrap${trip.chapters.some((chapter) => chapter.date) ? ' chapter-nav-dated' : ''}" aria-label="Chapters">${trip.chapters.map((chapter, index) => `<a href="#chapter-${index + 1}">${chapter.date ? `<span class="chapter-nav-date">${time(chapter.date, { year: false })}</span>` : number(index + 1)} <span>${e(chapter.title)}</span></a>`).join('')}</nav>`}
-        ${trip.chapters.map((chapter, index) => `<section class="chapter" id="chapter-${index + 1}"><div class="prose"><p class="eyebrow">${number(index + 1)} — ${e(chapter.location || 'Field notes')}</p><h2>${e(chapter.title)}</h2>${chapter.date ? `<p class="chapter-date">${time(chapter.date)} <span aria-hidden="true">·</span> ${chapter.photos.length} ${chapter.photos.length === 1 ? 'photograph' : 'photographs'}</p>` : ''}${chapter.paragraphs.map((paragraph) => `<p>${e(paragraph)}</p>`).join('')}</div>${gallery(chapter)}${chapter.date && trip.showChapterIndex !== false ? '<div class="chapter-return wrap"><a href="#chapters">Back to the day index ↑</a></div>' : ''}</section>`).join('')}
+        ${trip.chapters.map((chapter, index) => `<section class="chapter" id="chapter-${index + 1}"><div class="prose"><p class="eyebrow">${number(index + 1)} — ${e(chapter.location || 'Field notes')}</p><h2>${e(chapter.title)}</h2>${chapter.date ? `<p class="chapter-date">${time(chapter.date)} <span aria-hidden="true">·</span> ${chapter.photos.length} ${chapter.photos.length === 1 ? 'photograph' : 'photographs'}</p>` : ''}<div class="field-notes" data-expandable>${chapter.paragraphs.map((paragraph) => `<p>${e(paragraph)}</p>`).join('')}</div></div>${gallery(chapter)}${chapter.date && trip.showChapterIndex !== false ? '<div class="chapter-return wrap"><a href="#chapters">Back to the day index ↑</a></div>' : ''}</section>`).join('')}
         <div class="story-end prose"><span aria-hidden="true">✳</span><p>Until the next journey.</p><a class="text-link" href="/#journal">Back to all stories ${arrow}</a></div>
       </article>
       ${nextTrip ? `<section class="next-story wrap"><p class="eyebrow">Keep wandering</p><a href="${tripPath(nextTrip)}"><div>${photo(nextTrip.cover)}</div><span><span class="eyebrow">${e(nextTrip.country)}</span><h2>${e(nextTrip.title)}</h2><span class="text-link">Read the next story ${arrow}</span></span></a></section>` : ''}
@@ -217,7 +241,7 @@ export function renderCredits(site, trips) {
   trips = trips.map((trip) => resolveTripPhotos(site, trip));
   const images = [...new Map(trips.flatMap(allPhotos).filter((image) => image.credit).map((image) => [image.src, image])).values()];
   return page(site, {
-    title: `Photo credits — ${site.name}`, description: 'The photographs behind the journal.', path: '/credits/',
+    title: `Photo credits — ${site.name}`, description: 'The photographs behind the journal.', path: '/credits/', navigation: mobileNavigation(trips),
     body: `<main class="credits-page wrap" id="main"><p class="eyebrow">Behind the photographs</p><h1>Photo <em>credits.</em></h1><p class="credits-intro">${images.length ? 'Source and license information for credited photographs appears below.' : 'The journal uses original travel photographs from the owner’s collections.'}</p><div class="credit-grid">${images.map((image) => `<article>${photo(image)}<h2>${e(image.credit)}</h2><p>${e(image.alt)}</p>${credit(image)}${image.license === 'CC BY-SA 4.0' ? '<p class="credit-change">Preview derivative: resized and converted to WebP; displayed with responsive cropping. Licensed under CC BY-SA 4.0.</p>' : ''}</article>`).join('')}</div><a class="text-link" href="/">Back to the journal ${arrow}</a></main>`,
   });
 }

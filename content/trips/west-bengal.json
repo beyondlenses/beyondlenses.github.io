@@ -1,0 +1,918 @@
+{
+  "slug": "west-bengal",
+  "title": "Sonar Bangla",
+  "subtitle": "Sea mist at Mandarmani, market colours and shaded paths in Santiniketan, and old courtyards at Surul and Raipur.",
+  "country": "India",
+  "location": "Mandarmani · Bolpur · Santiniketan · Surul · Raipur",
+  "category": "Coast, art and old courtyards",
+  "order": 25,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2022-02-26",
+  "endDate": "2025-07-13",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/west-bengal/2025-07-13-raipur/the-overgrown-brick-courtyard.webp",
+    "alt": "Roots and green branches filling a weathered brick courtyard.",
+    "caption": "Roots and green branches filling a weathered brick courtyard.",
+    "width": 2400,
+    "height": 1800,
+    "capturedOn": "2025-07-13",
+    "location": "Raipur Rajbari, Birbhum"
+  },
+  "chapters": [
+    {
+      "title": "Boats along the broad beach",
+      "date": "2022-02-26",
+      "location": "Mandarmani",
+      "paragraphs": [
+        "Fishing boats rest in the shallows beside a wide beach. Small crabs, passing people and a walk along the sand fill the afternoon."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/tracks-toward-the-sea.webp",
+          "alt": "Parallel tracks in broad pale sand leading toward the sea and distant boats.",
+          "caption": "Parallel tracks in broad pale sand leading toward the sea and distant boats.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani",
+          "wide": true
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/boats-in-the-small-waves.webp",
+          "alt": "Dark wooden fishing boats floating in shallow waves beneath a pale sky.",
+          "caption": "Dark wooden fishing boats floating in shallow waves beneath a pale sky.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/small-red-crab-in-the-sand.webp",
+          "alt": "A small red crab peeking out of a hole in the wet sand.",
+          "caption": "A small red crab peeking out of a hole in the wet sand.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/red-bow-and-black-hull.webp",
+          "alt": "The red bow and dark wooden hull of a fishing boat in the shallows.",
+          "caption": "The red bow and dark wooden hull of a fishing boat in the shallows.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/bringing-the-boat-in.webp",
+          "alt": "People aboard a dark fishing boat approaching the shallows.",
+          "caption": "People aboard a dark fishing boat approaching the shallows.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/walking-along-the-quiet-beach.webp",
+          "alt": "A traveller walking across a wide beach with fishing boats beyond.",
+          "caption": "A traveller walking across a wide beach with fishing boats beyond.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/people-and-a-cart-by-the-water.webp",
+          "alt": "People and a small cart along the water’s edge on a broad beach.",
+          "caption": "People and a small cart along the water’s edge on a broad beach.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/photographer-by-the-water.webp",
+          "alt": "A traveller looking through a camera beside the sea.",
+          "caption": "A traveller looking through a camera beside the sea.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        }
+      ]
+    },
+    {
+      "title": "After the beach",
+      "date": "2022-02-26",
+      "location": "Mandarmani",
+      "paragraphs": [
+        "Evening brings a fish snack, coloured temple lights and reflections across dark water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/green-ground-beside-the-beach.webp",
+          "alt": "Low green plants beside a sandy path and palms at dusk.",
+          "caption": "Low green plants beside a sandy path and palms at dusk.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/fried-fish-on-a-paper-plate.webp",
+          "alt": "Fried fish and sauces on a small paper plate during an evening snack.",
+          "caption": "Fried fish and sauces on a small paper plate during an evening snack.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/coloured-lights-on-the-temple.webp",
+          "alt": "A small temple illuminated with coloured lights after dark.",
+          "caption": "A small temple illuminated with coloured lights after dark.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-26-mandarmani/lights-across-the-dark-water.webp",
+          "alt": "Distant lights reflected in dark water at night.",
+          "caption": "Distant lights reflected in dark water at night.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-26",
+          "location": "Mandarmani"
+        }
+      ]
+    },
+    {
+      "title": "Morning in the sea mist",
+      "date": "2022-02-27",
+      "location": "Mandarmani",
+      "paragraphs": [
+        "Figures fade into the mist and stilted buildings reflect in shallow water. The sun slowly appears above the beach."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/figures-in-the-sea-mist.webp",
+          "alt": "Small figures and shallow water disappearing into thick morning mist.",
+          "caption": "Small figures and shallow water disappearing into thick morning mist.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/stilts-reflected-in-the-tide.webp",
+          "alt": "Buildings on tall wooden stilts reflected in still tidal water and mist.",
+          "caption": "Buildings on tall wooden stilts reflected in still tidal water and mist.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani",
+          "wide": true
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/sun-over-the-misty-beach.webp",
+          "alt": "The pale morning sun above people walking across a misty beach.",
+          "caption": "The pale morning sun above people walking across a misty beach.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/a-reflection-in-the-shallows.webp",
+          "alt": "A traveller reflected in a shallow pool under a softly coloured morning sky.",
+          "caption": "A traveller reflected in a shallow pool under a softly coloured morning sky.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/morning-light-and-stone-steps.webp",
+          "alt": "Morning light over the beach beyond broad stone steps and a wooden lookout.",
+          "caption": "Morning light over the beach beyond broad stone steps and a wooden lookout.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        }
+      ]
+    },
+    {
+      "title": "Small waves and bright cottages",
+      "date": "2022-02-27",
+      "location": "Mandarmani",
+      "paragraphs": [
+        "The beach changes as the morning clears: small waves break beside fishing boats, shells appear in the sand and colourful cottages face the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/turquoise-cottages-and-flowers.webp",
+          "alt": "A turquoise cottage beside a small flower-lined path.",
+          "caption": "A turquoise cottage beside a small flower-lined path.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/looking-in-the-shallows.webp",
+          "alt": "A traveller bending down to look into the shallow water at the beach.",
+          "caption": "A traveller bending down to look into the shallow water at the beach.",
+          "width": 1080,
+          "height": 1620,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/small-waves-and-a-distant-boat.webp",
+          "alt": "Small breaking waves and a distant boat under a pale blue sky.",
+          "caption": "Small breaking waves and a distant boat under a pale blue sky.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/a-shell-in-an-open-hand.webp",
+          "alt": "A shell resting in an outstretched hand with a traveller softly blurred beyond.",
+          "caption": "A shell resting in an outstretched hand with a traveller softly blurred beyond.",
+          "width": 1080,
+          "height": 1620,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/bright-houses-above-the-beach.webp",
+          "alt": "Yellow and turquoise beach buildings above a stone embankment.",
+          "caption": "Yellow and turquoise beach buildings above a stone embankment.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/sitting-on-the-fishing-boat.webp",
+          "alt": "A traveller sitting on the bow of a dark wooden boat on the sand.",
+          "caption": "A traveller sitting on the bow of a dark wooden boat on the sand.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        },
+        {
+          "src": "/photos/west-bengal/2022-02-27-mandarmani/a-splash-in-the-surf.webp",
+          "alt": "A traveller splashing water beside small breaking waves.",
+          "caption": "A traveller splashing water beside small breaking waves.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2022-02-27",
+          "location": "Mandarmani"
+        }
+      ]
+    },
+    {
+      "title": "A railway museum in Bolpur",
+      "date": "2025-07-12",
+      "location": "Gitanjali Rail Museum, Bolpur",
+      "paragraphs": [
+        "A long green carriage, carved doors, framed photographs and polished floors fill the museum visit."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-12-gitanjali-rail-museum/the-rail-museum-entrance.webp",
+          "alt": "The entrance to the Gitanjali Rail Museum beneath a blue sky.",
+          "caption": "The entrance to the Gitanjali Rail Museum beneath a blue sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Gitanjali Rail Museum, Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-gitanjali-rail-museum/railway-history-on-the-walls.webp",
+          "alt": "Framed photographs and display furniture in a small museum room.",
+          "caption": "Framed photographs and display furniture in a small museum room.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-12",
+          "location": "Gitanjali Rail Museum, Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-gitanjali-rail-museum/green-carriage-under-the-roof.webp",
+          "alt": "A long green railway carriage displayed beneath a high metal roof.",
+          "caption": "A long green railway carriage displayed beneath a high metal roof.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Gitanjali Rail Museum, Bolpur",
+          "wide": true
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-gitanjali-rail-museum/carved-door-in-the-museum.webp",
+          "alt": "A carved wooden doorway beside a museum information panel.",
+          "caption": "A carved wooden doorway beside a museum information panel.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Gitanjali Rail Museum, Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-gitanjali-rail-museum/light-on-the-polished-floor.webp",
+          "alt": "Light reflected in the polished wooden floor of a broad museum hall.",
+          "caption": "Light reflected in the polished wooden floor of a broad museum hall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Gitanjali Rail Museum, Bolpur"
+        }
+      ]
+    },
+    {
+      "title": "Between the station and lunch",
+      "date": "2025-07-12",
+      "location": "Bolpur",
+      "paragraphs": [
+        "Colourful roof details rise above the station forecourt. Lunch arrives on a metal tray, with rice, small bowls and fish beside it."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-12-bolpur/colourful-roof-at-the-station.webp",
+          "alt": "A station building with a colourful geometric roof above waiting vehicles.",
+          "caption": "A station building with a colourful geometric roof above waiting vehicles.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-12",
+          "location": "Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-bolpur/rice-and-small-bowls-at-lunch.webp",
+          "alt": "Rice, bread and small bowls of food on a metal lunch tray with fish beside it.",
+          "caption": "Rice, bread and small bowls of food on a metal lunch tray with fish beside it.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Bolpur"
+        }
+      ]
+    },
+    {
+      "title": "The market beneath the trees",
+      "date": "2025-07-12",
+      "location": "Sonajhuri market area, Santiniketan",
+      "paragraphs": [
+        "Bright umbrellas shade the sandy paths. Dancers and musicians perform beside stalls and textiles spread across the ground."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-12-santiniketan-market/umbrellas-along-the-market-path.webp",
+          "alt": "Colourful umbrellas and stalls along a sandy path beneath trees.",
+          "caption": "Colourful umbrellas and stalls along a sandy path beneath trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Sonajhuri market area, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-santiniketan-market/dancing-under-the-trees.webp",
+          "alt": "People dancing in bright yellow and red clothing beneath trees and market umbrellas.",
+          "caption": "People dancing in bright yellow and red clothing beneath trees and market umbrellas.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2025-07-12",
+          "location": "Sonajhuri market area, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-santiniketan-market/drums-and-colour-in-the-market.webp",
+          "alt": "Musicians and dancers performing among colourful market umbrellas.",
+          "caption": "Musicians and dancers performing among colourful market umbrellas.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2025-07-12",
+          "location": "Sonajhuri market area, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-santiniketan-market/textiles-on-the-sandy-ground.webp",
+          "alt": "Colourful textiles spread on the ground beneath trees at an outdoor market.",
+          "caption": "Colourful textiles spread on the ground beneath trees at an outdoor market.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-12",
+          "location": "Sonajhuri market area, Santiniketan"
+        }
+      ]
+    },
+    {
+      "title": "Blue water and a moonlit sky",
+      "date": "2025-07-12",
+      "location": "Bolpur area",
+      "paragraphs": [
+        "The day ends with a blue-lit pool, a woven pavilion, dinner and moonlight above the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-12-bolpur/blue-pool-under-the-moon.webp",
+          "alt": "A bright blue swimming pool below a moonlit sky.",
+          "caption": "A bright blue swimming pool below a moonlit sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-12",
+          "location": "Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-bolpur/woven-roof-and-blue-light.webp",
+          "alt": "Two travellers beneath a woven pavilion roof above blue-lit water.",
+          "caption": "Two travellers beneath a woven pavilion roof above blue-lit water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-12",
+          "location": "Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-bolpur/bread-and-curry-at-night.webp",
+          "alt": "Flatbread and curry on a small dinner table.",
+          "caption": "Flatbread and curry on a small dinner table.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-12",
+          "location": "Bolpur"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-12-bolpur/moonlight-above-the-water.webp",
+          "alt": "The moon shining through thin clouds above dark trees and water.",
+          "caption": "The moon shining through thin clouds above dark trees and water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-12",
+          "location": "Bolpur"
+        }
+      ]
+    },
+    {
+      "title": "Sculpture and green spaces",
+      "date": "2025-07-13",
+      "location": "Prakriti Bhavan, Santiniketan area",
+      "paragraphs": [
+        "Wood, roots and bright colour take different sculptural forms, indoors and across the green garden."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-prakriti-bhavan/gate-to-the-sculpture-garden.webp",
+          "alt": "A painted gateway leading into a tree-filled sculpture garden.",
+          "caption": "A painted gateway leading into a tree-filled sculpture garden.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Prakriti Bhavan, Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-prakriti-bhavan/sculptures-across-the-green-lawn.webp",
+          "alt": "Small sculptures placed across a green lawn beneath spreading trees.",
+          "caption": "Small sculptures placed across a green lawn beneath spreading trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Prakriti Bhavan, Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-prakriti-bhavan/red-sculpture-against-the-trees.webp",
+          "alt": "A large red abstract sculpture on a low plinth beneath green trees.",
+          "caption": "A large red abstract sculpture on a low plinth beneath green trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Prakriti Bhavan, Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-prakriti-bhavan/animal-form-carved-from-wood.webp",
+          "alt": "An animal-like wooden sculpture displayed indoors.",
+          "caption": "An animal-like wooden sculpture displayed indoors.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Prakriti Bhavan, Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-prakriti-bhavan/a-room-full-of-sculpture.webp",
+          "alt": "Sculptures and framed artworks arranged across a bright gallery room.",
+          "caption": "Sculptures and framed artworks arranged across a bright gallery room.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Prakriti Bhavan, Santiniketan area",
+          "wide": true
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-prakriti-bhavan/roots-and-branches-as-sculpture.webp",
+          "alt": "A branching wooden root sculpture displayed on a pale plinth.",
+          "caption": "A branching wooden root sculpture displayed on a pale plinth.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Prakriti Bhavan, Santiniketan area"
+        }
+      ]
+    },
+    {
+      "title": "Gardens and small stops",
+      "date": "2025-07-13",
+      "location": "Santiniketan · Sriniketan area",
+      "paragraphs": [
+        "A white Buddha, a small sculpture behind bars and a shaded courtyard follow the museum visit. A small pavilion and a quiet pond mark later stops."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan-stops/white-buddha-under-a-big-sky.webp",
+          "alt": "A large white seated Buddha beneath a sky filled with white clouds.",
+          "caption": "A large white seated Buddha beneath a sky filled with white clouds.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan-garden/sculpture-behind-the-bars.webp",
+          "alt": "A small dark sculpture behind bars beneath the words Freedom Is My Birth Right.",
+          "caption": "A small dark sculpture behind bars beneath the words Freedom Is My Birth Right.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area · sculpture garden"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan-garden/red-walls-and-a-standing-statue.webp",
+          "alt": "A standing statue in a shaded courtyard beside a red building.",
+          "caption": "A standing statue in a shaded courtyard beside a red building.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area · sculpture garden"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-sriniketan/a-small-pavilion-on-the-lawn.webp",
+          "alt": "A small pale pavilion with dark doors and columns beside green grass.",
+          "caption": "A small pale pavilion with dark doors and columns beside green grass.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Sriniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan-pond/trees-over-the-pond.webp",
+          "alt": "Trees leaning over a quiet pond edged with green plants.",
+          "caption": "Trees leaning over a quiet pond edged with green plants.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area · pond"
+        }
+      ]
+    },
+    {
+      "title": "Painted walls and still water",
+      "date": "2025-07-13",
+      "location": "Santiniketan area",
+      "paragraphs": [
+        "Floral borders and geometric patterns brighten the lanes. Nearby, trees and green floating plants reflect in a still pond."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan/a-painted-border-on-the-yellow-wall.webp",
+          "alt": "A narrow painted floral border along a warm yellow wall beside a lane.",
+          "caption": "A narrow painted floral border along a warm yellow wall beside a lane.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan/bright-patterns-on-a-round-hut.webp",
+          "alt": "Bright geometric patterns painted around a small round hut.",
+          "caption": "Bright geometric patterns painted around a small round hut.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-santiniketan/green-pads-on-the-still-water.webp",
+          "alt": "Green floating plants and trees reflected in still pond water.",
+          "caption": "Green floating plants and trees reflected in still pond water.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Santiniketan area"
+        }
+      ]
+    },
+    {
+      "title": "Art along the campus paths",
+      "date": "2025-07-13",
+      "location": "Visva-Bharati, Santiniketan",
+      "paragraphs": [
+        "Murals, sculpture and shaded paths connect the low campus buildings. Hanging roots form a narrow passage beneath the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/painted-figures-on-the-wall.webp",
+          "alt": "Colourful figures painted along a low wall beside the campus road.",
+          "caption": "Colourful figures painted along a low wall beside the campus road.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/the-long-shaded-walk.webp",
+          "alt": "A long shaded walkway beneath a canopy of trees.",
+          "caption": "A long shaded walkway beneath a canopy of trees.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/the-bell-structure-on-the-lawn.webp",
+          "alt": "A rounded brick bell structure on a green campus lawn.",
+          "caption": "A rounded brick bell structure on a green campus lawn.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/figures-beneath-the-shelter.webp",
+          "alt": "A group of sculpted figures beneath an open roofed shelter.",
+          "caption": "A group of sculpted figures beneath an open roofed shelter.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/murals-around-the-doorway.webp",
+          "alt": "Murals decorating the walls around a small shaded doorway.",
+          "caption": "Murals decorating the walls around a small shaded doorway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/a-sculpture-against-the-clouds.webp",
+          "alt": "A tall dark sculpture silhouetted against a bright cloudy sky.",
+          "caption": "A tall dark sculpture silhouetted against a bright cloudy sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/columns-and-a-patterned-facade.webp",
+          "alt": "Pale columns and decorative patterned panels beneath a broad tree.",
+          "caption": "Pale columns and decorative patterned panels beneath a broad tree.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/a-dog-among-the-outdoor-seats.webp",
+          "alt": "A dog walking between low stone seats arranged beneath trees.",
+          "caption": "A dog walking between low stone seats arranged beneath trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/dark-veranda-and-yellow-walls.webp",
+          "alt": "A long dark veranda beside low yellow buildings and grass.",
+          "caption": "A long dark veranda beside low yellow buildings and grass.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/buddha-in-the-sheltered-corner.webp",
+          "alt": "A seated Buddha statue beneath a roof in a quiet enclosed corner.",
+          "caption": "A seated Buddha statue beneath a roof in a quiet enclosed corner.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/pale-yellow-walls-and-shrubs.webp",
+          "alt": "A pale yellow building with balconies and clipped shrubs beneath trees.",
+          "caption": "A pale yellow building with balconies and clipped shrubs beneath trees.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/a-passage-through-hanging-roots.webp",
+          "alt": "A narrow red-earth path through dense hanging tree roots.",
+          "caption": "A narrow red-earth path through dense hanging tree roots.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        }
+      ]
+    },
+    {
+      "title": "Verandas, colour and garden sculpture",
+      "date": "2025-07-13",
+      "location": "Uttarayan, Santiniketan",
+      "paragraphs": [
+        "Pale steps and yellow verandas lead through the houses and gardens, with blue decorative details and sculpture among the trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-uttarayan/steps-to-the-pale-house.webp",
+          "alt": "Broad red steps leading to a pale house with a columned entrance.",
+          "caption": "Broad red steps leading to a pale house with a columned entrance.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Uttarayan, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-uttarayan/the-yellow-veranda.webp",
+          "alt": "Yellow pillars and a shaded veranda overlooking a garden.",
+          "caption": "Yellow pillars and a shaded veranda overlooking a garden.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Uttarayan, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-uttarayan/blue-details-on-yellow-walls.webp",
+          "alt": "Blue decorative panels across the yellow walls of a small house.",
+          "caption": "Blue decorative panels across the yellow walls of a small house.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Uttarayan, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-uttarayan/sculpted-figures-in-the-garden.webp",
+          "alt": "A group sculpture standing among trees and gravel in a garden.",
+          "caption": "A group sculpture standing among trees and gravel in a garden.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Uttarayan, Santiniketan"
+        }
+      ]
+    },
+    {
+      "title": "Glass, thatch and a tree canopy",
+      "date": "2025-07-13",
+      "location": "Santiniketan",
+      "paragraphs": [
+        "The glass prayer hall sits beyond a garden fence. A thatched pavilion and the spreading roots of an old tree complete the walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/the-glass-prayer-hall.webp",
+          "alt": "A glass and lattice prayer hall beyond a green garden fence.",
+          "caption": "A glass and lattice prayer hall beyond a green garden fence.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan",
+          "wide": true
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/round-thatched-pavilion.webp",
+          "alt": "A small round thatched pavilion in a green garden.",
+          "caption": "A small round thatched pavilion in a green garden.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-visva-bharati/roots-beneath-the-tree-canopy.webp",
+          "alt": "A dense cluster of roots and trunks beneath a broad tree canopy.",
+          "caption": "A dense cluster of roots and trunks beneath a broad tree canopy.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Visva-Bharati, Santiniketan"
+        }
+      ]
+    },
+    {
+      "title": "Arches and terracotta at Surul",
+      "date": "2025-07-13",
+      "location": "Surul Rajbari area",
+      "paragraphs": [
+        "Pale courtyard walls carry green shutters and rows of arches. Nearby, terracotta details frame a temple doorway."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-surul/arches-and-green-shutters.webp",
+          "alt": "A pale courtyard building with deep arches and green shutters.",
+          "caption": "A pale courtyard building with deep arches and green shutters.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Surul Rajbari area",
+          "wide": true
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-surul/a-row-of-fluted-columns.webp",
+          "alt": "Fluted columns and decorative arches above red courtyard steps.",
+          "caption": "Fluted columns and decorative arches above red courtyard steps.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Surul Rajbari area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-surul/looking-up-in-the-courtyard.webp",
+          "alt": "An upward view of green shutters, pale arches and decorative roof details.",
+          "caption": "An upward view of green shutters, pale arches and decorative roof details.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Surul Rajbari area"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-surul/terracotta-at-the-temple-door.webp",
+          "alt": "Detailed terracotta patterns around a temple doorway.",
+          "caption": "Detailed terracotta patterns around a temple doorway.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Surul Rajbari area"
+        }
+      ]
+    },
+    {
+      "title": "Trees within the old walls",
+      "date": "2025-07-13",
+      "location": "Raipur Rajbari, Birbhum",
+      "paragraphs": [
+        "Light enters narrow passages and weathered arches. Trees and roots have filled the old brick courtyard."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/west-bengal/2025-07-13-raipur/light-at-the-end-of-the-passage.webp",
+          "alt": "A narrow weathered passage leading toward bright greenery.",
+          "caption": "A narrow weathered passage leading toward bright greenery.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2025-07-13",
+          "location": "Raipur Rajbari, Birbhum"
+        },
+        {
+          "src": "/photos/west-bengal/2025-07-13-raipur/arches-with-plants-and-roots.webp",
+          "alt": "Weathered arches and columns overgrown with roots and green plants.",
+          "caption": "Weathered arches and columns overgrown with roots and green plants.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2025-07-13",
+          "location": "Raipur Rajbari, Birbhum"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "West Bengal",
+    "latitude": 23.68,
+    "longitude": 87.68,
+    "labelPosition": [
+      935,
+      390
+    ]
+  }
+}

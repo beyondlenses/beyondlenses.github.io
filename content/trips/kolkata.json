@@ -1,0 +1,684 @@
+{
+  "slug": "kolkata",
+  "title": "Hente Dekho Kolkata",
+  "subtitle": "Clay and colour in Kumortuli, time beside the river, rooms of light at Metcalfe Hall and festive city streets.",
+  "country": "India",
+  "location": "Kumortuli · Hooghly riverfront · College Street · Metcalfe Hall · Park Street",
+  "category": "City walks and celebrations",
+  "order": 26,
+  "demo": false,
+  "photoStorage": "r2",
+  "startDate": "2021-10-02",
+  "endDate": "2022-12-22",
+  "showChapterIndex": false,
+  "cover": {
+    "src": "/photos/kolkata/2021-10-02-kumortuli/lamplight-on-yellow-faces.webp",
+    "alt": "A small lamp lighting yellow faces as an artisan works between the figures.",
+    "caption": "A small lamp lighting yellow faces as an artisan works between the figures.",
+    "width": 1620,
+    "height": 1080,
+    "capturedOn": "2021-10-02",
+    "location": "Kumortuli, Kolkata"
+  },
+  "chapters": [
+    {
+      "title": "Through the workshops of Kumortuli",
+      "date": "2021-10-02",
+      "location": "Kumortuli, Kolkata",
+      "paragraphs": [
+        "Weathered balconies overlook lanes lined with clay figures. Inside the workshops, artisans paint faces and finish the small details under bamboo rafters and warm lamps."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/old-balconies-above-the-lane.webp",
+          "alt": "Weathered balconies and shuttered windows above a narrow lane.",
+          "caption": "Weathered balconies and shuttered windows above a narrow lane.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/unfinished-figures-at-the-door.webp",
+          "alt": "Rows of unfinished pale clay figures outside a workshop.",
+          "caption": "Rows of unfinished pale clay figures outside a workshop.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/painting-a-clay-figure.webp",
+          "alt": "An artisan working beside painted clay figures inside a workshop.",
+          "caption": "An artisan working beside painted clay figures inside a workshop.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/a-workshop-lit-from-within.webp",
+          "alt": "A narrow workshop crowded with sculptures beneath warm lights.",
+          "caption": "A narrow workshop crowded with sculptures beneath warm lights.",
+          "width": 1080,
+          "height": 1620,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/grey-clay-and-many-hands.webp",
+          "alt": "An unfinished multi-armed clay figure beneath bamboo supports.",
+          "caption": "An unfinished multi-armed clay figure beneath bamboo supports.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/blue-backdrop-and-bright-colours.webp",
+          "alt": "Brightly painted goddess figures against an ornate blue backdrop.",
+          "caption": "Brightly painted goddess figures against an ornate blue backdrop.",
+          "width": 1080,
+          "height": 1620,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/puppies-curled-on-the-steps.webp",
+          "alt": "Small brown puppies curled together on stone steps.",
+          "caption": "Small brown puppies curled together on stone steps.",
+          "width": 1080,
+          "height": 1620,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/a-pause-among-the-figures.webp",
+          "alt": "An artisan seated among painted statues and workshop materials.",
+          "caption": "An artisan seated among painted statues and workshop materials.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/the-small-details-of-the-face.webp",
+          "alt": "An artisan painting the face of a colourful clay figure.",
+          "caption": "An artisan painting the face of a colourful clay figure.",
+          "width": 1080,
+          "height": 1620,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/warm-light-on-the-unfinished-idols.webp",
+          "alt": "Warm workshop light falling across unfinished clay figures and bamboo supports.",
+          "caption": "Warm workshop light falling across unfinished clay figures and bamboo supports.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/ganesha-at-the-workshop-door.webp",
+          "alt": "A grey clay Ganesha figure beneath tarpaulins at a workshop doorway.",
+          "caption": "A grey clay Ganesha figure beneath tarpaulins at a workshop doorway.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-kumortuli/painting-under-the-rafters.webp",
+          "alt": "An artisan reaching up to paint a figure beneath the workshop rafters.",
+          "caption": "An artisan reaching up to paint a figure beneath the workshop rafters.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Kumortuli, Kolkata"
+        }
+      ]
+    },
+    {
+      "title": "Evening beside the river",
+      "date": "2021-10-02",
+      "location": "Hooghly riverfront, Kolkata",
+      "paragraphs": [
+        "People sit on the river steps as pink clouds give way to the last red light above the distant bank."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2021-10-02-hooghly-river/pink-clouds-above-the-river.webp",
+          "alt": "Pink evening clouds above the broad river and distant bank.",
+          "caption": "Pink evening clouds above the broad river and distant bank.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Hooghly riverfront, Kolkata",
+          "wide": true
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-hooghly-river/watching-the-evening-water.webp",
+          "alt": "People sitting along the river steps beneath an evening sky.",
+          "caption": "People sitting along the river steps beneath an evening sky.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Hooghly riverfront, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-hooghly-river/sitting-beside-the-sunset.webp",
+          "alt": "A traveller sitting on the river steps beneath pink sunset clouds.",
+          "caption": "A traveller sitting on the river steps beneath pink sunset clouds.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Hooghly riverfront, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2021-10-02-hooghly-river/last-red-light-on-the-horizon.webp",
+          "alt": "A thin red sunset above the dark river and city skyline.",
+          "caption": "A thin red sunset above the dark river and city skyline.",
+          "width": 1620,
+          "height": 1080,
+          "capturedOn": "2021-10-02",
+          "location": "Hooghly riverfront, Kolkata"
+        }
+      ]
+    },
+    {
+      "title": "Yellow, red and a day of puja",
+      "date": "2022-02-05",
+      "location": "Kolkata · College Street",
+      "paragraphs": [
+        "Saraswati shrines, colourful wall art and yellow saris mark the celebrations. The walk continues past the white columns of Medical College."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-02-05-kolkata-puja/yellow-sari-and-the-puja-shrine.webp",
+          "alt": "A traveller in a yellow sari beside a decorated Saraswati shrine.",
+          "caption": "A traveller in a yellow sari beside a decorated Saraswati shrine.",
+          "width": 2000,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Kolkata · Saraswati Puja"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-kolkata-puja/red-curtains-around-the-shrine.webp",
+          "alt": "A Saraswati shrine framed by red curtains, garlands and offerings.",
+          "caption": "A Saraswati shrine framed by red curtains, garlands and offerings.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Kolkata · Saraswati Puja"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-kolkata-puja/bright-wall-art-at-the-celebration.webp",
+          "alt": "Bright blue wall art beside people gathered for a puja celebration.",
+          "caption": "Bright blue wall art beside people gathered for a puja celebration.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Kolkata · Saraswati Puja"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-kolkata-puja/a-pause-beside-the-art-display.webp",
+          "alt": "Two travellers standing beside colourful wall decorations during the celebration.",
+          "caption": "Two travellers standing beside colourful wall decorations during the celebration.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Kolkata · Saraswati Puja"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-kolkata-puja/a-wall-of-colour-and-paper-art.webp",
+          "alt": "Colourful paper art and drawings covering a wall beside the shrine.",
+          "caption": "Colourful paper art and drawings covering a wall beside the shrine.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Kolkata · Saraswati Puja"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-college-street/white-columns-above-the-street.webp",
+          "alt": "The white columns of Medical College and Hospital above the street.",
+          "caption": "The white columns of Medical College and Hospital above the street.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Medical College, College Street"
+        }
+      ]
+    },
+    {
+      "title": "Ferries in the afternoon light",
+      "date": "2022-02-05",
+      "location": "Hooghly riverfront, Kolkata",
+      "paragraphs": [
+        "Small boats and ferries pass the riverbank. A bird crosses the sky and low sunlight spreads across the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-02-05-hooghly-river/small-boats-on-the-broad-river.webp",
+          "alt": "Small boats crossing a broad river beside the city bank.",
+          "caption": "Small boats crossing a broad river beside the city bank.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Hooghly riverfront, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-hooghly-river/looking-out-over-the-water.webp",
+          "alt": "A traveller beside a white river railing beneath a clear afternoon sky.",
+          "caption": "A traveller beside a white river railing beneath a clear afternoon sky.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Hooghly riverfront, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-hooghly-river/branches-above-the-riverboat.webp",
+          "alt": "A riverside building and boat framed by branches in the afternoon light.",
+          "caption": "A riverside building and boat framed by branches in the afternoon light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Hooghly riverfront, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-hooghly-river/a-bird-above-the-ferry.webp",
+          "alt": "A bird flying above a ferry on the broad river.",
+          "caption": "A bird flying above a ferry on the broad river.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Hooghly riverfront, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-hooghly-river/sunlight-on-the-ferry-water.webp",
+          "alt": "Low sunlight reflected in the river beside a passing ferry.",
+          "caption": "Low sunlight reflected in the river beside a passing ferry.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Hooghly riverfront, Kolkata",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Inside Metcalfe Hall",
+      "date": "2022-02-05",
+      "location": "Metcalfe Hall, Kolkata",
+      "paragraphs": [
+        "Tall white columns lead to alpana patterns and galleries of city photographs, framed prints and objects from the past."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/white-columns-at-metcalfe-hall.webp",
+          "alt": "Tall white columns above the broad entrance steps of Metcalfe Hall.",
+          "caption": "Tall white columns above the broad entrance steps of Metcalfe Hall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/white-alpana-on-the-floor.webp",
+          "alt": "White alpana patterns across a polished museum floor.",
+          "caption": "White alpana patterns across a polished museum floor.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/city-history-beside-the-stairs.webp",
+          "alt": "Historical city photographs and framed prints beside a dark wooden staircase.",
+          "caption": "Historical city photographs and framed prints beside a dark wooden staircase.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/framed-faces-along-the-staircase.webp",
+          "alt": "Rows of framed faces along a staircase railing.",
+          "caption": "Rows of framed faces along a staircase railing.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/high-ceiling-and-lit-displays.webp",
+          "alt": "A high timber ceiling above illuminated museum displays.",
+          "caption": "A high timber ceiling above illuminated museum displays.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/an-old-typewriter-on-display.webp",
+          "alt": "An old black typewriter displayed against a pale wall.",
+          "caption": "An old black typewriter displayed against a pale wall.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/wooden-cinema-viewing-box.webp",
+          "alt": "A wooden viewing box with brass eyepieces in a cinema-history display.",
+          "caption": "A wooden viewing box with brass eyepieces in a cinema-history display.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/a-painted-panorama-of-the-city.webp",
+          "alt": "A large painted city panorama above colourful museum displays.",
+          "caption": "A large painted city panorama above colourful museum displays.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Rooms of colour and light",
+      "date": "2022-02-05",
+      "location": "Metcalfe Hall, Kolkata",
+      "paragraphs": [
+        "A painted city panorama gives way to letterboxes, a wooden boat and a tall room filled with patterned light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/white-sculpture-in-the-red-alcove.webp",
+          "alt": "An ornate white sculpture displayed in a tall red-walled alcove.",
+          "caption": "An ornate white sculpture displayed in a tall red-walled alcove.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/letterboxes-on-the-brick-wall.webp",
+          "alt": "Small coloured letterboxes mounted on an exposed brick wall.",
+          "caption": "Small coloured letterboxes mounted on an exposed brick wall.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/the-brick-lined-gallery-passage.webp",
+          "alt": "A long gallery passage beside exposed brick walls and tall doors.",
+          "caption": "A long gallery passage beside exposed brick walls and tall doors.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/boat-in-a-blue-lit-room.webp",
+          "alt": "A dark wooden boat displayed in a blue-lit room with a tall arched window.",
+          "caption": "A dark wooden boat displayed in a blue-lit room with a tall arched window.",
+          "width": 2000,
+          "height": 922,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/patterns-of-light-around-the-room.webp",
+          "alt": "A traveller standing amid circular patterns of light on the floor of a tall room.",
+          "caption": "A traveller standing amid circular patterns of light on the floor of a tall room.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/the-patterned-ceiling-light.webp",
+          "alt": "An intricate circular ceiling feature surrounding a bright central light.",
+          "caption": "An intricate circular ceiling feature surrounding a bright central light.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata"
+        }
+      ]
+    },
+    {
+      "title": "White columns after dark",
+      "date": "2022-02-05",
+      "location": "Metcalfe Hall, Kolkata",
+      "paragraphs": [
+        "The building’s illuminated columns stand against the dark evening sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-02-05-metcalfe-hall/metcalfe-hall-after-dark.webp",
+          "alt": "Metcalfe Hall’s white columns illuminated against the night sky.",
+          "caption": "Metcalfe Hall’s white columns illuminated against the night sky.",
+          "width": 2000,
+          "height": 1500,
+          "capturedOn": "2022-02-05",
+          "location": "Metcalfe Hall, Kolkata",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "An evening at the film festival",
+      "date": "2022-12-22",
+      "location": "Kolkata International Film Festival area",
+      "paragraphs": [
+        "Crowds move beneath flags and lights, past film displays, colourful quotation panels and bright fabric decorations overhead."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-12-22-film-festival/the-festival-gateway.webp",
+          "alt": "A film festival gateway lit beneath trees after dark.",
+          "caption": "A film festival gateway lit beneath trees after dark.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Kolkata International Film Festival area"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-film-festival/meet-the-world-of-cinema.webp",
+          "alt": "Sculpted figures beside the words Meet the World at the World of Cinema.",
+          "caption": "Sculpted figures beside the words Meet the World at the World of Cinema.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Kolkata International Film Festival area"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-film-festival/crowds-beneath-the-festival-flags.webp",
+          "alt": "A crowd moving beneath colourful flags and festival lights.",
+          "caption": "A crowd moving beneath colourful flags and festival lights.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Kolkata International Film Festival area"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-film-festival/a-wall-of-colourful-film-quotes.webp",
+          "alt": "Colourful square panels forming a large outdoor film festival display.",
+          "caption": "Colourful square panels forming a large outdoor film festival display.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2022-12-22",
+          "location": "Kolkata International Film Festival area"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-film-festival/colour-spinning-overhead.webp",
+          "alt": "Bright triangular fabric panels and lights arranged overhead.",
+          "caption": "Bright triangular fabric panels and lights arranged overhead.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-12-22",
+          "location": "Kolkata International Film Festival area"
+        }
+      ]
+    },
+    {
+      "title": "Shopping streets after sunset",
+      "date": "2022-12-22",
+      "location": "Central Kolkata",
+      "paragraphs": [
+        "Crowds move along a shopping street beneath strings of green lights."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-12-22-central-kolkata/crowds-under-the-green-lights.webp",
+          "alt": "A crowd walking beneath strings of green lights along a city shopping street.",
+          "caption": "A crowd walking beneath strings of green lights along a city shopping street.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Central Kolkata"
+        }
+      ]
+    },
+    {
+      "title": "Festive lights over Park Street",
+      "date": "2022-12-22",
+      "location": "Park Street, Kolkata",
+      "paragraphs": [
+        "Yellow taxis pass beneath stars and canopies of coloured lights. A tall illuminated tree stands beside Apeejay House."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/yellow-taxis-and-festive-lights.webp",
+          "alt": "Yellow taxis and cars beneath festive lights across the city road.",
+          "caption": "Yellow taxis and cars beneath festive lights across the city road.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/stars-above-the-evening-traffic.webp",
+          "alt": "Rows of illuminated stars above traffic and street decorations.",
+          "caption": "Rows of illuminated stars above traffic and street decorations.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/tree-and-lights-at-apeejay-house.webp",
+          "alt": "A tall illuminated Christmas tree beside Apeejay House and strings of coloured lights.",
+          "caption": "A tall illuminated Christmas tree beside Apeejay House and strings of coloured lights.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/a-canopy-of-coloured-lights.webp",
+          "alt": "A canopy of coloured lights above cars, pedestrians and yellow taxis.",
+          "caption": "A canopy of coloured lights above cars, pedestrians and yellow taxis.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Under the light arches",
+      "date": "2022-12-22",
+      "location": "Park Street, Kolkata",
+      "paragraphs": [
+        "People and balloons fill the paths beneath bright arches, while a golden angel hangs above the road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/together-under-the-city-lights.webp",
+          "alt": "Two travellers beneath bright purple and blue festive lights.",
+          "caption": "Two travellers beneath bright purple and blue festive lights.",
+          "width": 1500,
+          "height": 2000,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/balloons-under-the-light-arches.webp",
+          "alt": "Colourful balloons and people beneath illuminated arches and stars.",
+          "caption": "Colourful balloons and people beneath illuminated arches and stars.",
+          "width": 1126,
+          "height": 2000,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-park-street/an-angel-above-the-road.webp",
+          "alt": "A golden angel light decoration above the street.",
+          "caption": "A golden angel light decoration above the street.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Park Street, Kolkata"
+        }
+      ]
+    },
+    {
+      "title": "A last stop at Allen Park",
+      "date": "2022-12-22",
+      "location": "Allen Park, Kolkata",
+      "paragraphs": [
+        "Large baubles cover the Christmas tree beside bright festival signs and people gathered after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/kolkata/2022-12-22-allen-park/baubles-on-the-christmas-tree.webp",
+          "alt": "Large coloured baubles covering a tall Christmas tree against the night sky.",
+          "caption": "Large coloured baubles covering a tall Christmas tree against the night sky.",
+          "width": 1126,
+          "height": 2000,
+          "capturedOn": "2022-12-22",
+          "location": "Allen Park, Kolkata"
+        },
+        {
+          "src": "/photos/kolkata/2022-12-22-allen-park/christmas-colour-in-the-park.webp",
+          "alt": "People gathered beside a Christmas tree and bright park decorations after dark.",
+          "caption": "People gathered beside a Christmas tree and bright park decorations after dark.",
+          "width": 2000,
+          "height": 1126,
+          "capturedOn": "2022-12-22",
+          "location": "Allen Park, Kolkata"
+        }
+      ]
+    }
+  ],
+  "mapLocation": {
+    "label": "Kolkata",
+    "latitude": 22.57,
+    "longitude": 88.36,
+    "labelPosition": [
+      940,
+      460
+    ]
+  }
+}

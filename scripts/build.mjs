@@ -132,13 +132,13 @@ export async function build({ projectRoot = root, output = path.join(projectRoot
     await mkdir(path.dirname(destination), { recursive: true });
     await cp(path.join(publicRoot, source), destination);
   }
-  for (const filename of ['styles.css', 'main.js', 'gallery.js', 'gallery-layout.js']) await cp(path.join(projectRoot, 'src', filename), path.join(output, 'assets', filename));
+  for (const filename of ['styles.css', 'main.js', 'gallery.js', 'gallery-layout.js', 'photo-posts.js', 'mobile.js', 'atlas-zoom.js']) await cp(path.join(projectRoot, 'src', filename), path.join(output, 'assets', filename));
   await writeFile(path.join(output, '.nojekyll'), '');
   const pages = new Map([
     ['index.html', renderHome(site, trips)],
     ['credits/index.html', renderCredits(site, trips)],
     ['404.html', render404(site)],
-    ...trips.map((trip, index) => [`stories/${trip.slug}/index.html`, renderStory(site, trip, trips.length > 1 ? trips[(index + 1) % trips.length] : null)]),
+    ...trips.map((trip, index) => [`stories/${trip.slug}/index.html`, renderStory(site, trip, trips.length > 1 ? trips[(index + 1) % trips.length] : null, trips)]),
     ...trips.flatMap((trip) => (trip.legacySlugs || []).map((slug) => [`stories/${slug}/index.html`, renderStoryRedirect(site, trip)])),
   ]);
   for (const [filename, html] of pages) {

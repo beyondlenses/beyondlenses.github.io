@@ -1,5 +1,6 @@
 const atlas = document.querySelector('[data-atlas]');
 if (atlas) {
+  atlas.setAttribute('data-enhanced', '');
   const countryLinks = [...atlas.querySelectorAll('[data-atlas-country]')];
   const albumLinks = [...atlas.querySelectorAll('[data-atlas-album]')];
   const panels = [...atlas.querySelectorAll('[data-atlas-panel]')];
@@ -42,7 +43,11 @@ if (atlas) {
       baseCaption = `${panel.dataset.atlasLabel} · ${albums}. Choose a location or an album below.`;
       description.textContent = `Zoomed map of ${panel.dataset.atlasLabel}. Locations link to the ${albums} listed below the map.`;
       returnFocus = source && source.getAttribute('tabindex') !== '-1' ? source : countryLinks.find((link) => link.dataset.atlasCountry === id && link.getAttribute('tabindex') !== '-1');
-      if (focus) panel.querySelector('h3').focus({ preventScroll: true });
+      if (focus) {
+        const compact = window.matchMedia?.('(max-width: 700px), (max-height: 500px) and (pointer: coarse)').matches;
+        const target = compact ? document.querySelector('#album-grid') : panel.querySelector('h3');
+        target?.focus({ preventScroll: true });
+      }
     } else {
       heading.innerHTML = worldHeading;
       baseCaption = worldCaption;
@@ -90,15 +95,20 @@ if (filterBar) {
   filterBar.hidden = false;
   const cards = [...document.querySelectorAll('[data-continent]')];
   const status = document.querySelector('[data-filter-status]');
-  filterBar.addEventListener('click', (event) => {
-    const button = event.target.closest('[data-filter]');
-    if (!button) return;
-    const continent = button.dataset.filter;
-    for (const item of filterBar.querySelectorAll('button')) item.setAttribute('aria-pressed', String(item === button));
+  const applyFilter = (continent) => {
+    for (const item of filterBar.querySelectorAll('button')) item.setAttribute('aria-pressed', String(item.dataset.filter === continent));
     for (const card of cards) card.hidden = continent !== 'all' && card.dataset.continent !== continent;
     const count = cards.filter((card) => !card.hidden).length;
     status.textContent = `${count} ${count === 1 ? 'story' : 'stories'} shown${continent === 'all' ? '' : ` from ${continent}`}.`;
+  };
+  filterBar.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-filter]');
+    if (button) applyFilter(button.dataset.filter);
   });
+  const compact = globalThis.window?.matchMedia?.('(max-width: 700px), (max-height: 500px) and (pointer: coarse)');
+  const revealAllAlbums = () => { if (compact?.matches) applyFilter('all'); };
+  compact?.addEventListener('change', revealAllAlbums);
+  revealAllAlbums();
 }
 
 const progress = document.querySelector('.reading-progress');

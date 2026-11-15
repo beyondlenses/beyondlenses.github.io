@@ -6,7 +6,7 @@ import { readFile } from 'node:fs/promises';
 const source = await readFile(new URL('../src/main.js', import.meta.url), 'utf8');
 
 // Minimal DOM boundary: the actual browser controller handles all state changes.
-function fixture(hash = '', aliases = '') {
+function fixture(hash = '', aliases = '', compact = false) {
   let document;
   const element = (dataset = {}, attributes = {}) => {
     const classes = new Set(), listeners = new Map();
@@ -42,9 +42,10 @@ function fixture(hash = '', aliases = '') {
   const atlas = element();
   atlas.querySelector = (selector) => nodes.get(selector);
   atlas.querySelectorAll = (selector) => groups.get(selector);
-  document = { activeElement: null, querySelector: (selector) => selector === '[data-atlas]' ? atlas : null };
-  vm.runInNewContext(source, { document, window: { location: { hash } } });
-  return { atlas, countryLinks, albumLinks, panels, headings, layers, world, geography, back, heading, description, status, caption, document };
+  const albumGrid = element();
+  document = { activeElement: null, querySelector: (selector) => selector === '[data-atlas]' ? atlas : selector === '#album-grid' ? albumGrid : null };
+  vm.runInNewContext(source, { document, window: { location: { hash }, matchMedia: () => ({ matches: compact }) } });
+  return { atlas, countryLinks, albumLinks, panels, headings, layers, world, geography, back, heading, description, status, caption, document, albumGrid };
 }
 
 test('country selection zooms and reveals only its own albums, including a single-album country', () => {
@@ -127,4 +128,14 @@ test('continent filters show matching cards, update pressed states and restore a
   bar.click({ target: buttons[0] });
   assert.ok(cards.every((card) => !card.hidden));
   assert.equal(status.textContent, '4 stories shown.');
+});
+
+
+test('mobile country selection keeps focus on the compact album grid', () => {
+  const ui = fixture('', '', true);
+  ui.countryLinks[0].fire('click');
+  assert.equal(ui.document.activeElement, ui.albumGrid);
+  assert.equal(ui.atlas.getAttribute('data-enhanced'), '');
+  ui.back.fire('click');
+  assert.equal(ui.document.activeElement, ui.countryLinks[0]);
 });

@@ -59,7 +59,11 @@ the Botanic Gardens, campus life, the Southern Ridges and coastal visits.
 **Andhra Pradesh and Chhattisgarh** adds **134 original photographs** in **22 dated sections** from
 **4–8 January 2026**, following Visakhapatnam and Araku into Bastar,
 Kanger Valley, Dantewada, Barsur and Chitrakote.
-The site contains **22 albums across 15 countries**.
+**Sikkim** adds **61 photographs** from **1–3 April 2022**, and **Darjeeling** adds **81 photographs** from **26–28 June 2026**.
+**Sonar Bangla** adds **79 photographs** from Mandarmani and the Bolpur–Santiniketan area,
+captured **26–27 February 2022** and **12–13 July 2025**. **Hente Dekho Kolkata** adds
+**58 photographs** from **2 October 2021, 5 February 2022 and 22 December 2022**.
+The site contains **26 albums across 15 countries**.
 
 All albums except Japan use Cloudflare R2; their local WebP exports are ignored
 by Git. The existing Japan photographs remain in the repository. Gros Morne’s
@@ -137,9 +141,9 @@ The panel preserves newest-photo-first order. Old individual country map hashes
 open this regional view when JavaScript is available; country labels and
 album URLs remain intact.
 
-Canada’s view frames Vancouver and its eastern destinations. On narrow
-screens the labelled map scrolls horizontally,
-and album cards stack below it. Hovering or focusing an album highlights its map
+Canada’s view frames Vancouver and its eastern destinations. On phones the world map fits the viewport and supports pinch zoom, panning
+and Fit/reset controls. Compact album thumbnails with location names sit
+below the map. Hovering or focusing an album highlights its map
 marker and cover card together. Reduced motion preferences disable the
 transition. Without JavaScript, map links jump to the corresponding collection
 of album cards below the world map.
@@ -219,7 +223,8 @@ and keeps the original sequence. Portraits and landscapes in a row share an
 image height, with widths proportional to their original aspect ratios.
 Captions remain beneath their own photographs in normal document flow.
 Existing `wide` flags are prominence hints; `layout: "full"` retains individual
-full rows. Small screens use one photo per row.
+full rows. Without JavaScript, small screens use one photo per row; the enhanced mobile
+view uses horizontal groups for consecutive photographs at the same place.
 
 The static build includes packed rows, so galleries also work without
 JavaScript. `src/gallery.js` repacks the same figure nodes on container or
@@ -1018,3 +1023,112 @@ cannot open its socket, and headless Chrome cannot create its crash-reporting
 socket. Run `npm run dev` locally to inspect the cover, galleries and viewer.
 Album content, the selection manifest and documentation are staged for the
 owner to commit and push; local WebP exports remain ignored by Git.
+
+
+## Sikkim, Darjeeling, Sonar Bangla and Hente Dekho Kolkata
+
+| Album | Slug | Photos | Sections | WebP exports |
+| --- | --- | ---: | ---: | ---: |
+| Sikkim | `sikkim` | 61 | 12 | 19.4 MiB |
+| Darjeeling | `darjeeling` | 81 | 16 | 30.3 MiB |
+| Sonar Bangla | `west-bengal` | 79 | 16 | 36.4 MiB |
+| Hente Dekho Kolkata | `kolkata` | 58 | 12 | 15.8 MiB |
+
+All 1,423 Sikkim JPEGs and 827 Darjeeling photographs were fully decoded and
+reviewed in 23 and 13 chronological contact sheets. Larger reviews checked
+68 and 83 candidates, including an additional Sikkim cover alternative.
+Sikkim follows Gangtok, Tsomgo Lake, Nathu La, the Baba Harbhajan Singh shrine
+and Teesta Valley. Darjeeling includes Margaret’s Deck, Ghum, Chowrasta,
+the Peace Pagoda, zoo and mountaineering institute.
+
+Sikkim has no usable GPS. Signs, landscape and capture order support the
+locations; uncertain road stops retain broad labels. Its phone offset tags
+change within the same outing, so the manifest preserves camera-recorded
+calendar dates and reported offsets separately. Undated shared copies and
+63 zero-date rafting frames remain omitted in favour of dated originals.
+Darjeeling retains its original local EXIF dates and +05:30 offsets.
+
+All 716 West Bengal JPEGs and 523 Kolkata stills were inventoried and reviewed
+in twelve and nine contact sheets. Kolkata’s 22 DNG files were additionally
+fully decoded with system LibRaw and reviewed in two RAW comparison sheets;
+they repeat portraits and light sequences and are omitted. Larger reviews
+compared 83 West Bengal and 59 Kolkata candidates. Sonar Bangla follows
+Mandarmani, Bolpur, Sonajhuri market, Prakriti Bhavan, Santiniketan, Surul and
+Raipur. GPS distinguishes the Surul courtyard from the later Raipur ruins.
+Unidentified sculpture gardens, ponds and small stops keep broader labels.
+Kolkata follows Kumortuli, the Hooghly, Saraswati Puja, College Street,
+Metcalfe Hall, the film festival and Park Street’s festive lights.
+
+Each cover appears once in its album’s photo count. The manifests record every
+selection and omission, SHA-256 hashes, actual EXIF dates, location evidence,
+people scenes and daily counts. The four collections’ 146 videos and 1,318
+AppleDouble sidecars remain outside the albums. Originals remain intact;
+no archive extraction was needed. All 279 selected hashes, export dimensions,
+orientation and framing were checked. The 136 source ICC profiles are retained,
+and published copies contain no EXIF/XMP. Exports use quality 84 and up to
+2,000 pixels on the long edge, or 2,400 for covers, and remain ignored by Git.
+
+Recreate each album using `scripts/export-photos.py` with its selection manifest
+and `--source ../dump/<source-folder>`; the Darjeeling source folder is capitalized
+`Darjeeling`. Then run:
+
+```sh
+npm run photos:plan -- sikkim darjeeling west-bengal kolkata
+npm run photos:upload -- sikkim darjeeling west-bengal kolkata
+npm run photos:check -- sikkim darjeeling west-bengal kolkata
+```
+
+The upload attempts transferred no files because this sandbox blocks R2 DNS
+sockets. Upload and checksum-check successfully before pushing. `npm test`
+passes and `npm run build` produces 33 pages and 26 stories. Full-resolution
+cover exports and representative gallery exports were reopened after conversion.
+
+## Mobile browsing
+
+Phones have a sticky masthead and bottom navigation for Explore, Albums,
+Sections and Next album. The album picker has cover thumbnails, a place/title
+search and a current-album indicator. The section picker jumps directly into
+an album even when its introductory chapter index is hidden. The menus use
+native dialogs with Escape/close controls, focus restoration and working link
+fallbacks. Bottom controls respect the device’s safe area.
+
+On screens up to 700 pixels wide, and short landscape screens with a coarse
+pointer, consecutive photographs with the same location and capture date form
+horizontal swipe groups of up to eight. Groups never cross chapter boundaries,
+dates, location changes or separated visits. Tiny arrows appear over the image only when another frame is available in
+that direction, and pagination dots sit on the photo. Keyboard controls also
+support browsing. Each group fits its current photo’s aspect ratio and caption
+height to avoid empty space above and below the photograph. Each original image node appears once;
+resizing preserves the current slide and desktop keeps the editorial galleries.
+Long field notes and captions have Show more / Show less controls. Without
+JavaScript the full text and vertical photo galleries remain readable.
+The enlarged photo viewer also accepts horizontal touch gestures while leaving
+vertical gestures and pinch zoom available. Reduced-motion preferences are
+respected.
+
+Tests cover grouping boundaries, original photo order, native scroll position,
+dot and keyboard navigation, resize position retention, reduced motion, menu
+links and public R2 cover URLs, alongside the existing gallery and site checks.
+Interactive desktop/mobile review remains pending: the preview server fails
+with a socket permission error and Chrome cannot open its crash-reporting
+socket. Run `npm run dev` locally to review the galleries, menus and viewer.
+
+
+The mobile homepage now shows the whole world map without sideways scrolling,
+followed directly by a dense grid of album thumbnails and location labels.
+Five columns (four on the narrowest phones) replace the long full-card list.
+The full album names and locations remain available to assistive technology.
+The existing expanded cards remain on desktop. Mobile destination selection
+keeps focus on the visible album grid, and entering the compact layout clears
+any desktop continent filter so every album remains reachable.
+
+The map supports local two-finger pinch zoom, panning when zoomed, keyboard
+zoom/pan, zoom buttons and Fit. A normal one-finger swipe scrolls the page at
+the default zoom; dragging or pinching cannot accidentally open a destination.
+The map also fits short landscape screens. Tests exercise the gesture controller,
+zoom anchoring and bounds, click suppression, keyboard/reset controls, mobile
+focus, compact album labels, directional arrow visibility and photo/caption
+height changes. `npm test` and `npm run build` pass. Live preview remains blocked
+by the workspace: the server cannot bind its socket, Chrome cannot create its
+crash-reporting socket, and Firefox’s Snap launcher requires a read-only runtime
+folder. Preview on a phone with `npm run dev` outside this sandbox.
