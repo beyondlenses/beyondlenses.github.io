@@ -26,10 +26,7 @@ export function initializeAtlasZoom(root = document) {
   const controls = [...atlas.querySelectorAll('[data-map-zoom]')];
   const status = atlas.querySelector('[data-map-zoom-status]');
   const compact = globalThis.matchMedia?.('(max-width: 700px), (max-height: 500px) and (pointer: coarse)');
-  const openingView = () => compact?.matches && !atlas.classList.contains('is-country')
-    ? pinchAtlas(initialAtlasView(), 1.5, { x: .5, y: .5 })
-    : initialAtlasView();
-  let view = openingView();
+  let view = initialAtlasView();
   let gesture = null;
   let lastMove = 0;
   let pending = false;
@@ -44,7 +41,7 @@ export function initializeAtlasZoom(root = document) {
   const schedule = () => {
     if (!pending) { pending = true; requestAnimationFrame(paint); }
   };
-  const reset = () => { view = openingView(); schedule(); };
+  const reset = () => { view = initialAtlasView(); schedule(); };
   compact?.addEventListener('change', reset);
   const point = (touch) => {
     const rect = map.getBoundingClientRect();

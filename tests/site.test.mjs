@@ -517,6 +517,8 @@ test('generated pages have working local assets, navigation, and chapter anchors
     const html = await readFile(filename, 'utf8');
     const route = path.relative(output, filename).split(path.sep).join('/');
     assert.equal((html.match(/<h1[\s>]/g) || []).length, 1, `One main heading: ${route}`);
+    assert.equal((html.match(/data-theme-toggle/g) || []).length, 1, `Theme switch available: ${route}`);
+    assert.ok(html.includes('src="/assets/theme.js"'), `Theme script included: ${route}`);
     for (const [, link] of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
       const url = new URL(link.replaceAll('&amp;', '&'), `${content.site.url}/${route}`);
       if (url.origin !== content.site.url) continue;

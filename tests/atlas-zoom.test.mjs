@@ -58,18 +58,21 @@ function fixture(t, mobile = false) {
 
 const touch = (clientX, clientY) => ({ clientX, clientY });
 
-test('only mobile opens at 150%, with panning, full-map Fit and country views preserved', (t) => {
+test('mobile opens with the whole world visible and restores it after zoom or destination changes', (t) => {
   const { viewport, map, controls, status, atlas, compact } = fixture(t, true);
-  assert.equal(map.attributes.viewBox, '200 100 800 400');
-  assert.equal(status.textContent, 'Map zoom 150%');
-  assert.equal(viewport.attributes['data-zoomed'], 'true');
+  assert.equal(map.attributes.viewBox, '0 0 1200 600');
+  assert.equal(status.textContent, 'Map zoom 100%');
+  assert.equal(viewport.attributes['data-zoomed'], 'false');
+  assert.equal(viewport.fire('touchstart', { touches: [touch(180, 90)] }).defaultPrevented, false);
+  assert.equal(viewport.fire('touchmove', { touches: [touch(180, 120)] }).defaultPrevented, false, 'The fitted world allows normal page scrolling');
+  controls[1].fire('click');
   viewport.fire('touchstart', { touches: [touch(180, 90)] });
   viewport.fire('touchmove', { touches: [touch(216, 90)] });
   close(Number(map.attributes.viewBox.split(' ')[0]), 120);
   controls[2].fire('click');
   assert.equal(map.attributes.viewBox, '0 0 1200 600');
   atlas.fire('keydown', { key: 'Escape' });
-  assert.equal(map.attributes.viewBox, '200 100 800 400');
+  assert.equal(map.attributes.viewBox, '0 0 1200 600');
   atlas.selectedCountry = true;
   atlas.fire('keydown', { key: 'Escape' });
   assert.equal(map.attributes.viewBox, '0 0 1200 600', 'Country framing does not get extra zoom');
@@ -100,4 +103,12 @@ test('touch zoom, one-finger pan, fit and click suppression use the actual map c
   assert.equal(status.textContent, 'Map zoom 150%');
   viewport.fire('keydown', { key: '0' });
   assert.equal(status.textContent, 'Map zoom 100%');
+});
+
+test('pinch anchoring accounts for gutters when the map frame has a different shape', (t) => {
+  const { viewport, map } = fixture(t, true);
+  map.getBoundingClientRect = () => ({ left: 0, top: 0, width: 360, height: 234 });
+  viewport.fire('touchstart', { touches: [touch(90, 117), touch(270, 117)] });
+  viewport.fire('touchmove', { touches: [touch(0, 117), touch(360, 117)] });
+  assert.equal(map.attributes.viewBox, '300 150 600 300');
 });

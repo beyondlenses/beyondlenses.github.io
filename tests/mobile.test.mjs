@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { groupPhotoRuns, createPhotoPosts, photoPostHeight } from '../src/photo-posts.js';
+import { groupPhotoRuns, createPhotoPosts, photoPostHeight, photoGroupHeight } from '../src/photo-posts.js';
 import { loadContent } from '../scripts/build.mjs';
 import { renderStory, renderHome } from '../src/templates.mjs';
 
@@ -94,11 +94,17 @@ test('album and section pickers resolve public R2 covers and retain fallback lin
 });
 
 
-test('mobile photo frames follow the current aspect ratio within the screen height', () => {
+test('uniform groups keep their shape while mixed groups share a screen-bounded frame', () => {
   assert.equal(photoPostHeight(2000, 1000, 390, 844), 195);
   assert.equal(photoPostHeight(1000, 2000, 390, 844), 624);
   assert.equal(photoPostHeight(2000, 1500, 390, 844), 292.5);
   assert.equal(photoPostHeight(2000, 3000, 844, 390), 170);
+  assert.equal(photoGroupHeight([{ width: 2000, height: 1000 }, { width: 1000, height: 500 }], 390, 844), 195);
+  assert.equal(photoGroupHeight([{ width: 1000, height: 2000 }, { width: 500, height: 1000 }], 390, 844), 624);
+  assert.equal(photoGroupHeight([{ width: 2000, height: 1000 }, { width: 1000, height: 2000 }], 390, 844), 292.5);
+  assert.equal(photoGroupHeight([{ width: 2000, height: 1000 }, { width: 1000, height: 2000 }], 844, 390), 170);
+  assert.equal(photoGroupHeight([{}, {}], 390, 844), 292.5);
+  assert.equal(photoGroupHeight([], 390, 844), 0);
 });
 
 test('home album shortcuts have concise location labels and accessible full names', async () => {
@@ -115,13 +121,14 @@ test('home album shortcuts have concise location labels and accessible full name
 });
 
 
-test('each swipe resizes the image and caption without leaving a tall empty frame', (t) => {
+test('mixed-shape swipes keep the image, captions and following content stationary', (t) => {
   const globals = ['window', 'requestAnimationFrame'].map((name) => [name, globalThis[name]]);
   t.after(() => globals.forEach(([name, value]) => { if (value === undefined) delete globalThis[name]; else globalThis[name] = value; }));
   globalThis.window = { innerHeight: 844, matchMedia: () => ({ matches: true }) };
   globalThis.requestAnimationFrame = (callback) => callback();
   const root = { createElement: (tag) => Object.assign(new Element(), { tag }) };
-  const figures = [[2000, 1000, 40], [1000, 2000, 20]].map(([width, height, captionHeight], i) => {
+  const captionHeights = [40, 20];
+  const figures = [[2000, 1000], [1000, 2000]].map(([width, height], i) => {
     const figure = root.createElement('figure');
     figure.setAttribute('data-photo-location', 'A lakeside stop');
     const link = Object.assign(root.createElement('a'), { href: `/frame-${i}.webp` });
@@ -130,7 +137,7 @@ test('each swipe resizes the image and caption without leaving a tall empty fram
     image.setAttribute('height', height);
     link.append(image);
     const caption = root.createElement('figcaption');
-    caption.getBoundingClientRect = () => ({ height: captionHeight });
+    caption.getBoundingClientRect = () => ({ height: captionHeights[i] });
     figure.append(link, caption);
     return figure;
   });
@@ -138,9 +145,18 @@ test('each swipe resizes the image and caption without leaving a tall empty fram
   restore();
   const post = posts[0];
   const [, track, controls] = post.children;
-  assert.equal(post.style['--post-image-height'], '195px');
-  assert.equal(track.style.height, '235px');
+  assert.equal(post.style['--post-image-height'], '292.5px');
+  assert.equal(track.style.height, '332.5px');
   controls.children[2].listeners.click();
-  assert.equal(post.style['--post-image-height'], '624px');
-  assert.equal(track.style.height, '644px');
+  assert.equal(post.style['--post-image-height'], '292.5px');
+  assert.equal(track.style.height, '332.5px');
+  captionHeights[1] = 80;
+  post.listeners.click({ target: { closest: () => true } });
+  assert.equal(track.style.height, '372.5px', 'Explicit caption expansion reserves enough room');
+  controls.children[0].listeners.click();
+  assert.equal(track.style.height, '372.5px', 'Swiping back retains the expanded group height');
+  track.clientWidth = 320;
+  restore();
+  assert.equal(post.style['--post-image-height'], '240px');
+  assert.equal(track.style.height, '320px', 'A viewport resize recalculates the common frame');
 });

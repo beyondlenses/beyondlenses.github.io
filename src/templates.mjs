@@ -33,6 +33,7 @@ function header(compact = false) {
   return `<header class="site-header wrap">
     <a class="wordmark" href="/" aria-label="Beyond Lenses home">${aperture}<span>beyondlenses<span class="brand-period">.</span></span></a>
     ${compact ? '' : '<nav aria-label="Main navigation"><a href="/#journal">The journal</a><a href="/#about">Behind the lens</a></nav><span class="header-note">A personal photo journal <span aria-hidden="true">↗</span></span>'}
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Dark theme" aria-pressed="false" title="Switch theme" hidden><svg class="theme-icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.8 13a9 9 0 0 1-9.8-9.8A9 9 0 1 0 20.8 13Z"/></svg><svg class="theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg></button>
   </header>`;
 }
 
@@ -70,7 +71,9 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#161b18" media="(prefers-color-scheme: dark)">
   <meta name="theme-color" content="#f5f3ed">
+  <script src="/assets/theme.js"></script>
   <title>${e(title)}</title>
   <meta name="description" content="${e(description)}">
   <link rel="canonical" href="${e(canonical)}">
@@ -83,6 +86,8 @@ function page(site, { title, description, path = '/', image, body, bodyClass = '
   ${image ? `<meta property="og:image" content="${e(new URL(image, site.url).href)}">` : ''}
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/newsreader-variable.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/styles.css">
   <script src="/assets/main.js" defer></script>
   <script src="/assets/mobile.js" type="module"></script>
@@ -158,7 +163,7 @@ function travelAtlas(trips) {
           return atlasMarker({ href: tripPath(trip), label, badge: index + 1, x: x * country.view.scale + country.view.x, y: y * country.view.scale + country.view.y, position: country.albumLabelPositions[trip.slug] || labelPosition, attributes: `data-atlas-album="${e(trip.slug)}" data-atlas-title="${e(trip.title)}"`, description: `${label}: ${trip.title}` });
         }).join('')}</g>`).join('')}
       </svg></div>
-      <div class="atlas-zoom-controls" aria-label="Map zoom"><span>Pinch to explore</span><button type="button" data-map-zoom="out" aria-label="Zoom out on map">−</button><button type="button" data-map-zoom="in" aria-label="Zoom in on map">+</button><button type="button" data-map-zoom="reset" aria-label="Fit entire map">Fit</button><output class="sr-only" data-map-zoom-status aria-live="polite">Map zoom 100%</output></div>
+      <div class="atlas-zoom-controls" role="group" aria-label="Map zoom"><span>Pinch to explore</span><button type="button" data-map-zoom="out" aria-label="Zoom out on map">−</button><button type="button" data-map-zoom="in" aria-label="Zoom in on map">+</button><button type="button" data-map-zoom="reset" aria-label="Fit entire map">Fit</button><output class="sr-only" data-map-zoom-status aria-live="polite">Map zoom 100%</output></div>
       <p class="sr-only" data-atlas-caption>Select a destination to explore its albums.</p>
       <div class="atlas-country-panels">${countries.map((country) => `<section class="atlas-country-panel" id="atlas-country-${e(country.id)}" data-atlas-panel="${e(country.id)}" data-atlas-aliases="${e(country.aliases.join(' '))}" data-atlas-label="${e(country.label)}" data-atlas-count="${country.trips.length}" data-atlas-transform="matrix(${country.view.scale.toFixed(5)},0,0,${country.view.scale.toFixed(5)},${country.view.x.toFixed(3)},${country.view.y.toFixed(3)})" aria-labelledby="atlas-country-heading-${e(country.id)}">
         <div class="atlas-country-heading"><div><p class="eyebrow">${e(country.label)}</p><h3 id="atlas-country-heading-${e(country.id)}" tabindex="-1">Choose an <em>album.</em></h3></div><p>${countLabel(country.trips.length)} · ${country.trips.reduce((sum, trip) => sum + frameCount(trip), 0)} photographs</p></div>

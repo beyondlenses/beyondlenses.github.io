@@ -147,7 +147,7 @@ The panel preserves newest-photo-first order. Old individual country map hashes
 open this regional view when JavaScript is available; country labels and
 album URLs remain intact.
 
-Canada’s view frames Vancouver and its eastern destinations. On phones the world map opens at 150% zoom and supports pinch zoom, panning
+Canada’s view frames Vancouver and its eastern destinations. On phones the world map opens with the whole world visible and supports pinch zoom, panning
 and Fit/reset controls. Compact album thumbnails with location names sit
 below the map. Hovering or focusing an album highlights its map
 marker and cover card together. Reduced motion preferences disable the
@@ -1170,15 +1170,29 @@ search and a current-album indicator. The section picker jumps directly into
 an album even when its introductory chapter index is hidden. The menus use
 native dialogs with Escape/close controls, focus restoration and working link
 fallbacks. Bottom controls respect the device’s safe area.
+The palette defaults to the device’s light/dark preference, including changes
+while the page is open. A sun/moon button at the top right of every page switches
+between dark and light. A manual choice is remembered across pages and visits,
+takes priority over the device setting, and stays in sync across open tabs.
+The switch works even when browser storage is unavailable. Dark mode uses a
+charcoal background, light text and muted green surfaces for image frames,
+menus and search. Browser theme colours follow the active theme. The preference
+is applied before the stylesheet loads to avoid a flash of the wrong theme;
+without JavaScript the page still follows the device setting.
 
 On screens up to 700 pixels wide, and short landscape screens with a coarse
 pointer, consecutive photographs with the same location and capture date form
 horizontal swipe groups of up to eight. Groups never cross chapter boundaries,
 dates, location changes or separated visits. Tiny arrows appear over the image only when another frame is available in
 that direction, and pagination dots sit on the photo. Keyboard controls also
-support browsing. Each group fits its current photo’s aspect ratio and caption
-height to avoid empty space above and below the photograph. Each original image node appears once;
-resizing preserves the current slide and desktop keeps the editorial galleries.
+support browsing. A group with mixed image shapes uses one 4:3 frame; groups
+with a uniform shape keep that ratio. Images stay uncropped and centred with
+empty sides or letterboxing where needed. The frame respects the screen-height
+limit, and the group reserves space for its tallest caption so swiping does not
+move the next group. Opening a long caption recalculates that reserved space.
+Groups meet at a single divider line, without the empty band between borders.
+Each original image node appears once; resizing preserves the current slide
+and desktop keeps the editorial galleries.
 Long field notes and captions have Show more / Show less controls. Without
 JavaScript the full text and vertical photo galleries remain readable.
 The enlarged photo viewer also accepts horizontal touch gestures while leaving
@@ -1193,7 +1207,7 @@ with a socket permission error and Chrome cannot open its crash-reporting
 socket. Run `npm run dev` locally to review the galleries, menus and viewer.
 
 
-The mobile homepage now opens with an enlarged world map inside its fixed frame,
+The mobile homepage opens with the complete world map in a fitted 2:1 frame,
 followed directly by a dense grid of album thumbnails and location labels.
 Five columns (four on the narrowest phones) replace the long full-card list.
 The full album names and locations remain available to assistive technology.
@@ -1202,15 +1216,36 @@ keeps focus on the visible album grid, and entering the compact layout clears
 any desktop continent filter so every album remains reachable.
 
 The map supports local two-finger pinch zoom, panning when zoomed, keyboard
-zoom/pan, zoom buttons and Fit. Mobile starts at 150% with one-finger panning;
-Fit reveals the whole world and allows normal one-finger page scrolling again.
-Desktop still starts with the whole world visible. Selecting a destination keeps
-its existing country framing; returning to the world restores the larger mobile
-view. Dragging or pinching cannot accidentally open a destination.
+zoom/pan, zoom buttons and Fit. Mobile starts at 100%, with the entire world
+visible and no scrolling inside the map. Its frame follows the map’s natural
+2:1 proportions, capped to fit short screens, without extra green bands above
+or below. Zoom out, zoom in and Fit sit in a compact overlay on the map’s lower
+centre, clear of the destination labels. The former toolbar row is removed.
+One-finger page scrolling works initially;
+panning becomes active after zooming in. Fit and returning from a destination
+restore the whole world. Desktop also starts with the whole world visible.
+Selecting a destination keeps its existing country framing. Dragging or pinching cannot accidentally open a destination.
 The map also fits short landscape screens. Tests exercise the gesture controller,
 zoom anchoring and bounds, click suppression, keyboard/reset controls, mobile
-focus, compact album labels, directional arrow visibility and photo/caption
-height changes. `npm test` and `npm run build` pass. Live preview remains blocked
+focus, compact album labels, directional arrow visibility, stable mixed-shape
+frames and caption heights, explicit caption expansion, resize behaviour and
+pinch anchoring when the map frame is constrained. `npm test` and `npm run build` pass. Live preview remains blocked
 by the workspace: the server cannot bind its socket, Chrome cannot create its
 crash-reporting socket, and Firefox’s Snap launcher requires a read-only runtime
 folder. Preview on a phone with `npm run dev` outside this sandbox.
+
+
+## Typography
+
+Newsreader is used for album titles and chapter headings; Manrope is used for
+body text, captions and navigation. Newsreader’s regular and italic faces and
+Manrope’s regular face are bundled as variable WOFF2 files in `public/fonts/`,
+with their SIL Open Font License files and source notes. The site makes no
+runtime font-service requests. The two regular faces are preloaded and all
+faces use `font-display: swap` with system fallbacks. Optical sizing is enabled
+for Newsreader, and title spacing is more relaxed.
+
+Mobile photo and viewer captions use 13px text; photo dates and places use
+11px. Gallery caption heights are recalculated after the web fonts finish
+loading, preserving the current slide and preventing clipped captions from
+changed wrapping. The local preview server serves WOFF2 as `font/woff2`.

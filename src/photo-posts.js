@@ -16,6 +16,14 @@ export function photoPostHeight(width, height, containerWidth, viewportHeight) {
   return Math.min(containerWidth * ratio, Math.max(100, viewportHeight - 220));
 }
 
+export function photoGroupHeight(photos, containerWidth, viewportHeight) {
+  if (!photos.length) return 0;
+  const ratios = photos.map(({ width, height }) => width > 0 && height > 0 ? width / height : 4 / 3);
+  const uniform = ratios.every((ratio) => Math.abs(ratio - ratios[0]) < .01);
+  // Mixed shapes share a landscape frame. Contain each image without cropping.
+  return photoPostHeight(uniform ? ratios[0] : 4 / 3, 1, containerWidth, viewportHeight);
+}
+
 export function createPhotoPosts(root, figures, positions = new Map()) {
   const descriptors = figures.map((figure) => ({ location: figure.getAttribute('data-photo-location'), capturedOn: figure.getAttribute('data-photo-date') }));
   const initializers = [];
@@ -49,14 +57,17 @@ export function createPhotoPosts(root, figures, positions = new Map()) {
     const dots = [];
     const previous = element('button', 'photo-post-arrow photo-post-previous', '‹');
     const next = element('button', 'photo-post-arrow photo-post-next', '›');
-    const fitCurrent = () => {
-      const figure = figures[indices[current]];
-      const image = figure.querySelector('img');
-      if (!image || !track.clientWidth) return;
-      const height = photoPostHeight(Number(image.getAttribute('width')) || image.naturalWidth, Number(image.getAttribute('height')) || image.naturalHeight, track.clientWidth, window.innerHeight);
+    const fitGroup = () => {
+      if (!track.clientWidth) return;
+      const photos = indices.map((index) => figures[index].querySelector('img')).filter(Boolean).map((image) => ({
+        width: Number(image.getAttribute('width')) || image.naturalWidth,
+        height: Number(image.getAttribute('height')) || image.naturalHeight,
+      }));
+      if (!photos.length) return;
+      const height = photoGroupHeight(photos, track.clientWidth, window.innerHeight);
       post.style.setProperty('--post-image-height', `${height}px`);
-      const caption = figure.querySelector('figcaption');
-      track.style.height = `${height + (caption?.getBoundingClientRect().height || 0)}px`;
+      const captionHeight = Math.max(...indices.map((index) => figures[index].querySelector('figcaption')?.getBoundingClientRect().height || 0));
+      track.style.height = `${height + captionHeight}px`;
     };
     const update = () => {
       current = Math.max(0, Math.min(indices.length - 1, Math.round(track.scrollLeft / (track.clientWidth || 1))));
@@ -69,7 +80,6 @@ export function createPhotoPosts(root, figures, positions = new Map()) {
       previous.hidden = previous.disabled;
       next.hidden = next.disabled;
       positions.set(key, current);
-      fitCurrent();
     };
     const go = (index) => {
       track.scrollTo({ left: Math.max(0, Math.min(indices.length - 1, index)) * track.clientWidth, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
@@ -94,7 +104,7 @@ export function createPhotoPosts(root, figures, positions = new Map()) {
       post.append(controls);
     } else count.hidden = true;
     post.addEventListener('click', (event) => {
-      if (event.target.closest('.show-more')) requestAnimationFrame(fitCurrent);
+      if (event.target.closest('.show-more')) requestAnimationFrame(fitGroup);
     });
     let scheduled = false;
     track.addEventListener('scroll', () => {
@@ -109,6 +119,7 @@ export function createPhotoPosts(root, figures, positions = new Map()) {
     });
     initializers.push(() => {
       track.scrollLeft = current * track.clientWidth;
+      fitGroup();
       update();
     });
     return post;

@@ -68,6 +68,11 @@ export function initializeGalleries(root = document) {
     }, { once: true });
   }
   update();
+  // Swapped web fonts can change caption wrapping without changing gallery width.
+  root.fonts?.ready.then(() => {
+    for (const gallery of galleries) if (gallery.mode === 'posts') gallery.width = 0;
+    schedule();
+  });
   if (typeof ResizeObserver === 'function') {
     const observer = new ResizeObserver(schedule);
     galleries.forEach(({ element }) => observer.observe(element));
