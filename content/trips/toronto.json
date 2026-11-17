@@ -2,13 +2,13 @@
   "slug": "toronto",
   "photoStorage": "r2",
   "title": "Daily life in Toronto",
-  "subtitle": "Neighbourhood walks, shared meals and games, autumn festivals, deep winter snow and the return of spring.",
+  "subtitle": "First winter walks, island sunsets, shared meals and games, autumn festivals and the return of spring.",
   "country": "Canada",
   "location": "Toronto, Ontario",
   "category": "A city through the seasons",
   "order": 6,
   "demo": false,
-  "startDate": "2024-07-28",
+  "startDate": "2023-12-29",
   "endDate": "2025-04-13",
   "showChapterIndex": false,
   "cover": {
@@ -21,6 +21,1320 @@
     "location": "Toronto"
   },
   "chapters": [
+    {
+      "title": "First walks in the city",
+      "date": "2023-12-29",
+      "location": "Toronto",
+      "paragraphs": [
+        "Streetcar wires, patterned façades and older houses fill the first city walks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2023-12-29-toronto/brick-buildings-on-the-avenue.webp",
+          "alt": "Brick buildings and overhead streetcar wires line a broad Toronto street.",
+          "caption": "Brick buildings and overhead streetcar wires line a broad Toronto street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-29",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-29-toronto/patterns-above-the-doors.webp",
+          "alt": "Black and white curved patterns cover the façade above a row of doors.",
+          "caption": "Black and white curved patterns cover the façade above a row of doors.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-29",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-29-toronto/old-houses-and-balconies.webp",
+          "alt": "Ornate older houses and balconies stand behind a lightly snow-dusted garden.",
+          "caption": "Ornate older houses and balconies stand behind a lightly snow-dusted garden.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-29",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Stone towers and winter lawns",
+      "date": "2023-12-30",
+      "location": "Toronto",
+      "paragraphs": [
+        "The walk passes university stonework, winter lawns, older brick façades and a bright blue glass building."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2023-12-30-toronto/university-winter-lawn.webp",
+          "alt": "A stone university building stands beyond a winter lawn and bare trees.",
+          "caption": "A stone university building stands beyond a winter lawn and bare trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-30",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-30-toronto/stone-entrance-tower.webp",
+          "alt": "A square stone tower above an arched entrance.",
+          "caption": "A square stone tower above an arched entrance.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-30",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-30-toronto/across-the-playing-field.webp",
+          "alt": "University buildings line the far side of an empty playing field.",
+          "caption": "University buildings line the far side of an empty playing field.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-30",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-30-toronto/ivy-and-stone.webp",
+          "alt": "Ivy climbs a stone façade behind a garden and bare branches.",
+          "caption": "Ivy climbs a stone façade behind a garden and bare branches.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-30",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-30-toronto/red-brick-and-chimneys.webp",
+          "alt": "A red brick building with steep roofs and tall chimneys.",
+          "caption": "A red brick building with steep roofs and tall chimneys.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-30",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-30-toronto/blue-cube-above-the-street.webp",
+          "alt": "A blue glass cube rises above an older brick building at a street corner.",
+          "caption": "A blue glass cube rises above an older brick building at a street corner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-30",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "The waterfront before midnight",
+      "date": "2023-12-31",
+      "location": "Toronto waterfront",
+      "paragraphs": [
+        "Boats and stacks of bright kayaks wait beside the quiet waterfront. The winter gardens sit beneath an overcast sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/tower-above-the-railway.webp",
+          "alt": "The CN Tower rises above railway tracks and waterfront buildings.",
+          "caption": "The CN Tower rises above railway tracks and waterfront buildings.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-31",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/ferry-at-the-waterfront.webp",
+          "alt": "A ferry sits beside the waterfront beneath an overcast sky.",
+          "caption": "A ferry sits beside the waterfront beneath an overcast sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/kayaks-by-the-harbour.webp",
+          "alt": "Brightly coloured kayaks line a dock beside calm harbour water.",
+          "caption": "Brightly coloured kayaks line a dock beside calm harbour water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/willows-by-the-waterfront.webp",
+          "alt": "Bare willow branches hang above a waterfront garden.",
+          "caption": "Bare willow branches hang above a waterfront garden.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/winter-evergreens.webp",
+          "alt": "Blue-green evergreen trees stand among bare winter branches.",
+          "caption": "Blue-green evergreen trees stand among bare winter branches.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Toronto waterfront"
+        }
+      ]
+    },
+    {
+      "title": "Skates and lights on New Year’s Eve",
+      "date": "2023-12-31",
+      "location": "Downtown Toronto",
+      "paragraphs": [
+        "Skaters circle beneath illuminated arches. Later, the tower and old railway buildings glow above a light covering of snow."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/rain-on-the-night-street.webp",
+          "alt": "Coloured city lights reflect from a wet street after dark.",
+          "caption": "Coloured city lights reflect from a wet street after dark.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/snow-on-the-city-steps.webp",
+          "alt": "A light layer of snow covers broad steps beneath city lights.",
+          "caption": "A light layer of snow covers broad steps beneath city lights.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/skating-under-the-lighted-arches.webp",
+          "alt": "Skaters circle beneath illuminated arches beside the Toronto sign.",
+          "caption": "Skaters circle beneath illuminated arches beside the Toronto sign.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/tower-in-violet-light.webp",
+          "alt": "The CN Tower glows violet and blue against the night sky.",
+          "caption": "The CN Tower glows violet and blue against the night sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/orange-railway-caboose.webp",
+          "alt": "An orange railway caboose stands among the downtown towers at night.",
+          "caption": "An orange railway caboose stands among the downtown towers at night.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/roundhouse-in-winter.webp",
+          "alt": "A small railway building sits beside curving tracks and a dusting of snow.",
+          "caption": "A small railway building sits beside curving tracks and a dusting of snow.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/curving-tracks-after-dark.webp",
+          "alt": "Railway tracks curve past the illuminated roundhouse and surrounding towers.",
+          "caption": "Railway tracks curve past the illuminated roundhouse and surrounding towers.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/snow-under-a-streetlamp.webp",
+          "alt": "Snow falls through the light of a lamp above a park path.",
+          "caption": "Snow falls through the light of a lamp above a park path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2023-12-31-toronto/bicycles-in-a-long-row.webp",
+          "alt": "A long row of bicycles stands beside a snowy night street.",
+          "caption": "A long row of bicycles stands beside a snowy night street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2023-12-31",
+          "location": "Downtown Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A snowy first day",
+      "date": "2024-01-01",
+      "location": "Downtown Toronto",
+      "paragraphs": [
+        "Fresh snow covers the outdoor tables. The walk continues past narrow shopfronts, old stone façades and the glass curves of Roy Thomson Hall."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/snow-on-the-picnic-tables.webp",
+          "alt": "Fresh snow covers outdoor picnic tables beside a brick building.",
+          "caption": "Fresh snow covers outdoor picnic tables beside a brick building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/narrow-shopfronts.webp",
+          "alt": "Narrow shopfronts stand side by side along the street.",
+          "caption": "Narrow shopfronts stand side by side along the street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/steam-above-the-city-street.webp",
+          "alt": "Steam rises beside brick façades and glass towers.",
+          "caption": "Steam rises beside brick façades and glass towers.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/stone-hall-behind-the-trees.webp",
+          "alt": "A pale stone hall stands behind bare trees and a columned entrance.",
+          "caption": "A pale stone hall stands behind bare trees and a columned entrance.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/metal-sculpture-at-the-corner.webp",
+          "alt": "A metal sculpture hangs above a street corner beside glass buildings.",
+          "caption": "A metal sculpture hangs above a street corner beside glass buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/stone-church-at-the-corner.webp",
+          "alt": "The stone façade of a church with twin towers at a downtown street corner.",
+          "caption": "The stone façade of a church with twin towers at a downtown street corner.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-01-toronto/roy-thomson-hall.webp",
+          "alt": "The rounded glass façade of Roy Thomson Hall beneath downtown towers.",
+          "caption": "The rounded glass façade of Roy Thomson Hall beneath downtown towers.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-01",
+          "location": "Downtown Toronto"
+        }
+      ]
+    },
+    {
+      "title": "The tower after dark",
+      "date": "2024-01-04",
+      "location": "Toronto",
+      "paragraphs": [
+        "The tower lights rise behind the bare winter trees."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-04-toronto/tower-behind-the-winter-trees.webp",
+          "alt": "The illuminated CN Tower rises behind bare trees and nearby buildings.",
+          "caption": "The illuminated CN Tower rises behind bare trees and nearby buildings.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-01-04",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Snow on the evening walk",
+      "date": "2024-01-06",
+      "location": "Toronto",
+      "paragraphs": [
+        "Footprints cross fresh snow, bicycles gather a white coating and a red streetcar passes through the evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-06-toronto/footprints-in-fresh-snow.webp",
+          "alt": "A trail of footprints crosses fresh snow beside a brick building.",
+          "caption": "A trail of footprints crosses fresh snow beside a brick building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-06",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-06-toronto/snowy-path-under-the-lamps.webp",
+          "alt": "A snow-covered path stretches beneath lamps and bare trees.",
+          "caption": "A snow-covered path stretches beneath lamps and bare trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-06",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-06-toronto/bicycles-in-the-snow.webp",
+          "alt": "Snow settles over parked bicycles beside the road.",
+          "caption": "Snow settles over parked bicycles beside the road.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-01-06",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-06-toronto/red-streetcar-in-the-snow.webp",
+          "alt": "A red streetcar passes along a snowy road after dark.",
+          "caption": "A red streetcar passes along a snowy road after dark.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-06",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-06-toronto/dinner-on-a-winter-evening.webp",
+          "alt": "A home-cooked meal with rice, vegetables and a baking tray arranged on the stove.",
+          "caption": "A home-cooked meal with rice, vegetables and a baking tray arranged on the stove.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-06",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "The morning after the snow",
+      "date": "2024-01-07",
+      "location": "Toronto",
+      "paragraphs": [
+        "Snow rests on the balcony furniture and lines the neighbourhood paths. Murals add colour to the brick streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-07-toronto/snow-covered-balcony.webp",
+          "alt": "Snow rests on balcony chairs and a small outdoor table.",
+          "caption": "Snow rests on balcony chairs and a small outdoor table.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-07",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-07-toronto/blue-wall-mural.webp",
+          "alt": "A large blue mural covers a building wall beside a snowy pavement.",
+          "caption": "A large blue mural covers a building wall beside a snowy pavement.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-07",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-07-toronto/brick-shops-in-winter.webp",
+          "alt": "Brick shopfronts and parked cars line a snow-covered street.",
+          "caption": "Brick shopfronts and parked cars line a snow-covered street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-07",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-07-toronto/white-path-through-the-trees.webp",
+          "alt": "A cleared path bends between snowy gardens and bare trees.",
+          "caption": "A cleared path bends between snowy gardens and bare trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-01-07",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Cooking together",
+      "date": "2024-01-11",
+      "location": "Toronto",
+      "paragraphs": [
+        "A shared kitchen and a meal in progress mark a winter evening at home."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-11-toronto/cooking-in-the-kitchen.webp",
+          "alt": "Friends prepare a meal together in a small kitchen.",
+          "caption": "Friends prepare a meal together in a small kitchen.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-11",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A restaurant on the street",
+      "date": "2024-01-14",
+      "location": "Toronto",
+      "paragraphs": [
+        "Red railings and a bright sign frame a neighbourhood restaurant entrance."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-14-toronto/restaurant-sign-and-red-railings.webp",
+          "alt": "A restaurant sign hangs above red railings and a brick entrance.",
+          "caption": "A restaurant sign hangs above red railings and a brick entrance.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-14",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Tracks through winter",
+      "date": "2024-01-16",
+      "location": "Toronto",
+      "paragraphs": [
+        "Snow settles between the streetcar tracks and along the brick-lined road."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-16-toronto/streetcar-tracks-in-the-snow.webp",
+          "alt": "Streetcar tracks run along a lightly snow-covered city street.",
+          "caption": "Streetcar tracks run along a lightly snow-covered city street.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-01-16",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Winter water from above",
+      "date": "2024-01-20",
+      "location": "Toronto waterfront",
+      "paragraphs": [
+        "From above the waterfront, rooftops give way to a broad stretch of winter water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-20-toronto/winter-water-and-rooftops.webp",
+          "alt": "A broad stretch of winter water lies beyond waterfront rooftops.",
+          "caption": "A broad stretch of winter water lies beyond waterfront rooftops.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-20",
+          "location": "Toronto waterfront"
+        }
+      ]
+    },
+    {
+      "title": "Painted shopfronts",
+      "date": "2024-01-25",
+      "location": "Toronto",
+      "paragraphs": [
+        "Painted walls and shop signs brighten the winter street."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-25-toronto/colourful-shops-on-the-corner.webp",
+          "alt": "Painted façades and shop signs brighten a winter street corner.",
+          "caption": "Painted façades and shop signs brighten a winter street corner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-25",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A clear day on campus",
+      "date": "2024-01-29",
+      "location": "University of Toronto",
+      "paragraphs": [
+        "Clear blue sky and winter sun bring out the stonework and bare branches around the university."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-01-29-toronto/stone-tower-under-blue-sky.webp",
+          "alt": "A university stone tower and long façade beneath a clear blue sky.",
+          "caption": "A university stone tower and long façade beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-29",
+          "location": "University of Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-01-29-toronto/bare-trees-around-the-garden.webp",
+          "alt": "Bare trees frame a sunlit garden and university buildings.",
+          "caption": "Bare trees frame a sunlit garden and university buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-01-29",
+          "location": "University of Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A bright bicycle",
+      "date": "2024-02-02",
+      "location": "Toronto",
+      "paragraphs": [
+        "A yellow bicycle stands out among the parked frames and winter leaves."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-02-toronto/yellow-bicycle-on-the-pavement.webp",
+          "alt": "A yellow bicycle is parked beside other bicycles on a cobbled pavement.",
+          "caption": "A yellow bicycle is parked beside other bicycles on a cobbled pavement.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-02",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Winter sun along the lake",
+      "date": "2024-02-03",
+      "location": "Toronto waterfront",
+      "paragraphs": [
+        "The lake is blue beneath the winter sun. Ice coats the shoreline rocks, while paths and boardwalks cross the bare vegetation and quiet inlets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/sun-on-the-pebble-beach.webp",
+          "alt": "Winter sunlight sparkles on the lake beside a pebble beach.",
+          "caption": "Winter sunlight sparkles on the lake beside a pebble beach.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/path-between-the-reeds.webp",
+          "alt": "A path crosses between still water and winter reeds.",
+          "caption": "A path crosses between still water and winter reeds.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/skyline-across-the-still-water.webp",
+          "alt": "Toronto’s skyline appears beyond a calm inlet beneath a clear blue sky.",
+          "caption": "Toronto’s skyline appears beyond a calm inlet beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/ice-on-the-shoreline-rocks.webp",
+          "alt": "White ice coats rocks beside the blue lake.",
+          "caption": "White ice coats rocks beside the blue lake.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/walking-the-winter-shore.webp",
+          "alt": "An open shoreline path runs beside blue water and ice-covered rocks.",
+          "caption": "An open shoreline path runs beside blue water and ice-covered rocks.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/cycle-path-through-winter-brush.webp",
+          "alt": "A paved cycle path passes bare trees and red winter brush.",
+          "caption": "A paved cycle path passes bare trees and red winter brush.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/boardwalk-to-the-water.webp",
+          "alt": "A short wooden boardwalk leads through dry reeds to the water.",
+          "caption": "A short wooden boardwalk leads through dry reeds to the water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/red-railings-over-the-inlet.webp",
+          "alt": "A footbridge with red railings crosses a calm inlet.",
+          "caption": "A footbridge with red railings crosses a calm inlet.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/winter-sun-above-the-roof.webp",
+          "alt": "Bright winter sun shines above the projecting roof of a low building.",
+          "caption": "Bright winter sun shines above the projecting roof of a low building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/stacks-beyond-the-path.webp",
+          "alt": "Industrial stacks rise beyond a broad path and winter planting.",
+          "caption": "Industrial stacks rise beyond a broad path and winter planting.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        },
+        {
+          "src": "/photos/toronto/2024-02-03-toronto/shadows-across-the-cycle-path.webp",
+          "alt": "Long tree shadows fall across a paved cycle path.",
+          "caption": "Long tree shadows fall across a paved cycle path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-03",
+          "location": "Toronto waterfront"
+        }
+      ]
+    },
+    {
+      "title": "A window on campus",
+      "date": "2024-02-06",
+      "location": "University of Toronto",
+      "paragraphs": [
+        "A tall window opens onto the light and trees of the campus."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-06-toronto/tall-window-on-campus.webp",
+          "alt": "A tall window looks out across the university campus.",
+          "caption": "A tall window looks out across the university campus.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-06",
+          "location": "University of Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Lunar New Year in the city",
+      "date": "2024-02-10",
+      "location": "Chinatown, Toronto",
+      "paragraphs": [
+        "Crowds fill a decorated shopping centre for the Lunar New Year celebrations. Lion dancers move among the red decorations."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-10-toronto/towers-against-the-blue.webp",
+          "alt": "City towers rise against a clear blue sky.",
+          "caption": "City towers rise against a clear blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-10",
+          "location": "Chinatown, Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-10-toronto/festival-in-the-shopping-centre.webp",
+          "alt": "Crowds fill several levels of a shopping centre decorated for Lunar New Year.",
+          "caption": "Crowds fill several levels of a shopping centre decorated for Lunar New Year.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-10",
+          "location": "Chinatown, Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-10-toronto/lion-dancers-among-the-decorations.webp",
+          "alt": "Lion dancers and a crowd gather among red Lunar New Year decorations.",
+          "caption": "Lion dancers and a crowd gather among red Lunar New Year decorations.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-10",
+          "location": "Chinatown, Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Winter through the window",
+      "date": "2024-02-13",
+      "location": "University of Toronto",
+      "paragraphs": [
+        "Bare trees and snowy ground appear through the old wooden window frame."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-13-toronto/winter-through-the-old-window.webp",
+          "alt": "A wooden-framed window looks out onto bare trees and snowy ground.",
+          "caption": "A wooden-framed window looks out onto bare trees and snowy ground.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-13",
+          "location": "University of Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A quiet sculpture",
+      "date": "2024-02-14",
+      "location": "Toronto",
+      "paragraphs": [
+        "A white bust stands against the dark brick wall."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-14-toronto/white-bust-against-the-dark.webp",
+          "alt": "A white sculpted bust stands against a dark wall.",
+          "caption": "A white sculpted bust stands against a dark wall.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-14",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Bicycles after snowfall",
+      "date": "2024-02-15",
+      "location": "Toronto",
+      "paragraphs": [
+        "Fresh snow settles on the bicycles and their wheels."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-15-toronto/snow-on-the-bicycle-wheels.webp",
+          "alt": "Snow coats parked bicycles and the pavement beneath them.",
+          "caption": "Snow coats parked bicycles and the pavement beneath them.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-15",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Snowmen and a shared meal",
+      "date": "2024-02-16",
+      "location": "Toronto",
+      "paragraphs": [
+        "Snowmen appear on the campus lawn. The day ends around a shared dinner table."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-16-toronto/snowmen-on-the-campus-lawn.webp",
+          "alt": "Small snowmen stand on a campus lawn beneath city buildings.",
+          "caption": "Small snowmen stand on a campus lawn beneath city buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-16",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-16-toronto/snow-beside-the-college-path.webp",
+          "alt": "Snow lines a path beside a stone college building.",
+          "caption": "Snow lines a path beside a stone college building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-16",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-16-toronto/friends-at-the-dinner-table.webp",
+          "alt": "Friends share a meal at a dining table.",
+          "caption": "Friends share a meal at a dining table.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-16",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "An afternoon around town",
+      "date": "2024-02-18",
+      "location": "Toronto",
+      "paragraphs": [
+        "The walk passes painted steps, a theatre marquee and a long canopy of round lights."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-02-18-toronto/a-long-table-of-friends.webp",
+          "alt": "Friends share a meal around a long dining table.",
+          "caption": "Friends share a meal around a long dining table.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-18",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-18-toronto/painted-steps-and-walls.webp",
+          "alt": "Bright mural patterns cover steps and the walls beside them.",
+          "caption": "Bright mural patterns cover steps and the walls beside them.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-18",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-18-toronto/lights-under-the-canopy.webp",
+          "alt": "Rows of warm round lights run beneath a street canopy.",
+          "caption": "Rows of warm round lights run beneath a street canopy.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-18",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-18-toronto/theatre-entrance-and-marquee.webp",
+          "alt": "A theatre marquee hangs above a row of entrance doors.",
+          "caption": "A theatre marquee hangs above a row of entrance doors.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-18",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-18-toronto/red-brick-street-corner.webp",
+          "alt": "A red brick corner building stands beneath a cloudy winter sky.",
+          "caption": "A red brick corner building stands beneath a cloudy winter sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-18",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-02-18-toronto/sculpture-beside-the-steps.webp",
+          "alt": "A dark metal sculpture sits beside broad stone steps.",
+          "caption": "A dark metal sculpture sits beside broad stone steps.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-18",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A mural in the sunshine",
+      "date": "2024-03-07",
+      "location": "Toronto",
+      "paragraphs": [
+        "A brightly painted face fills the wall beneath a clear sky."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-07-toronto/bright-face-on-the-wall.webp",
+          "alt": "A vividly coloured face fills a mural beside a brick building.",
+          "caption": "A vividly coloured face fills a mural beside a brick building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-07",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Below the street",
+      "date": "2024-03-09",
+      "location": "Toronto",
+      "paragraphs": [
+        "An arched subway tunnel carries the platform away into the distance."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-09-toronto/curving-subway-platform.webp",
+          "alt": "A subway platform curves away beneath an arched tunnel ceiling.",
+          "caption": "A subway platform curves away beneath an arched tunnel ceiling.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-09",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Bicycle in the spring light",
+      "date": "2024-03-14",
+      "location": "Toronto",
+      "paragraphs": [
+        "Bicycles and their shadows line the pavement in the sunshine."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-14-toronto/bicycles-beside-the-pavement.webp",
+          "alt": "Bicycles stand beside a pavement in the spring sunshine.",
+          "caption": "Bicycles stand beside a pavement in the spring sunshine.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-14",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A painted purple façade",
+      "date": "2024-03-15",
+      "location": "Toronto",
+      "paragraphs": [
+        "Painted figures and a purple façade brighten a neighbourhood building."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-15-toronto/purple-shopfront.webp",
+          "alt": "A purple shopfront and painted façade stand along the city pavement.",
+          "caption": "A purple shopfront and painted façade stand along the city pavement.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-03-15",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Snow returns in March",
+      "date": "2024-03-22",
+      "location": "Toronto",
+      "paragraphs": [
+        "Fresh snowfall covers the railway cutting and the park. There is still time for a snow angel."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-22-toronto/snow-across-the-railway.webp",
+          "alt": "Snow covers a broad railway cutting between downtown buildings.",
+          "caption": "Snow covers a broad railway cutting between downtown buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-22",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-03-22-toronto/snow-angel-in-the-city.webp",
+          "alt": "A person lies back in fresh snow with arms spread wide.",
+          "caption": "A person lies back in fresh snow with arms spread wide.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-22",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-03-22-toronto/walking-through-the-snowy-park.webp",
+          "alt": "A person walks among bare trees in a snow-covered park.",
+          "caption": "A person walks among bare trees in a snow-covered park.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-03-22",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Clear skies after the snowfall",
+      "date": "2024-03-23",
+      "location": "Toronto",
+      "paragraphs": [
+        "Blue sky returns above the snowy field and the neighbourhood’s painted walls."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-23-toronto/snowy-field-under-blue-sky.webp",
+          "alt": "Bare trees border a snowy field beneath a clear blue sky.",
+          "caption": "Bare trees border a snowy field beneath a clear blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-23",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-03-23-toronto/painted-scenes-on-the-wall.webp",
+          "alt": "Bright painted scenes cover a wall along the street.",
+          "caption": "Bright painted scenes cover a wall along the street.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-03-23",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-03-23-toronto/colourful-corner-in-the-sun.webp",
+          "alt": "Painted shop walls and signs brighten a sunlit street corner.",
+          "caption": "Painted shop walls and signs brighten a sunlit street corner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-23",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A clock tower and dinner",
+      "date": "2024-03-25",
+      "location": "Toronto",
+      "paragraphs": [
+        "A brick clock tower rises over the street before an evening around the dinner table."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-03-25-toronto/brick-clock-tower.webp",
+          "alt": "A brick clock tower rises above a neighbourhood street.",
+          "caption": "A brick clock tower rises above a neighbourhood street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-25",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-03-25-toronto/friends-around-the-dinner-table.webp",
+          "alt": "Friends gather around a restaurant table for dinner.",
+          "caption": "Friends gather around a restaurant table for dinner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-25",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Market streets before the ferry",
+      "date": "2024-04-06",
+      "location": "Toronto",
+      "paragraphs": [
+        "Painted market walls and a downtown brick tower mark the walk towards the waterfront."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/painted-market-wall.webp",
+          "alt": "Large painted figures and lettering cover a wall beside the street.",
+          "caption": "Large painted figures and lettering cover a wall beside the street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/brick-tower-in-the-afternoon.webp",
+          "alt": "A brick tower stands among downtown buildings beneath blue sky.",
+          "caption": "A brick tower stands among downtown buildings beneath blue sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "An afternoon on the islands",
+      "date": "2024-04-06",
+      "location": "Toronto Islands",
+      "paragraphs": [
+        "The ferry crosses to quiet island paths, small cottages and open water. The skyline appears at the end of a channel as the light warms."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/ferry-deck-to-the-islands.webp",
+          "alt": "Passengers sit beneath the roof of a ferry heading across the harbour.",
+          "caption": "Passengers sit beneath the roof of a ferry heading across the harbour.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/island-cottage-and-bare-trees.webp",
+          "alt": "A small cottage sits among bare trees on the Toronto Islands.",
+          "caption": "A small cottage sits among bare trees on the Toronto Islands.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/skyline-at-the-end-of-the-channel.webp",
+          "alt": "The Toronto skyline appears at the far end of a quiet island channel.",
+          "caption": "The Toronto skyline appears at the far end of a quiet island channel.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/island-path-in-evening-light.webp",
+          "alt": "Cyclists follow an island path in warm evening light.",
+          "caption": "Cyclists follow an island path in warm evening light.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/goose-on-the-island-path.webp",
+          "alt": "A Canada goose walks beside a path and sunlit grass.",
+          "caption": "A Canada goose walks beside a path and sunlit grass.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/pastel-sky-over-the-beach.webp",
+          "alt": "A pale pink and blue evening sky hangs above the lake and beach.",
+          "caption": "A pale pink and blue evening sky hangs above the lake and beach.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/flags-in-the-evening-breeze.webp",
+          "alt": "Flags fly above a lakeside fence in the fading light.",
+          "caption": "Flags fly above a lakeside fence in the fading light.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands"
+        }
+      ]
+    },
+    {
+      "title": "The skyline after sunset",
+      "date": "2024-04-06",
+      "location": "Toronto Islands and harbour",
+      "paragraphs": [
+        "The last orange light fades above the lake. Across the harbour, city lights make coloured reflections on the water."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/last-colour-above-the-lake.webp",
+          "alt": "A thin orange band of sunset stretches above the dark lake.",
+          "caption": "A thin orange band of sunset stretches above the dark lake.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands and harbour"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/skyline-reflections-after-dark.webp",
+          "alt": "Downtown towers and the lit CN Tower reflect in calm harbour water.",
+          "caption": "Downtown towers and the lit CN Tower reflect in calm harbour water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands and harbour"
+        },
+        {
+          "src": "/photos/toronto/2024-04-06-toronto/waterfront-buildings-at-night.webp",
+          "alt": "Waterfront apartment buildings glow above colourful reflections.",
+          "caption": "Waterfront apartment buildings glow above colourful reflections.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-06",
+          "location": "Toronto Islands and harbour"
+        }
+      ]
+    },
+    {
+      "title": "Curves at the street corner",
+      "date": "2024-04-07",
+      "location": "Toronto",
+      "paragraphs": [
+        "A rounded building catches the sunlight at a street corner."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-04-07-toronto/rounded-corner-building.webp",
+          "alt": "A rounded brick building stands at a sunny street corner.",
+          "caption": "A rounded brick building stands at a sunny street corner.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-07",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Among the books",
+      "date": "2024-04-10",
+      "location": "Toronto",
+      "paragraphs": [
+        "Colourful book spines fill the shelves."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-04-10-toronto/shelves-of-books.webp",
+          "alt": "Rows of colourful books fill tightly packed shelves.",
+          "caption": "Rows of colourful books fill tightly packed shelves.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-10",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A table set for dinner",
+      "date": "2024-04-13",
+      "location": "Toronto",
+      "paragraphs": [
+        "Many dishes cover the table for a shared dinner."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-04-13-toronto/dishes-for-a-shared-dinner.webp",
+          "alt": "Many dishes are arranged across a table for a shared dinner.",
+          "caption": "Many dishes are arranged across a table for a shared dinner.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-13",
+          "location": "Toronto"
+        }
+      ]
+    },
     {
       "title": "Kensington streets",
       "date": "2024-07-28",
@@ -189,6 +1503,95 @@
           "width": 2000,
           "height": 1125,
           "capturedOn": "2024-10-04",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A march through the city",
+      "date": "2024-10-07",
+      "location": "Toronto",
+      "paragraphs": [
+        "A march carrying Palestinian flags moves through the city and continues into the evening."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-10-07-toronto/flags-along-the-avenue.webp",
+          "alt": "A crowd carrying Palestinian flags moves along a broad city street.",
+          "caption": "A crowd carrying Palestinian flags moves along a broad city street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-07",
+          "location": "Toronto"
+        },
+        {
+          "src": "/photos/toronto/2024-10-07-toronto/march-at-dusk.webp",
+          "alt": "Flags and a crowd fill the street as the evening lights come on.",
+          "caption": "Flags and a crowd fill the street as the evening lights come on.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-07",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "A market doorway",
+      "date": "2024-10-08",
+      "location": "Toronto",
+      "paragraphs": [
+        "Painted signs, hanging decorations and a wooden figure crowd the market doorway."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-10-08-toronto/market-entrance-and-hanging-decorations.webp",
+          "alt": "Hanging decorations frame the entrance to a market shop.",
+          "caption": "Hanging decorations frame the entrance to a market shop.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-10-08",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "An October walk",
+      "date": "2024-10-09",
+      "location": "Toronto",
+      "paragraphs": [
+        "An afternoon walk follows a sunlit pavement among modern buildings."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-10-09-toronto/afternoon-on-the-pavement.webp",
+          "alt": "People walk along a sunlit pavement beside angular modern buildings.",
+          "caption": "People walk along a sunlit pavement beside angular modern buildings.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-09",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Moon above the city",
+      "date": "2024-10-09",
+      "location": "Toronto",
+      "paragraphs": [
+        "The moon appears through cloud beside a window and silhouetted branches."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/toronto/2024-10-09-toronto/moon-through-the-window.webp",
+          "alt": "The moon appears through a window above silhouetted branches.",
+          "caption": "The moon appears through a window above silhouetted branches.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-10-09",
           "location": "Toronto"
         }
       ]

@@ -183,13 +183,13 @@ test('Around Ontario preserves the four collections and keeps the snowy Niagara 
   assert.equal(trip.showChapterIndex, false);
   assert.deepEqual([...trip.legacySlugs].sort(), ['algonquin', 'montreal', 'moosonee', 'niagara-falls']);
   assert.ok(trip.legacySlugs.every((slug) => !content.trips.some((item) => item.slug === slug)));
-  assert.equal(allPhotos(trip).length, 101);
-  assert.equal(manifest.selectedImageCount, 101);
-  assert.equal(new Set(manifest.photos.map((photo) => photo.source)).size, 101);
+  assert.equal(allPhotos(trip).length, 133);
+  assert.equal(manifest.selectedImageCount, 133);
+  assert.equal(new Set(manifest.photos.map((photo) => photo.source)).size, 133);
   assert.deepEqual(new Set(manifest.photos.map((photo) => photo.src)), new Set(allPhotos(trip).map((photo) => photo.src)));
   assert.equal(manifest.photos.filter((photo) => photo.previousSrc).length, 95);
   assert.equal(manifest.photos.filter((photo) => photo.role === 'cover').length, 1);
-  assert.equal(Object.values(manifest.dailyCounts).reduce((a, b) => a + b, 0), 101);
+  assert.equal(Object.values(manifest.dailyCounts).reduce((a, b) => a + b, 0), 133);
   const concert = trip.chapters.find((chapter) => chapter.title.includes('Lumineers'));
   assert.equal(concert.date, '2025-02-16');
   assert.match(concert.location, /Niagara Falls/);
@@ -197,9 +197,32 @@ test('Around Ontario preserves the four collections and keeps the snowy Niagara 
   assert.ok(concert.photos.every((photo) => photo.capturedOn === concert.date));
   assert.equal(trip.chapters[trip.chapters.indexOf(concert) - 1].title, 'Snow beside the falls');
   const toronto = content.trips.find((item) => item.slug === 'toronto');
-  assert.equal(allPhotos(toronto).length, 129);
+  assert.equal(allPhotos(toronto).length, 236);
   assert.ok(!toronto.chapters.some((chapter) => chapter.title.includes('Lumineers')));
   assert.ok(allPhotos(toronto).some((photo) => photo.src.endsWith('/concert-lights.webp')));
+});
+
+test('Canada additions respect the inclusive cutoff and keep Vancouver-area visits together', async () => {
+  const additions = [];
+  for (const slug of ['toronto', 'around-ontario', 'vancouver']) {
+    const trip = content.trips.find((item) => item.slug === slug);
+    const manifest = JSON.parse(await readFile(path.join(root, 'content/selections', `${slug}.json`), 'utf8'));
+    const photos = manifest.photos.filter((photo) => photo.sourceCollection === 'Canada');
+    assert.ok(photos.length > 0);
+    assert.ok(photos.every((photo) => photo.capturedOn <= '2024-10-15'));
+    assert.deepEqual(new Set(manifest.photos.map((photo) => photo.src)), new Set(allPhotos(trip).map((photo) => photo.src)));
+    assert.equal(Object.values(manifest.dailyCounts).reduce((sum, count) => sum + count, 0), allPhotos(trip).length);
+    additions.push(...photos);
+  }
+  assert.equal(additions.length, 192);
+  assert.equal(new Set(additions.map((photo) => photo.sourceSha256)).size, additions.length);
+  const vancouver = content.trips.find((trip) => trip.slug === 'vancouver');
+  for (const place of ['Whistler', 'Bowen Island', 'Deep Cove']) {
+    assert.ok(allPhotos(vancouver).some((photo) => photo.location.includes(place)));
+  }
+  assert.equal(vancouver.startDate, '2024-02-20');
+  assert.equal(vancouver.endDate, '2024-02-27');
+  assert.ok(!content.trips.some((trip) => /^(whistler|bowen-island|deep-cove)$/.test(trip.slug)));
 });
 
 test('country zoom frames keep every album’s pin visible', () => {

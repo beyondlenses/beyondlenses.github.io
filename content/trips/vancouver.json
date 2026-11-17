@@ -1,15 +1,15 @@
 {
   "slug": "vancouver",
   "title": "Vancouver",
-  "subtitle": "Rainy streets, North Shore water and a day above the snow line at Whistler.",
+  "subtitle": "Rainy city streets, ferries and forest walks on Bowen Island, snow at Whistler and a climb above Deep Cove.",
   "country": "Canada",
-  "location": "Vancouver · Whistler, British Columbia",
+  "location": "Vancouver · Bowen Island · Whistler · Deep Cove, British Columbia",
   "category": "Harbour, forest and snow",
   "order": 15,
   "demo": false,
   "photoStorage": "r2",
-  "startDate": "2024-02-21",
-  "endDate": "2024-02-26",
+  "startDate": "2024-02-20",
+  "endDate": "2024-02-27",
   "showChapterIndex": false,
   "cover": {
     "src": "/photos/vancouver/2024-02-22-vancouver-harbour/seaplane-and-the-north-shore.webp",
@@ -22,11 +22,106 @@
   },
   "chapters": [
     {
+      "title": "Arrival by the harbour",
+      "date": "2024-02-20",
+      "location": "Vancouver airport and waterfront",
+      "paragraphs": [
+        "A carved figure fills the airport atrium. In the city, a high station ceiling leads out to brick streets, harbour cranes and waterfront walks."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/carving-in-the-airport-atrium.webp",
+          "alt": "A large carved wooden figure rises through a bright airport atrium.",
+          "caption": "A large carved wooden figure rises through a bright airport atrium.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-20",
+          "location": "Vancouver International Airport"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/waterfront-station-hall.webp",
+          "alt": "A broad station hall opens beneath a high patterned ceiling.",
+          "caption": "A broad station hall opens beneath a high patterned ceiling.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-20",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/gastown-in-daylight.webp",
+          "alt": "Older brick façades and shopfronts line a Gastown street.",
+          "caption": "Older brick façades and shopfronts line a Gastown street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-20",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/open-plaza-by-the-water.webp",
+          "alt": "An open paved plaza leads towards the harbour and distant hills.",
+          "caption": "An open paved plaza leads towards the harbour and distant hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-20",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/harbour-cranes-and-quiet-water.webp",
+          "alt": "Red cranes stand beyond still harbour water and the waterfront walkway.",
+          "caption": "Red cranes stand beyond still harbour water and the waterfront walkway.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-20",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/canada-place-waterfront-walk.webp",
+          "alt": "A waterfront walkway follows a long white colonnade at Canada Place.",
+          "caption": "A waterfront walkway follows a long white colonnade at Canada Place.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-20",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/vancouver-sign-by-the-harbour.webp",
+          "alt": "Large red Vancouver letters stand beside the harbour.",
+          "caption": "Large red Vancouver letters stand beside the harbour.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-20",
+          "location": "Downtown Vancouver"
+        }
+      ]
+    },
+    {
+      "title": "The station after dark",
+      "date": "2024-02-20",
+      "location": "Downtown Vancouver",
+      "paragraphs": [
+        "Warm lights pick out the station’s brick façade after dark."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-20-vancouver-area/lit-brick-building-at-night.webp",
+          "alt": "Warm light picks out an ornate brick building on a wet night street.",
+          "caption": "Warm light picks out an ornate brick building on a wet night street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-20",
+          "location": "Gastown, Vancouver"
+        }
+      ]
+    },
+    {
       "title": "Rain along the waterfront",
       "date": "2024-02-21",
       "location": "Waterfront and Gastown, Vancouver",
       "paragraphs": [
-        "Low clouds hang over the harbour. After dark, wet streets reflect the lamps and shop windows around Gastown."
+        "Low clouds hang over the harbour. After dark, wet streets reflect the lamps and shop windows around Gastown.",
+        "Friends gather by the harbour before the walk continues past shop windows and reflections on the wet streets."
       ],
       "layout": "editorial",
       "photos": [
@@ -39,6 +134,15 @@
           "capturedOn": "2024-02-21",
           "location": "Vancouver Harbour",
           "wide": true
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-vancouver-area/friends-by-the-night-harbour.webp",
+          "alt": "Friends stand beside the harbour and an illuminated waterfront building.",
+          "caption": "Friends stand beside the harbour and an illuminated waterfront building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-21",
+          "location": "Gastown, Vancouver"
         },
         {
           "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/headlights-on-a-wet-street.webp",
@@ -57,6 +161,24 @@
           "height": 1333,
           "capturedOn": "2024-02-21",
           "location": "Waterfront and Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-vancouver-area/shop-windows-on-the-wet-street.webp",
+          "alt": "Lit shop windows reflect across a rain-darkened pavement.",
+          "caption": "Lit shop windows reflect across a rain-darkened pavement.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-21",
+          "location": "Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-21-vancouver-area/reflections-in-the-narrow-street.webp",
+          "alt": "A narrow wet street reflects warm lamps and surrounding brick buildings.",
+          "caption": "A narrow wet street reflects warm lamps and surrounding brick buildings.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-21",
+          "location": "Gastown, Vancouver"
         },
         {
           "src": "/photos/vancouver/2024-02-21-waterfront-and-gastown/gastown-after-rain.webp",
@@ -93,6 +215,35 @@
           "height": 1333,
           "capturedOn": "2024-02-21",
           "location": "Waterfront and Gastown, Vancouver"
+        }
+      ]
+    },
+    {
+      "title": "Afternoon on the streets",
+      "date": "2024-02-22",
+      "location": "Gastown, Vancouver",
+      "paragraphs": [
+        "A winged statue and the older Gastown façades catch the late afternoon light."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/winged-statue-by-the-brick-building.webp",
+          "alt": "A winged statue stands against a brick building and a clear blue sky.",
+          "caption": "A winged statue stands against a brick building and a clear blue sky.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-22",
+          "location": "Gastown, Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/sunlight-on-gastown-shopfronts.webp",
+          "alt": "Sunlight catches the upper façades of old Gastown shop buildings.",
+          "caption": "Sunlight catches the upper façades of old Gastown shop buildings.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-22",
+          "location": "Gastown, Vancouver"
         }
       ]
     },
@@ -150,6 +301,62 @@
           "height": 1333,
           "capturedOn": "2024-02-22",
           "location": "Vancouver Harbour"
+        }
+      ]
+    },
+    {
+      "title": "Blue lights by the harbour",
+      "date": "2024-02-22",
+      "location": "Downtown Vancouver",
+      "paragraphs": [
+        "Blue lights run along the waterfront. A curved canopy, narrow alley and old façades mark the route back through the city."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/night-reflections-in-the-harbour.webp",
+          "alt": "Harbour lights reflect in dark water beneath the night sky.",
+          "caption": "Harbour lights reflect in dark water beneath the night sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-22",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/blue-lights-on-the-waterfront.webp",
+          "alt": "Blue-lit structures line a waterfront walkway at night.",
+          "caption": "Blue-lit structures line a waterfront walkway at night.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-22",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/curved-canopy-at-night.webp",
+          "alt": "A broad curved glass canopy glows above a night street.",
+          "caption": "A broad curved glass canopy glows above a night street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-22",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/quiet-service-alley.webp",
+          "alt": "A narrow service alley runs between pale and brick walls after dark.",
+          "caption": "A narrow service alley runs between pale and brick walls after dark.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-22",
+          "location": "Downtown Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-22-vancouver-area/old-facades-and-city-lights.webp",
+          "alt": "Old façades and coloured lights line a wet night street.",
+          "caption": "Old façades and coloured lights line a wet night street.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-22",
+          "location": "Downtown Vancouver"
         }
       ]
     },
@@ -248,14 +455,172 @@
       ]
     },
     {
-      "title": "A lake among the trees",
-      "date": "2024-02-25",
-      "location": "Lake and forest trails, Vancouver area",
+      "title": "A meal between walks",
+      "date": "2024-02-24",
+      "location": "Vancouver",
       "paragraphs": [
-        "The trail follows the water through dense evergreens. Fallen timber, a wooden bridge and bare trunks interrupt the reflections."
+        "Friends gather beside the restaurant windows for lunch."
       ],
       "layout": "editorial",
       "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-24-vancouver-area/lunch-with-friends.webp",
+          "alt": "Friends gather around a restaurant table beside broad windows.",
+          "caption": "Friends gather around a restaurant table beside broad windows.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-24",
+          "location": "Vancouver"
+        }
+      ]
+    },
+    {
+      "title": "The ferry to Bowen Island",
+      "date": "2024-02-25",
+      "location": "Bowen Island, British Columbia",
+      "paragraphs": [
+        "Low clouds hang over the ferry crossing. Boats, a green timber shelter and a wooded park entrance greet the arrival on Bowen Island."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/ferry-deck-under-low-cloud.webp",
+          "alt": "A ferry deck faces open water and low cloud over the mountains.",
+          "caption": "A ferry deck faces open water and low cloud over the mountains.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/approaching-the-island-village.webp",
+          "alt": "The ferry approaches a village and wooded hills beside calm water.",
+          "caption": "The ferry approaches a village and wooded hills beside calm water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/inside-the-island-ferry.webp",
+          "alt": "Seats and wide windows line the ferry’s bright interior.",
+          "caption": "Seats and wide windows line the ferry’s bright interior.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/boats-in-the-island-marina.webp",
+          "alt": "Small boats and masts reflect in a sheltered marina.",
+          "caption": "Small boats and masts reflect in a sheltered marina.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/green-timber-shelter.webp",
+          "alt": "A bright green timber shelter stands beside the island path.",
+          "caption": "A bright green timber shelter stands beside the island path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/park-entrance-in-the-trees.webp",
+          "alt": "A wooded park entrance leads away from the village road.",
+          "caption": "A wooded park entrance leads away from the village road.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        }
+      ]
+    },
+    {
+      "title": "A lake among the trees",
+      "date": "2024-02-25",
+      "location": "Bowen Island, British Columbia",
+      "paragraphs": [
+        "The trail follows the water through dense evergreens. Fallen timber, a wooden bridge and bare trunks interrupt the reflections.",
+        "Streams, a small hatchery and a forest shop sit along the woodland walk. Boardwalks cross wet ground before the path reaches the lake."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/stream-beside-the-forest-steps.webp",
+          "alt": "A stream tumbles beside a narrow wooden walkway and forest steps.",
+          "caption": "A stream tumbles beside a narrow wooden walkway and forest steps.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/gravel-path-into-the-forest.webp",
+          "alt": "A gravel path runs between green forest edges and bare winter branches.",
+          "caption": "A gravel path runs between green forest edges and bare winter branches.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/inside-the-fish-hatchery.webp",
+          "alt": "Tanks and wooden walls fill the interior of a small fish hatchery.",
+          "caption": "Tanks and wooden walls fill the interior of a small fish hatchery.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/curved-roof-forest-shop.webp",
+          "alt": "A small curved-roof shop stands among tall forest trees.",
+          "caption": "A small curved-roof shop stands among tall forest trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/open-meadow-below-the-hills.webp",
+          "alt": "A grassy meadow and picnic tables lie beneath wooded hills.",
+          "caption": "A grassy meadow and picnic tables lie beneath wooded hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/bare-trunks-in-the-wetland.webp",
+          "alt": "Bare tree trunks reflect in still wetland water.",
+          "caption": "Bare tree trunks reflect in still wetland water.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/boardwalk-over-the-marsh.webp",
+          "alt": "A wooden boardwalk crosses a marsh surrounded by bare trunks and forest.",
+          "caption": "A wooden boardwalk crosses a marsh surrounded by bare trunks and forest.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/moss-on-the-forest-floor.webp",
+          "alt": "Moss and low green plants cover the forest floor beneath tall trunks.",
+          "caption": "Moss and low green plants cover the forest floor beneath tall trunks.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
         {
           "src": "/photos/vancouver/2024-02-25-lake-and-forest/trail-beside-the-lake.webp",
           "alt": "A trail beside a lake seen between straight forest trunks.",
@@ -294,6 +659,24 @@
           "location": "Lake and forest trails, Vancouver area"
         },
         {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/mossy-log-through-the-trees.webp",
+          "alt": "A moss-covered fallen log crosses the damp forest floor.",
+          "caption": "A moss-covered fallen log crosses the damp forest floor.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/picnic-table-beneath-mossy-trees.webp",
+          "alt": "A wooden picnic table sits beneath mossy trees beside the forest path.",
+          "caption": "A wooden picnic table sits beneath mossy trees beside the forest path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
           "src": "/photos/vancouver/2024-02-25-lake-and-forest/bare-trunks-in-the-lake.webp",
           "alt": "Bare dead tree trunks standing in still lake water.",
           "caption": "Bare dead tree trunks standing in still lake water.",
@@ -310,15 +693,25 @@
           "height": 1333,
           "capturedOn": "2024-02-25",
           "location": "Lake and forest trails, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/ducks-on-the-dark-water.webp",
+          "alt": "A group of ducks crosses dark lake water below the wooded shore.",
+          "caption": "A group of ducks crosses dark lake water below the wooded shore.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
         }
       ]
     },
     {
       "title": "Along a misty inlet",
       "date": "2024-02-25",
-      "location": "Inlet walks, Vancouver area",
+      "location": "Bowen Island, British Columbia",
       "paragraphs": [
-        "Cloud clings to the wooded slopes above the water. Boats, shoreline houses and a small beach appear between the trees."
+        "Cloud clings to the wooded slopes above the water. Boats, shoreline houses and a small beach appear between the trees.",
+        "The return walk passes a fallen tree and a cluster of island buildings before boarding the ferry."
       ],
       "layout": "editorial",
       "photos": [
@@ -330,6 +723,15 @@
           "height": 1333,
           "capturedOn": "2024-02-25",
           "location": "Inlet walks, Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/fallen-tree-across-the-path.webp",
+          "alt": "A fallen tree arches across a narrow forest path.",
+          "caption": "A fallen tree arches across a narrow forest path.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
         },
         {
           "src": "/photos/vancouver/2024-02-25-inlet-walks/houses-across-the-inlet.webp",
@@ -370,6 +772,15 @@
           "location": "Inlet walks, Vancouver area"
         },
         {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/island-shop-signs.webp",
+          "alt": "Painted shop signs and timber façades line a small island lane.",
+          "caption": "Painted shop signs and timber façades line a small island lane.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
+        },
+        {
           "src": "/photos/vancouver/2024-02-25-inlet-walks/house-and-the-dog-bus.webp",
           "alt": "A Tudor-style house and a dog-decorated bus beside a picket fence.",
           "caption": "A Tudor-style house and a dog-decorated bus beside a picket fence.",
@@ -377,6 +788,15 @@
           "height": 1333,
           "capturedOn": "2024-02-25",
           "location": "Vancouver area"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-25-bowen-island/boarding-the-island-ferry.webp",
+          "alt": "People walk up the ramp towards the open ferry entrance.",
+          "caption": "People walk up the ramp towards the open ferry entrance.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-25",
+          "location": "Bowen Island, British Columbia"
         }
       ]
     },
@@ -465,11 +885,32 @@
       ]
     },
     {
+      "title": "On the way to the snow",
+      "date": "2024-02-26",
+      "location": "Whistler–Vancouver route",
+      "paragraphs": [
+        "Snow covers the riverbanks between the evergreen trees on the way towards Whistler."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-26-vancouver-area/snow-lined-river-below-the-road.webp",
+          "alt": "A river winds between snow-covered banks and dark evergreen trees.",
+          "caption": "A river winds between snow-covered banks and dark evergreen trees.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler–Vancouver route"
+        }
+      ]
+    },
+    {
       "title": "Snow and cloud at Whistler",
       "date": "2024-02-26",
       "location": "Whistler Blackcomb",
       "paragraphs": [
-        "Skiers move between the lifts and lodge in low cloud. Clearer openings reveal forested valleys, snowy ridges and gondolas above the slopes."
+        "Skiers move between the lifts and lodge in low cloud. Clearer openings reveal forested valleys, snowy ridges and gondolas above the slopes.",
+        "Passengers gather beneath the beams and cables inside the mountain gondola station."
       ],
       "layout": "editorial",
       "photos": [
@@ -570,6 +1011,15 @@
           "caption": "A smiling visitor wearing glasses in falling snow.",
           "width": 2000,
           "height": 1333,
+          "capturedOn": "2024-02-26",
+          "location": "Whistler Blackcomb"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-26-vancouver-area/gondola-cabin-and-cables.webp",
+          "alt": "Passengers and gondola cabins beneath the station’s beams and cables.",
+          "caption": "Passengers and gondola cabins beneath the station’s beams and cables.",
+          "width": 1125,
+          "height": 2000,
           "capturedOn": "2024-02-26",
           "location": "Whistler Blackcomb"
         },
@@ -677,6 +1127,125 @@
           "capturedOn": "2024-02-26",
           "location": "Whistler–Vancouver route",
           "wide": true
+        }
+      ]
+    },
+    {
+      "title": "Deep Cove and the forest climb",
+      "date": "2024-02-27",
+      "location": "Deep Cove, North Vancouver",
+      "paragraphs": [
+        "The walk leaves the marina for rooted trails and wooden bridges. A rocky overlook opens onto the inlet, and a dusting of snow appears along the return route."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/boats-at-deep-cove.webp",
+          "alt": "Boats and buildings line a sheltered cove below wooded hills.",
+          "caption": "Boats and buildings line a sheltered cove below wooded hills.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/creek-through-the-village-trees.webp",
+          "alt": "A small creek runs through trees beside village paths and gardens.",
+          "caption": "A small creek runs through trees beside village paths and gardens.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/exposed-roots-beside-the-trail.webp",
+          "alt": "Large tree roots spread across the ground beside the forest trail.",
+          "caption": "Large tree roots spread across the ground beside the forest trail.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/wooden-bridge-over-the-stream.webp",
+          "alt": "A small wooden bridge crosses a rocky stream in the forest.",
+          "caption": "A small wooden bridge crosses a rocky stream in the forest.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/stairs-below-the-forest-trunks.webp",
+          "alt": "Wooden stairs wind below tall forest trunks and low green plants.",
+          "caption": "Wooden stairs wind below tall forest trunks and low green plants.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/the-inlet-from-above.webp",
+          "alt": "A broad inlet and wooded shores spread below the rocky viewpoint.",
+          "caption": "A broad inlet and wooded shores spread below the rocky viewpoint.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/the-scale-of-the-tree.webp",
+          "alt": "A large rough-barked tree trunk fills the foreground of the forest.",
+          "caption": "A large rough-barked tree trunk fills the foreground of the forest.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/narrow-stairs-through-the-forest.webp",
+          "alt": "Narrow wooden stairs descend among damp trees and ferns.",
+          "caption": "Narrow wooden stairs descend among damp trees and ferns.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/a-dusting-of-snow-in-the-forest.webp",
+          "alt": "A light dusting of snow settles among ferns and forest trunks.",
+          "caption": "A light dusting of snow settles among ferns and forest trunks.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/bridge-on-the-snowy-trail.webp",
+          "alt": "A wooden bridge crosses a stream along a lightly snow-covered trail.",
+          "caption": "A wooden bridge crosses a stream along a lightly snow-covered trail.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/rainbow-at-the-roadside.webp",
+          "alt": "A rainbow-painted strip adds colour beside a wet road and evergreen trees.",
+          "caption": "A rainbow-painted strip adds colour beside a wet road and evergreen trees.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
+        },
+        {
+          "src": "/photos/vancouver/2024-02-27-deep-cove/flags-and-lights-inside-the-pub.webp",
+          "alt": "Flags and coloured lights hang above a warmly lit pub interior.",
+          "caption": "Flags and coloured lights hang above a warmly lit pub interior.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-02-27",
+          "location": "Deep Cove, North Vancouver"
         }
       ]
     }

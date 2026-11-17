@@ -2,13 +2,13 @@
   "slug": "around-ontario",
   "photoStorage": "r2",
   "title": "Around Ontario",
-  "subtitle": "An autumn road trip, the Polar Bear Express, snowy Niagara Falls and the Lumineers, with a short visit to Montreal.",
+  "subtitle": "Niagara’s falls and gorge, eclipse day in Kingston, autumn lakes, a northern train journey and winter concerts.",
   "country": "Canada",
   "location": "Ontario · Montreal, Quebec",
   "category": "Road trips and winter journeys",
   "order": 6.1,
   "demo": false,
-  "startDate": "2024-07-27",
+  "startDate": "2024-03-24",
   "endDate": "2025-02-17",
   "showChapterIndex": false,
   "legacySlugs": [
@@ -27,6 +27,349 @@
     "location": "Big Bend, Arrowhead Provincial Park"
   },
   "chapters": [
+    {
+      "title": "The falls in late winter",
+      "date": "2024-03-24",
+      "location": "Niagara Falls, Ontario",
+      "paragraphs": [
+        "Ice covers the railings and banks beside the blue river. Tunnels lead below ground to the falling water and clouds of spray."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/green-go-train.webp",
+          "alt": "A green and white GO train stands beside the platform on a clear morning.",
+          "caption": "A green and white GO train stands beside the platform on a clear morning.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls railway station"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/american-falls-above-blue-water.webp",
+          "alt": "The American Falls drop into deep blue water between snow-covered banks.",
+          "caption": "The American Falls drop into deep blue water between snow-covered banks.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/mist-and-ice-at-the-falls.webp",
+          "alt": "Mist rises beside the falls above ice-coated rocks and blue water.",
+          "caption": "Mist rises beside the falls above ice-coated rocks and blue water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/tunnel-beneath-the-falls.webp",
+          "alt": "A long underground tunnel leads towards a blue-lit opening.",
+          "caption": "A long underground tunnel leads towards a blue-lit opening.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/ice-below-the-falling-water.webp",
+          "alt": "Thick ice piles beneath the falls beside a dark rock wall.",
+          "caption": "Thick ice piles beneath the falls beside a dark rock wall.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/white-water-at-the-base.webp",
+          "alt": "White water and spray fill the view at the base of the falls.",
+          "caption": "White water and spray fill the view at the base of the falls.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/ice-covered-bank-in-the-mist.webp",
+          "alt": "An ice-covered bank faces the falls through a drifting veil of mist.",
+          "caption": "An ice-covered bank faces the falls through a drifting veil of mist.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/snowy-park-beside-the-falls.webp",
+          "alt": "Snow covers an open park beneath bare trees and blue sky.",
+          "caption": "Snow covers an open park beneath bare trees and blue sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/visitor-building-in-winter.webp",
+          "alt": "A low visitor building stands beside snowy paths and the falls.",
+          "caption": "A low visitor building stands beside snowy paths and the falls.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/ice-coated-branches-by-the-river.webp",
+          "alt": "Ice-coated branches line the blue river near the lip of the falls.",
+          "caption": "Ice-coated branches line the blue river near the lip of the falls.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        }
+      ]
+    },
+    {
+      "title": "Down into the Niagara gorge",
+      "date": "2024-03-24",
+      "location": "Niagara Glen, Ontario",
+      "paragraphs": [
+        "Steps descend through bare woodland into the gorge. Turquoise water runs below layered cliffs, large boulders and pockets of lingering snow."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/steps-down-into-the-gorge.webp",
+          "alt": "Steps descend among bare trees and limestone slopes towards the gorge.",
+          "caption": "Steps descend among bare trees and limestone slopes towards the gorge.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/snow-between-the-gorge-trees.webp",
+          "alt": "Patches of snow remain between bare trees on the gorge slope.",
+          "caption": "Patches of snow remain between bare trees on the gorge slope.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/blue-river-through-the-gorge.webp",
+          "alt": "The turquoise river winds between steep wooded cliffs.",
+          "caption": "The turquoise river winds between steep wooded cliffs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/boulders-on-the-gorge-trail.webp",
+          "alt": "Large limestone boulders rise beside a narrow walking trail.",
+          "caption": "Large limestone boulders rise beside a narrow walking trail.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/river-through-the-bare-branches.webp",
+          "alt": "Bare branches frame the turquoise river and cliffs beyond.",
+          "caption": "Bare branches frame the turquoise river and cliffs beyond.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/rocky-riverbank.webp",
+          "alt": "A rocky riverbank follows the water beneath layered cliffs.",
+          "caption": "A rocky riverbank follows the water beneath layered cliffs.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/layered-cliff-above-the-water.webp",
+          "alt": "A long layered cliff rises above clear turquoise water.",
+          "caption": "A long layered cliff rises above clear turquoise water.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/whitewater-through-the-trees.webp",
+          "alt": "Whitewater runs below bare trees along the riverbank.",
+          "caption": "Whitewater runs below bare trees along the riverbank.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/narrow-gap-between-the-boulders.webp",
+          "alt": "Snow lies in a narrow passage between large limestone boulders.",
+          "caption": "Snow lies in a narrow passage between large limestone boulders.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/limestone-wall-beside-the-path.webp",
+          "alt": "A tall limestone wall rises beside a walker on the forest path.",
+          "caption": "A tall limestone wall rises beside a walker on the forest path.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/upper-trail-in-the-afternoon.webp",
+          "alt": "A paved path and wooden fence follow the upper edge of the gorge.",
+          "caption": "A paved path and wooden fence follow the upper edge of the gorge.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Glen, Ontario"
+        }
+      ]
+    },
+    {
+      "title": "Back above the gorge",
+      "date": "2024-03-24",
+      "location": "Niagara area, Ontario",
+      "paragraphs": [
+        "Above the river, an outdoor ropes course and a painted town wall finish the afternoon walk."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/ropes-course-above-the-gorge.webp",
+          "alt": "Tall supports and cables of an outdoor ropes course stand above the gorge.",
+          "caption": "Tall supports and cables of an outdoor ropes course stand above the gorge.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara area, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-03-24-niagara/mural-on-the-village-wall.webp",
+          "alt": "A painted wall mural sits beside a quiet street in the Niagara area.",
+          "caption": "A painted wall mural sits beside a quiet street in the Niagara area.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-03-24",
+          "location": "Niagara Falls, Ontario"
+        }
+      ]
+    },
+    {
+      "title": "Kingston before the eclipse",
+      "date": "2024-04-08",
+      "location": "Kingston, Ontario",
+      "paragraphs": [
+        "The train arrives in Kingston before a walk past limestone campus buildings and blue spring flowers. A crowd gathers on the playing field."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/via-train-at-kingston.webp",
+          "alt": "A blue and yellow VIA Rail train stands beside the platform in Kingston.",
+          "caption": "A blue and yellow VIA Rail train stands beside the platform in Kingston.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/blue-flowers-on-campus.webp",
+          "alt": "Blue flowers carpet the ground beside a limestone campus building.",
+          "caption": "Blue flowers carpet the ground beside a limestone campus building.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/limestone-campus-buildings.webp",
+          "alt": "Broad limestone buildings stand beneath a clouded sky.",
+          "caption": "Broad limestone buildings stand beneath a clouded sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/gathering-on-the-playing-field.webp",
+          "alt": "People gather on a playing field beneath an afternoon sky.",
+          "caption": "People gather on a playing field beneath an afternoon sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/friends-waiting-for-the-eclipse.webp",
+          "alt": "Friends sit together among the crowd waiting for the eclipse.",
+          "caption": "Friends sit together among the crowd waiting for the eclipse.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        }
+      ]
+    },
+    {
+      "title": "The light changes",
+      "date": "2024-04-08",
+      "location": "Kingston, Ontario",
+      "paragraphs": [
+        "The afternoon darkens as the eclipse arrives. A bright ring appears through the cloud, and the field’s lights glow before daylight returns to the streets."
+      ],
+      "layout": "editorial",
+      "photos": [
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/crowd-beneath-the-changing-sky.webp",
+          "alt": "A crowd watches the changing sky before the solar eclipse.",
+          "caption": "A crowd watches the changing sky before the solar eclipse.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/eclipse-ring-in-the-cloud.webp",
+          "alt": "A bright ring surrounds the dark moon during the solar eclipse.",
+          "caption": "A bright ring surrounds the dark moon during the solar eclipse.",
+          "width": 1125,
+          "height": 2000,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/floodlights-in-the-darkened-afternoon.webp",
+          "alt": "Floodlights glow beneath the darkened afternoon sky.",
+          "caption": "Floodlights glow beneath the darkened afternoon sky.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        },
+        {
+          "src": "/photos/around-ontario/2024-04-08-kingston/kingston-street-after-the-eclipse.webp",
+          "alt": "A Kingston street of old brick houses beneath the returning daylight.",
+          "caption": "A Kingston street of old brick houses beneath the returning daylight.",
+          "width": 2000,
+          "height": 1125,
+          "capturedOn": "2024-04-08",
+          "location": "Kingston, Ontario"
+        }
+      ]
+    },
     {
       "title": "A short Montreal visit",
       "date": "2024-07-27",

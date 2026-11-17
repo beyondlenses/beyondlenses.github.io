@@ -9,10 +9,15 @@ from pathlib import Path
 from PIL import Image, ImageOps
 
 
-def export(selection_path, source_directory):
+def export(selection_path, source_directory, collection=None):
     project = Path(__file__).resolve().parent.parent
     source_directory = source_directory.resolve()
     selection = json.loads(selection_path.read_text(encoding='utf-8'))
+    if collection is not None:
+        selection['photos'] = [photo for photo in selection['photos']
+                               if photo.get('sourceCollection') == collection]
+        if not selection['photos']:
+            raise ValueError(f'No photographs in source collection: {collection}')
     if any(Path(photo['source']).suffix.lower() in {'.heic', '.heif'}
            for photo in selection['photos']):
         try:
@@ -58,5 +63,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--selection', type=Path, default=project / 'content/selections/japan.json')
     parser.add_argument('--source', type=Path, default=project.parent / 'dumps/japan')
+    parser.add_argument('--collection', help='Export only entries with this sourceCollection; useful for album additions from another folder')
     args = parser.parse_args()
-    export(args.selection, args.source)
+    export(args.selection, args.source, args.collection)

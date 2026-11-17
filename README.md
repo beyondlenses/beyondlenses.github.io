@@ -42,14 +42,14 @@ The Atlanta, California and Vietnam collections add **340 original photographs**
 | California | 97 | 8 April–7 May 2023 | Berkeley, Sibley, San Francisco, Sausalito and Bolinas |
 | Vietnam, from lanterns to terraces | 146 | 27 May–1 June 2023 | Mỹ Sơn, Hội An, Huế, Ninh Bình, Sa Pa and Hà Nội |
 
-The Canada collections contain **373 original photographs**:
+The Canada collections contain **565 original photographs**:
 
 | Album | Photographs | Dates |
 | --- | ---: | --- |
-| Daily life in Toronto | 129 | 28 July 2024–13 April 2025 |
-| Around Ontario | 101 | 27 July 2024–17 February 2025 |
+| Daily life in Toronto | 236 | 29 December 2023–13 April 2025 |
+| Around Ontario | 133 | 24 March 2024–17 February 2025 |
 | The quiet of Gros Morne | 80 | 24–27 May 2024 |
-| Vancouver | 63 | 21–26 February 2024 |
+| Vancouver | 116 | 20–27 February 2024 |
 
 **Dubai** adds **94 original photographs** from **28 December 2023**, covering
 Downtown Dubai, Jumeirah, Al Fahidi, Al Seef and Dubai Creek.
@@ -465,7 +465,80 @@ Representative exports checked include `twelve-apostles-coast.webp`,
 `tower-bridge-on-the-thames.webp`, `university-at-blue-hour.webp`,
 `fan-vaulting.webp`, and `st-pauls-at-night.webp`.
 
-## Canada selections
+## Canada additions through 15 October 2024
+
+The November 2026 update adds **192 photographs** from `../dump/Canada/`,
+using **15 October 2024 as the inclusive cutoff**. Toronto adds **107** for
+**236 photographs in 81 sections**; Around Ontario adds **32** for **133 in
+16 sections**; Vancouver adds **53** for **116 in 16 sections**. Gros Morne
+remains at 80. The site still has 26 albums across 15 countries. All previous
+selections, later photographs and covers are retained.
+
+Toronto now begins on 29 December 2023, with university walks, New Year’s Eve
+skating, winter streets, Lunar New Year, the lake and Toronto Islands. Niagara’s
+falls and gorge on 24 March and Kingston’s eclipse visit on 8 April extend
+Around Ontario. **Whistler, Bowen Island and Deep Cove stay in Vancouver**;
+its selected dates now run from 20–27 February 2024. No new album was created.
+
+All **2,264 dated JPEGs** through the cutoff fully decoded and received visual
+review in 29 chronological contact sheets. All 209 candidates were reviewed
+again in eleven larger sheets; 17 were dropped. Existing Canada galleries were
+also compared visually, as some re-downloaded files have the same filenames
+but different hashes. Repeated scenes, weak frames, private records and routine
+logistics were omitted. The 1,029 later dated stills and three undated imports
+were left outside this update. The folder also contains 187 videos and one GIF.
+No archive was extracted, and all originals remain untouched.
+
+`content/selections/canada-through-2024-10-15.json` records every reviewed
+source, SHA-256, local date and selection/omission outcome. The three album
+manifests hold the active additions, evidence and people-photo review lists.
+Phone dates use local EXIF timestamps and offsets, including nights when the
+UTC filename names the following day. GPS supports the location labels but is
+kept out of the manifests and exports. Uncertain sites retain broad labels.
+
+New entries have `sourceCollection: "Canada"`. The exporter’s `--collection`
+option recreates only those entries, leaving the older exports intact. This
+also supports Vancouver’s additions from a different source folder and avoids
+re-exporting older selections whose original byte hashes differ in this download.
+Run these commands from the site checkout:
+
+```sh
+python3 scripts/export-photos.py --selection content/selections/toronto.json --source ../dump/Canada --collection Canada
+python3 scripts/export-photos.py --selection content/selections/around-ontario.json --source ../dump/Canada --collection Canada
+python3 scripts/export-photos.py --selection content/selections/vancouver.json --source ../dump/Canada --collection Canada
+npm run photos:plan -- toronto around-ontario vancouver
+npm run photos:upload -- toronto around-ontario vancouver
+npm run photos:check -- toronto around-ontario vancouver
+npm test
+npm run build
+```
+
+The derivatives use quality-84 WebP with up to a 2,000-pixel long edge,
+preserve framing, orientation and available ICC profiles, and omit EXIF/XMP.
+They remain ignored by Git. The **192 new exports total 83.7 MiB**. All source
+hashes, camera-local dates, chronological photo order, dimensions, orientation,
+framing and stripped metadata passed validation. All 192 ICC profiles are
+retained. Every previous photo record, source mapping and cover was checked
+against the starting content and remains intact.
+
+Full-size exports opened after conversion include `red-streetcar-in-the-snow.webp`,
+`ice-below-the-falling-water.webp`, `the-inlet-from-above.webp` and
+`eclipse-ring-in-the-cloud.webp`. The collection filter was checked with an
+actual export: it skips unrelated missing originals and rejects an unknown
+collection. `npm test` and `npm run build` pass; the build produces **33 pages
+and 26 stories**. Gallery tests check the added sections at seven viewport
+widths and with phone, tablet, desktop and short-window height limits.
+
+The upload plan includes all **485 active WebP exports** in the three affected
+albums. The R2 attempt transferred **zero files** because this sandbox blocks
+DNS sockets. **Run `npm run photos:upload -- toronto around-ontario vancouver`
+successfully before pushing.** That command includes checksum verification;
+`photos:check` can verify again. Interactive desktop/mobile preview is also
+blocked because the local server cannot bind its socket. Album content,
+selection records, exporter support and documentation are staged for the owner
+to commit and push after uploading. Local exports stay outside Git.
+
+## Initial Canada selections
 
 All 1,419 JPEGs in `../dumps/canada/` and all 623 JPEGs in
 `../dumps/gros-morne/` were reviewed in chronological contact sheets. Shortlisted
